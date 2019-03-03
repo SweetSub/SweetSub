@@ -16,6 +16,6 @@ Source Han Serif TC Heavy
 
 下载：
 
-[简体]([SweetSub] Blade Runner Black Out 2022 [WebRip 1920x1080 HEVC-yuv420p10 AACx2 ASS].chs.ass)
+[简体](https://github.com/tastysugar/SweetSub/raw/master/Blade%20Runner%20Black%20Out%202022/%5BSweetSub%5D%20Blade%20Runner%20Black%20Out%202022%20%5BWebRip%201920x1080%20HEVC-yuv420p10%20AACx2%20ASS%5D.chs.ass)
 
-[繁体]([SweetSub] Blade Runner Black Out 2022 [WebRip 1920x1080 HEVC-yuv420p10 AACx2 ASS].cht.ass)
+[繁体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Blade%20Runner%20Black%20Out%202022/%5BSweetSub%5D%20Blade%20Runner%20Black%20Out%202022%20%5BWebRip%201920x1080%20HEVC-yuv420p10%20AACx2%20ASS%5D.cht.ass)

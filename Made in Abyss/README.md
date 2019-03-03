@@ -39,6 +39,6 @@
 
 BD 字幕下载：
 
-[简体](Made in Abyss chs.rar)
+[简体](https://github.com/tastysugar/SweetSub/raw/master/Made%20in%20Abyss/Made%20in%20Abyss%20chs.rar)
 
-[繁体](Made in Abyss cht.rar)
+[繁体](https://github.com/tastysugar/SweetSub/blob/master/Made%20in%20Abyss/Made%20in%20Abyss%20cht.rar)
