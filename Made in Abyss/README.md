@@ -34,3 +34,11 @@
 - Naraku_Moji  
 
 其中所使用到的 思源黑体 / Source Han Sans 可以在本目录下找到。
+
+
+
+BD 字幕下载：
+
+[简体](Made in Abyss chs.rar)
+
+[繁体](Made in Abyss cht.rar)

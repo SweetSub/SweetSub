@@ -8,3 +8,10 @@
 - 黑体
 - Source Han Sans JP Bold
 
+
+
+BD 字幕下载：
+
+[简体](Flip Flappers chs.rar)
+
+[繁体](Flip Flappers cht.rar)
