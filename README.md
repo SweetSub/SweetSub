@@ -26,6 +26,7 @@ SweetSub
 | Blade Runner: Black Out 2022     | 银翼杀手：黑暗浩劫 2022                        | ブレードランナー ブラックアウト 2022 | [字幕](https://github.com/tastysugar/SweetSub/tree/master/Blade%20Runner%20Black%20Out%202022)对应日文配音 / [B 站](https://www.bilibili.com/video/av14873219) |
 | Sorcery in the Big City          | 恶作剧魔女与不夜城                             | いたずら魔女と眠らない街             | [字幕](https://github.com/tastysugar/SweetSub/tree/master/Sorcery%20in%20the%20Big%20City) / [B 站](https://www.bilibili.com/video/av16969177) |
 | -                                | 日本动画100周年纪念 『Anime NEXT_100』特别影片 | 『アニメNEXT_100』スペシャルムービー | [字幕](https://github.com/tastysugar/SweetSub/tree/master/Anime%20NEXT_100) / [B 站](https://www.bilibili.com/video/av18583122) |
+| Sobae                            | 日照雨                                         | そばへ                               | [字幕](https://github.com/tastysugar/SweetSub/tree/master/Sobae) / [B 站](https://www.bilibili.com/video/av45729685/) |
 
 ### 關於繁化
 
