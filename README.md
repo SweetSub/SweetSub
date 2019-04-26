@@ -16,7 +16,16 @@ SweetSub
 
 
 
+### **剧场版**
+| 英文名           | 中文名         | 日文名                    | 备注                                                         |
+| ---------------- | -------------- | ------------------------- | ------------------------------------------------------------ |
+| Okko's Inn       | 温泉屋少掌柜   | 劇場版　若おかみは小学生! | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Okko's%20Inn) |
+| FLCL Alternative | 特别的她  外传 | フリクリ　オルタナ        | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/FLCL%20Alternative) |
+
+
+
 ### **短篇**
+
 | 英文名                           | 中文名                                         | 日文名                               | 备注                                                         |
 | -------------------------------- | ---------------------------------------------- | ------------------------------------ | ------------------------------------------------------------ |
 | Shelter                          | 避难所                                         | -                                    | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Shelter) / [B 站](https://www.bilibili.com/video/av8701929) |
