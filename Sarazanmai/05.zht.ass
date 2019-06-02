@@ -333,7 +333,7 @@ Dialogue: 1,0:21:47.91,0:21:53.20,ED_CN - Top Layer,,0,0,0,,請給我伸出雙�
 Dialogue: 1,0:21:53.20,0:21:58.59,ED_CN - Top Layer,,0,0,0,,Stand by you 求求你
 Dialogue: 1,0:21:58.59,0:22:04.80,ED_CN - Top Layer,,0,0,0,,多想把世間一切掃清
 Dialogue: 1,0:22:04.80,0:22:10.18,ED_CN - Top Layer,,0,0,0,,當淚水隨風雨飄搖
-Dialogue: 1,0:22:10.18,0:22:16.06,ED_CN - Top Layer,,0,0,0,,想與你的溫暖擁抱…僅此而已
+Dialogue: 1,0:22:10.18,0:22:16.06,ED_CN - Top Layer,,0,0,0,,想與你的溫暖擁抱 僅此而已
 Dialogue: 0,0:20:46.01,0:20:51.10,ED_CN - Bottom Layer,,0,0,0,,{\blur2}Stand by me 求求你
 Dialogue: 0,0:20:51.10,0:20:55.90,ED_CN - Bottom Layer,,0,0,0,,{\blur2}我啊 我啊 可會變強
 Dialogue: 0,0:20:57.40,0:21:02.90,ED_CN - Bottom Layer,,0,0,0,,{\blur2}當淚水隨風雨飄搖
@@ -351,7 +351,7 @@ Dialogue: 0,0:21:47.91,0:21:53.20,ED_CN - Bottom Layer,,0,0,0,,{\blur2}請給我
 Dialogue: 0,0:21:53.20,0:21:58.59,ED_CN - Bottom Layer,,0,0,0,,{\blur2}Stand by you 求求你
 Dialogue: 0,0:21:58.59,0:22:04.80,ED_CN - Bottom Layer,,0,0,0,,{\blur2}多想把世間一切掃清
 Dialogue: 0,0:22:04.80,0:22:10.18,ED_CN - Bottom Layer,,0,0,0,,{\blur2}當淚水隨風雨飄搖
-Dialogue: 0,0:22:10.18,0:22:16.06,ED_CN - Bottom Layer,,0,0,0,,{\blur2}想與你的溫暖擁抱…僅此而已
+Dialogue: 0,0:22:10.18,0:22:16.06,ED_CN - Bottom Layer,,0,0,0,,{\blur2}想與你的溫暖擁抱 僅此而已
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,STAFF
 Dialogue: 2,0:01:34.99,0:01:35.03,STAFF - Top Layer,,0,0,0,,{\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,350)}翻譯
 Dialogue: 2,0:01:34.99,0:01:35.03,STAFF - Top Layer,,0,0,0,,{\pos(200,338)\iclip(m 318 345 l 332 353 346 360 355 365 370 369 384 373 388 375 402 380 416 382 432 384 466 386 475 385 492 398 506 412 516 420 516 423 506 425 497 427 481 430 458 437 436 444 423 448 409 454 387 462 371 470 362 474 394 534 610 455 628 368 454 285)}tastySugar
@@ -2581,7 +2581,7 @@ Dialogue: 1,0:05:00.28,0:05:01.78,Sign_Rounded,Haruka,0,0,0,,{=61}{\fscy122.62\f
 Dialogue: 1,0:05:00.28,0:05:01.78,Sign_Rounded,Haruka,0,0,0,,{=60}{\fscy122.62\fscx122.62\fs27\bord0\1c0\b1\an7\frx1\frz19.31\pos(624,348)}「從開始到終結為止」
 Dialogue: 0,0:05:00.28,0:05:01.78,Sign_Rounded,Kazuki,0,0,0,,{=62}{\an7\bord0\p1\pos(0,0)\blur2\clip()\c&H6F6E70&}m 805 704 l 837 785 1043 716 1005 623
 Dialogue: 1,0:05:00.28,0:05:01.78,Sign_Rounded,Haruka,0,0,0,,{=61}{\fscy122.62\fscx122.62\fs27\bord0\1c&HFFFFFF&\b1\an7\frx1\frz19.31\clip()\pos(812,704)}這暗號真不錯啊 \N\Ndish★
-Dialogue: 1,0:05:00.28,0:05:00.32,Sign_Rounded,Haruka,0,0,0,,{=60}{\fscy110.53\fscx110.53\fs18\bord0\b0\an7\frz20\frx3\c&HFFFFFF&\1a&H64&\pos(749,732)}已讀
+Dialogue: 1,0:05:00.28,0:05:01.78,Sign_Rounded,Haruka,0,0,0,,{=60}{\fscy110.53\fscx110.53\fs18\bord0\b0\an7\frz20\frx3\c&HFFFFFF&\1a&H64&\pos(749,732)}已讀
 Dialogue: 0,0:05:01.78,0:05:01.82,Sign_Rounded,Kazuki,0,0,0,,{=62}{\fscy110.28\fscx110.28\an7\bord0\p1\clip()\pos(-149.07,-226.29)}m 739 654 l 784 779 1029 696 982 566
 Dialogue: 0,0:05:01.82,0:05:01.86,Sign_Rounded,Kazuki,0,0,0,,{=62}{\fscy110.28\fscx110.28\an7\bord0\p1\clip()\pos(-163.02,-264.59)}m 739 654 l 784 779 1029 696 982 566
 Dialogue: 0,0:05:01.86,0:05:01.90,Sign_Rounded,Kazuki,0,0,0,,{=62}{\fscy110.28\fscx110.28\an7\bord0\p1\clip()\pos(-176.96,-302.89)}m 739 654 l 784 779 1029 696 982 566
