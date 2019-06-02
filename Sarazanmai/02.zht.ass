@@ -1,0 +1,891 @@
+﻿[Script Info]
+Comment: Processed by 繁化姬 dict-2128c078-r851 @ 2019/04/19 22:48:50 | https://zhconvert.org
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+Title: [SweetSub] Sarazanmai - 02
+Original Script: 翻译：tastySugar、絶対女装黙示録
+Original Translation: 主题曲翻译：ssnake　插入曲翻译：Spica、絶対女装黙示録
+Original Editing: 校对：ssnake
+Original Timing: 后期：ssnake、natsukage
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Source Han Sans TC Medium,80,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,2,0,1,3,0,2,0,0,40,0
+Style: Top,Source Han Sans TC Medium,80,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,2,0,1,3,0,8,0,0,40,0
+Style: Title,Source Han Serif TC Medium,80,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,60,1
+Style: Ruby,Source Han Sans TC Medium,40,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,0,0,40,0
+Style: Sign_Gothic,Source Han Sans TC Medium,80,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,0,0,60,1
+Style: Sign_Kanteiryu,DFKanTingLiu-B5 Otf W9,64,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,2,0,1,4,0,2,0,0,60,1
+Style: Sign_Others,Source Han Sans TC Medium,80,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,0,0,63,1
+Style: Sign_Rounded,方正准圆_GBK,80,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,0,0,63,1
+Style: OP_JP - Top Layer,Source Han Serif SemiBold,60,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,2,0,1,0,0,2,40,40,60,0
+Style: OP_JP - Bottom Layer,Source Han Serif SemiBold,60,&H00000000,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,2,0,1,0,4,2,40,40,60,0
+Style: OP_CN - Top Layer,Source Han Serif TC SemiBold,60,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,3,0,1,0,0,8,40,40,60,0
+Style: OP_CN - Bottom Layer,Source Han Serif TC SemiBold,60,&H00000000,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,3,0,1,0,4,8,40,40,60,0
+Style: STAFF - Top Layer,Source Han Serif TC SemiBold,50,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,3,0,1,0,0,7,40,40,60,0
+Style: STAFF - Bottom layer,Source Han Serif TC SemiBold,50,&H00000000,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,3,0,1,0,4,7,40,40,60,0
+Style: ED_JP - Top Layer,Source Han Serif Heavy,50,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,2,0,1,1,0,2,40,40,60,0
+Style: ED_CN - Top Layer,Source Han Serif TC Heavy,50,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,2,0,1,1,0,8,40,40,60,0
+Style: IN_JP_III,Source Han Serif Heavy,50,&H00FFFFFF,&H000019FF,&H006F7677,&H28E3C98E,0,0,0,0,100,100,2,0,1,1,2,2,40,40,10,0
+Style: IN_CN_III,Source Han Serif TC Heavy,60,&H00FFFFFF,&H000019FF,&H006F7677,&H28E3C98E,0,0,0,0,100,100,2,0,1,1,2,2,40,40,50,0
+Style: IN_JP_II,Source Han Serif Heavy,60,&H00FFFFFF,&H000019FF,&H0044654E,&H00000000,0,0,0,0,100,100,2,0,1,2,1,7,40,40,90,0
+Style: IN_JP_II - bottom,Source Han Serif Heavy,60,&H00FFFFFF,&H000019FF,&H0044654E,&H00000000,0,0,0,0,100,100,2,0,1,2,1,2,40,40,40,0
+Style: IN_CN_II,Source Han Serif TC Heavy,60,&H00FFFFFF,&H000019FF,&H0044654E,&H00000000,0,0,0,0,100,100,2,0,1,2,1,7,40,40,40,0
+Style: IN_CN_II - bottom,Source Han Serif TC Heavy,60,&H00FFFFFF,&H000019FF,&H0044654E,&H00000000,0,0,0,0,100,100,2,0,1,2,1,2,40,40,90,0
+Style: ED_JP - Bottom Layer,Source Han Serif Heavy,50,&H00000000,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,2,0,1,0,4,2,40,40,60,0
+Style: ED_CN - Bottom Layer,Source Han Serif TC Heavy,50,&H00000000,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,2,0,1,0,4,8,40,40,60,0
+Style: IN_JP_I,Source Han Serif Heavy,60,&H00FFFFFF,&H000019FF,&H00020814,&H28221A87,0,0,0,0,100,100,2,0,1,0,2,7,40,40,90,0
+Style: IN_CN_I,Source Han Serif TC Heavy,60,&H00FFFFFF,&H000019FF,&H00020814,&H28221A87,0,0,0,0,100,100,2,0,1,0,2,7,40,40,40,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:14:28.93,0:14:32.18,Ruby,Sara,0,0,0,,{\pos(615,976)}sara
+Dialogue: 0,0:05:00.11,0:05:01.22,Ruby,Sara,0,0,0,,{\pos(988,976)}sara
+Dialogue: 0,0:05:22.03,0:05:24.05,Ruby,Sara,0,0,0,,{\pos(1074,976)}sara
+Dialogue: 0,0:05:13.00,0:05:15.70,Ruby,Sara,0,0,0,,{\pos(874,976)}sara
+Dialogue: 0,0:05:04.57,0:05:06.81,Ruby,Sara,0,0,0,,{\pos(1044,976)}sara
+Dialogue: 0,0:05:01.22,0:05:03.34,Ruby,Sara,0,0,0,,{\pos(1044,976)}sara
+Dialogue: 0,0:04:54.01,0:04:56.56,Ruby,Sara,0,0,0,,{\pos(643,54)}sara
+Dialogue: 0,0:03:54.50,0:03:58.09,Ruby,Sara,0,0,0,,{\pos(1074,976)}sara
+Dialogue: 0,0:03:48.78,0:03:50.83,Ruby,Sara,0,0,0,,{\pos(1004,54)}sara
+Dialogue: 0,0:02:02.22,0:02:05.84,Ruby,Sara,0,0,0,,{\pos(948,976)}sara
+Dialogue: 0,0:01:51.29,0:01:53.46,Ruby,Sara,0,0,0,,{\pos(772,976)}sara
+Dialogue: 0,0:01:37.57,0:01:40.57,Ruby,Sara,0,0,0,,{\pos(772,976)}sara
+Dialogue: 0,0:00:09.55,0:00:13.75,Ruby,Sara,0,0,0,,{\pos(932,976)}sara
+Dialogue: 0,0:03:46.13,0:03:48.78,Ruby,Sara,0,0,0,,{\pos(1088,54)}sara
+Dialogue: 0,0:06:58.91,0:07:00.44,Ruby,Sara,0,0,0,,{\pos(980,54)}sara
+Dialogue: 0,0:00:42.93,0:00:47.50,Ruby,Keppi,0,0,0,,{\pos(1322,976)}sara
+Dialogue: 0,0:02:08.10,0:02:12.19,Ruby,Kazuki,0,0,0,,{\pos(1252,976)}sara
+Dialogue: 0,0:06:46.46,0:06:50.93,Ruby,Chikai,0,0,0,,{\pos(1252,976)}sara
+Dialogue: 0,0:11:11.37,0:11:13.65,Ruby,Toi,0,0,0,,{\pos(1170,976)}sara
+Dialogue: 0,0:15:33.49,0:15:37.79,Ruby,Keppi,0,0,0,,{\pos(982,976)}sara
+Dialogue: 0,0:20:18.69,0:20:21.21,Ruby,Keppi,0,0,0,,{\pos(1156,976)}sara
+Dialogue: 0,0:22:24.66,0:22:28.15,Ruby,Haruka,0,0,0,,{\pos(740,976)}sara
+Dialogue: 0,0:20:00.92,0:20:02.37,Ruby,Toi,0,0,0,,{\pos(958,976)}sara
+Dialogue: 0,0:17:17.19,0:17:20.31,Ruby,Kazuki,0,0,0,,{\pos(876,976)}kappa
+Dialogue: 0,0:17:27.69,0:17:29.31,Ruby,,0,0,0,,{\pos(904,976)}jealousy
+Dialogue: 0,0:03:59.81,0:04:03.38,Ruby,Kazuki,0,0,0,,{\pos(1130,976)}harukappa
+Dialogue: 0,0:03:52.44,0:03:54.50,Ruby,Kazuki,0,0,0,,{\pos(922,976)}harukappa
+Dialogue: 0,0:01:48.08,0:01:51.29,Ruby,Kazuki,0,0,0,,{\pos(792,976)}harukappa
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,Sign
+Dialogue: 0,0:04:22.15,0:04:25.16,Sign_Kanteiryu,Text,0,0,0,,{\3c&H273CC2&\frz350.7\pos(1526,270)\fax0.1\frx352\fry352\blur1}魚三昧
+Dialogue: 0,0:07:29.97,0:07:32.47,Sign_Kanteiryu,Text,0,0,0,,{\fax-0.2\c&HBB6DB6&\3c&H270187&\frz8.158\pos(894.818,361.917)\fscx69\fscy67}魚三昧
+Dialogue: 0,0:08:13.22,0:08:18.22,Sign_Kanteiryu,,0,0,0,,{\an8\fs50\\3c&H2B3B8A&\c&H9597A9&}魚三昧
+Dialogue: 0,0:08:58.26,0:09:02.02,Sign_Kanteiryu,,0,0,0,,{\pos(720,60)\c&H5255CB&\3c&H45457D&\fs40\shad1}花 屋 敷
+Dialogue: 0,0:09:11.40,0:09:13.70,Sign_Others,Text,0,0,0,,{\fn方正少儿_GBK\c&H38343B&\3c&HFFFFFF&\frz350.5\fs50\pos(908,666)\fax0.05\frx350\fad(0,230)}淺草 花屋敷公園
+Dialogue: 0,0:09:13.70,0:09:15.40,Sign_Others,Text,0,0,0,,{\fn方正少儿_GBK\c&H38343B&\bord2\3c&HFFFFFF&\frz350.5\fs20\fax0.05\frx350\fad(100,0)\pos(1111,850)}淺草 花屋敷公園
+Comment: 0,0:09:11.40,0:09:13.70,Sign_Kanteiryu,Text,0,0,0,,{\c&H404244&\3c&H65819C&\fad(0,230)}淺草門
+Dialogue: 0,0:09:13.70,0:09:15.40,Sign_Others,Text,0,0,0,,{\fax0.15\fs50\bord2\\c&H4C456E&\3c&H7AD2FE&\pos(494.667,533.333)\frz349.4\frx14\fry2\fad(100,0)}非情侶謝絕入內！
+Dialogue: 0,0:09:13.70,0:09:15.40,Sign_Gothic,Text,0,0,0,,{\fn方正准圆_GBK\b1\frx14\fry18\fs40\pos(1440,710.4)\fax0.2\c&HAEDFF3&\3c&HFFA688&\frz349.3\fad(100,0)}火熱進行中
+Dialogue: 0,0:09:13.70,0:09:15.40,Sign_Others,Text,0,0,0,,{\\fax0.4\frz345\fn方正少儿_GBK\fs40\c&HB853F5&\3c&HFFFFFF&\frx8\fry6\fad(100,0)\pos(1346,436)}相親相愛蜜蜂忍者節
+Dialogue: 0,0:09:13.70,0:09:15.40,Sign_Others,Text,0,0,0,,{\pos(542,112)\frz346.7\fax0.1\fn方正少儿_GBK\fs40\3c&H8E34EE&\bord4\fad(100,0)\frx20\fry18}情侶限定
+Dialogue: 0,0:09:15.40,0:09:19.41,Sign_Gothic,Text,0,0,0,,{\kf401}{\fax-0.1\c&H5E716F&\3c&H3F4040&\fnSource Han Sans TC Heavy\fsp6\2c&H66D3FF&}非情侶謝絕入內！
+Dialogue: 0,0:09:19.41,0:09:25.92,Sign_Others,Text,0,0,0,,{\fax-0.2\fs14\bord2\\c&H000000&\3c&H7AD2FE&\fad(100,0)\pos(1028.028,443.151)}非情侶謝絕入內！
+Dialogue: 0,0:09:19.41,0:09:25.92,Sign_Gothic,Text,0,0,0,,{\fn方正准圆_GBK\b1\bord1\fs14\c&HAEDFF3&\3c&HFFA688&\fad(100,0)\pos(1256,445.156)}火熱進行中
+Dialogue: 0,0:09:19.41,0:09:25.92,Sign_Others,Text,0,0,0,,{\\fn方正少儿_GBK\bord1\fs14\c&H7A37FE&\3c&HFFFFFF&\fad(100,0)\pos(1237.948,360.364)}相親相愛蜜蜂忍者節
+Dialogue: 0,0:09:19.41,0:09:25.92,Sign_Others,Text,0,0,0,,{\fn方正少儿_GBK\fs14\3c&H7636EB&\bord1\fad(100,0)\pos(966,327.385)}情侶限定
+Dialogue: 0,0:03:42.99,0:03:47.33,Sign_Others,,0,0,0,,{\fn方正剪纸_GBK\blur1\fs40\an8\pos(290,10)\c&H9755FE&\3c&HFFFFFF&}淺草皿TV
+Dialogue: 0,0:03:42.99,0:03:47.33,Sign_Others,Text,0,0,0,,{\an6\pos(1758,764)\fn方正少儿_GBK\b1\bord2\shad4\4c&H9925E8&\3c&H8C44FF&}幸運自拍占卜
+Dialogue: 1,0:03:42.99,0:03:47.33,Sign_Gothic,Text,0,0,0,,{\bord0\an5\c&HA67FE3&\fax-0.1\fs30\pos(1070,1032)\blur0.8\b1}颯爽報道 + {\b}王子已經找到了 dish。令人感動的重逢 dish。王子的樣貌已經徹底改變了…但是莎拉的love是forever
+Dialogue: 0,0:03:42.99,0:03:47.33,Sign_Gothic,Text,0,0,0,,{\bord0\an7\pos(0,0)\p1\clip()\blur1}m 406 1011 l 406 1050 1757 1050 1757 1011
+Dialogue: 0,0:04:43.17,0:04:46.68,Sign_Others,,0,0,0,,{\fn方正剪纸_GBK\blur1\fs30\an8\c&H9755FE&\3c&HFFFFFF&\frz351.4\pos(658,165.333)}淺草皿TV
+Dialogue: 0,0:04:43.17,0:04:46.68,Sign_Gothic,Text,0,0,0,,{\fs40\an6\fn方正少儿_GBK\b1\bord2\shad4\4c&H9925E8&\3c&H8C44FF&\frz352.5\pos(1550,788)}幸運自拍占卜
+Dialogue: 0,0:04:43.17,0:04:46.68,Sign_Gothic,Text,0,0,0,,{\p1\pos(0,0)\an7\bord0\blur1\clip()}m 662 817 l 657 793 651 838 1507 962 1514 911 1500 938
+Dialogue: 0,0:04:43.17,0:04:46.68,Sign_Gothic,Text,0,0,0,,{\bord0\an5\c&HA67FE3&\fax-0.1\fs20\blur0.8\frz352\fax-0.1\pos(1062,885.333)}皮膚白皙肌膚柔嫩不是青蛙 dish。喜歡的食物是黃瓜 dish。一般人看不見。{\b1}颯爽報道 + {\b}王子已經找到了 dish
+Dialogue: 0,0:04:46.68,0:04:56.56,Sign_Others,,0,0,0,,{\fn方正剪纸_GBK\blur1\fs40\an8\pos(290,10)\c&H9755FE&\3c&HFFFFFF&}淺草皿TV
+Dialogue: 1,0:04:46.68,0:04:56.56,Sign_Gothic,Text,0,0,0,,{\bord0\an5\c&HA67FE3&\fax-0.1\fs30\pos(1090,1032)\blur0.8} 樣貌已經徹底改變了。但是莎拉的love是forever dish。他的呼吸帶著黃瓜的芬芳。他的雙瞳是令人魅惑的black hole。他的聲音是sexy voice。
+Dialogue: 0,0:04:46.68,0:04:56.56,Sign_Gothic,Text,0,0,0,,{\bord0\an7\pos(0,0)\p1\clip()\blur1}m 406 1011 l 406 1050 1757 1050 1757 1011
+Dialogue: 0,0:04:46.68,0:04:56.56,Sign_Gothic,Text,0,0,0,,{\an6\pos(1758,764)\fn方正少儿_GBK\bord2\shad4\4c&H9925E8&\3c&H8C44FF&}幸運自拍占卜
+Dialogue: 0,0:04:49.14,0:04:50.06,Sign_Kanteiryu,,0,0,0,,{\fad(280,0)\an8\bord4\\3c&HFCFEF4&\c&H030303&\\clip()}{1}貓
+Dialogue: 1,0:06:56.43,0:06:58.18,Sign_Gothic,Text,0,0,0,,{\bord0\an5\c&HA67FE3&\fax-0.1\fs30\pos(1070,1032)\blur0.8\b1}颯爽報道 + {\b}莎拉喜歡在河邊釣魚。虹鱒魚、山女鱒、紅點鮭，這些全都delicious極了 dish。釣魚的訣竅在於
+Dialogue: 0,0:06:56.43,0:06:58.18,Sign_Gothic,Text,0,0,0,,{\bord0\an7\pos(0,0)\p1\clip()\blur1}m 406 1011 l 406 1050 1757 1050 1757 1011
+Dialogue: 0,0:06:56.43,0:06:58.18,Sign_Others,Text,0,0,0,,{\an6\pos(1758,764)\fn方正雅珠体简繁 DemiBold\bord2\shad4\4c&H9925E8&\3c&H8C44FF&}在河中發現男性遺體
+Dialogue: 0,0:06:56.43,0:06:58.18,Sign_Others,,0,0,0,,{\fn方正剪纸_GBK\blur1\fs40\an8\pos(290,10)\c&H9755FE&\3c&HFFFFFF&}淺草皿TV
+Dialogue: 0,0:10:16.72,0:10:20.22,Sign_Others,,0,0,0,,{\an8\fn方正少儿_GBK\fs60\c&H5546DA&\bord6\3c&HF8FAFC&}花{\c&H1815DD&}屋敷
+Dialogue: 0,0:11:21.53,0:11:25.53,Sign_Gothic,Text,0,0,0,,{\an8\c&H43484A&\3c&HF5FCFD&\fs50\pos(1660,50)}淺草奇怪屍體事件  調查總部
+Dialogue: 1,0:11:40.55,0:11:43.18,Sign_Others,Text,0,0,0,,{\fs30\bord0\\fnSource Han Serif\b1\c&H8D8D8D&\fsp6\an7\pos(983.2,738.666)}作為不斷捉走本地的寵物貓，剝去其全身毛皮\N\N的「淺草剝貓皮事件」的嫌疑人半年前一度被\N\N逮捕。但因證據不足，後得到釋放。
+Dialogue: 0,0:11:40.55,0:11:43.18,Sign_Others,Text,0,0,0,,{\p1\pos(0,0)\an7\bordf0\c&HF2F2F2&\clip()}m 960 720 l 960 920 1535 920 1535 720
+Dialogue: 0,0:11:51.44,0:11:53.31,Sign_Gothic,,0,0,0,,{\c&H25262D&\blur0\bord0\shad1\fs50\pos(1115,70)}水獺派出所
+Dialogue: 0,0:00:05.94,0:00:09.94,Sign_Gothic,,0,0,0,,{\bord4\3c&H8E3DE8&\c&H000000&\fs70\an8\fad(300,764)\t(0,3974,\fs50)}想 要 相 連
+Dialogue: 0,0:00:58.53,0:01:00.54,Sign_Others,Text,0,0,0,,{\fad(1405,0)\an8\\c&H52808B&\3c&HCBCBCB&}一年份河童卷
+Dialogue: 0,0:01:46.33,0:01:48.08,Sign_Rounded,,0,0,0,,{\an8\b1\fsp5\fs80\bord1\blur0.8\3cFFFFFF\pos(979,517)\frz11.55}春 河 童
+Dialogue: 0,0:01:46.33,0:01:48.08,Sign_Rounded,,0,0,0,,{\an7\pos(0,0)\p1\bord0\blur1}m 670 1024 l 1590 831 1657 1080 670 1080
+Dialogue: 0,0:01:46.33,0:01:48.08,Sign_Rounded,,0,0,0,,{\fscy100\fscx100\an7\b1\blur1\fsp20\fs120\bord0\c&H363537&\pos(747.334,1032)\frz10.92}莎拉\N
+Dialogue: 0,0:01:51.25,0:01:53.17,Sign_Rounded,Haruka,0,0,0,,{\pos(0,0)\an7\p1\bord0\blur1}m 1344 292 l 1346 382 1566 380 1563 293
+Dialogue: 0,0:01:51.25,0:01:53.17,Sign_Rounded,Haruka,0,0,0,,{\an7\fs32\t(0,100,\fs30)\b1\bord0\c&H323232&\pos(1353.6,299.8)}莎拉\N\NGood morning☆
+Dialogue: 0,0:01:53.13,0:01:53.17,Sign_Rounded,Haruka,0,0,0,,{=3}{\fscy100\fscx100\pos(0,0)\an7\p1\bord0\blur1}m 1344 292 l 1346 382 1566 380 1563 293
+Dialogue: 0,0:01:53.17,0:01:53.21,Sign_Rounded,Haruka,0,0,0,,{=3}{\pos(0,-37.26)\an7\p1\bord0\blur1}m 1344 292 l 1346 382 1566 380 1563 293
+Dialogue: 0,0:01:53.21,0:01:53.25,Sign_Rounded,Haruka,0,0,0,,{=3}{\pos(0,-106.29)\an7\p1\bord0\blur1}m 1344 292 l 1346 382 1566 380 1563 293
+Dialogue: 0,0:01:53.25,0:01:53.30,Sign_Rounded,Haruka,0,0,0,,{=3}{\pos(0,-170.48)\an7\p1\bord0\blur1}m 1344 292 l 1346 382 1566 380 1563 293
+Dialogue: 0,0:01:53.30,0:01:53.34,Sign_Rounded,Haruka,0,0,0,,{=3}{\pos(0,-193.99)\an7\p1\bord0\blur1}m 1344 292 l 1346 382 1566 380 1563 293
+Dialogue: 0,0:01:53.13,0:01:53.17,Sign_Rounded,Haruka,0,0,0,,{=2}{\fscy100\fscx100\an7\fs30\b1\bord0\c&H323232&\pos(1353.6,299.8)}莎拉\N\NGood morning☆
+Dialogue: 0,0:01:53.17,0:01:53.21,Sign_Rounded,Haruka,0,0,0,,{=2}{\an7\fs30\b1\bord0\c&H323232&\pos(1353.6,262.56)}莎拉\N\NGood morning☆
+Dialogue: 0,0:01:53.21,0:01:53.25,Sign_Rounded,Haruka,0,0,0,,{=2}{\an7\fs30\b1\bord0\c&H323232&\pos(1353.6,193.57)}莎拉\N\NGood morning☆
+Dialogue: 0,0:01:53.25,0:01:53.30,Sign_Rounded,Haruka,0,0,0,,{=2}{\an7\fs30\b1\bord0\c&H323232&\pos(1353.6,129.35)}莎拉\N\NGood morning☆
+Dialogue: 0,0:01:53.30,0:01:53.34,Sign_Rounded,Haruka,0,0,0,,{=2}{\an7\fs30\b1\bord0\c&H323232&\pos(1353.6,105.83)}莎拉\N\NGood morning☆
+Dialogue: 0,0:01:53.30,0:01:55.34,Sign_Rounded,Haruka,0,0,0,,{=3}{\pos(0,-193.99)\an7\p1\bord0\blur1}m 1344 292 l 1346 382 1566 380 1563 293
+Dialogue: 0,0:01:53.30,0:01:55.34,Sign_Rounded,Haruka,0,0,0,,{=2}{\an7\fs30\b1\bord0\c&H323232&\pos(1353.6,105.83)}莎拉\N\NGood morning☆
+Dialogue: 0,0:01:53.38,0:01:55.34,Sign_Rounded,Haruka,0,0,0,,{\pos(0,0)\an7\p1\bord0\blur1}m 1344 292 l 1346 382 1566 380 1563 293
+Dialogue: 0,0:01:53.38,0:01:55.34,Sign_Rounded,Haruka,0,0,0,,{\an7\fs32\t(0,100,\fs30)\b1\bord0\c&H323232&\pos(1353.6,299.8)}你喜歡小貓嗎？{軸：這裡多寫倆字？起碼兩行什麼的，如果要改的話注意下方字幕。}
+Dialogue: 0,0:01:55.59,0:01:58.84,Sign_Rounded,Haruka,0,0,0,,{\pos(0,0)\an7\p1\bord0\blur1\clip()\c&H6B6E6D&}m 1167 241 l 1169 431 1607 436 1607 239
+Dialogue: 0,0:01:55.59,0:01:58.84,Sign_Rounded,Haruka,0,0,0,,{\an7\fs46\t(0,100,\fs44)\b1\bord0\c&HFFFFFF&\move(1165.6,243.8,1190,247,0,109)}Good morning★\N\N我最喜歡小貓咪了\N\Ndish★
+Dialogue: 0,0:01:55.72,0:01:58.84,Sign_Rounded,Haruka,0,0,0,,{\fs28\bord0\pos(1080,264)\c&HFFFFFF&\1a&H64&\b1}已讀
+Dialogue: 0,0:13:42.26,0:13:52.77,Sign_Others,,0,0,0,,{\fn方正剪纸_GBK\blur1\fs40\an8\pos(290,10)\c&H9755FE&\3c&HFFFFFF&}淺草皿TV
+Dialogue: 0,0:13:42.26,0:13:52.77,Sign_Others,,0,0,0,,{\an6\pos(1758,764)\fn方正雅珠体简繁 DemiBold\bord2\shad4\4c&H9925E8&\3c&H8C44FF&}我的喵呀! 貓漂浮在天上
+Dialogue: 1,0:13:42.26,0:13:52.77,Sign_Gothic,,0,0,0,,{\bord0\an5\c&HA67FE3&\fax-0.1\fs30\pos(1070,1032)\blur0.8\b1}颯爽報道 + {\b0\fn}一個人生活的話貓是必不可少的 dish。一起吃飯，讓貓在貓爬架上玩，一起睡午覺，一起呆望無人的牆壁
+Dialogue: 0,0:13:42.26,0:13:52.77,Sign_Gothic,,0,0,0,,{\bord0\an7\pos(0,0)\p1\clip()\blur1}m 406 1011 l 406 1050 1757 1050 1757 1011
+Dialogue: 0,0:14:28.93,0:14:32.18,Sign_Others,Haruka,0,0,0,,{\clip()\an7\c&H6F6F6F&\bord0\blur4\fscx1400\fscy520\fax-0.04\frz354.9\pos(636,-22)}■
+Dialogue: 0,0:14:28.93,0:14:32.18,Sign_Rounded,Haruka,0,0,0,,{\fs50\an7\bord0\fax-0.2\pos(641.6,92.8)\frz356.4}　Good morning★\N\N\h\h\h我最喜歡小貓咪了\N\N\h\hdish★
+Dialogue: 0,0:14:28.93,0:14:32.18,Sign_Rounded,Haruka,0,0,0,,{\fs28\bord0\c&HFFFFFF&\1a&H64&\b1\fax-0.28\frz356.6\pos(544,104)\frx0\fry2}已讀
+Dialogue: 0,0:14:28.93,0:14:32.18,Sign_Others,Haruka,0,0,0,,{\clip()\an7\c&HFDFBFF&\bord0\blur4\fscx1400\fscy500\fax-0.04\frz354.9\pos(673.714,348.857)}■
+Dialogue: 0,0:14:28.93,0:14:32.18,Sign_Rounded,Haruka,0,0,0,,{\fs50\an7\bord0\fax-0.24\frz356.4\c&H666666&\pos(724,504)}\h莎拉 不好了! \N\N喵太郎不見了!
+Dialogue: 0,0:15:39.25,0:15:41.33,Sign_Kanteiryu,Enta,0,0,0,,{\pos(960,60)\fad(500,500)\an8\3c&HA5BBC0&\1c&H212730&\fs50}Sarazanmai就是意識共有
+Dialogue: 0,0:15:41.33,0:15:42.79,Sign_Kanteiryu,Enta,0,0,0,,{\pos(960,60)\fad(500,0)\an8\3c&HA5BBC0&\1c&H212730&\fs50}Sarazanmai是有風險的
+Dialogue: 0,0:15:43.54,0:15:45.80,Sign_Others,,0,0,0,,{\fn汉仪雅酷黑 95W}{\fad(1020,0)\b1\fs90\bord0\shad4\pos(960,860)}吾妻橋{\fnSource Han Sans TC Medium} @ {\fn汉仪雅酷黑 95W}欲望領域
+Dialogue: 0,0:15:45.92,0:15:45.96,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy113.66\fscx113.66\bord5.68\c&HE5E5E5&\3c&H19101A&\fs60\pos(957.79,1301.63)}貓咪喪屍
+Dialogue: 0,0:15:45.96,0:15:46.00,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy113.04\fscx113.04\bord5.65\c&HE5E5E5&\3c&H19101A&\fs60\pos(958.13,1281.18)}貓咪喪屍
+Dialogue: 0,0:15:46.00,0:15:46.05,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy111.98\fscx111.98\bord5.6\c&HE5E5E5&\3c&H19101A&\fs60\pos(958.04,1259.99)}貓咪喪屍
+Dialogue: 0,0:15:46.05,0:15:46.09,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy110.84\fscx110.84\bord5.54\c&HE5E5E5&\3c&H19101A&\fs60\pos(958.22,1239.52)}貓咪喪屍
+Dialogue: 0,0:15:46.09,0:15:46.13,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy109.77\fscx109.77\bord5.49\c&HE5E5E5&\3c&H19101A&\fs60\pos(958.4,1219.96)}貓咪喪屍
+Dialogue: 0,0:15:46.13,0:15:46.17,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy108.74\fscx108.74\bord5.44\c&HE5E5E5&\3c&H19101A&\fs60\pos(958.55,1201.43)}貓咪喪屍
+Dialogue: 0,0:15:46.17,0:15:46.21,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy107.78\fscx107.78\bord5.39\c&HE5E5E5&\3c&H19101A&\fs60\pos(958.7,1183.87)}貓咪喪屍
+Dialogue: 0,0:15:46.21,0:15:46.25,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy106.9\fscx106.9\bord5.35\c&HE5E5E5&\3c&H19101A&\fs60\pos(958.86,1167.36)}貓咪喪屍
+Dialogue: 0,0:15:46.25,0:15:46.30,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy106.08\fscx106.08\bord5.3\c&HE5E5E5&\3c&H19101A&\fs60\pos(958.99,1151.9)}貓咪喪屍
+Dialogue: 0,0:15:46.30,0:15:46.34,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy105.31\fscx105.31\bord5.27\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.12,1137.48)}貓咪喪屍
+Dialogue: 0,0:15:46.34,0:15:46.38,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy104.61\fscx104.61\bord5.23\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.21,1124.18)}貓咪喪屍
+Dialogue: 0,0:15:46.38,0:15:46.42,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy103.98\fscx103.98\bord5.2\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.34,1112.06)}貓咪喪屍
+Dialogue: 0,0:15:46.42,0:15:46.46,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy103.4\fscx103.4\bord5.17\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.41,1101.11)}貓咪喪屍
+Dialogue: 0,0:15:46.46,0:15:46.50,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy102.88\fscx102.88\bord5.14\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.5,1091.29)}貓咪喪屍
+Dialogue: 0,0:15:46.50,0:15:46.55,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy102.41\fscx102.41\bord5.12\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.58,1082.62)}貓咪喪屍
+Dialogue: 0,0:15:46.55,0:15:46.59,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy102.01\fscx102.01\bord5.1\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.65,1075.08)}貓咪喪屍
+Dialogue: 0,0:15:46.59,0:15:46.63,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy101.64\fscx101.64\bord5.08\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.69,1068.55)}貓咪喪屍
+Dialogue: 0,0:15:46.63,0:15:46.67,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy101.32\fscx101.32\bord5.07\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.75,1063.02)}貓咪喪屍
+Dialogue: 0,0:15:46.67,0:15:46.71,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy101.05\fscx101.05\bord5.05\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.8,1058.35)}貓咪喪屍
+Dialogue: 0,0:15:46.71,0:15:46.75,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy100.81\fscx100.81\bord5.04\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.84,1054.41)}貓咪喪屍
+Dialogue: 0,0:15:46.75,0:15:46.80,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy100.61\fscx100.61\bord5.03\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.87,1051.19)}貓咪喪屍
+Dialogue: 0,0:15:46.80,0:15:46.84,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy100.43\fscx100.43\bord5.02\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.9,1048.49)}貓咪喪屍
+Dialogue: 0,0:15:46.84,0:15:46.88,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy100.27\fscx100.27\bord5.01\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.92,1046.3)}貓咪喪屍
+Dialogue: 0,0:15:46.88,0:15:46.92,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy100.13\fscx100.13\bord5.01\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.94,1044.51)}貓咪喪屍
+Dialogue: 0,0:15:46.92,0:15:46.96,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy100.02\fscx100.02\bord5\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.94,1043.13)}貓咪喪屍
+Dialogue: 0,0:15:46.96,0:15:47.01,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy100\fscx100\bord5\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.97,1042.12)}貓咪喪屍
+Dialogue: 0,0:15:47.01,0:15:47.05,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy100\fscx100\bord5\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.99,1041.36)}貓咪喪屍
+Dialogue: 0,0:15:47.05,0:15:47.09,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy100\fscx100\bord5\c&HE5E5E5&\3c&H19101A&\fs60\pos(960,1040.82)}貓咪喪屍
+Dialogue: 0,0:15:47.09,0:15:47.13,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy100\fscx100\bord5\c&HE5E5E5&\3c&H19101A&\fs60\pos(960.01,1040.46)}貓咪喪屍
+Dialogue: 0,0:15:47.13,0:15:47.17,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy100\fscx100\bord5\c&HE5E5E5&\3c&H19101A&\fs60\pos(960.01,1040.18)}貓咪喪屍
+Dialogue: 0,0:15:47.17,0:15:47.21,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy100\fscx100\bord5\c&HE5E5E5&\3c&H19101A&\fs60\pos(960,1040.06)}貓咪喪屍
+Dialogue: 0,0:15:47.21,0:15:47.80,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy100\fscx100\bord5\c&HE5E5E5&\3c&H19101A&\fs60\pos(960,1040)}貓咪喪屍
+Dialogue: 0,0:17:10.38,0:17:11.48,Ruby,,0,0,0,,{\pos(908,976)\fad(0,250)}sara
+Dialogue: 0,0:17:10.88,0:17:11.48,Ruby,,0,0,0,,{\move(858,976,908,976)\fad(0,250)}sara
+Dialogue: 0,0:17:10.88,0:17:11.48,Ruby,,0,0,0,,{\move(958,976,908,976)\fad(0,250)}sara
+Dialogue: 0,0:17:27.75,0:17:29.31,Sign_Kanteiryu,Text,0,0,0,,{\c&H000000&\3c&HFFFFFF&\frz8.812\b0\fs40\pos(812,142)\fad(200,0)}女友
+Dialogue: 0,0:17:29.31,0:17:31.78,Sign_Kanteiryu,Text,0,0,0,,{\c&H000000&\3c&HFFFFFF&\b0\fs40\fad(0,500)\pos(846,60)}女友
+Dialogue: 0,0:17:52.50,0:17:53.88,Sign_Gothic,,0,0,0,,{\blur6\fad(600,0)\bord6\3c&H75360A&\c&H000000&\org(960,550)\fr180\t(620,790,1,\fr0)\t(790,830,1,\fr-5)\t(830,880,1,\fr0)}A
+Dialogue: 0,0:18:04.77,0:18:05.89,Sign_Gothic,,0,0,0,,{\blur6\fad(570,0)\bord6\3c&H75360A&\c&HE0DAD1&\pos(950,490)}A
+Dialogue: 0,0:18:42.68,0:18:45.18,Sign_Gothic,Text,0,0,0,,{\an7\fnSource Han Sans TC Heavy\c&H574544&\3c&HE5DEDC&\pos(40,40)}大家一起守護社區貓吧\N{\fs57\c&H443F9A&\3c&HBCDFDD&}耳朵有切口說明已做過絕育手術\N{\c&H58505A&}殺處分０！　　　　尊重小生命
+Dialogue: 0,0:18:43.14,0:18:45.18,Sign_Gothic,Text,0,0,0,,{\fs30\bord2\c&H605D8B&\3c&HB3CCD5&\pos(769.143,690.943)\fad(100,0)}切口
+Dialogue: 0,0:22:21.48,0:22:24.11,Sign_Others,Haruka,0,0,0,,{\pos(0,0)\\clip()\an7\p1\bord0\blur1}m 747 650 l 793 814 1264 692 1224 540
+Dialogue: 0,0:22:21.48,0:22:24.11,Sign_Rounded,Haruka,0,0,0,,{\an7\fs62\b1\t(0,100,\fs60)\bord0\c&H323232&\fax-0.02\move(760,656,752,656,0,112)\frx0\fry2\frz12.45}是喵太郎！\N\N它平安無事呢！
+Dialogue: 0,0:22:24.11,0:22:24.15,Sign_Others,Haruka,0,0,0,,{=15}{\pos(0,0)\\clip()\an7\p1\bord0\blur1}m 747 650 l 793 814 1264 692 1224 540
+Dialogue: 0,0:22:24.15,0:22:24.19,Sign_Others,Haruka,0,0,0,,{=15}{\pos(-14.05,-54.97)\\clip()\an7\p1\bord0\blur1}m 747 650 l 793 814 1264 692 1224 540
+Dialogue: 0,0:22:24.19,0:22:24.24,Sign_Others,Haruka,0,0,0,,{=15}{\pos(-44.98,-176.03)\\clip()\an7\p1\bord0\blur1}m 747 650 l 793 814 1264 692 1224 540
+Dialogue: 0,0:22:24.24,0:22:24.28,Sign_Others,Haruka,0,0,0,,{=15}{\pos(-75.94,-297.25)\\clip()\an7\p1\bord0\blur1}m 747 650 l 793 814 1264 692 1224 540
+Dialogue: 0,0:22:24.28,0:22:24.32,Sign_Others,Haruka,0,0,0,,{=15}{\pos(-90.03,-352.37)\\clip()\an7\p1\bord0\blur1}m 747 650 l 793 814 1264 692 1224 540
+Dialogue: 0,0:22:24.11,0:22:24.15,Sign_Rounded,Haruka,0,0,0,,{=14}{\an7\b1\fs60\bord0\c&H323232&\fax-0.02\pos(752,656)\frx0\fry2\frz12.45}是喵太郎！\N\N它平安無事呢！
+Dialogue: 0,0:22:24.15,0:22:24.19,Sign_Rounded,Haruka,0,0,0,,{=14}{\an7\b1\fs60\bord0\c&H323232&\fax-0.02\pos(737.95,601.03)\frx0\fry2\frz12.45}是喵太郎！\N\N它平安無事呢！
+Dialogue: 0,0:22:24.19,0:22:24.24,Sign_Rounded,Haruka,0,0,0,,{=14}{\an7\b1\fs60\bord0\c&H323232&\fax-0.02\pos(707.02,479.97)\frx0\fry2\frz12.45}是喵太郎！\N\N它平安無事呢！
+Dialogue: 0,0:22:24.24,0:22:24.28,Sign_Rounded,Haruka,0,0,0,,{=14}{\an7\b1\fs60\bord0\c&H323232&\fax-0.02\pos(676.06,358.75)\frx0\fry2\frz12.45}是喵太郎！\N\N它平安無事呢！
+Dialogue: 0,0:22:24.28,0:22:24.32,Sign_Rounded,Haruka,0,0,0,,{=14}{\an7\b1\fs60\bord0\c&H323232&\fax-0.02\pos(661.97,303.63)\frx0\fry2\frz12.45}是喵太郎！\N\N它平安無事呢！
+Dialogue: 0,0:22:24.32,0:22:28.16,Sign_Others,Haruka,0,0,0,,{=15}{\pos(-90.03,-352.37)\\clip()\an7\p1\bord0\blur1}m 747 650 l 793 814 1264 692 1224 540
+Dialogue: 0,0:22:24.32,0:22:28.16,Sign_Rounded,Haruka,0,0,0,,{=14}{\an7\b1\fs60\bord0\c&H323232&\fax-0.02\pos(661.97,303.63)\frx0\fry2\frz12.45}是喵太郎！\N\N它平安無事呢！
+Dialogue: 0,0:22:24.36,0:22:28.16,Sign_Others,Haruka,0,0,0,,{\pos(0,0)\\an7\p1\bord0\blur1\clip()}m 721 606 l 787 867 1389 729 1324 472
+Dialogue: 0,0:22:24.36,0:22:28.16,Sign_Rounded,Haruka,0,0,0,,{\an7\fs62\b1\t(0,100,\fs60)\bord0\c&H323232&\fax-0.01\move(760,656,752,656,0,112)\frx0\fry2\frz12.45}果然\N\N莎拉的自拍會帶來好運呢!
+Dialogue: 0,0:22:28.45,0:22:29.78,Sign_Rounded,Text,0,0,0,,{\pos(944,316)\fs50\c&HE2D1FE&\3c&H3933CF&}謝謝
+Dialogue: 0,0:22:53.10,0:22:55.10,Sign_Others,,0,0,0,,{\fnSource Han Serif TC\b1\fs50\an4\pos(480,674)\bord0}本故事純屬虛構。\N\N所有登場人物及團體均與現實無關。
+Dialogue: 0,0:19:16.63,0:19:17.13,Sign_Others,,0,0,0,,{\fnSource Han Serif TC}{\be1}{\bord0\fs40\c&H3B3FE9&\b1\pos(952.943,224)}{\fad(50,0)\c&H3E3BBE&}沒有開始
+Dialogue: 0,0:19:16.63,0:19:17.13,Sign_Others,,0,0,0,,{\fnSource Han Serif TC}{\be1}{\bord0\fs40\c&H3B3FE9&\b1\pos(679.333,651.333)}{\fad(50,0)\c&H3E3BBE&}沒有相連
+Dialogue: 0,0:19:16.63,0:19:17.13,Sign_Others,,0,0,0,,{\fnSource Han Serif TC}{\be1}{\bord0\fs40\c&H3B3FE9&\b1\pos(1234.8,658.4)}{\fad(50,0)\c&H3E3BBE&}沒有終結
+Comment: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\c&H231E1A&\bord3\pos(960,890)\3c&H7A5747&\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(730,807,740,893)\pos(960,890)\1c&H000000&\3c&H765545&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(740,807,750,893)\pos(960,890)\1c&H000000&\3c&H775646&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(750,807,760,893)\pos(960,890)\1c&H000000&\3c&H785749&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(760,807,770,893)\pos(960,890)\1c&H000000&\3c&H785949&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(770,807,780,893)\pos(960,890)\1c&H000000&\3c&H7B5A4A&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(780,807,790,893)\pos(960,890)\1c&H000000&\3c&H7C5B4D&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(790,807,800,893)\pos(960,890)\1c&H000000&\3c&H7D5C4E&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(800,807,810,893)\pos(960,890)\1c&H000000&\3c&H7D5E4E&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(810,807,820,893)\pos(960,890)\1c&H000000&\3c&H7E5F51&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(820,807,830,893)\pos(960,890)\1c&H000000&\3c&H7F6052&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(830,807,840,893)\pos(960,890)\1c&H000000&\3c&H826153&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(840,807,850,893)\pos(960,890)\1c&H000000&\3c&H826355&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(850,807,860,893)\pos(960,890)\1c&H000000&\3c&H836456&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(860,807,870,893)\pos(960,890)\1c&H000000&\3c&H846557&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(870,807,880,893)\pos(960,890)\1c&H000000&\3c&H856659&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(880,807,890,893)\pos(960,890)\1c&H000000&\3c&H86685A&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(890,807,900,893)\pos(960,890)\1c&H000000&\3c&H87695B&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(900,807,910,893)\pos(960,890)\1c&H000000&\3c&H896A5D&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(910,807,920,893)\pos(960,890)\1c&H000000&\3c&H8A6B5E&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(920,807,930,893)\pos(960,890)\1c&H000000&\3c&H8B6D5F&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(930,807,940,893)\pos(960,890)\1c&H000000&\3c&H8C6E61&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(940,807,950,893)\pos(960,890)\1c&H000000&\3c&H8D6F62&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(950,807,960,893)\pos(960,890)\1c&H000000&\3c&H8E7063&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(960,807,970,893)\pos(960,890)\1c&H000000&\3c&H907265&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(970,807,980,893)\pos(960,890)\1c&H000000&\3c&H917467&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(980,807,990,893)\pos(960,890)\1c&H000000&\3c&H937669&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(990,807,1000,893)\pos(960,890)\1c&H000000&\3c&H95786B&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(1000,807,1010,893)\pos(960,890)\1c&H000000&\3c&H977A6D&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(1010,807,1020,893)\pos(960,890)\1c&H000000&\3c&H987C6F&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(1020,807,1030,893)\pos(960,890)\1c&H000000&\3c&H9A7E71&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(1030,807,1040,893)\pos(960,890)\1c&H000000&\3c&H9C8073&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(1040,807,1050,893)\pos(960,890)\1c&H000000&\3c&H9D8275&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(1050,807,1060,893)\pos(960,890)\1c&H000000&\3c&H9F8477&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(1060,807,1070,893)\pos(960,890)\1c&H000000&\3c&HA18579&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(1070,807,1080,893)\pos(960,890)\1c&H000000&\3c&HA2877B&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(1080,807,1090,893)\pos(960,890)\1c&H000000&\3c&HA4897D&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(1090,807,1100,893)\pos(960,890)\1c&H000000&\3c&HA68B7F&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(1100,807,1110,893)\pos(960,890)\1c&H000000&\3c&HA78D81&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(1110,807,1120,893)\pos(960,890)\1c&H000000&\3c&HA98F83&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(1120,807,1130,893)\pos(960,890)\1c&H000000&\3c&HAB9185&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(1130,807,1140,893)\pos(960,890)\1c&H000000&\3c&HAC9287&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(1140,807,1150,893)\pos(960,890)\1c&H000000&\3c&HAE9489&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(1150,807,1160,893)\pos(960,890)\1c&H000000&\3c&HB0968B&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(1160,807,1170,893)\pos(960,890)\1c&H000000&\3c&HB2988D&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(1170,807,1180,893)\pos(960,890)\1c&H000000&\3c&HB39A8F&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(1180,807,1190,893)\pos(960,890)\1c&H000000&\3c&HB59C91&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:17.13,0:19:19.13,Sign_Rounded,,0,0,0,,{\clip(1190,807,1200,893)\pos(960,890)\1c&H000000&\3c&HB59C91&}{\fs50}前方學校 減速慢行
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,Title
+Dialogue: 0,0:20:42.09,0:20:47.10,Title,,0,0,0,,{\an8\pos(960,240)\fs70\fnSource Han Serif TC\b1}想　要　相　連　可　是　卻　又
+Dialogue: 0,0:20:42.09,0:20:47.10,Title,,0,0,0,,{\an8\pos(960,640)\fs120\fnSource Han Serif TC\b1}想　要　搶　奪
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,Songs
+Dialogue: 0,0:03:50.83,0:03:54.00,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}已經空無一人的教室裡
+Dialogue: 0,0:03:54.00,0:03:56.75,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}獨自蹲下來
+Dialogue: 0,0:03:56.75,0:03:58.17,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}Kappa
+Dialogue: 0,0:03:58.17,0:04:01.38,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}為今天的神秘事件
+Dialogue: 0,0:04:01.38,0:04:04.01,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}獨自在煩惱
+Dialogue: 0,0:04:04.01,0:04:04.93,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}Kappa
+Dialogue: 0,0:04:05.55,0:04:07.72,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}到學校的時候
+Dialogue: 0,0:04:09.14,0:04:11.73,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}桌子上——
+Dialogue: 0,0:04:12.85,0:04:17.15,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}擺放著花
+Dialogue: 0,0:04:19.65,0:04:23.53,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}不管向誰搭話 都沒有回應
+Dialogue: 0,0:04:23.53,0:04:27.12,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}彷彿看不見我
+Dialogue: 0,0:04:27.12,0:04:30.79,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}不管是誰的視線 都捕捉不到我
+Dialogue: 0,0:04:30.79,0:04:33.67,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}就是看不見我
+Dialogue: 0,0:04:34.46,0:04:38.29,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}不管向誰搭話 都沒有回應
+Dialogue: 0,0:04:38.29,0:04:41.84,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}彷彿看不見我
+Dialogue: 0,0:04:41.84,0:04:45.59,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}不管是誰的視線 都捕捉不到我
+Dialogue: 0,0:04:45.59,0:04:48.51,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}就是看不見我
+Dialogue: 1,0:03:50.83,0:03:54.00,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}誰もいなくなった教室で
+Dialogue: 1,0:03:54.00,0:03:56.75,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}一人でしゃがみます
+Dialogue: 1,0:03:56.75,0:03:58.17,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}カッパー
+Dialogue: 1,0:03:58.17,0:04:01.38,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}今日の不可解な出来事を
+Dialogue: 1,0:04:01.38,0:04:04.01,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}一人で悩みます
+Dialogue: 1,0:04:04.01,0:04:04.93,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}カッパー
+Dialogue: 1,0:04:05.55,0:04:07.72,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}学校に着いたら
+Dialogue: 1,0:04:09.14,0:04:11.73,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}机の上に アァ
+Dialogue: 1,0:04:12.85,0:04:17.15,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}お花が置かれていた
+Dialogue: 1,0:04:19.65,0:04:23.53,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}誰に話しかけても返事がない
+Dialogue: 1,0:04:23.53,0:04:27.12,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}ボクの事見えてない
+Dialogue: 1,0:04:27.12,0:04:30.79,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}誰の視線もボクをとらえてない
+Dialogue: 1,0:04:30.79,0:04:33.67,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}ただ見えてない
+Dialogue: 1,0:04:34.46,0:04:38.29,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}誰に話しかけても返事がない
+Dialogue: 1,0:04:38.29,0:04:41.84,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}ボクの事見えてない
+Dialogue: 1,0:04:41.84,0:04:45.59,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}誰の視線もボクをとらえてない
+Dialogue: 1,0:04:45.59,0:04:48.51,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}ただ見えてない
+Dialogue: 0,0:12:18.52,0:12:24.34,IN_JP_III,,0,0,0,,{\fr10\t(0,150,\fr0)\fad(0,100)}カワウーッ ソイヤァー！
+Dialogue: 0,0:12:24.34,0:12:27.52,IN_JP_III,,0,0,0,,{\fr-10\t(0,150,\fr0)\fad(0,100)}ソイヤァ！ソイヤァ！
+Dialogue: 0,0:12:27.52,0:12:30.02,IN_JP_III,,0,0,0,,{\fr10\t(0,150,\fr0)\fad(0,100)}ソイヤァ！ソイヤァ！
+Dialogue: 0,0:12:30.02,0:12:33.15,IN_JP_III,,0,0,0,,{\fr-10\t(0,150,\fr0)\fad(0,100)}去勢された負け犬ども
+Dialogue: 0,0:12:33.15,0:12:36.15,IN_JP_III,,0,0,0,,{\fr10\t(0,150,\fr0)\fad(0,100)}牙を剥け
+Dialogue: 0,0:12:36.15,0:12:39.57,IN_JP_III,,0,0,0,,{\fr-10\t(0,150,\fr0)\fad(0,100)}惰性で生きる虫ケラよ
+Dialogue: 0,0:12:39.57,0:12:42.36,IN_JP_III,,0,0,0,,{\fr10\t(0,150,\fr0)\fad(0,100)}身を焦がせ
+Dialogue: 0,0:12:42.36,0:12:45.55,IN_JP_III,,0,0,0,,{\fr-10\t(0,150,\fr0)\fad(0,100)}欲望を 手放すな！
+Dialogue: 0,0:12:45.55,0:12:48.72,IN_JP_III,,0,0,0,,{\fr10\t(0,150,\fr0)\fad(0,100)}欲望を 手放すな！
+Dialogue: 0,0:12:48.72,0:12:55.17,IN_JP_III,,0,0,0,,{\fr-10\t(0,150,\fr0)\fad(0,100)}我らが獲たもの ふたつの運命
+Dialogue: 0,0:12:55.17,0:13:01.71,IN_JP_III,,0,0,0,,{\fr10\t(0,150,\fr0)\fad(0,100)}我らは似たもの ひとつの生命
+Dialogue: 0,0:13:01.71,0:13:04.72,IN_JP_III,,0,0,0,,{\fr-10\t(0,150,\fr0)\fad(0,100)}欲望を 搾り取れ！
+Dialogue: 0,0:13:04.72,0:13:08.18,IN_JP_III,,0,0,0,,{\fr10\t(0,150,\fr0)\fad(0,100)}欲望を 搾り取れ！
+Dialogue: 0,0:13:08.78,0:13:11.14,IN_JP_III,,0,0,0,,{\fr-10\t(0,150,\fr0)\fad(0,100)}カワウーッ ソイヤァ！ソイヤァ！
+Dialogue: 0,0:13:11.90,0:13:14.85,IN_JP_III,,0,0,0,,{\fr10\t(0,150,\fr0)\fad(0,100)}カワウーッ ソイヤァ！ソイヤァ！
+Dialogue: 0,0:13:14.85,0:13:17.61,IN_JP_III,,0,0,0,,{\fr-10\t(0,150,\fr0)\fad(0,100)}カワウーッ ソイヤァ！
+Dialogue: 1,0:12:18.52,0:12:24.34,IN_CN_III,,0,0,0,,{\fr-10\t(0,150,\fr0)\fad(0,100)}水獺— 誑呀—！
+Dialogue: 1,0:12:24.34,0:12:27.52,IN_CN_III,,0,0,0,,{\fr10\t(0,150,\fr0)\fad(0,100)}誑呀！誑呀！
+Dialogue: 1,0:12:27.52,0:12:30.02,IN_CN_III,,0,0,0,,{\fr-10\t(0,150,\fr0)\fad(0,100)}誑呀！誑呀！
+Dialogue: 1,0:12:30.02,0:12:33.15,IN_CN_III,,0,0,0,,{\fr10\t(0,150,\fr0)\fad(0,100)}被去勢的喪家犬們
+Dialogue: 1,0:12:33.15,0:12:36.15,IN_CN_III,,0,0,0,,{\fr-10\t(0,150,\fr0)\fad(0,100)}拔掉獠牙吧
+Dialogue: 1,0:12:36.15,0:12:39.57,IN_CN_III,,0,0,0,,{\fr10\t(0,150,\fr0)\fad(0,100)}苟且過活的螻蟻們
+Dialogue: 1,0:12:39.57,0:12:42.36,IN_CN_III,,0,0,0,,{\fr-10\t(0,150,\fr0)\fad(0,100)}身心煎熬吧
+Dialogue: 1,0:12:42.36,0:12:45.55,IN_CN_III,,0,0,0,,{\fr10\t(0,150,\fr0)\fad(0,100)}握緊欲望 不要放手
+Dialogue: 1,0:12:45.55,0:12:48.72,IN_CN_III,,0,0,0,,{\fr-10\t(0,150,\fr0)\fad(0,100)}握緊欲望 不要放手
+Dialogue: 1,0:12:48.72,0:12:55.17,IN_CN_III,,0,0,0,,{\fr10\t(0,150,\fr0)\fad(0,100)}我們所捕到的獵物 選擇兩種命運
+Dialogue: 1,0:12:55.17,0:13:01.71,IN_CN_III,,0,0,0,,{\fr-10\t(0,150,\fr0)\fad(0,100)}我們是相似的同志 共享一份生命
+Dialogue: 1,0:13:01.71,0:13:04.72,IN_CN_III,,0,0,0,,{\fr10\t(0,150,\fr0)\fad(0,100)}去將欲望 榨取來吧！
+Dialogue: 1,0:13:04.72,0:13:08.18,IN_CN_III,,0,0,0,,{\fr-10\t(0,150,\fr0)\fad(0,100)}去將欲望 榨取來吧！
+Dialogue: 1,0:13:08.78,0:13:11.14,IN_CN_III,,0,0,0,,{\fr10\t(0,150,\fr0)\fad(0,100)}水獺— 誑呀！誑呀！
+Dialogue: 1,0:13:11.90,0:13:14.85,IN_CN_III,,0,0,0,,{\fr-10\t(0,150,\fr0)\fad(0,100)}水獺— 誑呀！誑呀！
+Dialogue: 1,0:13:14.85,0:13:17.61,IN_CN_III,,0,0,0,,{\fr10\t(0,150,\fr0)\fad(0,100)}水獺— 誑呀！
+Dialogue: 0,0:16:04.90,0:16:07.40,IN_JP_II - bottom,,0,0,0,,{\fad(200,200)}取り戻さなきゃ
+Dialogue: 0,0:16:07.40,0:16:10.20,IN_JP_II - bottom,,0,0,0,,{\fad(200,200)}いけないものがある
+Dialogue: 0,0:16:10.20,0:16:11.20,IN_JP_II - bottom,,0,0,0,,{\fad(200,200)}ネコ ネコ
+Dialogue: 0,0:16:11.20,0:16:14.45,IN_JP_II - bottom,,0,0,0,,{\fad(200,200)}好きなアイツに知られちゃう前に
+Dialogue: 0,0:16:15.70,0:16:18.20,IN_JP_II - bottom,,0,0,0,,{\fad(200,200)}取り戻さなきゃ
+Dialogue: 0,0:16:18.20,0:16:20.83,IN_JP_II - bottom,,0,0,0,,{\fad(200,200)}いけないものがある
+Dialogue: 0,0:16:20.83,0:16:21.54,IN_JP_II - bottom,,0,0,0,,{\fad(200,200)}ネコ ネコ
+Dialogue: 0,0:16:21.54,0:16:26.29,IN_JP_II - bottom,,0,0,0,,{\fad(200,200)}誰にも漏らしちゃいけない {\1aFF\2aFF\3aFF\4aFF\t(3534,3535,\1a00\2a00\3a00\4a00)}ヒミツさ
+Dialogue: 0,0:16:26.96,0:16:28.50,IN_JP_II - bottom,,0,0,0,,{\fad(200,200)}「カッ・パラ・エー！」
+Dialogue: 0,0:16:28.50,0:16:32.38,IN_JP_II,,0,0,0,,{\fad(200,200)\move(0,40,40,40,0,200)}僕と君とは
+Dialogue: 0,0:16:32.38,0:16:36.72,IN_JP_II,,0,0,0,,{\fad(200,200)\move(0,40,40,40,0,200)}つながれるはずなのさ
+Dialogue: 0,0:16:37.64,0:16:39.10,IN_JP_II,,0,0,0,,{\fad(200,200)\move(0,40,40,40,0,200)}ヨー・クー・ボー！
+Dialogue: 0,0:16:39.10,0:16:48.02,IN_JP_II,,0,0,0,,{\fad(200,200)\move(0,40,40,40,0,200)}生命の意味を 確かめるのさ
+Dialogue: 0,0:16:48.15,0:16:50.24,IN_JP_II,,0,0,0,,{\fad(200,200)\move(0,40,40,40,0,200)}は·じ·け·て
+Dialogue: 0,0:16:50.94,0:16:53.40,IN_JP_II,,0,0,0,,{\fad(200,200)\move(0,40,40,40,0,200)}泳げ人生
+Dialogue: 0,0:16:53.40,0:16:56.07,IN_JP_II,ruby,0,0,0,,{\fad(200,200)\move(0,40,40,40,0,200)}つかめ栄光
+Dialogue: 0,0:16:53.40,0:16:56.07,IN_JP_II,,0,0,0,,{\fad(200,200)\move(130,26,170,26,0,200)\fs30}サクセス
+Dialogue: 0,0:16:56.07,0:17:01.12,IN_JP_II,,0,0,0,,{\fad(200,200)\move(0,40,40,40,0,200)}それは愛だと 信じていいのさ
+Dialogue: 0,0:17:01.45,0:17:03.96,IN_JP_II,,0,0,0,,{\fad(200,200)\move(0,40,40,40,0,200)}Soul on a dish 重ねて
+Dialogue: 0,0:17:03.96,0:17:06.54,IN_JP_II,,0,0,0,,{\fad(200,200)\move(0,40,40,40,0,200)}Catch the ball 抜き取れ
+Dialogue: 0,0:17:06.54,0:17:14.34,IN_JP_II,,0,0,0,,{\fad(200,200)\move(0,40,40,40,0,200)}願い叶え さらざんまい！
+Dialogue: 1,0:16:04.90,0:16:07.40,IN_CN_II - bottom,,0,0,0,,{\fad(200,200)}有那樣一件東西
+Dialogue: 1,0:16:07.40,0:16:10.20,IN_CN_II - bottom,,0,0,0,,{\fad(200,200)}我必須把它挽回
+Dialogue: 1,0:16:10.20,0:16:11.20,IN_CN_II - bottom,,0,0,0,,{\fad(200,200)}貓咪 貓咪
+Dialogue: 1,0:16:11.20,0:16:14.45,IN_CN_II - bottom,,0,0,0,,{\fad(200,200)}一定要在我喜歡的那人察覺之前
+Dialogue: 1,0:16:15.70,0:16:18.20,IN_CN_II - bottom,,0,0,0,,{\fad(200,200)}有那樣一件東西
+Dialogue: 1,0:16:18.20,0:16:20.83,IN_CN_II - bottom,,0,0,0,,{\fad(200,200)}我必須把它挽回
+Dialogue: 1,0:16:20.83,0:16:21.54,IN_CN_II - bottom,,0,0,0,,{\fad(200,200)}貓咪 貓咪
+Dialogue: 1,0:16:21.54,0:16:26.29,IN_CN_II - bottom,,0,0,0,,{\fad(200,200)}千萬不能走漏給別人　{\1aFF\2aFF\3aFF\4aFF\t(3534,3535,\1a00\2a00\3a00\4a00)}秘密啊
+Dialogue: 1,0:16:26.96,0:16:28.50,IN_CN_II - bottom,,0,0,0,,{\fad(200,200)}「寸珠{Kappa}不讓！」
+Comment: 2,0:16:26.96,0:16:28.50,IN_CN_II - bottom,ruby,0,0,0,,{\fad(200,200)\fs30\pos(894,942)}Kappa
+Dialogue: 0,0:16:28.50,0:16:32.38,IN_CN_II,,0,0,0,,{\fad(200,200)\move(80,90,40,90,0,200)}你我原本呀
+Dialogue: 0,0:16:32.38,0:16:36.72,IN_CN_II,,0,0,0,,{\fad(200,200)\move(80,90,40,90,0,200)}應該可以連接在一起啊
+Dialogue: 0,0:16:37.64,0:16:39.10,IN_CN_II,,0,0,0,,{\fad(200,200)\move(80,90,40,90,0,200)}欲·望！
+Dialogue: 0,0:16:39.10,0:16:48.02,IN_CN_II,,0,0,0,,{\fad(200,200)\move(80,90,40,90,0,200)}就是為認清 生命的意義啊
+Dialogue: 0,0:16:48.15,0:16:50.24,IN_CN_II,,0,0,0,,{\fad(200,200)\move(80,90,40,90,0,200)}炸·裂·迸·發
+Dialogue: 0,0:16:50.94,0:16:53.40,IN_CN_II,,0,0,0,,{\fad(200,200)\move(80,90,40,90,0,200)}人生中爭上游
+Dialogue: 0,0:16:53.40,0:16:56.07,IN_CN_II,,0,0,0,,{\fad(200,200)\move(80,90,40,90,0,200)}將光榮握在手
+Dialogue: 0,0:16:56.07,0:17:01.12,IN_CN_II,,0,0,0,,{\fad(200,200)\move(80,90,40,90,0,200)}要相信那就是 真正的愛
+Dialogue: 0,0:17:01.45,0:17:03.96,IN_CN_II,,0,0,0,,{\fad(200,200)\move(80,90,40,90,0,200)}Soul on a dish 重疊起來
+Dialogue: 0,0:17:03.96,0:17:06.54,IN_CN_II,,0,0,0,,{\fad(200,200)\move(80,90,40,90,0,200)}Catch the ball 拔掉取出
+Dialogue: 0,0:17:06.54,0:17:14.34,IN_CN_II,,0,0,0,,{\fad(200,200)\move(80,90,40,90,0,200)}願望啊實現吧 Sarazanmai！
+Dialogue: 1,0:02:24.08,0:02:28.46,OP_JP - Top Layer,,0,0,0,,背景紛れたら 透明街の角
+Dialogue: 1,0:02:28.46,0:02:33.04,OP_JP - Top Layer,,0,0,0,,消えそうな声で泣いている僕らよ
+Dialogue: 1,0:02:33.04,0:02:37.72,OP_JP - Top Layer,,0,0,0,,最低な夜から 這って抜けるように
+Dialogue: 1,0:02:37.72,0:02:42.35,OP_JP - Top Layer,,0,0,0,,千切れた痛みと共に行けよ
+Dialogue: 1,0:02:42.35,0:02:46.47,OP_JP - Top Layer,,0,0,0,,いつだって一人きりなんだろ
+Dialogue: 1,0:02:46.47,0:02:52.52,OP_JP - Top Layer,,0,0,0,,心が叫んでる欲望の音 もう一度
+Dialogue: 1,0:02:52.52,0:02:56.73,OP_JP - Top Layer,,0,0,0,,話せたら 繋がれたら
+Dialogue: 1,0:02:56.73,0:03:00.20,OP_JP - Top Layer,,0,0,0,,{\fad(0,200)}ただ溢れて
+Dialogue: 1,0:03:01.45,0:03:06.45,OP_JP - Top Layer,,0,0,0,,だんだん遠くなってく 君を追いかけていく
+Dialogue: 1,0:03:10.75,0:03:15.38,OP_JP - Top Layer,,0,0,0,,まっさらな想いを伝えに 火玉していく
+Dialogue: 1,0:03:19.88,0:03:23.68,OP_JP - Top Layer,,0,0,0,,{\fad(200,0)}現在過去未来 君と繋いでいたいよ
+Dialogue: 1,0:03:23.68,0:03:26.85,OP_JP - Top Layer,,0,0,0,,{\fad(0,200)}感情を 心の奥を
+Dialogue: 0,0:02:24.08,0:02:28.46,OP_JP - Bottom Layer,,0,0,0,,{\blur2}背景紛れたら 透明街の角
+Dialogue: 0,0:02:28.46,0:02:33.04,OP_JP - Bottom Layer,,0,0,0,,{\blur2}消えそうな声で泣いている僕らよ
+Dialogue: 0,0:02:33.04,0:02:37.72,OP_JP - Bottom Layer,,0,0,0,,{\blur2}最低な夜から 這って抜けるように
+Dialogue: 0,0:02:37.72,0:02:42.35,OP_JP - Bottom Layer,,0,0,0,,{\blur2}千切れた痛みと共に行けよ
+Dialogue: 0,0:02:42.35,0:02:46.47,OP_JP - Bottom Layer,,0,0,0,,{\blur2}いつだって一人きりなんだろ
+Dialogue: 0,0:02:46.47,0:02:52.52,OP_JP - Bottom Layer,,0,0,0,,{\blur2}心が叫んでる欲望の音 もう一度
+Dialogue: 0,0:02:52.52,0:02:56.73,OP_JP - Bottom Layer,,0,0,0,,{\blur2}話せたら 繋がれたら
+Dialogue: 0,0:02:56.73,0:03:00.20,OP_JP - Bottom Layer,,0,0,0,,{\blur2\fad(0,200)}ただ溢れて
+Dialogue: 0,0:03:01.45,0:03:06.45,OP_JP - Bottom Layer,,0,0,0,,{\blur2}だんだん遠くなってく 君を追いかけていく
+Dialogue: 0,0:03:10.75,0:03:15.38,OP_JP - Bottom Layer,,0,0,0,,{\blur2}まっさらな想いを伝えに 火玉していく
+Dialogue: 0,0:03:19.88,0:03:23.68,OP_JP - Bottom Layer,,0,0,0,,{\blur2\fad(200,0)}現在過去未来 君と繋いでいたいよ
+Dialogue: 0,0:03:23.68,0:03:26.85,OP_JP - Bottom Layer,,0,0,0,,{\blur2\fad(0,200)}感情を 心の奥を
+Dialogue: 1,0:02:24.04,0:02:28.46,OP_CN - Top Layer,,0,0,0,,當背景交錯 在透明街角
+Dialogue: 1,0:02:28.46,0:02:33.04,OP_CN - Top Layer,,0,0,0,,又有誰能聽見我們的哭聲
+Dialogue: 1,0:02:33.04,0:02:37.72,OP_CN - Top Layer,,0,0,0,,為了爬出 這最糟的黑夜
+Dialogue: 1,0:02:37.72,0:02:42.35,OP_CN - Top Layer,,0,0,0,,願與粉身碎骨的痛楚並肩前行
+Dialogue: 1,0:02:42.35,0:02:46.47,OP_CN - Top Layer,,0,0,0,,反正無論何時總免不了孤身一人
+Dialogue: 1,0:02:46.47,0:02:52.52,OP_CN - Top Layer,,0,0,0,,讓心中呼喚的欲望之聲
+Dialogue: 1,0:02:52.52,0:02:56.73,OP_CN - Top Layer,,0,0,0,,再一次攀談 再一次連結
+Dialogue: 1,0:02:56.73,0:03:00.20,OP_CN - Top Layer,,0,0,0,,{\fad(0,200)}那就一發不可收拾
+Dialogue: 1,0:03:01.45,0:03:06.45,OP_CN - Top Layer,,0,0,0,,漸漸遠去的你 讓我一心追逐
+Dialogue: 1,0:03:10.75,0:03:15.38,OP_CN - Top Layer,,0,0,0,,把全新的思緒 化作火球投向你
+Dialogue: 1,0:03:19.88,0:03:23.68,OP_CN - Top Layer,,0,0,0,,{\fad(200,0)}現在過去未來 只想與你相連
+Dialogue: 1,0:03:23.68,0:03:26.85,OP_CN - Top Layer,,0,0,0,,{\fad(0,200)}這份感情 這份真心
+Dialogue: 0,0:02:24.04,0:02:28.46,OP_CN - Bottom Layer,,0,0,0,,{\blur2}當背景交錯 在透明街角
+Dialogue: 0,0:02:28.46,0:02:33.04,OP_CN - Bottom Layer,,0,0,0,,{\blur2}又有誰能聽見我們的哭聲
+Dialogue: 0,0:02:33.04,0:02:37.72,OP_CN - Bottom Layer,,0,0,0,,{\blur2}為了爬出 這最糟的黑夜
+Dialogue: 0,0:02:37.72,0:02:42.35,OP_CN - Bottom Layer,,0,0,0,,{\blur2}願與粉身碎骨的痛楚並肩前行
+Dialogue: 0,0:02:42.35,0:02:46.47,OP_CN - Bottom Layer,,0,0,0,,{\blur2}反正無論何時總免不了孤身一人
+Dialogue: 0,0:02:46.47,0:02:52.52,OP_CN - Bottom Layer,,0,0,0,,{\blur2}讓心中呼喚的欲望之聲
+Dialogue: 0,0:02:52.52,0:02:56.73,OP_CN - Bottom Layer,,0,0,0,,{\blur2}再一次攀談 再一次連結
+Dialogue: 0,0:02:56.73,0:03:00.20,OP_CN - Bottom Layer,,0,0,0,,{\blur2\fad(0,200)}那就一發不可收拾
+Dialogue: 0,0:03:01.45,0:03:06.45,OP_CN - Bottom Layer,,0,0,0,,{\blur2}漸漸遠去的你 讓我一心追逐
+Dialogue: 0,0:03:10.75,0:03:15.38,OP_CN - Bottom Layer,,0,0,0,,{\blur2}把全新的思緒 化作火球投向你
+Dialogue: 0,0:03:19.88,0:03:23.68,OP_CN - Bottom Layer,,0,0,0,,{\blur2\fad(200,0)}現在過去未來 只想與你相連
+Dialogue: 0,0:03:23.68,0:03:26.85,OP_CN - Bottom Layer,,0,0,0,,{\blur2\fad(0,200)}這份感情 這份真心
+Dialogue: 1,0:20:47.10,0:20:52.19,ED_JP - Top Layer,,0,0,0,,スタンドバイミー お願い
+Dialogue: 1,0:20:52.19,0:20:56.98,ED_JP - Top Layer,,0,0,0,,僕は 僕は 強くなれるのかな
+Dialogue: 1,0:20:58.48,0:21:03.99,ED_JP - Top Layer,,0,0,0,,涙が雨にさらわれてく
+Dialogue: 1,0:21:03.99,0:21:08.37,ED_JP - Top Layer,,0,0,0,,君の熱に抱かれたい
+Dialogue: 1,0:21:11.04,0:21:13.79,ED_JP - Top Layer,,0,0,0,,放っておいた消えかけの電球
+Dialogue: 1,0:21:13.79,0:21:16.79,ED_JP - Top Layer,,0,0,0,,ある朝そっと明かりを消えてた
+Dialogue: 1,0:21:16.79,0:21:19.55,ED_JP - Top Layer,,0,0,0,,まるで君と僕みたい
+Dialogue: 1,0:21:19.55,0:21:22.30,ED_JP - Top Layer,,0,0,0,,繋いだ手の儚さを知る
+Dialogue: 1,0:21:22.30,0:21:27.93,ED_JP - Top Layer,,0,0,0,,膝を抱えて憧れていたのは
+Dialogue: 1,0:21:27.93,0:21:31.52,ED_JP - Top Layer,,0,0,0,,いつかの残像
+Dialogue: 1,0:21:32.14,0:21:37.15,ED_JP - Top Layer,,0,0,0,,スタンドバイミー お願い
+Dialogue: 1,0:21:37.15,0:21:43.32,ED_JP - Top Layer,,0,0,0,,僕は 僕は 強くなれるのかな
+Dialogue: 1,0:21:43.32,0:21:48.99,ED_JP - Top Layer,,0,0,0,,君が今ここにいなくても
+Dialogue: 1,0:21:48.99,0:21:54.29,ED_JP - Top Layer,,0,0,0,,手を伸ばす自信をくれよ
+Dialogue: 1,0:21:54.29,0:21:59.67,ED_JP - Top Layer,,0,0,0,,スタンドバイユー お願い
+Dialogue: 1,0:21:59.67,0:22:05.88,ED_JP - Top Layer,,0,0,0,,何もかもを取っ払ってしまいたい
+Dialogue: 1,0:22:05.88,0:22:11.26,ED_JP - Top Layer,,0,0,0,,涙が雨にさらわれてく
+Dialogue: 1,0:22:11.26,0:22:17.15,ED_JP - Top Layer,,0,0,0,,君の熱に抱かれたいだけなんだ
+Dialogue: 0,0:20:47.10,0:20:52.19,ED_JP - Bottom Layer,,0,0,0,,{\blur2}スタンドバイミー お願い
+Dialogue: 0,0:20:52.19,0:20:56.98,ED_JP - Bottom Layer,,0,0,0,,{\blur2}僕は 僕は 強くなれるのかな
+Dialogue: 0,0:20:58.48,0:21:03.99,ED_JP - Bottom Layer,,0,0,0,,{\blur2}涙が雨にさらわれてく
+Dialogue: 0,0:21:03.99,0:21:08.37,ED_JP - Bottom Layer,,0,0,0,,{\blur2}君の熱に抱かれたい
+Dialogue: 0,0:21:11.04,0:21:13.79,ED_JP - Bottom Layer,,0,0,0,,{\blur2}放っておいた消えかけの電球
+Dialogue: 0,0:21:13.79,0:21:16.79,ED_JP - Bottom Layer,,0,0,0,,{\blur2}ある朝そっと明かりを消えてた
+Dialogue: 0,0:21:16.79,0:21:19.55,ED_JP - Bottom Layer,,0,0,0,,{\blur2}まるで君と僕みたい
+Dialogue: 0,0:21:19.55,0:21:22.30,ED_JP - Bottom Layer,,0,0,0,,{\blur2}繋いだ手の儚さを知る
+Dialogue: 0,0:21:22.30,0:21:27.93,ED_JP - Bottom Layer,,0,0,0,,{\blur2}膝を抱えて憧れていたのは
+Dialogue: 0,0:21:27.93,0:21:31.52,ED_JP - Bottom Layer,,0,0,0,,{\blur2}いつかの残像
+Dialogue: 0,0:21:32.14,0:21:37.15,ED_JP - Bottom Layer,,0,0,0,,{\blur2}スタンドバイミー お願い
+Dialogue: 0,0:21:37.15,0:21:43.32,ED_JP - Bottom Layer,,0,0,0,,{\blur2}僕は 僕は 強くなれるのかな
+Dialogue: 0,0:21:43.32,0:21:48.99,ED_JP - Bottom Layer,,0,0,0,,{\blur2}君が今ここにいなくても
+Dialogue: 0,0:21:48.99,0:21:54.29,ED_JP - Bottom Layer,,0,0,0,,{\blur2}手を伸ばす自信をくれよ
+Dialogue: 0,0:21:54.29,0:21:59.67,ED_JP - Bottom Layer,,0,0,0,,{\blur2}スタンドバイユー お願い
+Dialogue: 0,0:21:59.67,0:22:05.88,ED_JP - Bottom Layer,,0,0,0,,{\blur2}何もかもを取っ払ってしまいたい
+Dialogue: 0,0:22:05.88,0:22:11.26,ED_JP - Bottom Layer,,0,0,0,,{\blur2}涙が雨にさらわれてく
+Dialogue: 0,0:22:11.26,0:22:17.15,ED_JP - Bottom Layer,,0,0,0,,{\blur2}君の熱に抱かれたいだけなんだ
+Dialogue: 1,0:20:47.10,0:20:52.19,ED_CN - Top Layer,,0,0,0,,Stand by me 求求你
+Dialogue: 1,0:20:52.19,0:20:56.98,ED_CN - Top Layer,,0,0,0,,我啊 我啊 可會變強
+Dialogue: 1,0:20:58.48,0:21:03.99,ED_CN - Top Layer,,0,0,0,,當淚水隨風雨飄搖
+Dialogue: 1,0:21:03.99,0:21:08.37,ED_CN - Top Layer,,0,0,0,,想與你的溫暖擁抱
+Dialogue: 1,0:21:11.04,0:21:13.79,ED_CN - Top Layer,,0,0,0,,沒人管的快壞的燈泡
+Dialogue: 1,0:21:13.79,0:21:16.79,ED_CN - Top Layer,,0,0,0,,一天早上突然不亮了
+Dialogue: 1,0:21:16.79,0:21:19.55,ED_CN - Top Layer,,0,0,0,,就像你我一樣
+Dialogue: 1,0:21:19.55,0:21:22.30,ED_CN - Top Layer,,0,0,0,,知曉那兩手相牽的無常
+Dialogue: 1,0:21:22.30,0:21:27.93,ED_CN - Top Layer,,0,0,0,,往日抱著膝蓋憧憬著的
+Dialogue: 1,0:21:27.93,0:21:31.52,ED_CN - Top Layer,,0,0,0,,是那不知幾何時的虛像
+Dialogue: 1,0:21:32.14,0:21:37.15,ED_CN - Top Layer,,0,0,0,,Stand by me 求求你
+Dialogue: 1,0:21:37.15,0:21:43.32,ED_CN - Top Layer,,0,0,0,,我啊 我啊 可會變強
+Dialogue: 1,0:21:43.32,0:21:48.99,ED_CN - Top Layer,,0,0,0,,哪怕現在你不在這裡
+Dialogue: 1,0:21:48.99,0:21:54.29,ED_CN - Top Layer,,0,0,0,,請給我伸出雙手的自信
+Dialogue: 1,0:21:54.29,0:21:59.67,ED_CN - Top Layer,,0,0,0,,Stand by you 求求你
+Dialogue: 1,0:21:59.67,0:22:05.88,ED_CN - Top Layer,,0,0,0,,多想把世間一切掃清
+Dialogue: 1,0:22:05.88,0:22:11.26,ED_CN - Top Layer,,0,0,0,,當淚水隨風雨飄搖
+Dialogue: 1,0:22:11.26,0:22:17.15,ED_CN - Top Layer,,0,0,0,,想與你的溫暖擁抱…僅此而已
+Dialogue: 0,0:20:47.10,0:20:52.19,ED_CN - Bottom Layer,,0,0,0,,{\blur2}Stand by me 求求你
+Dialogue: 0,0:20:52.19,0:20:56.98,ED_CN - Bottom Layer,,0,0,0,,{\blur2}我啊 我啊 可會變強
+Dialogue: 0,0:20:58.48,0:21:03.99,ED_CN - Bottom Layer,,0,0,0,,{\blur2}當淚水隨風雨飄搖
+Dialogue: 0,0:21:03.99,0:21:08.37,ED_CN - Bottom Layer,,0,0,0,,{\blur2}想與你的溫暖擁抱
+Dialogue: 0,0:21:11.04,0:21:13.79,ED_CN - Bottom Layer,,0,0,0,,{\blur2}沒人管的快壞的燈泡
+Dialogue: 0,0:21:13.79,0:21:16.79,ED_CN - Bottom Layer,,0,0,0,,{\blur2}一天早上突然不亮了
+Dialogue: 0,0:21:16.79,0:21:19.55,ED_CN - Bottom Layer,,0,0,0,,{\blur2}就像你我一樣
+Dialogue: 0,0:21:19.55,0:21:22.30,ED_CN - Bottom Layer,,0,0,0,,{\blur2}知曉那兩手相牽的無常
+Dialogue: 0,0:21:22.30,0:21:27.93,ED_CN - Bottom Layer,,0,0,0,,{\blur2}往日抱著膝蓋憧憬著的
+Dialogue: 0,0:21:27.93,0:21:31.52,ED_CN - Bottom Layer,,0,0,0,,{\blur2}是那不知幾何時的虛像
+Dialogue: 0,0:21:32.14,0:21:37.15,ED_CN - Bottom Layer,,0,0,0,,{\blur2}Stand by me 求求你
+Dialogue: 0,0:21:37.15,0:21:43.32,ED_CN - Bottom Layer,,0,0,0,,{\blur2}我啊 我啊 可會變強
+Dialogue: 0,0:21:43.32,0:21:48.99,ED_CN - Bottom Layer,,0,0,0,,{\blur2}哪怕現在你不在這裡
+Dialogue: 0,0:21:48.99,0:21:54.29,ED_CN - Bottom Layer,,0,0,0,,{\blur2}請給我伸出雙手的自信
+Dialogue: 0,0:21:54.29,0:21:59.67,ED_CN - Bottom Layer,,0,0,0,,{\blur2}Stand by you 求求你
+Dialogue: 0,0:21:59.67,0:22:05.88,ED_CN - Bottom Layer,,0,0,0,,{\blur2}多想把世間一切掃清
+Dialogue: 0,0:22:05.88,0:22:11.26,ED_CN - Bottom Layer,,0,0,0,,{\blur2}當淚水隨風雨飄搖
+Dialogue: 0,0:22:11.26,0:22:17.15,ED_CN - Bottom Layer,,0,0,0,,{\blur2}想與你的溫暖擁抱…僅此而已
+Comment: 0,0:00:31.97,0:00:32.01,Main,,0,0,0,,STAFF
+Dialogue: 2,0:02:23.99,0:02:24.04,STAFF - Top Layer,,0,0,0,,{\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,350)}翻譯
+Dialogue: 2,0:02:23.99,0:02:24.04,STAFF - Top Layer,,0,0,0,,{\pos(200,338)\iclip(m 318 345 l 332 353 346 360 355 365 370 369 384 373 388 375 402 380 416 382 432 384 466 386 475 385 492 398 506 412 516 420 516 423 506 425 497 427 481 430 458 437 436 444 423 448 409 454 387 462 371 470 362 474 394 534 610 455 628 368 454 285)}tastySugar
+Dialogue: 2,0:02:23.99,0:02:24.04,STAFF - Top Layer,,0,0,0,,{\pos(200,418)\iclip(m 318 345 l 332 353 346 360 355 365 370 369 384 373 388 375 402 380 416 382 432 384 466 386 475 385 492 398 506 412 516 420 516 423 506 425 497 427 481 430 458 437 436 444 423 448 409 454 387 462 371 470 362 474 394 534 610 455 628 368 454 285)}絶対女装黙示録
+Dialogue: 2,0:02:24.04,0:02:26.50,STAFF - Top Layer,,0,0,0,,{\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,350)}翻譯
+Dialogue: 2,0:02:24.04,0:02:26.50,STAFF - Top Layer,,0,0,0,,{\pos(200,338)}tastySugar
+Dialogue: 2,0:02:24.04,0:02:26.50,STAFF - Top Layer,,0,0,0,,{\pos(200,418)}絶対女装黙示録
+Dialogue: 2,0:02:33.04,0:02:35.05,STAFF - Top Layer,,0,0,0,,{\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,420)}校對
+Dialogue: 2,0:02:33.04,0:02:35.05,STAFF - Top Layer,,0,0,0,,{\pos(326,406)}ssnake
+Comment: 2,0:02:33.04,0:02:35.05,STAFF - Top Layer,,0,0,0,,{\pos(326,476)}Spica
+Dialogue: 2,0:02:35.05,0:02:37.72,STAFF - Top Layer,,0,0,0,,{\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,350)}主題曲翻譯
+Dialogue: 2,0:02:35.05,0:02:37.72,STAFF - Top Layer,,0,0,0,,{\pos(370,338)}ssnake
+Dialogue: 2,0:02:35.05,0:02:37.72,STAFF - Top Layer,,0,0,0,,{\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,456)}插入曲翻譯
+Dialogue: 2,0:02:35.05,0:02:37.72,STAFF - Top Layer,,0,0,0,,{\pos(370,442)}Spica
+Dialogue: 2,0:02:35.05,0:02:37.72,STAFF - Top Layer,,0,0,0,,{\pos(370,518)}絶対女装黙示録
+Dialogue: 2,0:02:51.60,0:02:53.94,STAFF - Top Layer,,0,0,0,,{\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,498)}後期
+Dialogue: 2,0:02:51.60,0:02:53.94,STAFF - Top Layer,,0,0,0,,{\pos(266,486)}ssnake
+Dialogue: 2,0:02:51.60,0:02:53.94,STAFF - Top Layer,,0,0,0,,{\pos(266,558)}natsukage
+Dialogue: 2,0:03:16.25,0:03:18.92,STAFF - Top Layer,,0,0,0,,{\an2\fs34\fnSource Han Sans TC Medium\b1\pos(960,632)}字幕製作
+Dialogue: 2,0:03:16.25,0:03:18.92,STAFF - Top Layer,,0,0,0,,{\an2\pos(960,698)}SweetSub
+Dialogue: 1,0:02:23.99,0:02:24.04,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,350)}翻譯
+Dialogue: 1,0:02:23.99,0:02:24.04,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(200,338)\iclip(m 318 345 l 332 353 346 360 355 365 370 369 384 373 388 375 402 380 416 382 432 384 466 386 475 385 492 398 506 412 516 420 516 423 506 425 497 427 481 430 458 437 436 444 423 448 409 454 387 462 371 470 362 474 394 534 610 455 628 368 454 285)}tastySugar
+Dialogue: 1,0:02:23.99,0:02:24.04,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(200,418)\iclip(m 318 345 l 332 353 346 360 355 365 370 369 384 373 388 375 402 380 416 382 432 384 466 386 475 385 492 398 506 412 516 420 516 423 506 425 497 427 481 430 458 437 436 444 423 448 409 454 387 462 371 470 362 474 394 534 610 455 628 368 454 285)}絶対女装黙示録
+Dialogue: 1,0:02:24.04,0:02:26.50,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,350)}翻譯
+Dialogue: 1,0:02:24.04,0:02:26.50,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(200,338)}tastySugar
+Dialogue: 1,0:02:24.04,0:02:26.50,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(200,418)}絶対女装黙示録
+Dialogue: 1,0:02:33.04,0:02:35.05,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,420)}校對
+Dialogue: 1,0:02:33.04,0:02:35.05,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(326,406)}ssnake
+Comment: 1,0:02:33.04,0:02:35.05,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(326,476)}Spica
+Dialogue: 1,0:02:35.05,0:02:37.72,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,350)}主題曲翻譯
+Dialogue: 1,0:02:35.05,0:02:37.72,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(370,338)}ssnake
+Dialogue: 1,0:02:35.05,0:02:37.72,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,456)}插入曲翻譯
+Dialogue: 1,0:02:35.05,0:02:37.72,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(370,442)}Spica
+Dialogue: 1,0:02:35.05,0:02:37.72,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(370,518)}絶対女装黙示録
+Dialogue: 1,0:02:35.05,0:02:37.72,STAFF - Bottom layer,overlay,0,0,0,,{\1c0\blur3\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,350)}主題曲翻譯
+Dialogue: 1,0:02:35.05,0:02:37.72,STAFF - Bottom layer,overlay,0,0,0,,{\1c0\blur3\pos(370,338)}ssnake
+Dialogue: 1,0:02:35.05,0:02:37.72,STAFF - Bottom layer,overlay,0,0,0,,{\1c0\blur3\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,456)}插入曲翻譯
+Dialogue: 1,0:02:35.05,0:02:37.72,STAFF - Bottom layer,overlay,0,0,0,,{\1c0\blur3\pos(370,442)}Spica
+Dialogue: 1,0:02:35.05,0:02:37.72,STAFF - Bottom layer,overlay,0,0,0,,{\1c0\blur3\pos(370,518)}絶対女装黙示録
+Dialogue: 1,0:02:51.60,0:02:53.94,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,498)}後期
+Dialogue: 1,0:02:51.60,0:02:53.94,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(266,486)}ssnake
+Dialogue: 1,0:02:51.60,0:02:53.94,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(266,558)}natsukage
+Dialogue: 1,0:03:16.25,0:03:18.92,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\an2\fs34\fnSource Han Sans TC Medium\b1\pos(960,632)}字幕製作
+Dialogue: 1,0:03:16.25,0:03:18.92,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\an2\pos(960,698)}SweetSub
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,Main
+Dialogue: 0,0:00:07.98,0:00:09.07,Main,Kazuki,0,0,0,,沒錯
+Dialogue: 0,0:00:09.55,0:00:13.75,Main,Kazuki,0,0,0,,我就是個扮成吾妻莎拉的樣子自拍的…變態
+Dialogue: 0,0:00:15.24,0:00:17.99,Main,Keppi,0,0,0,,好了好了  先冷靜一下  呱呱
+Dialogue: 0,0:00:18.32,0:00:20.87,Main,Keppi,0,0,0,,作為感謝  我會給你們一個好東西  呱呱
+Comment: 0,0:00:26.04,0:00:27.93,Main,,0,0,0,,{盤子歌（}
+Comment: 0,0:00:27.93,0:00:32.70,Main,,0,0,0,,
+Comment: 0,0:00:33.29,0:00:35.69,Main,,0,0,0,,
+Comment: 0,0:00:35.69,0:00:40.01,Main,,0,0,0,,
+Comment: 0,0:00:40.16,0:00:44.36,Main,,0,0,0,,
+Comment: 0,0:00:44.36,0:00:46.86,Main,,0,0,0,,
+Comment: 0,0:00:49.26,0:00:54.40,Main,,0,0,0,,
+Dialogue: 0,0:00:42.93,0:00:47.50,Main,Keppi,0,0,0,,這是能實現一切願望的希望之盤
+Dialogue: 0,0:00:48.66,0:00:50.83,Main,Keppi,0,0,0,,我接下來說的話你們可要聽好了
+Dialogue: 0,0:00:50.83,0:00:53.53,Main,Keppi,0,0,0,,這是身為河童王國第一王位繼…
+Dialogue: 0,0:00:52.03,0:00:53.53,Top,Enta,0,0,0,,真的嗎!?
+Dialogue: 0,0:00:53.53,0:00:56.53,Main,Enta,0,0,0,,那麼  想要一年份的河童卷也行嗎？
+Dialogue: 0,0:01:03.63,0:01:05.04,Main,Keppi,0,0,0,,你的願望已經實現了  呱呱
+Dialogue: 0,0:01:08.13,0:01:09.88,Main,Enta,0,0,0,,等等  剛才的不算
+Dialogue: 0,0:01:09.88,0:01:11.41,Main,Toi,0,0,0,,不是騙人的啊…
+Dialogue: 0,0:01:11.41,0:01:13.04,Main,Keppi,0,0,0,,我想拜託你們今後也變成河童
+Dialogue: 0,0:01:13.04,0:01:16.30,Main,Keppi,0,0,0,,把河童喪屍的尻子玉拔出來  呱呱
+Dialogue: 0,0:01:16.30,0:01:19.73,Main,Keppi,0,0,0,,如果你們有想要實現的願望的話
+Dialogue: 0,0:01:24.94,0:01:26.69,Main,Kazuki,0,0,0,,能實現願望的盤子
+Dialogue: 0,0:01:27.78,0:01:28.91,Main,Haruka,0,0,0,,阿一
+Dialogue: 0,0:01:30.14,0:01:34.57,Main,Haruka,0,0,0,,我說啊  今天給喵太郎吃魚三昧怎麼樣？
+Dialogue: 0,0:01:34.57,0:01:36.19,Main,Kazuki,0,0,0,,這孩子是春河
+Dialogue: 0,0:01:36.19,0:01:37.57,Main,Kazuki,0,0,0,,我的弟弟
+Dialogue: 0,0:01:37.57,0:01:40.57,Main,Haruka,0,0,0,,「莎拉  Good morning
+Dialogue: 0,0:01:40.57,0:01:44.08,Main,Haruka,0,0,0,,你喜歡小貓嗎？」
+Dialogue: 0,0:01:44.08,0:01:46.33,Main,Haruka,0,0,0,,發送
+Dialogue: 0,0:01:48.08,0:01:51.29,Main,Kazuki,0,0,0,,春河童是春河的賬號{暱稱}
+Dialogue: 0,0:01:51.29,0:01:53.46,Main,Haruka,0,0,0,,「莎拉  Good morning {*此處屏幕字選做，低優先度}
+Dialogue: 0,0:01:53.46,0:01:55.34,Main,Haruka,0,0,0,,你喜歡小貓嗎？」
+Dialogue: 0,0:01:55.34,0:01:56.69,Main,Kazuki,0,0,0,,「Good morning
+Dialogue: 0,0:01:56.69,0:01:59.53,Main,Kazuki,0,0,0,,我最喜歡小貓咪了 dish」
+Dialogue: 0,0:02:02.22,0:02:05.84,Main,Kazuki,0,0,0,,我假扮成偶像吾妻莎拉  想要去連接的對象
+Dialogue: 0,0:02:05.84,0:02:07.10,Main,Kazuki,0,0,0,,就是我的弟弟春河
+Dialogue: 0,0:02:08.10,0:02:12.19,Main,Kazuki,0,0,0,,為了春河  我想要希望之盤
+Dialogue: 0,0:03:44.75,0:03:46.13,Top,Sara,0,0,0,,祝大家每天開心
+Dialogue: 0,0:03:46.13,0:03:48.78,Top,Sara,0,0,0,,拍張幸運自拍  更加開心
+Dialogue: 0,0:03:48.78,0:03:50.83,Top,Sara,0,0,0,,我是吾妻莎拉 dish
+Dialogue: 0,0:03:50.83,0:03:52.44,Main,Haruka,0,0,0,,Good morning!
+Dialogue: 0,0:03:52.44,0:03:54.50,Main,Haruka,0,0,0,,我是春河童 dish！
+Dialogue: 0,0:03:54.50,0:03:58.09,Main,Mom,0,0,0,,春河  不要光顧著看莎拉  趕緊吃飯
+Dialogue: 0,0:03:58.09,0:03:59.29,Main,Haruka,0,0,0,,好！
+Dialogue: 0,0:03:59.81,0:04:03.38,Main,Dad,0,0,0,,你在學校裡被叫作「春河童」嗎？
+Dialogue: 0,0:04:03.39,0:04:05.82,Main,Haruka,0,0,0,,嘿嘿  不告訴你
+Dialogue: 0,0:04:06.85,0:04:08.15,Main,Haruka,0,0,0,,阿一！
+Dialogue: 0,0:04:08.15,0:04:09.50,Main,Mom,0,0,0,,早上好  阿一
+Dialogue: 0,0:04:09.50,0:04:10.90,Main,Mom,0,0,0,,早飯做好了
+Dialogue: 0,0:04:11.47,0:04:13.30,Main,Kazuki,0,0,0,,抱歉  我先走了
+Dialogue: 0,0:04:14.14,0:04:15.89,Main,Mom,0,0,0,,是嗎？ 路上小心
+Dialogue: 0,0:04:15.89,0:04:17.00,Main,Haruka,0,0,0,,等等  等等
+Dialogue: 0,0:04:17.00,0:04:18.31,Main,Haruka,0,0,0,,我也一起走
+Dialogue: 0,0:04:19.25,0:04:20.15,Main,Dad,0,0,0,,那麼…
+Dialogue: 0,0:04:22.15,0:04:25.16,Main,Haruka,0,0,0,,我說  喵太郎是不是長胖了
+Dialogue: 0,0:04:25.16,0:04:28.31,Main,Haruka,0,0,0,,剛見到它的時候  它要苗條得多吧？
+Dialogue: 0,0:04:28.31,0:04:29.96,Main,Kazuki,0,0,0,,沒什麼區別吧
+Dialogue: 0,0:04:29.96,0:04:31.16,Main,Haruka,0,0,0,,是嗎？
+Dialogue: 0,0:04:33.31,0:04:35.48,Main,Haruka,0,0,0,,但是我真的很高興
+Dialogue: 0,0:04:35.48,0:04:41.54,Main,Haruka,0,0,0,,阿一能為我實現養貓的願望
+Dialogue: 0,0:04:43.78,0:04:46.68,Main,Sara,0,0,0,,那麼  今天的幸運自拍道具是…
+Dialogue: 0,0:04:50.47,0:04:52.08,Top,Sara,0,0,0,,喵！
+Dialogue: 0,0:04:52.08,0:04:54.01,Top,Sara,0,0,0,,是小貓咪 dish！
+Dialogue: 0,0:04:54.01,0:04:56.56,Top,Sara,0,0,0,,莎拉我也超喜歡小貓咪 dish！
+Dialogue: 0,0:04:56.56,0:04:59.56,Main,Kazuki,0,0,0,,太好了  本人也喜歡貓
+Dialogue: 0,0:05:00.11,0:05:01.22,Main,Haruka,0,0,0,,是莎拉
+Dialogue: 0,0:05:01.22,0:05:03.34,Main,Haruka,0,0,0,,阿一也喜歡莎拉嗎？
+Dialogue: 0,0:05:03.34,0:05:04.57,Main,Kazuki,0,0,0,,不  一點也不喜歡
+Dialogue: 0,0:05:04.57,0:05:06.81,Main,Haruka,0,0,0,,我超喜歡莎拉的
+Dialogue: 0,0:05:06.81,0:05:07.79,Main,Haruka,0,0,0,,對了
+Dialogue: 0,0:05:07.79,0:05:11.20,Main,Haruka,0,0,0,,告訴你一個我的大秘密  只告訴阿一你一個人哦
+Dialogue: 0,0:05:12.26,0:05:13.00,Main,Kazuki,0,0,0,,不用了
+Dialogue: 0,0:05:13.00,0:05:15.70,Main,Haruka,0,0,0,,我和莎拉其實是朋友
+Dialogue: 0,0:05:15.70,0:05:18.55,Main,Haruka,0,0,0,,我們每天都會發信息聊天
+Dialogue: 0,0:05:18.55,0:05:19.08,Main,Haruka,0,0,0,,你看
+Dialogue: 0,0:05:19.08,0:05:20.95,Main,Kazuki,0,0,0,,你該不會是被誰給騙了吧？
+Dialogue: 0,0:05:20.95,0:05:22.01,Main,Haruka,0,0,0,,沒有啦
+Dialogue: 0,0:05:22.03,0:05:24.05,Main,Haruka,0,0,0,,這是真的莎拉
+Dialogue: 0,0:05:24.05,0:05:24.59,Main,Haruka,0,0,0,,你看
+Dialogue: 0,0:05:24.59,0:05:25.40,Top,,0,0,0,,{\fad(50,300)}dish!
+Dialogue: 0,0:05:25.00,0:05:26.09,Main,Haruka,0,0,0,,這張
+Dialogue: 0,0:05:26.09,0:05:26.98,Main,Kazuki,0,0,0,,是我
+Dialogue: 0,0:05:28.30,0:05:29.25,Main,Haruka,0,0,0,,還有這張
+Dialogue: 0,0:05:28.72,0:05:29.61,Top,,0,0,0,,{\fad(50,300)}dish!
+Dialogue: 0,0:05:29.25,0:05:30.24,Main,Kazuki,0,0,0,,是我
+Dialogue: 0,0:05:30.24,0:05:31.22,Main,Haruka,0,0,0,,還有這張
+Dialogue: 0,0:05:30.75,0:05:31.71,Top,,0,0,0,,{\fad(50,300)}dish!
+Dialogue: 0,0:05:31.80,0:05:33.22,Main,Kazuki,0,0,0,,是我
+Dialogue: 0,0:05:34.63,0:05:36.11,Main,Haruka,0,0,0,,厲害吧
+Dialogue: 0,0:05:36.11,0:05:37.22,Main,Kazuki,0,0,0,,太好了！
+Dialogue: 0,0:05:46.49,0:05:49.05,Main,Chikai,0,0,0,,這條路子你是從哪裡知道的？
+Dialogue: 0,0:05:49.05,0:05:50.99,Main,Man,0,0,0,,不知道  我什麼都不知道
+Dialogue: 0,0:05:52.03,0:05:55.01,Main,Chikai,0,0,0,,我們也不想這麼做的
+Dialogue: 0,0:05:55.01,0:05:57.77,Main,Chikai,0,0,0,,但是要是你還不老實交待的話…
+Dialogue: 0,0:06:03.31,0:06:05.38,Main,Chikai,0,0,0,,我就捅了囉
+Dialogue: 0,0:06:07.21,0:06:09.14,Main,Chikai,0,0,0,,真是的  小心點啊
+Dialogue: 0,0:06:09.14,0:06:12.39,Main,Chikai,0,0,0,,我又不能每次都來幫你擦屁股
+Dialogue: 0,0:06:12.39,0:06:14.27,Main,Toi,0,0,0,,我不會再出那種岔子了
+Dialogue: 0,0:06:14.68,0:06:16.64,Main,Toi,0,0,0,,所以你帶上我一起吧
+Dialogue: 0,0:06:16.64,0:06:18.35,Main,Chikai,0,0,0,,你太礙事了
+Dialogue: 0,0:06:19.30,0:06:23.02,Main,Chikai,0,0,0,,要是下一把能成  就能搞到挺多錢
+Dialogue: 0,0:06:23.02,0:06:26.15,Main,Chikai,0,0,0,,不過在那之前被他們發現了就完了
+Dialogue: 0,0:06:26.15,0:06:27.53,Main,Chikai,0,0,0,,你懂的吧？
+Dialogue: 0,0:06:27.53,0:06:29.15,Main,Toi,0,0,0,,錢的話我能搞定
+Dialogue: 0,0:06:30.67,0:06:32.40,Main,Chikai,0,0,0,,那可真不錯
+Dialogue: 0,0:06:32.40,0:06:34.66,Main,Chikai,0,0,0,,要是我失手了  就靠你了
+Dialogue: 0,0:06:36.09,0:06:38.30,Main,Chikai,0,0,0,,嗯  該告別了  悠
+Dialogue: 0,0:06:38.91,0:06:41.14,Main,Chikai,0,0,0,,千萬不要亂來哦
+Dialogue: 0,0:06:42.12,0:06:43.42,Main,Chikai,0,0,0,,哥哥也是
+Dialogue: 0,0:06:46.46,0:06:50.93,Main,Chikai,0,0,0,,為了哥哥  我想要希望之盤
+Dialogue: 0,0:06:51.27,0:06:52.62,Main,Sara,0,0,0,,下一條新聞 dish
+Dialogue: 0,0:06:52.62,0:06:56.43,Main,Sara,0,0,0,,今早在角田河中發現了一具男性的遺體
+Dialogue: 0,0:06:56.43,0:06:58.18,Top,Sara,0,0,0,,River...
+Dialogue: 0,0:06:58.91,0:07:00.44,Top,Sara,0,0,0,,淺草皿TV
+Dialogue: 0,0:06:59.85,0:07:01.19,Main,Enta,0,0,0,,這什麼鬼!?
+Dialogue: 0,0:07:03.48,0:07:04.85,Main,Enta,0,0,0,,這不是我的箱子
+Dialogue: 0,0:07:05.47,0:07:07.23,Main,Enta,0,0,0,,也就是說這是久慈的…
+Dialogue: 0,0:07:08.93,0:07:10.20,Main,Enta,0,0,0,,姐姐！
+Dialogue: 0,0:07:10.20,0:07:11.39,Main,Enta,0,0,0,,不要嚇我啊
+Dialogue: 0,0:07:11.39,0:07:12.89,Main,Sister,0,0,0,,怎麼了？
+Dialogue: 0,0:07:12.89,0:07:14.01,Main,Sister,0,0,0,,你怎麼又…
+Dialogue: 0,0:07:14.01,0:07:16.95,Main,Enta,0,0,0,,不是  這是我錯拿了久慈的箱子
+Dialogue: 0,0:07:16.95,0:07:19.64,Main,Sister,0,0,0,,咦  你這麼快就和久慈關係這麼好了？
+Dialogue: 0,0:07:19.64,0:07:20.96,Main,Enta,0,0,0,,怎麼可能
+Dialogue: 0,0:07:20.96,0:07:23.51,Main,Enta,0,0,0,,久慈是個壞傢伙
+Dialogue: 0,0:07:36.97,0:07:37.97,Main,Toi,0,0,0,,喂？
+Dialogue: 0,0:07:37.97,0:07:38.84,Main,Toi,0,0,0,,嗯
+Dialogue: 0,0:07:38.84,0:07:39.89,Main,Toi,0,0,0,,沒問題
+Dialogue: 0,0:07:40.48,0:07:42.44,Main,Toi,0,0,0,,我這有些剛剛收穫的葉子
+Dialogue: 0,0:07:42.98,0:07:43.80,Main,Toi,0,0,0,,地點？
+Dialogue: 0,0:07:45.07,0:07:46.05,Main,Toi,0,0,0,,明白了
+Dialogue: 0,0:07:54.70,0:07:55.61,Main,Toi,0,0,0,,喂！
+Dialogue: 0,0:07:56.05,0:07:56.70,Main,Toi,0,0,0,,站住！
+Dialogue: 0,0:07:56.70,0:07:58.02,Main,Toi,0,0,0,,給我站住！
+Dialogue: 0,0:07:59.02,0:08:00.75,Main,Kazuki,0,0,0,,怪了…
+Dialogue: 0,0:08:01.17,0:08:03.62,Main,Kazuki,0,0,0,,今天怎麼就一隻貓都沒有
+Dialogue: 0,0:08:09.17,0:08:10.66,Main,Kazuki,0,0,0,,喵太郎？
+Dialogue: 0,0:08:10.66,0:08:13.22,Main,Kazuki,0,0,0,,沒辦法  我和你拍自拍吧
+Dialogue: 0,0:08:13.97,0:08:15.65,Main,Kazuki,0,0,0,,你叼著什麼呢？
+Dialogue: 0,0:08:16.27,0:08:17.54,Main,Toi,0,0,0,,找到了
+Dialogue: 0,0:08:18.22,0:08:19.10,Main,Kazuki,0,0,0,,久慈？
+Dialogue: 0,0:08:19.10,0:08:20.81,Main,Toi,0,0,0,,死肥貓
+Dialogue: 0,0:08:20.81,0:08:22.60,Main,Toi,0,0,0,,把它還給我！
+Dialogue: 0,0:08:26.32,0:08:27.88,Main,Toi,0,0,0,,我要捅了囉
+Dialogue: 0,0:08:27.88,0:08:29.06,Main,Kazuki,0,0,0,,快住手
+Dialogue: 0,0:08:29.06,0:08:30.13,Main,Toi,0,0,0,,滾開
+Dialogue: 0,0:08:30.13,0:08:33.11,Main,Kazuki,0,0,0,,這隻貓對我和春河來說非常重要
+Dialogue: 0,0:08:37.24,0:08:38.97,Main,Toi,0,700,0,,開什麼玩笑
+Dialogue: 0,0:08:38.97,0:08:41.75,Main,Toi,0,700,0,,我要把你開膛破肚
+Dialogue: 0,0:08:40.17,0:08:41.75,Main,Kazuki,300,0,0,,快住手
+Dialogue: 0,0:08:43.75,0:08:47.25,Main,Enta,0,0,0,,我一個人要怎麼處理這玩意啊…
+Dialogue: 0,0:08:52.04,0:08:53.05,Main,Enta,0,0,0,,Keppi！
+Dialogue: 0,0:08:53.05,0:08:54.39,Main,Enta,0,0,0,,有什麼事啊！
+Dialogue: 0,0:08:55.42,0:08:56.75,Main,Keppi,0,0,0,,餓死了…
+Dialogue: 0,0:08:56.75,0:08:58.26,Main,Keppi,0,0,0,,救救我  呱呱
+Dialogue: 0,0:09:02.63,0:09:03.61,Main,Toi,0,0,0,,找到了
+Dialogue: 0,0:09:03.61,0:09:04.41,Main,Toi,0,0,0,,喂！
+Dialogue: 0,0:09:04.41,0:09:05.30,Main,Toi,0,0,0,,快下來！
+Dialogue: 0,0:09:05.30,0:09:06.99,Main,Kazuki,0,0,0,,喵太郎  快跑！
+Dialogue: 0,0:09:07.91,0:09:08.83,Main,Toi,0,0,0,,別礙事！
+Dialogue: 0,0:09:08.83,0:09:09.40,Main,Kazuki,0,0,0,,我就要妨礙你！
+Dialogue: 0,0:09:09.40,0:09:10.64,Main,Toi,0,0,0,,別跟著我！
+Dialogue: 0,0:09:10.64,0:09:11.40,Main,Kazuki,0,0,0,,我就要跟著你！
+Dialogue: 0,0:09:11.40,0:09:13.01,Top,Toi,0,0,0,,在這裡面麼
+Dialogue: 0,0:09:22.57,0:09:23.74,Main,Toi,0,0,0,,明天再說吧
+Dialogue: 0,0:09:24.30,0:09:25.37,Main,Kazuki,0,0,0,,好啊
+Dialogue: 0,0:09:28.04,0:09:33.28,Main,Ninja,0,0,0,,那麼… 讓我們開始相親相愛的  情侶約會吧！
+Dialogue: 0,0:09:33.28,0:09:34.92,Main,Kazuki,0,0,0,,當真!?
+Dialogue: 0,0:09:35.40,0:09:37.16,Main,Keppi,0,0,0,,真是美味啊  呱呱
+Dialogue: 0,0:09:37.16,0:09:38.93,Main,Keppi,0,0,0,,真是美味啊  呱呱
+Dialogue: 0,0:09:38.93,0:09:40.03,Main,Enta,0,0,0,,好  好
+Dialogue: 0,0:09:40.03,0:09:41.85,Main,Enta,0,0,0,,太好了  呱呱
+Dialogue: 0,0:09:41.85,0:09:45.73,Main,Enta,0,0,0,,真是的  給一稀發消息從來都是已讀不回啊
+Dialogue: 0,0:09:45.73,0:09:46.94,Main,Enta,0,0,0,,要怎麼辦呢？
+Dialogue: 0,0:09:49.67,0:09:54.19,Main,Keppi,0,0,0,,此時此刻  那些傢伙們的魔爪也在暗中伸向這裡
+Dialogue: 0,0:09:54.19,0:09:55.65,Main,Enta,0,0,0,,魔爪？
+Dialogue: 0,0:09:57.56,0:09:58.52,Main,Enta,0,0,0,,一稀？
+Dialogue: 0,0:09:59.59,0:10:00.95,Main,Enta,0,0,0,,什麼啊  是姐姐啊
+Dialogue: 0,0:10:01.52,0:10:05.45,Main,Enta,0,0,0,,真是的  就這樣悠哉游哉地去約會  也不考慮考慮我的心情
+Dialogue: 0,0:10:05.45,0:10:08.26,Main,Keppi,0,0,0,,明明身負打倒河童喪屍的使命
+Dialogue: 0,0:10:08.26,0:10:10.95,Main,Keppi,0,0,0,,他們兩個也太沒危機感了
+Dialogue: 0,0:10:10.95,0:10:11.69,Main,Enta,0,0,0,,哈？
+Dialogue: 0,0:10:12.11,0:10:13.17,Main,Enta,0,0,0,,你在說什…
+Dialogue: 0,0:10:14.17,0:10:16.72,Main,Enta,0,0,0,,久慈和…一稀？
+Dialogue: 0,0:10:18.58,0:10:20.24,Main,Toi,0,0,0,,站住！
+Dialogue: 0,0:10:20.24,0:10:21.97,Main,Toi,0,0,0,,你個肥貓
+Dialogue: 0,0:10:22.48,0:10:24.47,Main,Ninja,0,0,0,,那邊的相親相愛情侶！
+Dialogue: 0,0:10:25.11,0:10:27.17,Main,Ninja,0,0,0,,相牽的手是愛的證明！
+Dialogue: 0,0:10:27.17,0:10:28.93,Main,Ninja,0,0,0,,絕對不要放手！
+Dialogue: 0,0:10:30.66,0:10:33.43,Main,Kazuki,0,0,0,,對不起我放手了 dish  darling！
+Dialogue: 0,0:10:33.43,0:10:34.48,Main,Toi,0,0,0,,不  給我放手啊
+Dialogue: 0,0:10:34.48,0:10:37.53,Main,Kazuki,0,0,0,,沒有牽手的情侶會被強行趕出去
+Dialogue: 0,0:10:39.74,0:10:41.49,Main,Kazuki,1500,0,0,,快跑！
+Dialogue: 0,0:10:40.07,0:10:41.49,Main,Toi,600,0,0,,站住！
+Dialogue: 0,0:10:50.10,0:10:51.38,Main,Toi,0,0,0,,怎麼跑那麼高的地方去了
+Dialogue: 0,0:10:53.38,0:10:55.59,Main,Kazuki,0,0,0,,喵太郎  快跑！
+Dialogue: 0,0:10:55.59,0:10:57.13,Main,Toi,0,0,0,,你夠了吧
+Dialogue: 0,0:10:57.64,0:11:01.22,Main,Kazuki,0,0,0,,喵太郎是將我和春河連繫在一起的貓
+Dialogue: 0,0:11:01.22,0:11:02.64,Main,Toi,0,0,0,,春河到底是誰啊？
+Dialogue: 0,0:11:03.10,0:11:06.14,Main,Kazuki,0,0,0,,春河是我寶貴的弟弟
+Dialogue: 0,0:11:08.55,0:11:10.54,Main,Toi,0,0,0,,要我放棄這貓也行
+Dialogue: 0,0:11:10.54,0:11:11.37,Main,Kazuki,0,0,0,,真的？
+Dialogue: 0,0:11:11.37,0:11:13.65,Main,Toi,0,0,0,,作為交換  你得把希望之盤交給我
+Dialogue: 0,0:11:13.65,0:11:14.90,Main,Kazuki,0,0,0,,這…
+Dialogue: 0,0:11:15.71,0:11:16.53,Main,Kazuki,0,0,0,,不行
+Dialogue: 0,0:11:16.53,0:11:18.91,Main,Toi,0,0,0,,你也太自私任性了吧
+Dialogue: 0,0:11:18.91,0:11:21.53,Main,Kazuki,0,0,0,,久慈才是  你到底和喵太郎什麼仇什麼怨啊
+Dialogue: 0,0:11:21.53,0:11:26.01,Main,Man,0,0,0,,在今天凌晨發現的奇怪屍體的身份已經查明了
+Dialogue: 0,0:11:26.01,0:11:27.56,Main,Man,0,0,0,,貓山毛吉
+Dialogue: 0,0:11:27.56,0:11:29.36,Main,Man,0,0,0,,三十八歲  無職
+Dialogue: 0,0:11:29.36,0:11:32.54,Main,Man,0,0,0,,這個男的在半年前  作為不斷捉走寵物貓
+Dialogue: 0,0:11:30.54,0:11:31.72,Top,Man,0,0,0,,貓！貓！
+Dialogue: 0,0:11:32.00,0:11:32.94,Top,,0,0,0,,貓！貓！
+Dialogue: 0,0:11:32.57,0:11:37.14,Main,Man,0,0,0,,剝去其全身毛皮的「淺草剝貓皮事件」的嫌疑人
+Dialogue: 0,0:11:33.68,0:11:34.44,Top,,0,0,0,,貓！貓！
+Dialogue: 0,0:11:37.14,0:11:38.30,Main,Man,0,0,0,,一度被逮捕
+Dialogue: 0,0:11:35.20,0:11:36.00,Top,,0,0,0,,貓！貓！
+Dialogue: 0,0:11:38.30,0:11:41.31,Main,Man,0,0,0,,但因證據不足後將其釋放
+Dialogue: 0,0:11:36.84,0:11:38.24,Top,,0,0,0,,水獺！騙人！騙人！
+Dialogue: 0,0:11:38.24,0:11:40.24,Top,,0,0,0,,去奪過來！貓！貓！
+Dialogue: 0,0:11:40.24,0:11:41.44,Top,,0,0,0,,水獺！騙人！騙人！
+Dialogue: 0,0:11:41.31,0:11:43.76,Main,Man,0,0,0,,我們將以謀殺的思路展開搜查
+Dialogue: 0,0:11:41.44,0:11:43.44,Top,,0,0,0,,去奪過來！貓！貓！
+Dialogue: 0,0:11:45.18,0:11:47.43,Main,Reo,0,0,0,,那是我們做的
+Dialogue: 0,0:11:47.86,0:11:49.93,Main,Mabu,0,0,0,,那已經是昨天的事了
+Dialogue: 0,0:11:49.93,0:11:51.44,Top,Nekoyama,0,0,0,,我才喵幹壞事！
+Dialogue: 0,0:11:51.44,0:11:53.31,Main,Nekoyama,0,0,0,,這是非法逮捕！
+Dialogue: 0,0:11:54.56,0:11:57.02,Main,Mabu,0,0,0,,既無開始  亦無終結
+Dialogue: 0,0:11:57.02,0:11:58.82,Main,Mabu,0,0,0,,無法相連的人們
+Dialogue: 0,0:11:59.13,0:12:01.98,Main,Reo,0,0,0,,來打開一扇門吧
+Dialogue: 0,0:12:04.50,0:12:06.02,Main,Reo,0,0,0,,是欲望
+Dialogue: 0,0:12:07.56,0:12:08.29,Main,Reo,0,0,0,,還是愛？
+Dialogue: 0,0:12:09.08,0:12:12.43,Main,Reo,0,0,0,,欲望… 榨取！
+Dialogue: 0,0:13:25.03,0:13:29.07,Main,Reo,0,0,0,,將欲望{\1aFF\3aFF\t(2402,2403,\1a00\3a00)}榨取來吧
+Dialogue: 0,0:13:44.42,0:13:45.79,Top,Sara,0,0,0,,下一條新聞 dish
+Dialogue: 0,0:13:45.79,0:13:50.26,Top,Sara,0,0,0,,淺草一帶發生了貓飛上天的事件
+Dialogue: 1,0:13:50.26,0:13:52.77,Top,Sara,0,0,0,,{\fs40\bord2\an9}註：這裡是捏他80年代流行的暴走族風格貓角色\N「なめ猫」的catch phrase「なめんなよ」
+Dialogue: 2,0:13:51.13,0:13:52.76,Top,Sara,0,0,0,,別惹我喵
+Dialogue: 0,0:13:55.78,0:13:56.94,Main,Toi,0,0,0,,居然逃到那種地方
+Dialogue: 0,0:13:57.46,0:13:58.77,Main,Toi,0,0,0,,給我等著  你這肥貓!
+Dialogue: 0,0:13:59.17,0:14:02.15,Main,Toi,0,0,0,,你在那別動  這就來抓你
+Comment: 0,0:13:58.99,0:13:59.49,Main,,0,0,0,,喵
+Comment: 0,0:14:01.46,0:14:02.15,Main,,0,0,0,,喵
+Dialogue: 0,0:14:11.58,0:14:12.60,Main,Toi,0,0,0,,這是…
+Dialogue: 0,0:14:13.10,0:14:14.41,Main,Kazuki,0,0,0,,不會吧…
+Dialogue: 0,0:14:14.41,0:14:16.65,Main,Keppi,0,0,0,,是河童喪屍搞的鬼  呱呱
+Dialogue: 0,0:14:19.80,0:14:21.39,Main,Enta,0,0,0,,一稀  你沒事吧？
+Dialogue: 0,0:14:28.93,0:14:32.18,Main,Haruka,0,0,0,,莎拉  不好了！   喵太郎不見了！
+Dialogue: 0,0:14:32.58,0:14:34.38,Main,Kazuki,0,0,0,,春河在向我求助
+Dialogue: 0,0:14:35.42,0:14:37.56,Main,Toi,0,0,0,,沒有那個葉子我就搞不到錢…
+Dialogue: 0,0:14:37.56,0:14:42.33,Main,Keppi,0,0,0,,你們三個變身河童去拔出尻子玉就能解決所有問題了  呱呱
+Dialogue: 0,0:14:42.33,0:14:42.80,Main,Enta,0,0,0,,不行！
+Dialogue: 0,0:14:42.80,0:14:43.57,Main,Keppi,0,0,0,,小心點！
+Dialogue: 0,0:14:43.57,0:14:46.32,Main,Enta,0,0,0,,久慈 不要再靠近一稀了！
+Dialogue: 0,0:14:46.32,0:14:47.60,Main,Kazuki,0,0,0,,燕太
+Dialogue: 0,0:14:47.60,0:14:50.82,Main,Enta,0,0,0,,這個是他的東西 這傢伙不是好人！
+Dialogue: 0,0:14:50.82,0:14:51.64,Main,Toi,0,0,0,,你…
+Dialogue: 0,0:14:51.64,0:14:53.23,Main,Toi,0,0,0,,從哪裡搞來的？
+Dialogue: 0,0:14:53.23,0:14:54.15,Main,Toi,0,0,0,,還給我！
+Dialogue: 0,0:14:54.94,0:14:57.83,Main,Kazuki,0,0,0,,不管是誰  都有不可告人的秘密吧
+Dialogue: 0,0:14:58.43,0:15:00.99,Main,Kazuki,0,0,0,,為了春河  我要去救喵太郎
+Dialogue: 0,0:15:01.86,0:15:03.08,Main,Kazuki,0,0,0,,為此我需要久慈
+Dialogue: 0,0:15:06.14,0:15:10.59,Main,Keppi,0,0,0,,欲望… 榨取！
+Dialogue: 0,0:15:33.49,0:15:37.79,Main,Keppi,0,0,0,,來吧  用Sarazanmai一鼓作氣連結在一起吧  呱呱
+Dialogue: 0,0:15:37.79,0:15:40.29,Main,Enta,0,0,0,,又要為了尻子玉玩火搞水桶接力嗎？
+Dialogue: 0,0:15:40.29,0:15:43.32,Main,Toi,0,0,0,,和上次一樣  秘密會洩漏出來對吧？
+Dialogue: 0,0:15:43.32,0:15:45.79,Top,Keppi,0,0,0,,戰鬥自然是伴隨著風險的  呱呱
+Dialogue: 0,0:15:46.11,0:15:49.49,Top,Zombie,0,0,0,,別惹我喵
+Dialogue: 0,0:15:51.49,0:15:54.80,Main,Kazuki,0,0,0,,不管怎樣  我都要救出喵太郎
+Dialogue: 0,0:16:11.19,0:16:15.01,Top,Zombie,0,0,0,,別惹我喵
+Dialogue: 0,0:16:15.70,0:16:19.63,Top,,0,0,0,,別惹我喵
+Dialogue: 0,0:16:34.34,0:16:37.35,Main,Zombie,0,0,0,,別過來喵  不要暴露我的欲望喵
+Dialogue: 0,0:16:46.81,0:16:48.25,Main,Zombie,0,0,0,,我被女友甩了
+Dialogue: 0,0:16:48.25,0:16:50.32,Main,Zombie,0,0,0,,比起我貓才更重要  她這麼說！
+Dialogue: 0,0:16:50.32,0:16:52.82,Main,Enta,0,0,0,,因為被甩  所以向貓復仇嗎？
+Dialogue: 0,0:16:53.14,0:16:54.82,Main,Toi,0,0,0,,誰管他  真是無聊
+Dialogue: 0,0:16:57.67,0:16:59.27,Main,,0,0,0,,喵
+Dialogue: 0,0:16:59.27,0:17:01.27,Main,,0,0,0,,我噴{Pusher}
+Dialogue: 0,0:17:04.50,0:17:06.02,Main,,0,0,0,,我噴噴噴噴噴…  噴？
+Dialogue: 0,0:16:54.82,0:16:56.82,Main,Kazuki,0,0,0,,喵太郎  你一定要平安無事啊！
+Dialogue: 0,0:17:10.38,0:17:11.48,Main,Kazuki,0,0,0,,一氣呵成
+Dialogue: 0,0:17:17.19,0:17:20.31,Main,Song,0,0,0,,來珠不易！
+Dialogue: 0,0:17:25.81,0:17:27.69,Main,,0,0,0,,想變成貓
+Dialogue: 0,0:17:27.69,0:17:29.31,Main,,0,0,0,,嫉妒貓咪
+Dialogue: 0,0:17:29.31,0:17:30.60,Main,Enta,0,0,0,,我明白了
+Dialogue: 0,0:17:30.60,0:17:34.32,Main,Enta,0,0,0,,為了變成貓  他才收集貓毛的
+Dialogue: 0,0:17:34.75,0:17:36.84,Main,Enta,0,0,0,,為了得到心上人的愛
+Dialogue: 0,0:17:39.26,0:17:43.79,Main,Zombie,0,0,0,,被發現了喵！
+Dialogue: 0,0:17:47.04,0:17:51.21,Main,Enta,0,0,0,,{\be1}Sara　{\1aFF\3aFF\t(1000,1001,\1a00\3a00)}Sara　{\1aFF\3aFF\t(2090,2091,\1a00\3a00)}Sara
+Dialogue: 0,0:17:51.65,0:17:53.06,Main,Kazuki,0,0,0,,Sarazanmai!
+Dialogue: 0,0:18:16.84,0:18:18.33,Main,Voice,0,0,0,,開始洩漏
+Dialogue: 0,0:18:18.92,0:18:21.78,Main,Haruka,0,0,0,,好想有天能養隻貓啊
+Dialogue: 0,0:18:23.43,0:18:25.58,Main,Kazuki,0,0,0,,這是…那個時候的
+Dialogue: 0,0:18:34.52,0:18:36.46,Main,Toi,0,0,0,,矢逆和肥貓
+Dialogue: 0,0:18:37.43,0:18:38.70,Main,Toi,0,0,0,,這是在幹什麼？
+Dialogue: 0,0:18:45.73,0:18:47.49,Main,Kazuki,0,0,0,,瞧  這是喵太郎
+Dialogue: 0,0:18:47.49,0:18:48.53,Main,,0,0,0,,啊~！
+Dialogue: 0,0:18:49.97,0:18:51.89,Main,Enta,0,0,0,,一稀  搶了別人家的寵物貓
+Dialogue: 0,0:18:51.89,0:18:53.73,Main,Enta,0,0,0,,硬是把它閹了當成社區貓嗎？
+Dialogue: 0,0:18:55.29,0:18:57.15,Main,Kazuki,0,0,0,,是這樣的  可是
+Dialogue: 0,0:18:57.15,0:19:00.99,Main,Kazuki,0,0,0,,那是因為我想讓春河開心！
+Dialogue: 0,0:19:08.50,0:19:10.41,Main,Keppi,0,0,0,,欲望  消化
+Dialogue: 0,0:19:10.41,0:19:13.56,Main,Zombie,0,0,0,,死喪喪喵~
+Dialogue: 0,0:19:20.86,0:19:23.14,Main,Mabu,0,0,0,,看來有人礙事呢
+Dialogue: 0,0:19:23.14,0:19:24.29,Main,Reo,0,0,0,,加快速度吧
+Dialogue: 0,0:19:24.29,0:19:28.14,Main,Reo,0,0,0,,只有緊緊攥住欲望的人才能得到未來
+Dialogue: 0,0:19:32.18,0:19:32.90,Main,Enta,0,0,0,,一稀
+Dialogue: 0,0:19:33.14,0:19:34.29,Main,Enta,0,0,0,,我說啊
+Dialogue: 0,0:19:34.29,0:19:38.32,Main,Enta,0,0,0,,我明白春河對你很重要  但是偷貓還是不太好吧
+Dialogue: 0,0:19:41.85,0:19:43.88,Main,Enta,0,0,0,,而且  喵太郎也太可憐…
+Dialogue: 0,0:19:46.84,0:19:48.35,Main,Enta,0,0,0,,你幹什麼啊！
+Dialogue: 0,0:19:49.79,0:19:51.65,Main,Toi,0,0,0,,被奪去的東西唯有奪回來
+Dialogue: 0,0:19:52.19,0:19:54.17,Main,Toi,0,0,0,,這條葉子我就拿走了
+Dialogue: 0,0:19:57.18,0:19:59.17,Main,Toi,0,0,0,,我沒把這個扔掉算好的了
+Dialogue: 0,0:20:00.92,0:20:02.37,Main,Toi,0,0,0,,把那個盤子交給我
+Dialogue: 0,0:20:03.02,0:20:03.68,Main,Keppi,0,0,0,,不行
+Dialogue: 0,0:20:04.22,0:20:06.89,Main,Toi,0,0,0,,我和你沒有什麼區別
+Dialogue: 0,0:20:06.89,0:20:10.90,Main,Toi,0,0,0,,都是為了想要的東西  什麼都做得出來的人
+Dialogue: 0,0:20:11.71,0:20:14.61,Main,Enta,0,0,0,,一稀是想為了弟弟使用那個盤子
+Dialogue: 0,0:20:14.61,0:20:16.08,Main,Enta,0,0,0,,和你不一樣！
+Dialogue: 0,0:20:16.08,0:20:17.96,Main,Keppi,0,0,0,,我忘記說了  呱呱
+Dialogue: 0,0:20:18.69,0:20:21.21,Main,Keppi,0,0,0,,那個銀的希望之盤
+Dialogue: 0,0:20:21.21,0:20:24.20,Main,Keppi,0,0,0,,必須要收集五枚  方能令願望實現  呱呱
+Dialogue: 0,0:20:24.31,0:20:25.10,Main,,0,0,0,,哈？
+Dialogue: 0,0:20:25.66,0:20:27.45,Main,Enta,0,0,0,,這種事你早說啊！
+Dialogue: 0,0:20:28.90,0:20:30.76,Main,Toi,0,0,0,,下一次歸我了
+Dialogue: 0,0:20:37.43,0:20:41.08,Main,Kazuki,0,0,0,,就算這樣  為了春河我也…
+Dialogue: 0,0:22:19.15,0:22:21.15,Main,Kazuki,0,0,0,,Mission complete
+Dialogue: 0,0:22:21.72,0:22:24.32,Main,Haruka,0,0,0,,是喵太郎！它平安無事呢！
+Dialogue: 0,0:22:24.66,0:22:28.15,Main,Haruka,0,0,0,,果然莎拉的自拍會帶來好運呢！
+Dialogue: 0,0:22:28.87,0:22:30.46,Main,Kazuki,0,0,0,,太好了…
+Dialogue: 0,0:22:50.59,0:22:53.10,Main,Cat,0,0,0,,什喵！
+Comment: 0,0:17:19.45,0:17:20.31,Sign_Others,,0,0,0,,Butt
+Comment: 0,0:17:23.81,0:17:25.81,Sign_Others,,0,0,0,,Butt
+Comment: 0,0:15:24.77,0:15:26.78,Sign_Others,Text,0,0,0,,Shirikodama
+Comment: 0,0:15:24.77,0:15:26.78,Sign_Others,Text,0,0,0,,Extraction
+Comment: 0,0:12:02.55,0:12:03.38,Sign_Others,Text,0,0,0,,Extract
+Comment: 0,0:04:20.15,0:04:22.15,Sign_Others,,0,0,0,,ア公園一帶
+Comment: 0,0:19:19.13,0:19:20.15,Sign_Others,Text,0,0,0,,{\pos(638.491,218.25)\frz337\fad(1,367)}Nekoyama
+Comment: 0,0:15:52.80,0:15:54.49,Sign_Others,,0,0,0,,Kaminarimon
+Comment: 0,0:17:26.90,0:17:29.31,Sign_Others,,0,0,0,,ttuB
+Comment: 0,0:17:27.75,0:17:29.31,Sign_Others,Text,0,0,0,,{\pos(726.792,472.5)\frx6\fry22\frz4.74}Nekoyama
+Comment: 0,0:17:30.75,0:17:34.32,Sign_Others,Text,0,0,0,,Nekoyama
+Comment: 0,0:17:54.17,0:17:54.90,Sign_Others,,0,0,0,,Butt
+Comment: 0,0:18:15.69,0:18:18.33,Sign_Others,Text,0,0,0,,Leak
+Comment: 0,0:18:18.67,0:18:23.22,Sign_Others,Text,0,0,0,,Leak
+Comment: 0,0:18:31.98,0:18:38.86,Sign_Others,Text,0,0,0,,Leak
+Comment: 0,0:18:45.03,0:18:49.37,Sign_Others,,0,0,0,,Leak
+Dialogue: 0,0:22:53.10,0:22:55.10,Main,,0,0,0,,
+
+[Aegisub Extradata]
+Data: 2,a-mo,e{"uuid"#3A"50f3541d-92c3-4958-b4f7-fe18b76161cf"#2C"originalText"#3A"{\\an7\\fs30\\b1\\bord0\\c&H323232&\\pos(1353.6#2C299.8)}#E8#8E#8E#E6#8B#89\\N\\NGood morning#E2#98#86"}
+Data: 3,a-mo,e{"uuid"#3A"cbfe1116-d65a-46c5-9435-0cdecd5facc2"#2C"originalText"#3A"{\\pos(0#2C0)\\an7\\p1\\bord0\\blur1}m 1344 292 l 1346 382 1566 380 1563 293"}
+Data: 14,a-mo,u?S*V>7FE)DIC:4*G:'9T:G9N.$5Q:CUU:$.C,4FC9D!N.$5S/$%R:D=Q:D2C)CQC<X*J:WFO97R5:8BU)DIC?VR=97YX8&RC-6R=:H-W-&R=9G^S:$"=8'-G3$-S-T)T-C:=8':B?#UQ,D!S8&RQ<X-I.T5S,$9V.CF=8':S?$"=8':S?4*=8':S?D%S,D1V@?;9L_77N?7EKOG$DC%A8&R/8&R/Z;[$Z<GTZ;[*ZJ?AZ,K,Z:'C)3*^
+Data: 15,a-mo,e{"uuid"#3A"18c90ddc-ab9c-4309-9763-c30b66598131"#2C"originalText"#3A"{\\pos(0#2C0)\\\\clip()\\an7\\p1\\bord0\\blur1}m 747 650 l 793 814 1264 692 1224 540"}

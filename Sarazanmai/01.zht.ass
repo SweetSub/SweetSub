@@ -1,0 +1,1364 @@
+﻿[Script Info]
+Comment: Processed by 繁化姬 dict-2128c078-r851 @ 2019/04/19 22:49:42 | https://zhconvert.org
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+Title: [SweetSub] Sarazanmai - 01
+Original Script: 翻译：tastySugar、絶対女装黙示録
+Original Translation: 主题曲翻译：ssnake　插入曲翻译：絶対女装黙示録、Spica
+Original Editing: 校对：ssnake、Spica
+Original Timing: 后期：ssnake、natsukage
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Source Han Sans TC Medium,80,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,2,0,1,3,0,2,0,0,40,0
+Style: Top,Source Han Sans TC Medium,80,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,2,0,1,3,0,8,0,0,40,0
+Style: Title,Source Han Serif TC Medium,80,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,0,0,60,1
+Style: Ruby,Source Han Sans TC Medium,40,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,2,0,1,2,0,2,0,0,40,0
+Style: Sign_Gothic,Source Han Sans TC Medium,80,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,0,0,60,1
+Style: Sign_Kanteiryu,DFKanTingLiu-B5 Otf W9,64,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,2,0,1,4,0,2,0,0,60,1
+Style: Sign_Others,Source Han Sans TC Medium,80,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,0,0,63,1
+Style: Sign_Rounded,方正准圆_GBK,80,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,0,0,63,1
+Style: OP_JP - Top Layer,Source Han Serif SemiBold,60,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,2,0,1,0,0,2,40,40,60,0
+Style: OP_JP - Bottom Layer,Source Han Serif SemiBold,60,&H00000000,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,2,0,1,0,4,2,40,40,60,0
+Style: OP_CN - Top Layer,Source Han Serif TC SemiBold,60,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,3,0,1,0,0,8,40,40,60,0
+Style: OP_CN - Bottom Layer,Source Han Serif TC SemiBold,60,&H00000000,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,3,0,1,0,4,8,40,40,60,0
+Style: STAFF - Top Layer,Source Han Serif TC SemiBold,50,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,3,0,1,0,0,7,40,40,60,0
+Style: STAFF - Bottom layer,Source Han Serif TC SemiBold,50,&H00000000,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,3,0,1,0,4,7,40,40,60,0
+Style: ED_JP - Top Layer,Source Han Serif Heavy,50,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,2,0,1,1,0,2,40,40,60,0
+Style: ED_CN - Top Layer,Source Han Serif TC Heavy,50,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,2,0,1,1,0,8,40,40,60,0
+Style: IN_JP_I,Source Han Serif Heavy,60,&H00FFFFFF,&H000019FF,&H00020814,&H28221A87,0,0,0,0,100,100,2,0,1,0,2,7,40,40,90,0
+Style: IN_CN_I,Source Han Serif TC Heavy,60,&H00FFFFFF,&H000019FF,&H00020814,&H28221A87,0,0,0,0,100,100,2,0,1,0,2,7,40,40,40,0
+Style: IN_JP_II,Source Han Serif Heavy,60,&H00FFFFFF,&H000019FF,&H0044654E,&H00000000,0,0,0,0,100,100,2,0,1,2,1,7,40,40,90,0
+Style: IN_JP_II - bottom,Source Han Serif Heavy,60,&H00FFFFFF,&H000019FF,&H0044654E,&H00000000,0,0,0,0,100,100,2,0,1,2,1,2,40,40,40,0
+Style: IN_CN_II,Source Han Serif TC Heavy,60,&H00FFFFFF,&H000019FF,&H0044654E,&H00000000,0,0,0,0,100,100,2,0,1,2,1,7,40,40,40,0
+Style: IN_CN_II - bottom,Source Han Serif TC Heavy,60,&H00FFFFFF,&H000019FF,&H0044654E,&H00000000,0,0,0,0,100,100,2,0,1,2,1,2,40,40,90,0
+Style: ED_JP - Bottom Layer,Source Han Serif Heavy,50,&H00000000,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,2,0,1,0,4,2,40,40,60,0
+Style: ED_CN - Bottom Layer,Source Han Serif TC Heavy,50,&H00000000,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,2,0,1,0,4,8,40,40,60,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.01,Main,,0,0,0,,Ruby
+Dialogue: 0,0:03:37.13,0:03:39.69,Ruby,Sara,0,0,0,,{\pos(1088,54)}sara
+Dialogue: 0,0:03:39.69,0:03:41.61,Ruby,Sara,0,0,0,,{\pos(1004,54)}sara
+Dialogue: 2,0:03:55.63,0:03:57.89,Ruby,Kazuki,0,0,0,,{\pos(818,976)}sara
+Dialogue: 0,0:04:08.62,0:04:13.10,Ruby,Sara,0,0,0,,{\pos(1188,976)}sara
+Dialogue: 0,0:05:12.01,0:05:15.91,Ruby,Sara,0,0,0,,{\pos(362,976)}sara
+Dialogue: 0,0:18:09.43,0:18:13.53,Ruby,Sara,0,0,0,,{\pos(362,976)}sara
+Dialogue: 0,0:19:31.64,0:19:36.52,Ruby,Kazuki,0,0,0,,{\pos(930,976)}sara
+Dialogue: 0,0:20:19.45,0:20:22.24,Ruby,Haruka,0,0,0,,{\pos(1030,976)}sara
+Dialogue: 0,0:07:16.41,0:07:18.16,Ruby,,0,0,0,,{\bord0\1c&H000000&\pos(144,56)}sara
+Dialogue: 0,0:15:10.73,0:15:11.48,Ruby,,0,0,0,,{\pos(908,976)\fad(0,250)}sara
+Dialogue: 0,0:15:11.22,0:15:11.97,Ruby,,0,0,0,,{\move(858,976,908,976)\fad(0,250)}sara
+Dialogue: 0,0:15:11.36,0:15:12.11,Ruby,,0,0,0,,{\move(958,976,908,976)\fad(0,250)}sara
+Dialogue: 1,0:03:31.98,0:03:34.23,Ruby,Sara,0,0,0,,{\pos(838,976)}sara
+Dialogue: 1,0:03:31.98,0:03:34.23,Ruby,Sara,0,0,0,,{\pos(1151,976)}sara
+Dialogue: 0,0:09:56.54,0:09:58.41,Ruby,Kazuki,0,0,0,,{\pos(906,976)}sara
+Dialogue: 0,0:04:15.78,0:04:17.11,Ruby,Sara,0,0,0,,{\pos(960,976)}good sa-luck
+Dialogue: 0,0:04:17.50,0:04:19.11,Ruby,Kazuki,0,0,0,,{\pos(930,976)}good sa-luck
+Dialogue: 0,0:17:23.89,0:17:27.10,Ruby,Sara,0,0,0,,{\pos(1310,976)}good sa-luck
+Dialogue: 4,0:11:11.19,0:11:13.69,Ruby,ruby,0,0,0,,{\fn汉仪雅酷黑 95W\fs20\b1\an8\c&HFFB400&\bord1\blur2\3c&HFC7214&\pos(1041,16)\fad(0,450)}charge
+Dialogue: 0,0:15:53.13,0:15:56.47,Ruby,Kazuki,0,0,0,,{\pos(902,976)}kappa
+Dialogue: 0,0:20:09.72,0:20:12.55,Ruby,Kazuki,0,0,0,,{\pos(933,976)}harukappa
+Comment: 0,0:00:00.00,0:00:00.01,Main,,0,0,0,,Sign
+Dialogue: 0,0:13:35.46,0:13:37.96,Sign_Others,,0,0,0,,{\fn汉仪雅酷黑 95W}{\fad(1020,0)\b1\fs90\bord0\shad4\pos(960,860)}吾妻橋{\fnSource Han Sans TC Medium} @ {\fn汉仪雅酷黑 95W}欲望領域
+Dialogue: 0,0:00:04.98,0:00:09.69,Sign_Gothic,,0,0,0,,{\bord4\3c&H8E3DE8&\c&H000000&\fs60\an8\fad(0,300)}想 要 相 連
+Dialogue: 0,0:16:52.19,0:16:53.49,Sign_Gothic,,0,0,0,,{\blur6\fad(600,0)\bord6\3c&H75360A&\c&H000000&\org(960,550)\fr180\t(620,790,1,\fr0)\t(790,830,1,\fr-5)\t(830,880,1,\fr0)}A
+Dialogue: 0,0:17:04.37,0:17:05.50,Sign_Gothic,,0,0,0,,{\blur6\fad(570,0)\bord6\3c&H75360A&\c&HE0DAD1&\pos(950,490)}A
+Dialogue: 0,0:17:19.12,0:17:22.79,Sign_Others,,0,0,0,,{\fnSource Han Serif TC}{\fad(0,332)\b1\fsp4\bord0\pos(960,1060)\shad4\4c&H000000&\4a&HD2&}從現在開始要做這個
+Dialogue: 0,0:19:07.21,0:19:07.75,Sign_Others,,0,0,0,,{\fnSource Han Serif TC}{\be1}{\bord0\fs40\c&H3B3FE9&\b1\pos(952.943,224)}{\fad(50,0)\c&H3E3BBE&}沒有開始
+Dialogue: 0,0:19:07.21,0:19:07.75,Sign_Others,,0,0,0,,{\fnSource Han Serif TC}{\be1}{\bord0\fs40\c&H3B3FE9&\b1\pos(679.333,651.333)}{\fad(50,0)\c&H3E3BBE&}沒有相連
+Dialogue: 0,0:19:07.21,0:19:07.75,Sign_Others,,0,0,0,,{\fnSource Han Serif TC}{\be1}{\bord0\fs40\c&H3B3FE9&\b1\pos(1234.8,658.4)}{\fad(50,0)\c&H3E3BBE&}沒有終結
+Dialogue: 1,0:13:09.43,0:13:11.93,Sign_Gothic,,0,0,0,,{\an1\pos(30,1050)\fs60\bord0\blur1}{\c&H347B48&\fs40}收件人地址: {\c&H000000&\fs60}吾妻橋\N{\c&H347B48&\fs40}委託人: {\c&H000000&\fs60}箱田收丸\N{\c&H347B48&\fs40}希望投遞日期: {\c&H000000&\fs60}午後\N{\c&H347B48&\fs40}物品名：{\c&H000000&\fs100}悠的欲望
+Dialogue: 0,0:13:09.43,0:13:11.93,Sign_Gothic,,0,0,0,,{\an7\pos(0,0)\fs60\bord0\p1\c&HFFFFFF&\1a&H68&\blur10}m 12 760 l 14 1056 480 1056 480 760
+Dialogue: 2,0:01:36.86,0:01:40.99,Sign_Gothic,,0,0,0,,{\fs40\bord0\c&H8E8D91&\frz148\pos(984.571,280.857)\fax-0.3\frx40\fad(300,0)}信息
+Dialogue: 2,0:01:36.86,0:01:40.99,Sign_Gothic,,0,0,0,,{\fs30\bord0\c&H8E8D91&\fax-0.3\frx40\fad(300,0)\fn方正准圆_GBK\frz151.1\pos(1214.629,341.143)}晚安
+Dialogue: 0,0:22:53.01,0:22:55.02,Sign_Others,,0,0,0,,{\fnSource Han Serif TC\b1\fs50\an4\pos(480,674)\bord0}本故事純屬虛構。\N\N所有登場人物及團體均與現實無關。
+Comment: 0,0:00:00.00,0:00:00.01,Main,,0,0,0,,
+Dialogue: 0,0:13:30.54,0:13:31.85,Sign_Kanteiryu,,0,0,0,,{\pos(960,60)\fad(500,500)\an8\3c&HA5BBC0&\1c&H212730&\fs50}欲望之箱
+Dialogue: 1,0:13:31.35,0:13:32.50,Sign_Kanteiryu,,0,0,0,,{\pos(960,60)\fad(500,500)\an8\3c&HA5BBC0&\1c&H212730&\fs50}欲望與箱
+Dialogue: 2,0:13:32.00,0:13:33.45,Sign_Kanteiryu,,0,0,0,,{\pos(960,60)\fad(500,0)\an8\3c&HA5BBC0&\1c&H212730&\fs50}欲望即箱
+Dialogue: 0,0:13:40.96,0:13:43.76,Sign_Kanteiryu,,0,0,0,,{\fad(500,500)\an8\3c&HA5BBC0&\1c&H212730&\fs50}河童是戰士
+Dialogue: 0,0:11:11.19,0:11:13.69,Sign_Others,,0,0,0,,{\fn汉仪雅酷黑 95W}{\fs50\pos(960,30)\b1\an8\c&HFBA818&\bord1\blur2\3c&HFC7214&\fad(0,450)}欲望 箱子 充能
+Dialogue: 2,0:00:16.91,0:00:18.91,Sign_Kanteiryu,,0,0,0,,{\an8\bord0\fs60\c&H304046&\pos(770,70)}吾
+Dialogue: 2,0:00:16.91,0:00:18.91,Sign_Kanteiryu,,0,0,0,,{\an8\bord0\fs60\c&H304046&\pos(964,70)}妻
+Dialogue: 2,0:00:16.91,0:00:18.91,Sign_Kanteiryu,,0,0,0,,{\an8\bord0\fs60\c&H304046&\pos(1158,70)}橋
+Dialogue: 0,0:00:16.91,0:00:18.91,Sign_Kanteiryu,,0,0,0,,{\an8\fs60\c&HD9E7E5&\3c&H314249&\bord3\xshad20\yshad15\4c&H000000&\4a&H96&\pos(770,62)\p1}m 0 0 l 90 0 90 70 0 70{\p0}
+Dialogue: 0,0:00:16.91,0:00:18.91,Sign_Kanteiryu,,0,0,0,,{\an8\fs60\c&HD9E7E5&\3c&H314249&\bord3\xshad0\yshad15\4c&H000000&\4a&H96&\pos(964,62)\p1}m 0 0 l 90 0 90 70 0 70{\p0}
+Dialogue: 0,0:00:16.91,0:00:18.91,Sign_Kanteiryu,,0,0,0,,{\an8\fs60\c&HD9E7E5&\3c&H314249&\bord3\xshad-20\yshad15\4c&H000000&\4a&H96&\pos(1158,62)\p1}m 0 0 l 90 0 90 70 0 70{\p0}
+Dialogue: 0,0:00:47.15,0:00:48.65,Sign_Kanteiryu,,0,0,0,,{\pos(230,90)\c&HF0E7E6&\3c&HB6694A&}河童廣場
+Dialogue: 0,0:00:47.15,0:00:48.65,Sign_Kanteiryu,,0,0,0,,{\pos(1650,90)\c&HEAEDFA&\3c&H2D47D4&}河童廣場
+Dialogue: 0,0:04:46.39,0:04:50.39,Sign_Gothic,,0,0,0,,{\pos(1440,60)\an8\bord4\c&H427F98&\3c&HC1E1E8&}小心{\c&H000000&}車內財物
+Dialogue: 0,0:05:27.80,0:05:32.31,Sign_Kanteiryu,,0,0,0,,{\pos(230,90)\c&HF0E7E6&\3c&HB6694A&}河童廣場
+Dialogue: 0,0:05:27.80,0:05:32.31,Sign_Kanteiryu,,0,0,0,,{\pos(1650,90)\c&HEAEDFA&\3c&H2D47D4&}河童廣場
+Dialogue: 0,0:07:16.41,0:07:18.16,Sign_Others,,0,0,0,,{\pos(1440,40)\an8\c&H192015&\3c&H97A283&}河童洗澡
+Dialogue: 0,0:07:16.41,0:07:18.16,Sign_Others,,0,0,0,,{\pos(200,40)\an8\c&H192015&\3c&H97A283&}盤盤開心
+Dialogue: 0,0:07:24.67,0:07:27.55,Sign_Others,,0,0,0,,{\pos(1520,40)\an8\c&H192015&\3c&HFEFEFE&}河童相撲
+Dialogue: 0,0:07:24.67,0:07:27.55,Sign_Others,,0,0,0,,{\pos(200,40)\an8\c&H192015&\3c&HFEFEFE&}嗬嗨開心
+Dialogue: 0,0:07:33.18,0:07:35.18,Sign_Others,,0,0,0,,{\an8\c&H40484B&\3c&HC1D4DC&\fn方正准圆_GBK\fs60}廚　房
+Dialogue: 0,0:12:31.98,0:12:34.73,Sign_Gothic,,0,0,0,,{\c&H22222B&\blur1\bord0\shad1\fs44\pos(1052,720)}水獺派出所
+Dialogue: 0,0:12:31.98,0:12:34.73,Sign_Gothic,,0,0,0,,{\an8\fs40\fnSource Han Sans TC\shad0\c&H6F5556&\bord1\pos(196,700)\3c&H78727C&}世界的餐具·烹飪器具 {\fnSource Han Sans TC Heavy\c&H3E3D65&\bord1\3c&H676378&\shad0\blur1}水獺
+Dialogue: 0,0:12:36.56,0:12:38.07,Sign_Gothic,,0,0,0,,{\fs40\an8\pos(1620,50)\bord1\3c&HE8D1DB&}飛女刑警 {\3c&HDBBB7D&}絕不容許犯罪dish
+Dialogue: 0,0:17:56.72,0:17:58.72,Sign_Gothic,,0,0,0,,{\pos(1440,60)\an8\bord4\c&H427F98&\3c&HC1E1E8&}謹防車內{\c&H000000&}財物被盜
+Dialogue: 0,0:09:41.97,0:09:49.52,Sign_Others,Text,0,0,0,,{\fs30\bord2\3c&H2D3335&\c&H61A1A0&\pos(948,1042)}河童王國的王子
+Dialogue: 0,0:05:37.31,0:05:39.19,Sign_Kanteiryu,,0,0,0,,{\pos(960,90)\c&HF0E7E6&\3c&HB6694A&\fs30\iclip(784,70,1148,100)}黃瓜繁盛 {\fs40}河童廣場
+Dialogue: 0,0:05:37.31,0:05:39.19,Sign_Kanteiryu,,0,0,0,,{\pos(960,90)\c&HEAEDFA&\3c&H2D47D4&\fs30\clip(784,70,1148,100)}黃瓜繁盛 {\fs40}河童廣場
+Comment: 0,0:00:00.00,0:00:00.01,Main,,0,0,0,,
+Dialogue: 0,0:03:20.72,0:03:27.97,Sign_Others,,0,0,0,,{\fn方正剪纸_GBK\blur1\fs40\an8\pos(290,10)\c&H9755FE&\3c&HFFFFFF&}淺草皿TV
+Dialogue: 0,0:03:24.22,0:03:26.47,Sign_Others,,0,0,0,,{\fn方正剪纸_GBK\fs60\pos(960,850)\c&H9755FE&\3c&HFFFFFF&}皿TV
+Dialogue: 0,0:03:31.98,0:03:34.23,Sign_Others,,0,0,0,,{\fn方正剪纸_GBK\blur1\fs40\an8\pos(290,10)\c&H9755FE&\3c&HFFFFFF&}淺草皿TV
+Dialogue: 0,0:03:33.31,0:03:34.23,Sign_Others,,0,0,0,,{\fn方正剪纸_GBK\fs70\bord0\c&H8C3EFF&\3c&HFFFFFF&\t(445,904,\shad4)\4c&H000000&\4a&H97&\pos(960,700)}淺草皿TV
+Dialogue: 0,0:03:34.23,0:03:41.61,Sign_Others,,0,0,0,,{\fn方正剪纸_GBK\blur1\fs40\an8\pos(290,10)\c&H9755FE&\3c&HFFFFFF&}淺草皿TV
+Dialogue: 0,0:03:34.23,0:03:41.61,Sign_Others,,0,0,0,,{\an6\pos(1758,764)\fn方正少儿_GBK\b1\bord2\shad4\4c&H9925E8&\3c&H8C44FF&}幸運自拍占卜
+Dialogue: 1,0:03:34.23,0:03:41.61,Sign_Gothic,,0,0,0,,{\bord0\an5\c&HA67FE3&\fax-0.1\fs30\pos(1070,1032)\blur0.8}一般人看不見。{\b1}颯爽報道 + {\b0}正在尋找王子。特徵是聲音帥氣，馥郁芬芳，皮膚白皙肌膚柔嫩，不是青蛙 dish。喜歡的食物是黃瓜 dish。
+Dialogue: 0,0:03:34.23,0:03:41.61,Sign_Gothic,,0,0,0,,{\bord0\an7\pos(0,0)\p1\clip()\blur1}m 406 1011 l 406 1050 1757 1050 1757 1011
+Dialogue: 0,0:03:48.74,0:03:50.25,Sign_Others,,0,0,0,,{\fn方正剪纸_GBK\blur1\fs40\an8\pos(290,10)\c&H9755FE&\3c&HFFFFFF&}淺草皿TV
+Dialogue: 0,0:03:48.74,0:03:50.25,Sign_Others,,0,0,0,,{\an6\pos(1758,764)\fn方正少儿_GBK\b1\bord2\shad4\4c&H9925E8&\3c&H8C44FF&}幸運自拍占卜
+Dialogue: 1,0:03:48.74,0:03:50.25,Sign_Gothic,,0,0,0,,{\bord0\an5\c&HA67FE3&\fax-0.1\fs30\pos(1070,1032)\blur0.8}特徵是聲音帥氣，馥郁芬芳，皮膚白皙肌膚柔嫩，不是青蛙 dish。喜歡的食物是黃瓜 dish。一般人
+Dialogue: 0,0:03:48.74,0:03:50.25,Sign_Gothic,,0,0,0,,{\bord0\an7\pos(0,0)\p1\clip()\blur1}m 406 1011 l 406 1050 1757 1050 1757 1011
+Dialogue: 0,0:03:54.75,0:04:06.60,Sign_Others,,0,0,0,,{\fn方正剪纸_GBK\blur1\fs40\an8\pos(290,10)\c&H9755FE&\3c&HFFFFFF&}淺草皿TV
+Dialogue: 0,0:03:54.75,0:04:06.60,Sign_Others,,0,0,0,,{\an6\pos(1758,764)\fn方正少儿_GBK\b1\bord2\shad4\4c&H9925E8&\3c&H8C44FF&}幸運自拍占卜
+Dialogue: 1,0:03:54.75,0:04:06.60,Sign_Gothic,,0,0,0,,{\bord0\an5\c&HA67FE3&\fax-0.1\fs30\pos(1070,1032)\blur0.8}喜歡的食物是黃瓜 dish。一般人看不見。{\b1}颯爽報道 + {\b0}正在尋找王子。特徵是聲音帥氣，馥郁芬芳，皮膚白皙肌膚柔嫩，不是青蛙 dish。
+Dialogue: 0,0:03:54.75,0:04:06.60,Sign_Gothic,,0,0,0,,{\bord0\an7\pos(0,0)\p1\clip()\blur1}m 406 1011 l 406 1050 1757 1050 1757 1011
+Dialogue: 0,0:03:59.96,0:04:00.88,Sign_Kanteiryu,,0,0,0,,{\fad(280,0)\an8\bord4\\3c&HFCFEF4&\c&H030303&\}{1}箱子
+Dialogue: 0,0:04:06.60,0:04:13.10,Sign_Others,,0,0,0,,{\an6\fs30\fn方正少儿_GBK\b1\fax-0.04\bord1\shad2\4c&H9925E8&\3c&H8C44FF&\pos(1646.953,564.571)\frz6.559}幸運自拍占卜
+Dialogue: 0,0:04:13.10,0:04:15.10,Sign_Others,,0,0,0,,{\an6\fs30\fn方正少儿_GBK\b1\bord1\shad2\4c&H9925E8&\3c&H8C44FF&\pos(1192.286,328.571)}幸運自拍占卜
+Dialogue: 0,0:08:06.71,0:08:08.71,Sign_Others,,0,0,0,,{\fn方正剪纸_GBK\blur1\fs40\an8\pos(290,10)\c&H9755FE&\3c&HFFFFFF&}淺草皿TV
+Dialogue: 0,0:08:06.71,0:08:08.71,Sign_Others,,0,0,0,,{\an6\pos(1758,764)\fn方正雅珠体简繁 DemiBold\bord2\shad4\4c&H9925E8&\3c&H8C44FF&}河童像被不明人士所破壞
+Dialogue: 1,0:08:06.71,0:08:08.71,Sign_Gothic,,0,0,0,,{\bord0\an5\c&HA67FE3&\fax-0.1\fs30\pos(1070,1032)\blur0.8}{\b1}報道 + {\b0}王子應該是在某處人工冬眠 dish。破壞它的人會受到報應 dish。具體來說
+Dialogue: 0,0:08:06.71,0:08:08.71,Sign_Gothic,,0,0,0,,{\bord0\an7\pos(0,0)\p1\clip()\blur1}m 406 1011 l 406 1050 1757 1050 1757 1011
+Dialogue: 0,0:12:38.07,0:12:45.11,Sign_Others,,0,0,0,,{\an6\pos(1758,764)\fn方正雅珠体简繁 DemiBold\bord2\shad4\4c&H9925E8&\3c&H8C44FF&}真的嗎? 箱子在天上飛
+Dialogue: 1,0:12:38.07,0:12:45.11,Sign_Others,,0,0,0,,{\bord0\an5\c&HA67FE3&\fax-0.1\fs30\pos(1080,1032)\blur0.8}代償童年匱乏的大量購物是需要箱子的dish。莎拉在大量買入黑雷神巧克力棒dish。這是和誰都不能說的秘密dish。半夜出逃也是需要箱子的dish。
+Dialogue: 0,0:12:38.07,0:12:45.11,Sign_Others,,0,0,0,,{\bord0\an7\pos(0,0)\p1\clip()\blur1}m 406 1011 l 406 1050 1757 1050 1757 1011
+Dialogue: 0,0:12:38.07,0:12:45.11,Sign_Others,,0,0,0,,{\fn方正剪纸_GBK\blur1\fs40\an8\pos(290,10)\c&H9755FE&\3c&HFFFFFF&}淺草皿TV
+Dialogue: 0,0:17:23.14,0:17:25.10,Sign_Others,,0,0,0,,{\an6\fad(278,0)\fs40\fn方正少儿_GBK\b1\bord1\shad2\4c&H9925E8&\3c&H8C44FF&\pos(1192,324)}幸運自拍占卜
+Comment: 0,0:00:00.00,0:00:00.01,Main,,0,0,0,,
+Dialogue: 0,0:03:23.22,0:03:23.72,Sign_Kanteiryu,,0,0,0,,{\c&H2D2D2F&\3c&H8DE5F6&\fs50}要打心底相信{\3c&HFFFEF8&\fnSource Han Sans TC\fs60}㋐
+Dialogue: 0,0:03:23.72,0:03:24.22,Sign_Kanteiryu,,0,0,0,,{\c&H2D2D2F&\3c&H8DE5F6&\pos(1650,1030)\fs50}在世界的中心呼喚{\3c&HFFFEF8&\fnSource Han Sans TC\fs60}㋐
+Dialogue: 0,0:03:23.72,0:03:24.22,Sign_Kanteiryu,,0,0,0,,{\c&H2D2D2F&\3c&H8DE5F6&\pos(1140,1030)\fs50}請隨意觀看{\3c&HFFFEF8&\fnSource Han Sans TC\fs60}㋐
+Dialogue: 0,0:03:23.72,0:03:24.22,Sign_Kanteiryu,,0,0,0,,{\c&H2D2D2F&\3c&H8DE5F6&\pos(600,1030)\fs50}有{\3c&HFFFEF8&\fnSource Han Sans TC\fs60}㋐{\c&H2D2D2F&\3c&H8DE5F6&\fn\fs50}才有我自己
+Dialogue: 0,0:03:24.22,0:03:26.47,Sign_Kanteiryu,,0,0,0,,{\c&H2D2D2F&\3c&H8DE5F6&\fs50\pos(478,614)}要打心底相信{\3c&HFFFEF8&\fnSource Han Sans TC\fs60}㋐
+Dialogue: 0,0:03:24.22,0:03:26.47,Sign_Kanteiryu,,0,0,0,,{\c&H2D2D2F&\3c&H8DE5F6&\pos(1368,560)\fs50}在世界的中心呼喚{\3c&HFFFEF8&\fnSource Han Sans TC\fs60}㋐
+Dialogue: 0,0:03:24.22,0:03:26.47,Sign_Kanteiryu,,0,0,0,,{\c&H2D2D2F&\3c&H8DE5F6&\fs50\pos(1220,80)}請隨意觀看{\3c&HFFFEF8&\fnSource Han Sans TC\fs60}㋐
+Dialogue: 0,0:03:24.22,0:03:26.47,Sign_Kanteiryu,,0,0,0,,{\c&H2D2D2F&\3c&H8DE5F6&\fs50\pos(720,80)}有{\3c&HFFFEF8&\fnSource Han Sans TC\fs60}㋐{\c&H2D2D2F&\3c&H8DE5F6&\fn\fs50}才有我自己
+Comment: 0,0:00:00.00,0:00:00.01,Main,,0,0,0,,TITLE
+Dialogue: 0,0:20:25.99,0:20:31.00,Title,,0,0,0,,{\an8\pos(960,240)\fs70\fnSource Han Serif TC\b1}想　要　相　連　可　是　卻　又
+Dialogue: 0,0:20:25.99,0:20:31.00,Title,,0,0,0,,{\an8\pos(960,640)\fs120\fnSource Han Serif TC\b1}想　要　偽　裝
+Comment: 0,0:00:00.00,0:00:00.01,Main,,0,0,0,,STAFF
+Dialogue: 2,0:01:52.00,0:01:52.05,STAFF - Top Layer,,0,0,0,,{\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,350)}翻譯
+Dialogue: 2,0:01:52.00,0:01:52.05,STAFF - Top Layer,,0,0,0,,{\pos(200,338)\iclip(m 318 345 l 332 353 346 360 355 365 370 369 384 373 388 375 402 380 416 382 432 384 466 386 475 385 492 398 506 412 516 420 516 423 506 425 497 427 481 430 458 437 436 444 423 448 409 454 387 462 371 470 362 474 394 534 610 455 628 368 454 285)}tastySugar
+Dialogue: 2,0:01:52.00,0:01:52.05,STAFF - Top Layer,,0,0,0,,{\pos(200,418)\iclip(m 318 345 l 332 353 346 360 355 365 370 369 384 373 388 375 402 380 416 382 432 384 466 386 475 385 492 398 506 412 516 420 516 423 506 425 497 427 481 430 458 437 436 444 423 448 409 454 387 462 371 470 362 474 394 534 610 455 628 368 454 285)}絶対女装黙示録
+Dialogue: 2,0:01:52.05,0:01:54.51,STAFF - Top Layer,,0,0,0,,{\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,350)}翻譯
+Dialogue: 2,0:01:52.05,0:01:54.51,STAFF - Top Layer,,0,0,0,,{\pos(200,338)}tastySugar
+Dialogue: 2,0:01:52.05,0:01:54.51,STAFF - Top Layer,,0,0,0,,{\pos(200,418)}絶対女装黙示録
+Dialogue: 2,0:02:01.05,0:02:03.06,STAFF - Top Layer,,0,0,0,,{\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,420)}校對
+Dialogue: 2,0:02:01.05,0:02:03.06,STAFF - Top Layer,,0,0,0,,{\pos(326,406)}ssnake
+Dialogue: 2,0:02:01.05,0:02:03.06,STAFF - Top Layer,,0,0,0,,{\pos(326,476)}Spica
+Dialogue: 2,0:02:03.06,0:02:05.73,STAFF - Top Layer,,0,0,0,,{\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,350)}主題曲翻譯
+Dialogue: 2,0:02:03.06,0:02:05.73,STAFF - Top Layer,,0,0,0,,{\pos(370,338)}ssnake
+Dialogue: 2,0:02:03.06,0:02:05.73,STAFF - Top Layer,,0,0,0,,{\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,456)}插入曲翻譯
+Dialogue: 2,0:02:03.06,0:02:05.73,STAFF - Top Layer,,0,0,0,,{\pos(370,442)}絶対女装黙示録
+Dialogue: 2,0:02:03.06,0:02:05.73,STAFF - Top Layer,,0,0,0,,{\pos(370,518)}Spica
+Dialogue: 2,0:02:19.61,0:02:22.41,STAFF - Top Layer,,0,0,0,,{\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,498)}後期
+Dialogue: 2,0:02:19.61,0:02:22.41,STAFF - Top Layer,,0,0,0,,{\pos(266,486)}ssnake
+Dialogue: 2,0:02:19.61,0:02:22.41,STAFF - Top Layer,,0,0,0,,{\pos(266,558)}natsukage
+Dialogue: 2,0:02:44.26,0:02:46.93,STAFF - Top Layer,,0,0,0,,{\an2\fs34\fnSource Han Sans TC Medium\b1\pos(960,632)}字幕製作
+Dialogue: 2,0:02:44.26,0:02:46.93,STAFF - Top Layer,,0,0,0,,{\an2\pos(960,698)}SweetSub
+Dialogue: 1,0:01:52.00,0:01:52.05,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,350)}翻譯
+Dialogue: 1,0:01:52.00,0:01:52.05,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(200,338)\iclip(m 318 345 l 332 353 346 360 355 365 370 369 384 373 388 375 402 380 416 382 432 384 466 386 475 385 492 398 506 412 516 420 516 423 506 425 497 427 481 430 458 437 436 444 423 448 409 454 387 462 371 470 362 474 394 534 610 455 628 368 454 285)}tastySugar
+Dialogue: 1,0:01:52.00,0:01:52.05,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(200,418)\iclip(m 318 345 l 332 353 346 360 355 365 370 369 384 373 388 375 402 380 416 382 432 384 466 386 475 385 492 398 506 412 516 420 516 423 506 425 497 427 481 430 458 437 436 444 423 448 409 454 387 462 371 470 362 474 394 534 610 455 628 368 454 285)}絶対女装黙示録
+Dialogue: 1,0:01:52.05,0:01:54.51,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,350)}翻譯
+Dialogue: 1,0:01:52.05,0:01:54.51,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(200,338)}tastySugar
+Dialogue: 1,0:01:52.05,0:01:54.51,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(200,418)}絶対女装黙示録
+Dialogue: 1,0:02:01.05,0:02:03.06,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,420)}校對
+Dialogue: 1,0:02:01.05,0:02:03.06,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(326,406)}ssnake
+Dialogue: 1,0:02:01.05,0:02:03.06,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(326,476)}Spica
+Dialogue: 1,0:02:03.06,0:02:05.73,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,350)}主題曲翻譯
+Dialogue: 1,0:02:03.06,0:02:05.73,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(370,338)}ssnake
+Dialogue: 1,0:02:03.06,0:02:05.73,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,456)}插入曲翻譯
+Dialogue: 1,0:02:03.06,0:02:05.73,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(370,442)}絶対女装黙示録
+Dialogue: 1,0:02:03.06,0:02:05.73,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(370,518)}Spica
+Dialogue: 1,0:02:03.06,0:02:05.73,STAFF - Bottom layer,overlay,0,0,0,,{\1c0\blur3\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,350)}主題曲翻譯
+Dialogue: 1,0:02:03.06,0:02:05.73,STAFF - Bottom layer,overlay,0,0,0,,{\1c0\blur3\pos(370,338)}ssnake
+Dialogue: 1,0:02:03.06,0:02:05.73,STAFF - Bottom layer,overlay,0,0,0,,{\1c0\blur3\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,456)}插入曲翻譯
+Dialogue: 1,0:02:03.06,0:02:05.73,STAFF - Bottom layer,overlay,0,0,0,,{\1c0\blur3\pos(370,442)}絶対女装黙示録
+Dialogue: 1,0:02:03.06,0:02:05.73,STAFF - Bottom layer,overlay,0,0,0,,{\1c0\blur3\pos(370,518)}Spica
+Dialogue: 1,0:02:19.61,0:02:22.41,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,498)}後期
+Dialogue: 1,0:02:19.61,0:02:22.41,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(266,486)}ssnake
+Dialogue: 1,0:02:19.61,0:02:22.41,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(266,558)}natsukage
+Dialogue: 1,0:02:44.26,0:02:46.93,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\an2\fs34\fnSource Han Sans TC Medium\b1\pos(960,632)}字幕製作
+Dialogue: 1,0:02:44.26,0:02:46.93,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\an2\pos(960,698)}SweetSub
+Comment: 0,0:13:58.57,0:14:01.06,OP_JP - Top Layer,,0,0,0,,Songs
+Dialogue: 0,0:13:58.57,0:14:01.06,IN_JP_II - bottom,,0,0,0,,{\fad(200,200)}取り戻さなきゃ
+Dialogue: 0,0:14:01.06,0:14:03.86,IN_JP_II - bottom,,0,0,0,,{\fad(200,200)}いけないものがある
+Dialogue: 0,0:14:03.86,0:14:04.86,IN_JP_II - bottom,,0,0,0,,{\fad(200,200)}ハコ ハコ
+Dialogue: 0,0:14:04.86,0:14:08.11,IN_JP_II - bottom,,0,0,0,,{\fad(200,200)}好きなアイツに知られちゃう前に
+Dialogue: 0,0:14:09.36,0:14:11.86,IN_JP_II - bottom,,0,0,0,,{\fad(200,200)}取り戻さなきゃ
+Dialogue: 0,0:14:11.86,0:14:14.50,IN_JP_II - bottom,,0,0,0,,{\fad(200,200)}いけないものがある
+Dialogue: 0,0:14:14.50,0:14:15.20,IN_JP_II - bottom,,0,0,0,,{\fad(200,200)}ハコ ハコ
+Dialogue: 0,0:14:15.20,0:14:19.96,IN_JP_II - bottom,,0,0,0,,{\fad(200,200)}誰にも漏らしちゃいけない {\1aFF\2aFF\3aFF\4aFF\t(3534,3535,\1a00\2a00\3a00\4a00)}ヒミツさ
+Dialogue: 0,0:14:20.62,0:14:22.17,IN_JP_II - bottom,,0,0,0,,{\fad(200,200)}「カッ・パラ・エー！」
+Dialogue: 0,0:14:22.17,0:14:26.05,IN_JP_II,,0,0,0,,{\fad(200,200)\move(0,40,40,40,0,200)}僕と君とは
+Dialogue: 0,0:14:26.05,0:14:30.39,IN_JP_II,,0,0,0,,{\fad(200,200)\move(0,40,40,40,0,200)}つながれるはずなのさ
+Dialogue: 0,0:14:31.32,0:14:32.76,IN_JP_II,,0,0,0,,{\fad(200,200)\move(0,40,40,40,0,200)}ヨー・クー・ボー！
+Dialogue: 0,0:14:32.76,0:14:41.69,IN_JP_II,,0,0,0,,{\fad(200,200)\move(0,40,40,40,0,200)}生命の意味を 確かめるのさ
+Dialogue: 0,0:14:41.82,0:14:43.90,IN_JP_II,,0,0,0,,{\fad(200,200)\move(0,40,40,40,0,200)}は·じ·け·て
+Dialogue: 0,0:14:44.62,0:14:47.07,IN_JP_II,,0,0,0,,{\fad(200,200)\move(0,40,40,40,0,200)}泳げ人生
+Dialogue: 0,0:14:47.07,0:14:49.73,IN_JP_II,ruby,0,0,0,,{\fad(200,200)\move(0,40,40,40,0,200)}つかめ栄光
+Dialogue: 0,0:14:47.07,0:14:49.73,IN_JP_II,,0,0,0,,{\fad(200,200)\move(130,26,170,26,0,200)\fs30}サクセス
+Dialogue: 0,0:14:49.73,0:14:54.79,IN_JP_II,,0,0,0,,{\fad(200,200)\move(0,40,40,40,0,200)}それは愛だと 信じていいのさ
+Dialogue: 0,0:14:55.13,0:14:57.63,IN_JP_II,,0,0,0,,{\fad(200,200)\move(0,40,40,40,0,200)}Soul on a dish 重ねて
+Dialogue: 0,0:14:57.63,0:15:00.23,IN_JP_II,,0,0,0,,{\fad(200,200)\move(0,40,40,40,0,200)}Catch the ball 抜き取れ
+Dialogue: 0,0:15:00.23,0:15:08.00,IN_JP_II,,0,0,0,,{\fad(200,200)\move(0,40,40,40,0,200)}願い叶え さらざんまい！
+Dialogue: 1,0:13:58.57,0:14:01.06,IN_CN_II - bottom,,0,0,0,,{\fad(200,200)}有那樣一件東西
+Dialogue: 1,0:14:01.06,0:14:03.86,IN_CN_II - bottom,,0,0,0,,{\fad(200,200)}我必須把它挽回
+Dialogue: 1,0:14:03.86,0:14:04.86,IN_CN_II - bottom,,0,0,0,,{\fad(200,200)}箱子 箱子
+Dialogue: 1,0:14:04.86,0:14:08.11,IN_CN_II - bottom,,0,0,0,,{\fad(200,200)}一定要在我喜歡的那人察覺之前
+Dialogue: 1,0:14:09.36,0:14:11.86,IN_CN_II - bottom,,0,0,0,,{\fad(200,200)}有那樣一件東西
+Dialogue: 1,0:14:11.86,0:14:14.50,IN_CN_II - bottom,,0,0,0,,{\fad(200,200)}我必須把它挽回
+Dialogue: 1,0:14:14.50,0:14:15.20,IN_CN_II - bottom,,0,0,0,,{\fad(200,200)}箱子 箱子
+Dialogue: 1,0:14:15.20,0:14:19.96,IN_CN_II - bottom,,0,0,0,,{\fad(200,200)}千萬不能走漏給別人　{\1aFF\2aFF\3aFF\4aFF\t(3534,3535,\1a00\2a00\3a00\4a00)}秘密啊
+Dialogue: 1,0:14:20.62,0:14:22.17,IN_CN_II - bottom,,0,0,0,,{\fad(200,200)}「寸珠{Kappa}不讓！」
+Comment: 2,0:14:20.62,0:14:22.17,IN_CN_II - bottom,ruby,0,0,0,,{\fad(200,200)\fs30\pos(894,942)}Kappa
+Dialogue: 0,0:14:22.17,0:14:26.05,IN_CN_II,,0,0,0,,{\fad(200,200)\move(80,90,40,90,0,200)}你我原本呀
+Dialogue: 0,0:14:26.05,0:14:30.39,IN_CN_II,,0,0,0,,{\fad(200,200)\move(80,90,40,90,0,200)}應該可以連接在一起啊
+Dialogue: 0,0:14:31.32,0:14:32.76,IN_CN_II,,0,0,0,,{\fad(200,200)\move(80,90,40,90,0,200)}欲·望！
+Dialogue: 0,0:14:32.76,0:14:41.69,IN_CN_II,,0,0,0,,{\fad(200,200)\move(80,90,40,90,0,200)}就是為認清 生命的意義啊
+Dialogue: 0,0:14:41.82,0:14:43.90,IN_CN_II,,0,0,0,,{\fad(200,200)\move(80,90,40,90,0,200)}炸·裂·迸·發
+Dialogue: 0,0:14:44.62,0:14:47.07,IN_CN_II,,0,0,0,,{\fad(200,200)\move(80,90,40,90,0,200)}人生中爭上游
+Dialogue: 0,0:14:47.07,0:14:49.73,IN_CN_II,,0,0,0,,{\fad(200,200)\move(80,90,40,90,0,200)}將光榮握在手
+Dialogue: 0,0:14:49.73,0:14:54.79,IN_CN_II,,0,0,0,,{\fad(200,200)\move(80,90,40,90,0,200)}要相信那就是 真正的愛
+Dialogue: 0,0:14:55.13,0:14:57.63,IN_CN_II,,0,0,0,,{\fad(200,200)\move(80,90,40,90,0,200)}Soul on a dish 重疊起來
+Dialogue: 0,0:14:57.63,0:15:00.23,IN_CN_II,,0,0,0,,{\fad(200,200)\move(80,90,40,90,0,200)}Catch the ball 拔掉取出
+Dialogue: 0,0:15:00.23,0:15:08.00,IN_CN_II,,0,0,0,,{\fad(200,200)\move(80,90,40,90,0,200)}願望啊實現吧 Sarazanmai！
+Dialogue: 0,0:03:18.80,0:03:21.98,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}已經空無一人的教室裡
+Dialogue: 0,0:03:21.98,0:03:24.74,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}獨自蹲下來
+Dialogue: 0,0:03:24.74,0:03:26.15,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}Kappa
+Dialogue: 0,0:03:26.15,0:03:29.36,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}為今天的神秘事件
+Dialogue: 0,0:03:29.36,0:03:31.99,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}獨自在煩惱
+Dialogue: 0,0:03:31.99,0:03:32.92,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}Kappa
+Dialogue: 0,0:03:33.54,0:03:35.70,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}到學校的時候
+Dialogue: 0,0:03:37.12,0:03:39.68,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}桌子上——
+Dialogue: 0,0:03:40.82,0:03:45.11,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}擺放著花
+Dialogue: 0,0:03:47.64,0:03:51.52,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}不管向誰搭話 都沒有回應
+Dialogue: 0,0:03:51.52,0:03:55.07,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}彷彿看不見我
+Dialogue: 0,0:03:55.07,0:03:58.78,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}不管是誰的視線 都捕捉不到我
+Dialogue: 0,0:03:58.78,0:04:01.63,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}就是看不見我
+Dialogue: 0,0:04:02.44,0:04:06.25,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}不管向誰搭話 都沒有回應
+Dialogue: 0,0:04:06.25,0:04:09.82,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}彷彿看不見我
+Dialogue: 0,0:04:09.82,0:04:13.57,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}不管是誰的視線 都捕捉不到我
+Dialogue: 0,0:04:13.57,0:04:16.48,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}就是看不見我
+Dialogue: 1,0:03:18.80,0:03:21.98,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}誰もいなくなった教室で
+Dialogue: 1,0:03:21.98,0:03:24.74,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}一人でしゃがみます
+Dialogue: 1,0:03:24.74,0:03:26.15,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}カッパー
+Dialogue: 1,0:03:26.15,0:03:29.36,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}今日の不可解な出来事を
+Dialogue: 1,0:03:29.36,0:03:31.99,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}一人で悩みます
+Dialogue: 1,0:03:31.99,0:03:32.92,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}カッパー
+Dialogue: 1,0:03:33.54,0:03:35.70,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}学校に着いたら
+Dialogue: 1,0:03:37.12,0:03:39.68,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}机の上に アァ
+Dialogue: 1,0:03:40.82,0:03:45.11,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}お花が置かれていた
+Dialogue: 1,0:03:47.64,0:03:51.52,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}誰に話しかけても返事がない
+Dialogue: 1,0:03:51.52,0:03:55.07,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}ボクの事見えてない
+Dialogue: 1,0:03:55.07,0:03:58.78,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}誰の視線もボクをとらえてない
+Dialogue: 1,0:03:58.78,0:04:01.63,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}ただ見えてない
+Dialogue: 1,0:04:02.44,0:04:06.25,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}誰に話しかけても返事がない
+Dialogue: 1,0:04:06.25,0:04:09.82,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}ボクの事見えてない
+Dialogue: 1,0:04:09.82,0:04:13.57,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}誰の視線もボクをとらえてない
+Dialogue: 1,0:04:13.57,0:04:16.48,IN_JP_I,,0,80,0,,{\fad(200,200)\an9}ただ見えてない
+Dialogue: 1,0:01:52.09,0:01:56.47,OP_JP - Top Layer,,0,0,0,,背景紛れたら 透明街の角
+Dialogue: 1,0:01:56.47,0:02:01.05,OP_JP - Top Layer,,0,0,0,,消えそうな声で泣いている僕らよ
+Dialogue: 1,0:02:01.05,0:02:05.73,OP_JP - Top Layer,,0,0,0,,最低な夜から 這って抜けるように
+Dialogue: 1,0:02:05.73,0:02:10.36,OP_JP - Top Layer,,0,0,0,,千切れた痛みと共に行けよ
+Dialogue: 1,0:02:10.36,0:02:14.49,OP_JP - Top Layer,,0,0,0,,いつだって一人きりなんだろ
+Dialogue: 1,0:02:14.49,0:02:20.55,OP_JP - Top Layer,,0,0,0,,心が叫んでる欲望の音 もう一度
+Dialogue: 1,0:02:20.55,0:02:24.77,OP_JP - Top Layer,,0,0,0,,話せたら 繋がれたら
+Dialogue: 1,0:02:24.77,0:02:28.23,OP_JP - Top Layer,,0,0,0,,{\fad(0,200)}ただ溢れて
+Dialogue: 1,0:02:29.46,0:02:34.47,OP_JP - Top Layer,,0,0,0,,だんだん遠くなってく 君を追いかけていく
+Dialogue: 1,0:02:38.75,0:02:43.40,OP_JP - Top Layer,,0,0,0,,まっさらな想いを伝えに 火玉していく
+Dialogue: 1,0:02:47.91,0:02:51.68,OP_JP - Top Layer,,0,0,0,,{\fad(200,0)}現在過去未来 君と繋いでいたいよ
+Dialogue: 1,0:02:51.68,0:02:54.85,OP_JP - Top Layer,,0,0,0,,{\fad(0,200)}感情を 心の奥を
+Dialogue: 0,0:01:52.09,0:01:56.47,OP_JP - Bottom Layer,,0,0,0,,{\blur2}背景紛れたら 透明街の角
+Dialogue: 0,0:01:56.47,0:02:01.05,OP_JP - Bottom Layer,,0,0,0,,{\blur2}消えそうな声で泣いている僕らよ
+Dialogue: 0,0:02:01.05,0:02:05.73,OP_JP - Bottom Layer,,0,0,0,,{\blur2}最低な夜から 這って抜けるように
+Dialogue: 0,0:02:05.73,0:02:10.36,OP_JP - Bottom Layer,,0,0,0,,{\blur2}千切れた痛みと共に行けよ
+Dialogue: 0,0:02:10.36,0:02:14.49,OP_JP - Bottom Layer,,0,0,0,,{\blur2}いつだって一人きりなんだろ
+Dialogue: 0,0:02:14.49,0:02:20.55,OP_JP - Bottom Layer,,0,0,0,,{\blur2}心が叫んでる欲望の音 もう一度
+Dialogue: 0,0:02:20.55,0:02:24.77,OP_JP - Bottom Layer,,0,0,0,,{\blur2}話せたら 繋がれたら
+Dialogue: 0,0:02:24.77,0:02:28.23,OP_JP - Bottom Layer,,0,0,0,,{\blur2\fad(0,200)}ただ溢れて
+Dialogue: 0,0:02:29.46,0:02:34.47,OP_JP - Bottom Layer,,0,0,0,,{\blur2}だんだん遠くなってく 君を追いかけていく
+Dialogue: 0,0:02:38.75,0:02:43.40,OP_JP - Bottom Layer,,0,0,0,,{\blur2}まっさらな想いを伝えに 火玉していく
+Dialogue: 0,0:02:47.91,0:02:51.68,OP_JP - Bottom Layer,,0,0,0,,{\blur2\fad(200,0)}現在過去未来 君と繋いでいたいよ
+Dialogue: 0,0:02:51.68,0:02:54.85,OP_JP - Bottom Layer,,0,0,0,,{\blur2\fad(0,200)}感情を 心の奥を
+Dialogue: 1,0:01:52.05,0:01:56.47,OP_CN - Top Layer,,0,0,0,,當背景交錯 在透明街角
+Dialogue: 1,0:01:56.47,0:02:01.05,OP_CN - Top Layer,,0,0,0,,又有誰能聽見我們的哭聲
+Dialogue: 1,0:02:01.05,0:02:05.73,OP_CN - Top Layer,,0,0,0,,為了爬出 這最糟的黑夜
+Dialogue: 1,0:02:05.73,0:02:10.36,OP_CN - Top Layer,,0,0,0,,願與粉身碎骨的痛楚並肩前行
+Dialogue: 1,0:02:10.36,0:02:14.49,OP_CN - Top Layer,,0,0,0,,反正無論何時總免不了孤身一人
+Dialogue: 1,0:02:14.49,0:02:20.55,OP_CN - Top Layer,,0,0,0,,讓心中呼喚的欲望之聲
+Dialogue: 1,0:02:20.55,0:02:24.77,OP_CN - Top Layer,,0,0,0,,再一次攀談 再一次連結
+Dialogue: 1,0:02:24.77,0:02:28.23,OP_CN - Top Layer,,0,0,0,,{\fad(0,200)}那就一發不可收拾
+Dialogue: 1,0:02:29.46,0:02:34.47,OP_CN - Top Layer,,0,0,0,,漸漸遠去的你 讓我一心追逐
+Dialogue: 1,0:02:38.75,0:02:43.40,OP_CN - Top Layer,,0,0,0,,把全新的思緒 化作火球投向你
+Dialogue: 1,0:02:47.91,0:02:51.68,OP_CN - Top Layer,,0,0,0,,{\fad(200,0)}現在過去未來 只想與你相連
+Dialogue: 1,0:02:51.68,0:02:54.85,OP_CN - Top Layer,,0,0,0,,{\fad(0,200)}這份感情 這份真心
+Dialogue: 0,0:01:52.05,0:01:56.47,OP_CN - Bottom Layer,,0,0,0,,{\blur2}當背景交錯 在透明街角
+Dialogue: 0,0:01:56.47,0:02:01.05,OP_CN - Bottom Layer,,0,0,0,,{\blur2}又有誰能聽見我們的哭聲
+Dialogue: 0,0:02:01.05,0:02:05.73,OP_CN - Bottom Layer,,0,0,0,,{\blur2}為了爬出 這最糟的黑夜
+Dialogue: 0,0:02:05.73,0:02:10.36,OP_CN - Bottom Layer,,0,0,0,,{\blur2}願與粉身碎骨的痛楚並肩前行
+Dialogue: 0,0:02:10.36,0:02:14.49,OP_CN - Bottom Layer,,0,0,0,,{\blur2}反正無論何時總免不了孤身一人
+Dialogue: 0,0:02:14.49,0:02:20.55,OP_CN - Bottom Layer,,0,0,0,,{\blur2}讓心中呼喚的欲望之聲
+Dialogue: 0,0:02:20.55,0:02:24.77,OP_CN - Bottom Layer,,0,0,0,,{\blur2}再一次攀談 再一次連結
+Dialogue: 0,0:02:24.77,0:02:28.23,OP_CN - Bottom Layer,,0,0,0,,{\blur2\fad(0,200)}那就一發不可收拾
+Dialogue: 0,0:02:29.46,0:02:34.47,OP_CN - Bottom Layer,,0,0,0,,{\blur2}漸漸遠去的你 讓我一心追逐
+Dialogue: 0,0:02:38.75,0:02:43.40,OP_CN - Bottom Layer,,0,0,0,,{\blur2}把全新的思緒 化作火球投向你
+Dialogue: 0,0:02:47.91,0:02:51.68,OP_CN - Bottom Layer,,0,0,0,,{\blur2\fad(200,0)}現在過去未來 只想與你相連
+Dialogue: 0,0:02:51.68,0:02:54.85,OP_CN - Bottom Layer,,0,0,0,,{\blur2\fad(0,200)}這份感情 這份真心
+Dialogue: 1,0:20:31.00,0:20:36.08,ED_JP - Top Layer,,0,0,0,,スタンドバイミー お願い
+Dialogue: 1,0:20:36.08,0:20:40.88,ED_JP - Top Layer,,0,0,0,,僕は 僕は 強くなれるのかな
+Dialogue: 1,0:20:42.38,0:20:47.89,ED_JP - Top Layer,,0,0,0,,涙が雨にさらわれてく
+Dialogue: 1,0:20:47.89,0:20:52.27,ED_JP - Top Layer,,0,0,0,,君の熱に抱かれたい
+Dialogue: 1,0:20:54.94,0:20:57.69,ED_JP - Top Layer,,0,0,0,,放っておいた消えかけの電球
+Dialogue: 1,0:20:57.69,0:21:00.69,ED_JP - Top Layer,,0,0,0,,ある朝そっと明かりを消えてた
+Dialogue: 1,0:21:00.69,0:21:03.45,ED_JP - Top Layer,,0,0,0,,まるで君と僕みたい
+Dialogue: 1,0:21:03.45,0:21:06.20,ED_JP - Top Layer,,0,0,0,,繋いだ手の儚さを知る
+Dialogue: 1,0:21:06.20,0:21:11.83,ED_JP - Top Layer,,0,0,0,,膝を抱えて憧れていたのは
+Dialogue: 1,0:21:11.83,0:21:15.42,ED_JP - Top Layer,,0,0,0,,いつかの残像
+Dialogue: 1,0:21:16.04,0:21:21.05,ED_JP - Top Layer,,0,0,0,,スタンドバイミー お願い
+Dialogue: 1,0:21:21.05,0:21:27.22,ED_JP - Top Layer,,0,0,0,,僕は 僕は 強くなれるのかな
+Dialogue: 1,0:21:27.22,0:21:32.89,ED_JP - Top Layer,,0,0,0,,君が今ここにいなくても
+Dialogue: 1,0:21:32.89,0:21:38.19,ED_JP - Top Layer,,0,0,0,,手を伸ばす自信をくれよ
+Dialogue: 1,0:21:38.19,0:21:43.57,ED_JP - Top Layer,,0,0,0,,スタンドバイユー お願い
+Dialogue: 1,0:21:43.57,0:21:49.78,ED_JP - Top Layer,,0,0,0,,何もかもを取っ払ってしまいたい
+Dialogue: 1,0:21:49.78,0:21:55.17,ED_JP - Top Layer,,0,0,0,,涙が雨にさらわれてく
+Dialogue: 1,0:21:55.17,0:22:01.05,ED_JP - Top Layer,,0,0,0,,君の熱に抱かれたいだけなんだ
+Dialogue: 0,0:20:31.00,0:20:36.08,ED_JP - Bottom Layer,,0,0,0,,{\blur2}スタンドバイミー お願い
+Dialogue: 0,0:20:36.08,0:20:40.88,ED_JP - Bottom Layer,,0,0,0,,{\blur2}僕は 僕は 強くなれるのかな
+Dialogue: 0,0:20:42.38,0:20:47.89,ED_JP - Bottom Layer,,0,0,0,,{\blur2}涙が雨にさらわれてく
+Dialogue: 0,0:20:47.89,0:20:52.27,ED_JP - Bottom Layer,,0,0,0,,{\blur2}君の熱に抱かれたい
+Dialogue: 0,0:20:54.94,0:20:57.69,ED_JP - Bottom Layer,,0,0,0,,{\blur2}放っておいた消えかけの電球
+Dialogue: 0,0:20:57.69,0:21:00.69,ED_JP - Bottom Layer,,0,0,0,,{\blur2}ある朝そっと明かりを消えてた
+Dialogue: 0,0:21:00.69,0:21:03.45,ED_JP - Bottom Layer,,0,0,0,,{\blur2}まるで君と僕みたい
+Dialogue: 0,0:21:03.45,0:21:06.20,ED_JP - Bottom Layer,,0,0,0,,{\blur2}繋いだ手の儚さを知る
+Dialogue: 0,0:21:06.20,0:21:11.83,ED_JP - Bottom Layer,,0,0,0,,{\blur2}膝を抱えて憧れていたのは
+Dialogue: 0,0:21:11.83,0:21:15.42,ED_JP - Bottom Layer,,0,0,0,,{\blur2}いつかの残像
+Dialogue: 0,0:21:16.04,0:21:21.05,ED_JP - Bottom Layer,,0,0,0,,{\blur2}スタンドバイミー お願い
+Dialogue: 0,0:21:21.05,0:21:27.22,ED_JP - Bottom Layer,,0,0,0,,{\blur2}僕は 僕は 強くなれるのかな
+Dialogue: 0,0:21:27.22,0:21:32.89,ED_JP - Bottom Layer,,0,0,0,,{\blur2}君が今ここにいなくても
+Dialogue: 0,0:21:32.89,0:21:38.19,ED_JP - Bottom Layer,,0,0,0,,{\blur2}手を伸ばす自信をくれよ
+Dialogue: 0,0:21:38.19,0:21:43.57,ED_JP - Bottom Layer,,0,0,0,,{\blur2}スタンドバイユー お願い
+Dialogue: 0,0:21:43.57,0:21:49.78,ED_JP - Bottom Layer,,0,0,0,,{\blur2}何もかもを取っ払ってしまいたい
+Dialogue: 0,0:21:49.78,0:21:55.17,ED_JP - Bottom Layer,,0,0,0,,{\blur2}涙が雨にさらわれてく
+Dialogue: 0,0:21:55.17,0:22:01.05,ED_JP - Bottom Layer,,0,0,0,,{\blur2}君の熱に抱かれたいだけなんだ
+Dialogue: 1,0:20:31.00,0:20:36.08,ED_CN - Top Layer,,0,0,0,,Stand by me 求求你
+Dialogue: 1,0:20:36.08,0:20:40.88,ED_CN - Top Layer,,0,0,0,,我啊 我啊 可會變強
+Dialogue: 1,0:20:42.38,0:20:47.89,ED_CN - Top Layer,,0,0,0,,當淚水隨風雨飄搖
+Dialogue: 1,0:20:47.89,0:20:52.27,ED_CN - Top Layer,,0,0,0,,想與你的溫暖擁抱
+Dialogue: 1,0:20:54.94,0:20:57.69,ED_CN - Top Layer,,0,0,0,,沒人管的快壞的燈泡
+Dialogue: 1,0:20:57.69,0:21:00.69,ED_CN - Top Layer,,0,0,0,,一天早上突然不亮了
+Dialogue: 1,0:21:00.69,0:21:03.45,ED_CN - Top Layer,,0,0,0,,就像你我一樣
+Dialogue: 1,0:21:03.45,0:21:06.20,ED_CN - Top Layer,,0,0,0,,知曉那兩手相牽的無常
+Dialogue: 1,0:21:06.20,0:21:11.83,ED_CN - Top Layer,,0,0,0,,往日抱著膝蓋憧憬著的
+Dialogue: 1,0:21:11.83,0:21:15.42,ED_CN - Top Layer,,0,0,0,,是那不知幾何時的虛像
+Dialogue: 1,0:21:16.04,0:21:21.05,ED_CN - Top Layer,,0,0,0,,Stand by me 求求你
+Dialogue: 1,0:21:21.05,0:21:27.22,ED_CN - Top Layer,,0,0,0,,我啊 我啊 可會變強
+Dialogue: 1,0:21:27.22,0:21:32.89,ED_CN - Top Layer,,0,0,0,,哪怕現在你不在這裡
+Dialogue: 1,0:21:32.89,0:21:38.19,ED_CN - Top Layer,,0,0,0,,請給我伸出雙手的自信
+Dialogue: 1,0:21:38.19,0:21:43.57,ED_CN - Top Layer,,0,0,0,,Stand by you 求求你
+Dialogue: 1,0:21:43.57,0:21:49.78,ED_CN - Top Layer,,0,0,0,,多想把世間一切掃清
+Dialogue: 1,0:21:49.78,0:21:55.17,ED_CN - Top Layer,,0,0,0,,當淚水隨風雨飄搖
+Dialogue: 1,0:21:55.17,0:22:01.05,ED_CN - Top Layer,,0,0,0,,想與你的溫暖擁抱…僅此而已
+Dialogue: 0,0:20:31.00,0:20:36.08,ED_CN - Bottom Layer,,0,0,0,,{\blur2}Stand by me 求求你
+Dialogue: 0,0:20:36.08,0:20:40.88,ED_CN - Bottom Layer,,0,0,0,,{\blur2}我啊 我啊 可會變強
+Dialogue: 0,0:20:42.38,0:20:47.89,ED_CN - Bottom Layer,,0,0,0,,{\blur2}當淚水隨風雨飄搖
+Dialogue: 0,0:20:47.89,0:20:52.27,ED_CN - Bottom Layer,,0,0,0,,{\blur2}想與你的溫暖擁抱
+Dialogue: 0,0:20:54.94,0:20:57.69,ED_CN - Bottom Layer,,0,0,0,,{\blur2}沒人管的快壞的燈泡
+Dialogue: 0,0:20:57.69,0:21:00.69,ED_CN - Bottom Layer,,0,0,0,,{\blur2}一天早上突然不亮了
+Dialogue: 0,0:21:00.69,0:21:03.45,ED_CN - Bottom Layer,,0,0,0,,{\blur2}就像你我一樣
+Dialogue: 0,0:21:03.45,0:21:06.20,ED_CN - Bottom Layer,,0,0,0,,{\blur2}知曉那兩手相牽的無常
+Dialogue: 0,0:21:06.20,0:21:11.83,ED_CN - Bottom Layer,,0,0,0,,{\blur2}往日抱著膝蓋憧憬著的
+Dialogue: 0,0:21:11.83,0:21:15.42,ED_CN - Bottom Layer,,0,0,0,,{\blur2}是那不知幾何時的虛像
+Dialogue: 0,0:21:16.04,0:21:21.05,ED_CN - Bottom Layer,,0,0,0,,{\blur2}Stand by me 求求你
+Dialogue: 0,0:21:21.05,0:21:27.22,ED_CN - Bottom Layer,,0,0,0,,{\blur2}我啊 我啊 可會變強
+Dialogue: 0,0:21:27.22,0:21:32.89,ED_CN - Bottom Layer,,0,0,0,,{\blur2}哪怕現在你不在這裡
+Dialogue: 0,0:21:32.89,0:21:38.19,ED_CN - Bottom Layer,,0,0,0,,{\blur2}請給我伸出雙手的自信
+Dialogue: 0,0:21:38.19,0:21:43.57,ED_CN - Bottom Layer,,0,0,0,,{\blur2}Stand by you 求求你
+Dialogue: 0,0:21:43.57,0:21:49.78,ED_CN - Bottom Layer,,0,0,0,,{\blur2}多想把世間一切掃清
+Dialogue: 0,0:21:49.78,0:21:55.17,ED_CN - Bottom Layer,,0,0,0,,{\blur2}當淚水隨風雨飄搖
+Dialogue: 0,0:21:55.17,0:22:01.05,ED_CN - Bottom Layer,,0,0,0,,{\blur2}想與你的溫暖擁抱…僅此而已
+Comment: 0,0:00:21.16,0:00:24.12,Main,Kazuki,0,0,0,,Text
+Dialogue: 0,0:00:21.16,0:00:24.12,Main,Kazuki,0,0,0,,這個世界上充滿著聯繫
+Dialogue: 0,0:00:27.21,0:00:31.92,Main,Kazuki,0,0,0,,血脈相連  城市相接  心意相通
+Dialogue: 0,0:00:33.89,0:00:35.90,Main,Kazuki,0,0,0,,人與人相互連接著的世界
+Dialogue: 0,0:00:50.62,0:00:52.65,Main,Haruka,0,0,0,,阿一
+Dialogue: 0,0:01:11.83,0:01:17.47,Main,Kazuki,0,0,0,,但是這些聯繫卻能輕易被切斷
+Dialogue: 0,0:01:18.77,0:01:22.10,Main,Kazuki,0,0,0,,我比任何人  都更清楚這一點
+Dialogue: 0,0:01:32.55,0:01:36.49,Main,Kazuki,0,0,0,,所以這次  我必須得維繫好這個連接
+Dialogue: 0,0:01:37.56,0:01:40.31,Main,Kazuki,0,0,0,,為此  我會不擇手段
+Dialogue: 0,0:03:12.22,0:03:15.40,Main,Kazuki,0,0,0,,我的人生有三個規矩
+Dialogue: 0,0:03:16.05,0:03:20.74,Main,Kazuki,0,0,0,,第一  無論何時何地都必須帶著這個箱子
+Dialogue: 0,0:03:24.74,0:03:26.47,Main,Sara,0,0,0,,Good morning!
+Dialogue: 0,0:03:31.98,0:03:34.23,Main,Sara,0,0,0,,歡迎舒爽觀看淺草皿TV
+Dialogue: 0,0:03:35.71,0:03:37.13,Top,Sara,0,0,0,,祝大家每天開心
+Dialogue: 0,0:03:37.13,0:03:39.69,Top,Sara,0,0,0,,拍張幸運自拍  更加開心
+Dialogue: 0,0:03:39.69,0:03:41.61,Top,Sara,0,0,0,,我是吾妻莎拉 dish
+Dialogue: 0,0:03:42.28,0:03:45.71,Main,Sara,0,0,0,,今天的幸運自拍道具是…
+Dialogue: 0,0:03:46.87,0:03:48.74,Main,Kazuki,0,0,0,,千萬不要是什麼奇怪的東西…
+Dialogue: 2,0:03:50.84,0:03:55.16,Main,Kazuki,0,0,0,,第二  我必須每日不落地收看偶像
+Dialogue: 2,0:03:55.63,0:03:57.89,Main,Kazuki,0,0,0,,吾妻莎拉的幸運自拍占卜
+Dialogue: 0,0:04:01.12,0:04:02.16,Top,Sara,0,0,0,,箱子！
+Dialogue: 0,0:04:02.55,0:04:04.01,Top,Sara,0,0,0,,箱子 dish！
+Dialogue: 0,0:04:04.01,0:04:06.60,Top,Sara,0,0,0,,箱子越多越開心！
+Dialogue: 0,0:04:07.01,0:04:08.62,Main,Sara,0,0,0,,拍了幸運自拍之後
+Dialogue: 0,0:04:08.62,0:04:13.10,Main,Sara,0,0,0,,再把它發給你最重要的人  會更加開心 dish
+Dialogue: 0,0:04:13.94,0:04:15.78,Main,Sara,0,0,0,,那麼願大家今天也精神飽滿
+Dialogue: 0,0:04:15.78,0:04:17.11,Main,Sara,0,0,0,,幸運滿盤
+Dialogue: 0,0:04:17.50,0:04:19.11,Main,Kazuki,0,0,0,,幸運滿盤…
+Dialogue: 0,0:04:22.23,0:04:27.37,Main,Kazuki,0,0,0,,第三  必須每天和那個孩子互發幸運自拍
+Dialogue: 0,0:04:29.12,0:04:32.37,Main,Kazuki,0,0,0,,我們的關係是沒人知道的秘密
+Dialogue: 0,0:04:33.02,0:04:36.90,Main,Kazuki,0,0,0,,只要還保有這份牽繫  我就別無所求
+Dialogue: 0,0:04:58.59,0:04:59.61,Main,Toi,0,0,0,,你幹什麼呢？
+Comment: 0,0:04:59.61,0:05:00.42,Main,Sara,0,0,0,,誒？
+Dialogue: 0,0:05:01.00,0:05:02.40,Main,Toi,0,0,0,,你剛才拍照了吧？
+Dialogue: 0,0:05:02.77,0:05:04.40,Main,Sara,0,0,0,,我… 我不知道
+Dialogue: 0,0:05:04.40,0:05:05.90,Main,Toi,0,0,0,,耍我呢？
+Dialogue: 0,0:05:05.90,0:05:07.37,Main,Toi,0,0,0,,把手機交出來
+Dialogue: 0,0:05:09.28,0:05:10.10,Main,Toi,0,0,0,,不行！
+Dialogue: 0,0:05:12.01,0:05:15.91,Main,Sara,0,0,0,,莎拉  必須要complete和那孩子的Mission才行 dish
+Dialogue: 0,0:05:17.04,0:05:21.30,Main,Sara,0,0,0,,箱子越多  就越開心 dish！
+Dialogue: 0,0:05:20.26,0:05:22.30,Top,Toi,0,0,0,,哈？站住
+Dialogue: 0,0:05:24.86,0:05:27.80,Main,Toi,0,0,0,,可惡  跑哪去了？
+Dialogue: 0,0:05:33.01,0:05:36.30,Main,Kazuki,0,0,0,,還望今天也能和那孩子相連
+Dialogue: 0,0:05:36.30,0:05:36.94,Main,Toi,0,0,0,,喂！
+Comment: 0,0:05:37.88,0:05:38.51,Main,Kazuki,0,0,0,,Huh?
+Dialogue: 0,0:05:38.51,0:05:41.69,Main,Toi,0,0,0,,剛才你有沒有看到一個穿著很奇怪的女人？
+Dialogue: 0,0:05:41.69,0:05:44.02,Main,Kazuki,0,0,0,,沒…沒見著
+Dialogue: 0,0:05:46.36,0:05:48.70,Main,Toi,0,0,0,,你… 那個手機…
+Dialogue: 0,0:05:49.54,0:05:51.52,Main,Toi,0,0,0,,你和那個女人有關係對吧？
+Dialogue: 0,0:05:51.52,0:05:53.95,Main,Kazuki,0,0,0,,都…都說了我不知道
+Dialogue: 0,0:05:58.28,0:05:59.71,Main,Toi,0,0,0,,老子削你囉
+Dialogue: 0,0:06:15.60,0:06:19.60,Main,Toi,0,0,0,,這什麼鬼!?
+Dialogue: 0,0:06:25.77,0:06:27.11,Main,Kazuki,0,0,0,,教室？
+Dialogue: 0,0:06:27.83,0:06:29.07,Main,Kazuki,0,0,0,,是夢麼…
+Dialogue: 0,0:06:33.05,0:06:34.40,Main,Kazuki,0,0,0,,太好了
+Dialogue: 0,0:06:34.40,0:06:35.45,Main,Enta,0,0,0,,一稀
+Dialogue: 0,0:06:36.30,0:06:37.12,Main,Kazuki,0,0,0,,燕太…
+Dialogue: 0,0:06:37.12,0:06:41.14,Main,Enta,0,0,0,,怎麼不跟我講一聲就退部了？
+Dialogue: 0,0:06:41.69,0:06:43.61,Main,Kazuki,0,0,0,,我打算之後就跟你說的
+Dialogue: 0,0:06:43.61,0:06:45.25,Main,Enta,0,0,0,,先斬後奏嗎？
+Dialogue: 0,0:06:45.64,0:06:48.85,Main,Enta,0,0,0,,我們從小不就是黃金搭檔嗎？
+Dialogue: 0,0:06:48.85,0:06:50.38,Main,Sensei,0,0,0,,早上好
+Dialogue: 0,0:06:50.38,0:06:52.89,Main,Sensei,0,0,0,,下面為大家介紹一下新來的轉學生
+Dialogue: 0,0:06:52.89,0:06:54.82,Main,Sensei,0,0,0,,久慈悠同學
+Dialogue: 0,0:06:54.82,0:06:57.30,Main,Sensei,0,0,0,,大家要好好相處哦
+Dialogue: 0,0:06:59.50,0:07:00.64,Main,Kazuki,0,0,0,,原來那…
+Dialogue: 0,0:07:00.64,0:07:02.15,Main,Toi,0,0,0,,…不是夢啊
+Dialogue: 0,0:07:06.62,0:07:08.15,Main,Kazuki,0,0,0,,這聲音…
+Dialogue: 0,0:07:21.05,0:07:22.67,Main,Sensei,0,0,0,,好  下一個
+Dialogue: 0,0:07:23.08,0:07:24.67,Main,Kazuki,0,0,0,,又是那個聲音
+Dialogue: 0,0:07:29.86,0:07:30.92,Main,Kazuki,0,0,0,,嗬嗨！
+Dialogue: 0,0:07:44.76,0:07:46.39,Main,Kazuki,0,0,0,,有什麼在叫我
+Dialogue: 0,0:07:59.08,0:08:00.70,Main,Sara,0,0,0,,下一條新聞 dish
+Dialogue: 0,0:08:01.34,0:08:06.13,Main,Sara,0,0,0,,今天早上發現  商店街的河童像被不明人士所破壞了
+Dialogue: 0,0:08:06.71,0:08:08.71,Top,Sara,0,0,0,,哐當！
+Dialogue: 0,0:08:09.09,0:08:13.56,Top,Sara,0,0,0,,現在還沒有犯人的線索  淺草警局依舊在調查中
+Dialogue: 0,0:08:10.45,0:08:12.22,Main,Enta,0,0,0,,這要怎麼辦啊？
+Dialogue: 0,0:08:14.58,0:08:19.57,Main,Grandma,0,0,0,,犯人肯定會被河童大人拔走尻子玉吧
+Dialogue: 0,0:08:19.57,0:08:20.97,Main,Enta,0,0,0,,尻子玉？
+Dialogue: 0,0:08:21.78,0:08:24.98,Main,Enta,0,0,0,,那是長在人類屁股裡的一個器官
+Dialogue: 0,0:08:24.98,0:08:26.36,Main,Otone,0,0,0,,燕太！
+Dialogue: 0,0:08:26.36,0:08:28.63,Main,Otone,0,0,0,,你又亂花錢了？
+Dialogue: 0,0:08:28.63,0:08:31.34,Main,Enta,0,0,0,,那個箱子… 你這次又買了什麼啊？
+Dialogue: 0,0:08:31.34,0:08:32.92,Main,Otone,0,0,0,,不是的  姐姐
+Dialogue: 0,0:08:32.92,0:08:34.59,Main,Otone,0,0,0,,這是為了一稀…
+Dialogue: 0,0:08:38.97,0:08:40.24,Main,Enta,0,0,0,,等…等等
+Dialogue: 0,0:08:40.24,0:08:43.25,Main,Enta,0,0,0,,我的箱子！
+Dialogue: 0,0:08:48.04,0:08:50.75,Main,Kazuki,0,0,0,,果然… 是從這個廣場裡傳來的
+Dialogue: 0,0:08:50.75,0:08:54.37,Main,Toi,0,0,0,,其他人都聽不到…麼
+Dialogue: 0,0:08:54.37,0:08:57.64,Main,Kazuki,0,0,0,,我們肯定是被河童詛咒了
+Dialogue: 0,0:08:57.64,0:08:59.64,Main,Toi,0,0,0,,這世上怎麼會有詛咒
+Dialogue: 0,0:09:06.26,0:09:08.65,Main,Kazuki,0,0,0,,越來越響了
+Dialogue: 0,0:09:09.62,0:09:12.65,Main,Kazuki,0,0,0,,要是暴露了  我們會被警察抓走的吧？
+Dialogue: 0,0:09:12.65,0:09:14.24,Main,Toi,0,0,0,,我可不能被條子抓
+Dialogue: 0,0:09:14.24,0:09:15.15,Main,Toi,0,0,0,,絕對不行
+Dialogue: 0,0:09:15.47,0:09:16.32,Main,Kazuki,0,0,0,,我也是
+Dialogue: 0,0:09:16.60,0:09:20.41,Main,Kazuki,0,0,0,,我絕對不能斷開和那孩子的聯繫
+Dialogue: 0,0:09:21.91,0:09:22.94,Main,Toi,0,0,0,,有什麼出來了
+Dialogue: 0,0:09:22.94,0:09:23.90,Main,Kazuki,0,0,0,,放屁了？
+Dialogue: 0,0:09:27.67,0:09:29.67,Main,Kazuki,0,0,0,,這什麼鬼!?
+Dialogue: 0,0:09:31.97,0:09:34.76,Main,Keppi,0,0,0,,Good morning.
+Dialogue: 0,0:09:36.85,0:09:37.63,Main,Kazuki,0,0,0,,咦
+Dialogue: 0,0:09:38.12,0:09:39.72,Main,Toi,0,0,0,,這句話…
+Dialogue: 0,0:09:39.72,0:09:41.39,Main,Keppi,0,0,0,,我等你們多時了  呱呱
+Dialogue: 0,0:09:44.73,0:09:49.52,Top,Keppi,0,0,0,,我是河童王國的第一王位繼承人Keppi  呱呱
+Dialogue: 0,0:09:49.52,0:09:54.15,Main,Keppi,0,0,0,,謹把二位今早的記憶清除了  呱呱
+Dialogue: 0,0:09:54.15,0:09:55.30,Main,Kazuki,0,0,0,,把記憶…
+Dialogue: 0,0:09:55.30,0:09:56.03,Main,Keppi,0,0,0,,…清除了？
+Dialogue: 0,0:09:56.54,0:09:58.41,Main,Kazuki,0,0,0,,一氣呵成
+Dialogue: 0,0:09:59.16,0:10:03.79,Main,Keppi,0,0,0,,知道我存在的人  可不能隨便就放過了  呱呱呱呱
+Dialogue: 0,0:10:04.13,0:10:06.29,Main,Kazuki,0,0,0,,請…不要詛咒我！
+Dialogue: 0,0:10:06.29,0:10:11.69,Main,Keppi,0,0,0,,但是… 被你們喚醒也是某種緣份
+Dialogue: 0,0:10:11.69,0:10:14.92,Main,Keppi,0,0,0,,叫你們來這裡不是為了別的
+Dialogue: 0,0:10:15.24,0:10:19.97,Main,Keppi,0,0,0,,人類的孩子們啊  請助我一臂之力  呱呱
+Dialogue: 0,0:10:19.97,0:10:21.68,Main,Keppi,0,0,0,,拜託了  呱呱
+Dialogue: 0,0:10:24.67,0:10:25.51,Main,Toi,0,0,0,,我拒絕
+Dialogue: 0,0:10:25.51,0:10:28.02,Main,Kazuki,0,0,0,,誒？能拒絕的嗎？
+Dialogue: 0,0:10:28.02,0:10:30.05,Main,Toi,0,0,0,,我怎麼可能去聽青蛙的話
+Dialogue: 0,0:10:30.84,0:10:32.20,Main,,0,0,0,,不是青蛙
+Dialogue: 0,0:10:32.20,0:10:33.69,Main,Kazuki,0,0,0,,啊？青蛙？
+Dialogue: 0,0:10:34.69,0:10:37.69,Main,Keppi,0,0,0,,都說了我不是青蛙呀
+Dialogue: 0,0:10:39.29,0:10:41.19,Main,Kazuki,0,800,0,,好像…不太妙
+Dialogue: 0,0:10:40.44,0:10:43.91,Main,Keppi,800,0,0,,欲望…
+Dialogue: 0,0:10:45.13,0:10:46.70,Main,Keppi,0,0,0,,榨取！
+Dialogue: 0,0:10:57.54,0:10:58.07,Main,,0,0,0,,呱呱！
+Dialogue: 0,0:11:30.93,0:11:31.75,Main,Kazuki,0,0,0,,河童！
+Dialogue: 0,0:11:31.75,0:11:34.04,Main,Kazuki,0,0,0,,久慈變成河童了！
+Dialogue: 0,0:11:37.77,0:11:39.13,Main,Kazuki,0,0,0,,河童出來了！
+Dialogue: 0,0:11:39.13,0:11:40.91,Main,Toi,0,0,0,,我說  你也是河童啊！
+Dialogue: 0,0:11:41.71,0:11:44.06,Main,Keppi,0,0,0,,正因為我是王子…
+Dialogue: 0,0:11:44.06,0:11:45.60,Main,Keppi,0,0,0,,所以有人侮辱我是青蛙時
+Dialogue: 0,0:11:45.60,0:11:48.56,Main,Keppi,0,0,0,,我一定會按捺不住心中怒火把他的尻子玉取走  呱呱
+Dialogue: 0,0:11:51.02,0:11:54.52,Main,Kazuki,0,0,0,,不… 不得了了
+Dialogue: 0,0:11:55.59,0:11:58.20,Main,Keppi,0,0,0,,這裡是欲望領域  呱呱
+Dialogue: 0,0:11:58.20,0:11:59.63,Main,Keppi,0,0,0,,是人界的內側
+Dialogue: 0,0:11:59.63,0:12:03.91,Main,Keppi,0,0,0,,人類是看不見這個世界與河童的  呱呱
+Dialogue: 0,0:12:04.30,0:12:08.34,Main,Keppi,0,0,0,,也就是說  你們既是活著又是死了  呱呱
+Dialogue: 0,0:12:08.34,0:12:09.86,Main,Kazuki,0,0,0,,既是活著…
+Dialogue: 0,0:12:09.86,0:12:11.14,Main,Toi,0,0,0,,…又是死了？
+Dialogue: 0,0:12:11.98,0:12:14.51,Main,Enta,0,0,0,,等等！我的箱子！
+Dialogue: 0,0:12:14.51,0:12:15.42,Main,Kazuki,0,0,0,,燕太
+Dialogue: 0,0:12:15.42,0:12:16.42,Main,Kazuki,0,0,0,,是我！
+Dialogue: 0,0:12:17.05,0:12:20.03,Main,Keppi,0,0,0,,他是看不見你們的  呱呱
+Dialogue: 0,0:12:20.03,0:12:21.55,Main,Keppi,0,0,0,,讓我來…
+Dialogue: 0,0:12:24.26,0:12:25.39,Main,Enta,0,0,0,,好大的青蛙！
+Dialogue: 0,0:12:25.39,0:12:27.30,Main,Keppi,0,0,0,,不是青蛙！
+Dialogue: 0,0:12:36.21,0:12:37.49,Main,Sara,0,0,0,,下一條新聞 dish
+Dialogue: 0,0:12:37.82,0:12:39.04,Top,Sara,0,0,0,,淺草一帶發生了這樣的事件
+Dialogue: 0,0:12:39.04,0:12:42.61,Top,Sara,0,0,0,,箱子接二連三地飛上了天
+Dialogue: 0,0:12:43.02,0:12:44.39,Top,Sara,0,0,0,,箱子~
+Dialogue: 0,0:12:46.66,0:12:50.04,Main,Keppi,0,0,0,,又拔了個無聊的尻子玉  呱呱
+Dialogue: 0,0:12:50.48,0:12:52.66,Main,Kazuki,0,0,0,,你說的尻子玉是什麼？
+Dialogue: 0,0:12:52.99,0:12:58.42,Main,Keppi,0,0,0,,尻子玉是儲存人類欲望能量的器官  呱呱
+Dialogue: 0,0:12:58.42,0:13:00.17,Main,Toi,0,0,0,,快把我們變回去！
+Dialogue: 0,0:13:00.84,0:13:02.67,Main,Kazuki,0,0,0,,啊  我的箱子！
+Dialogue: 0,0:13:03.73,0:13:06.18,Main,Keppi,0,0,0,,那是河童喪屍的小嘍囉  呱呱
+Dialogue: 0,0:13:06.78,0:13:09.43,Main,Keppi,0,0,0,,人類是看不見它們的  呱呱
+Dialogue: 0,0:13:09.79,0:13:11.93,Main,Toi,0,0,0,,嘁  連我的箱子都
+Dialogue: 0,0:13:11.93,0:13:15.86,Main,Keppi,0,0,0,,想找回自己的箱子就請跟我來  呱呱
+Dialogue: 0,0:13:12.39,0:13:13.60,Top,,0,0,0,,那個…
+Dialogue: 0,0:13:24.14,0:13:28.45,Main,Keppi,0,0,0,,接下來請你們同河童喪屍戰鬥  呱呱
+Dialogue: 0,0:13:28.96,0:13:33.45,Main,Keppi,0,0,0,,那些傢伙想要滿足自己生前執著的欲望  呱呱
+Dialogue: 0,0:13:33.45,0:13:37.96,Main,Keppi,0,0,0,,河童喪屍只要拔出尻子玉就會消失  呱呱
+Dialogue: 0,0:13:37.96,0:13:40.96,Top,Keppi,0,0,0,,變成了河童的你們是可以做到的  呱呱
+Dialogue: 0,0:13:41.44,0:13:43.31,Main,Toi,0,0,0,,被奪去的東西唯有奪回來
+Dialogue: 0,0:13:43.31,0:13:44.36,Main,Toi,0,0,0,,僅此而已
+Dialogue: 0,0:13:44.36,0:13:46.09,Main,Kazuki,0,0,0,,我不會把那個箱子交給你們
+Dialogue: 0,0:13:46.09,0:13:48.47,Main,Kazuki,0,0,0,,我想要奪回箱子
+Dialogue: 0,0:14:04.86,0:14:08.11,Top,Box,0,0,0,,紙箱子
+Dialogue: 0,0:14:09.88,0:14:13.26,Top,Box,0,0,0,,紙箱子
+Dialogue: 0,0:14:28.30,0:14:29.30,Main,Box,0,0,0,,別過來
+Dialogue: 0,0:14:29.30,0:14:31.72,Main,Box,0,0,0,,不要搶走我的欲望！
+Dialogue: 0,0:14:35.81,0:14:41.69,Main,Box,0,0,0,,紙 紙 紙 紙  紙箱子
+Dialogue: 0,0:14:43.90,0:14:47.07,Main,Box,0,0,0,,箱子  箱子  我的夢想
+Dialogue: 0,0:14:47.07,0:14:48.82,Main,Box,0,0,0,,我想要箱子！
+Dialogue: 0,0:14:48.82,0:14:50.95,Main,Enta,0,0,0,,為什麼連我的箱子也
+Dialogue: 0,0:14:50.95,0:14:52.95,Main,Toi,0,0,0,,箱子被打開的話就糟了！
+Dialogue: 0,0:14:53.55,0:14:54.78,Main,Kazuki,0,0,0,,一定要拿回來！
+Dialogue: 0,0:14:54.78,0:14:57.45,Main,Box,0,0,0,,紙 紙 紙 紙  紙箱子
+Dialogue: 0,0:14:57.45,0:14:59.79,Main,Box,0,0,0,,紙 紙
+Dialogue: 0,0:15:02.04,0:15:04.65,Main,Box,0,0,0,,淋濕了~
+Dialogue: 0,0:15:04.65,0:15:07.23,Main,Box,0,0,0,,小心受潮~
+Dialogue: 0,0:15:10.73,0:15:12.07,Main,Kazuki,0,0,0,,一氣呵成
+Dialogue: 0,0:15:13.97,0:15:15.46,Main,Box,0,0,0,,求你們了
+Dialogue: 0,0:15:15.46,0:15:17.97,Main,Box,0,0,0,,我不想讓別人發現我的秘密
+Dialogue: 0,0:15:18.38,0:15:19.48,Main,Kazuki,0,0,0,,活該！
+Dialogue: 0,0:15:19.48,0:15:22.15,Main,Kazuki,0,0,0,,藏著那樣不可告人的秘密
+Dialogue: 0,0:15:22.15,0:15:27.65,Main,Kazuki,0,0,0,,要怪就怪你自己吧！
+Dialogue: 0,0:15:35.83,0:15:37.45,Main,Kazuki,0,0,0,,抓住了！
+Dialogue: 0,0:15:37.45,0:15:38.82,Main,Toi,0,0,0,,快拉！
+Dialogue: 0,0:15:39.87,0:15:42.71,Main,Kazuki,0,0,0,,可惡  拔不出來！
+Dialogue: 0,0:15:44.04,0:15:45.28,Main,Kazuki,0,0,0,,一定要
+Dialogue: 0,0:15:45.28,0:15:47.36,Main,Kazuki,0,0,0,,把尻子玉拔出來！
+Dialogue: 0,0:15:47.78,0:15:49.51,Main,Kazuki,0,0,0,,為了和那孩子相連！
+Dialogue: 0,0:15:49.51,0:15:52.01,Main,Box,0,0,0,,住手呀！
+Dialogue: 0,0:15:53.13,0:15:56.47,Main,Kazuki,0,0,0,,來珠不易
+Dialogue: 0,0:16:01.90,0:16:03.85,Main,Kazuki,0,0,0,,這是  什麼
+Dialogue: 0,0:16:05.30,0:16:08.61,Main,Box,0,0,0,,箱子  箱子最棒了
+Dialogue: 0,0:16:09.15,0:16:13.61,Main,Kazuki,0,0,0,,我明白了  他喜歡一絲不掛地把偷來的箱子套在頭上
+Dialogue: 0,0:16:13.66,0:16:15.66,Main,Box,0,0,0,,我不可告人的秘密
+Dialogue: 0,0:16:15.66,0:16:18.58,Main,Box,0,0,0,,被發現了！
+Dialogue: 0,0:16:25.41,0:16:27.25,Main,Kazuki,0,0,0,,成功了  拔出來了！
+Dialogue: 0,0:16:32.76,0:16:36.85,Main,Keppi,0,0,0,,請在尻子玉化掉之前把它傳送給我  呱呱
+Dialogue: 0,0:16:38.35,0:16:40.10,Main,Keppi,0,0,0,,請Sarazanmai  呱呱
+Dialogue: 0,0:16:40.10,0:16:42.28,Main,Keppi,0,0,0,,Sarazanmai是什麼啊！
+Dialogue: 0,0:16:42.28,0:16:43.18,Main,Enta,0,0,0,,是什麼啊
+Dialogue: 0,0:16:43.18,0:16:44.14,Main,Toi,0,0,0,,鬼才知道！
+Dialogue: 0,0:16:44.14,0:16:46.73,Main,Keppi,0,0,0,,啊  真是莫名其妙！
+Dialogue: 0,0:16:46.83,0:16:50.82,Main,,0,0,0,,{\be1}Sara　{\1aFF\3aFF\t(1000,1001,\1a00\3a00)}Sara　{\1aFF\3aFF\t(2090,2091,\1a00\3a00)}Sara
+Dialogue: 0,0:16:51.38,0:16:52.82,Main,Toi,0,0,0,,Sarazanmai!
+Dialogue: 0,0:17:16.07,0:17:17.54,Top,Voice,0,0,0,,開始洩漏
+Dialogue: 0,0:17:18.91,0:17:20.49,Top,Voice,0,0,0,,開始傳送
+Dialogue: 0,0:17:23.89,0:17:27.10,Main,Sara,0,0,0,,那麼願大家今天也精神飽滿  幸運滿盤
+Dialogue: 0,0:17:32.38,0:17:34.32,Main,Kazuki,0,0,0,,誒  這是？
+Dialogue: 0,0:17:34.78,0:17:35.96,Main,Kazuki,0,0,0,,今早的我？
+Dialogue: 0,0:17:44.77,0:17:45.66,Main,Kazuki,0,0,0,,不要
+Dialogue: 0,0:17:46.53,0:17:49.33,Main,Kazuki,0,0,0,,不許看！
+Dialogue: 0,0:18:01.63,0:18:02.57,Main,Toi,0,0,0,,你幹什麼呢？
+Dialogue: 0,0:18:03.88,0:18:04.74,Main,Toi,0,0,0,,耍我呢？
+Dialogue: 0,0:18:05.42,0:18:06.77,Main,Toi,0,0,0,,把手機交出來
+Dialogue: 0,0:18:08.05,0:18:08.52,Main,,0,0,0,,不行！
+Dialogue: 0,0:18:09.43,0:18:13.53,Main,Sara,0,0,0,,莎拉  必須要complete和那孩子的Mission才行 dish
+Dialogue: 0,0:18:14.53,0:18:18.53,Main,Sara,0,0,0,,箱子越多  就越開心 dish！
+Dialogue: 0,0:18:18.53,0:18:20.03,Main,Toi,0,0,0,,不會吧
+Dialogue: 0,0:18:21.31,0:18:22.91,Main,Toi,0,0,0,,早上那個女人就是你嗎!?
+Dialogue: 0,0:18:28.98,0:18:30.38,Main,Sara,0,0,0,,Good morning!
+Dialogue: 0,0:18:30.38,0:18:34.67,Main,Sara,0,0,0,,今天的幸運自拍Mission也complete了 dish
+Dialogue: 0,0:18:37.86,0:18:40.59,Main,Enta,0,0,0,,不敢相信  一稀居然穿女裝
+Dialogue: 0,0:18:40.59,0:18:42.51,Main,Enta,0,0,0,,假扮成偶像的樣子
+Dialogue: 0,0:18:45.42,0:18:47.64,Main,Text,0,0,0,,我不可告人的秘密
+Dialogue: 0,0:18:47.89,0:18:51.52,Main,Text,0,0,0,,被發現了！
+Dialogue: 0,0:18:59.19,0:19:01.06,Main,Keppi,0,0,0,,欲望  消化
+Dialogue: 0,0:19:01.06,0:19:04.39,Main,Zombie,0,0,0,,死喪喪了~
+Dialogue: 0,0:19:09.75,0:19:12.25,Main,Kazuki,0,0,0,,變回…人類了
+Dialogue: 0,0:19:13.27,0:19:16.63,Main,Toi,0,0,0,,傳送尻子玉的時候  我們看見什麼了？
+Dialogue: 0,0:19:17.31,0:19:22.43,Main,Keppi,0,0,0,,Sarazanmai是指將你們的身心連結在一起  呱呱
+Dialogue: 0,0:19:23.86,0:19:27.39,Main,Keppi,0,0,0,,一切都會被共享  包括不想為人知曉的秘密  呱呱
+Dialogue: 0,0:19:27.97,0:19:30.44,Main,Enta,0,0,0,,所以  一稀的箱子裡的是…
+Dialogue: 0,0:19:30.44,0:19:31.64,Main,Kazuki,0,0,0,,沒錯
+Dialogue: 0,0:19:31.64,0:19:36.52,Main,Kazuki,0,0,0,,我就是個扮成吾妻莎拉的樣子自拍的…變態
+Dialogue: 0,0:19:36.52,0:19:38.30,Main,Enta,0,0,0,,別…別在意啦
+Dialogue: 0,0:19:38.30,0:19:40.04,Main,Enta,0,0,0,,雖然  我是吃了一驚
+Dialogue: 0,0:19:40.04,0:19:43.20,Main,,0,0,0,,可即便如此  我們的關係也不會因此就改變的
+Dialogue: 0,0:19:43.80,0:19:45.28,Main,Toi,0,0,0,,你認真的嗎？
+Dialogue: 0,0:19:45.86,0:19:48.73,Main,Toi,0,0,0,,那可是個穿女裝假扮偶像的傢伙啊
+Dialogue: 0,0:19:48.73,0:19:52.29,Main,Enta,0,0,0,,我們之間可是有著無法輕易割斷的聯繫的啊！
+Dialogue: 0,0:19:52.66,0:19:53.55,Main,Enta,0,0,0,,久慈你才是
+Dialogue: 0,0:19:53.55,0:19:55.31,Main,Enta,0,0,0,,撬車門是犯罪吧
+Dialogue: 0,0:19:55.75,0:19:58.18,Main,Toi,0,0,0,,輪不到你來教訓我
+Dialogue: 0,0:19:58.18,0:19:59.30,Main,Enta,0,0,0,,你再說一遍？
+Dialogue: 0,0:19:59.30,0:20:00.17,Main,Kazuki,0,0,0,,吵死了！
+Dialogue: 0,0:20:01.57,0:20:02.99,Main,Kazuki,0,0,0,,吵死了  吵死了！
+Dialogue: 0,0:20:02.99,0:20:04.51,Main,Kazuki,0,0,0,,不要自說自話！
+Dialogue: 0,0:20:04.51,0:20:07.85,Main,Kazuki,0,0,0,,我從來就沒想得到別人的理解
+Dialogue: 0,0:20:08.23,0:20:09.72,Main,Kazuki,0,0,0,,這是只屬於我自己的…
+Dialogue: 0,0:20:09.72,0:20:12.55,Main,Kazuki,0,0,0,,只屬於我和春河童兩個人的牽繫
+Dialogue: 0,0:20:12.55,0:20:16.83,Main,Kazuki,0,0,0,,為此  讓我怎樣偽裝自己都行！
+Dialogue: 0,0:20:19.45,0:20:22.24,Main,Haruka,0,0,0,,晚安  莎拉
+Dialogue: 0,0:22:02.38,0:22:05.70,Main,Nekoyama,0,0,0,,我才喵幹壞事！這是非法逮捕！
+Dialogue: 0,0:22:08.86,0:22:09.74,Main,Nekoyama,0,0,0,,喵？
+Dialogue: 0,0:22:10.22,0:22:12.58,Main,Mabu,0,0,0,,既無開始  亦無終結
+Dialogue: 0,0:22:12.58,0:22:14.54,Main,Mabu,0,0,0,,無法相連的人們
+Dialogue: 0,0:22:15.62,0:22:18.70,Main,Reo,0,0,0,,來打開一扇門吧
+Dialogue: 0,0:22:27.05,0:22:28.53,Main,Reo,0,0,0,,是欲望
+Dialogue: 0,0:22:30.01,0:22:30.70,Main,Reo,0,0,0,,還是愛？
+Dialogue: 0,0:22:39.25,0:22:42.30,Main,Reo,0,0,0,,欲望… 榨取！
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,Sign (Mocha)
+Dialogue: 0,0:18:30.38,0:18:30.42,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,268)}春 河 童
+Dialogue: 0,0:18:30.42,0:18:30.46,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,259.97)}春 河 童
+Dialogue: 0,0:18:30.46,0:18:30.50,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,251.97)}春 河 童
+Dialogue: 0,0:18:30.50,0:18:30.54,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,243.95)}春 河 童
+Dialogue: 0,0:18:30.54,0:18:30.59,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,235.92)}春 河 童
+Dialogue: 0,0:18:30.59,0:18:30.63,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,227.9)}春 河 童
+Dialogue: 0,0:18:30.63,0:18:30.67,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,219.86)}春 河 童
+Dialogue: 0,0:18:30.67,0:18:30.71,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,211.85)}春 河 童
+Dialogue: 0,0:18:30.71,0:18:30.75,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,203.83)}春 河 童
+Dialogue: 0,0:18:30.75,0:18:30.79,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,195.79)}春 河 童
+Dialogue: 0,0:18:30.79,0:18:30.84,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,187.77)}春 河 童
+Dialogue: 0,0:18:30.84,0:18:30.88,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,179.75)}春 河 童
+Dialogue: 0,0:18:30.88,0:18:30.92,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,171.73)}春 河 童
+Dialogue: 0,0:18:30.92,0:18:30.96,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,163.71)}春 河 童
+Dialogue: 0,0:18:30.96,0:18:31.00,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,155.68)}春 河 童
+Dialogue: 0,0:18:31.00,0:18:31.04,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,147.66)}春 河 童
+Dialogue: 0,0:18:31.04,0:18:31.09,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,139.64)}春 河 童
+Dialogue: 0,0:18:31.09,0:18:31.13,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,131.62)}春 河 童
+Dialogue: 0,0:18:31.13,0:18:31.17,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,123.59)}春 河 童
+Dialogue: 0,0:18:31.17,0:18:31.21,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,115.59)}春 河 童
+Dialogue: 0,0:18:31.21,0:18:31.25,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,107.55)}春 河 童
+Dialogue: 0,0:18:31.25,0:18:31.29,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,99.53)}春 河 童
+Dialogue: 0,0:18:31.29,0:18:31.34,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,91.51)}春 河 童
+Dialogue: 0,0:18:31.34,0:18:31.38,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,83.49)}春 河 童
+Dialogue: 0,0:18:31.38,0:18:31.42,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,75.45)}春 河 童
+Dialogue: 0,0:18:31.42,0:18:31.46,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,67.41)}春 河 童
+Dialogue: 0,0:18:31.46,0:18:31.50,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,59.4)}春 河 童
+Dialogue: 0,0:18:31.50,0:18:31.54,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,51.4)}春 河 童
+Dialogue: 0,0:18:31.54,0:18:31.59,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,43.35)}春 河 童
+Dialogue: 0,0:18:31.59,0:18:31.63,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,35.33)}春 河 童
+Dialogue: 0,0:18:31.63,0:18:31.67,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,27.29)}春 河 童
+Dialogue: 0,0:18:31.67,0:18:31.71,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,19.18)}春 河 童
+Dialogue: 0,0:18:31.71,0:18:31.75,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,11.98)}春 河 童
+Dialogue: 0,0:18:31.75,0:18:31.79,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,3.19)}春 河 童
+Dialogue: 0,0:18:31.79,0:18:31.84,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,-4.65)}春 河 童
+Dialogue: 0,0:18:31.84,0:18:31.88,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,-12.65)}春 河 童
+Dialogue: 0,0:18:31.88,0:18:31.92,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,-20.65)}春 河 童
+Dialogue: 0,0:18:31.92,0:18:31.96,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,-28.65)}春 河 童
+Dialogue: 0,0:18:31.96,0:18:32.00,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,-36.65)}春 河 童
+Dialogue: 0,0:18:32.00,0:18:32.05,Sign_Rounded,,0,0,0,,{=8}{\an8\b1\fsp5\fs60\bord0\pos(946,-44.65)}春 河 童
+Comment: 1,0:18:30.38,0:18:33.88,Sign_Rounded,,0,0,0,,{\an7\b1\fsp5\fs80\bord0\pos(160,668)}Good morning★\N\N今天的幸運自拍Mission也\N\Ncomplete了dish★\N
+Dialogue: 1,0:18:30.38,0:18:30.42,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,620)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:30.42,0:18:30.46,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,607.74)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:30.46,0:18:30.50,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,595.4)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:30.50,0:18:30.54,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,583.04)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:30.54,0:18:30.59,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,570.75)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:30.59,0:18:30.63,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,558.45)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:30.63,0:18:30.67,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,546.13)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:30.67,0:18:30.71,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,533.8)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:30.71,0:18:30.75,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,521.49)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:30.75,0:18:30.79,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,509.17)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:30.79,0:18:30.84,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,496.86)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:30.84,0:18:30.88,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,484.54)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:30.88,0:18:30.92,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(159.99,472.22)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:30.92,0:18:30.96,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,459.91)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:30.96,0:18:31.00,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,447.6)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:31.00,0:18:31.04,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,435.29)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:31.04,0:18:31.09,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(159.99,422.98)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:31.09,0:18:31.13,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(159.99,410.66)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:31.13,0:18:31.17,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,398.34)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:31.17,0:18:31.21,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,386.04)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:31.21,0:18:31.25,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,373.71)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:31.25,0:18:31.29,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(159.99,361.4)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:31.29,0:18:31.34,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,349.07)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:31.34,0:18:31.38,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,336.75)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:31.38,0:18:31.42,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,324.46)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:31.42,0:18:31.46,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(159.99,312.15)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:31.46,0:18:31.50,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,299.84)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:31.50,0:18:31.54,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,287.49)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:31.54,0:18:31.59,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,275.19)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:31.59,0:18:31.63,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,262.89)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:31.63,0:18:31.67,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(159.99,250.57)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:31.67,0:18:31.71,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,238.26)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:31.71,0:18:31.75,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,225.94)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:31.75,0:18:31.79,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,213.63)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:31.79,0:18:31.84,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,201.34)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:31.84,0:18:31.88,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,189.01)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:31.88,0:18:31.92,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,176.68)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:31.92,0:18:31.96,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,164.37)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:31.96,0:18:32.00,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,152.07)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:32.00,0:18:32.05,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,139.75)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:32.05,0:18:32.09,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,127.42)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:32.09,0:18:32.13,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,115.13)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:32.13,0:18:32.17,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,102.79)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:32.17,0:18:32.21,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,90.5)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:32.21,0:18:32.25,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,78.18)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:32.25,0:18:32.30,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,65.87)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:32.30,0:18:32.34,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,53.53)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:32.34,0:18:32.38,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,41.22)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:32.38,0:18:32.42,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,28.92)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:32.42,0:18:32.46,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,16.61)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:32.46,0:18:32.50,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,4.31)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:32.50,0:18:32.55,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,-8.03)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:32.55,0:18:32.59,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,-20.33)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:32.59,0:18:32.63,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,-32.62)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:32.63,0:18:32.67,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160.01,-44.95)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:32.67,0:18:32.71,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,-57.28)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:32.71,0:18:32.75,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,-69.59)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:32.75,0:18:32.80,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,-81.89)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:32.80,0:18:32.84,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,-94.21)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:32.84,0:18:32.88,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160.01,-106.53)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:32.88,0:18:32.92,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,-118.85)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:32.92,0:18:32.96,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,-131.17)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:32.96,0:18:33.00,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,-143.47)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:33.00,0:18:33.05,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,-155.79)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:33.05,0:18:33.09,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,-168.1)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:33.09,0:18:33.13,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,-180.43)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:33.13,0:18:33.17,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,-192.73)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:33.17,0:18:33.21,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,-205.02)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:33.21,0:18:33.25,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,-217.32)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:33.25,0:18:33.30,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160.01,-229.66)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:33.30,0:18:33.34,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160.01,-241.97)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:33.34,0:18:33.38,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,-254.28)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:33.38,0:18:33.42,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,-266.58)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:33.42,0:18:33.46,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,-278.9)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:33.46,0:18:33.50,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,-291.2)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:33.50,0:18:33.55,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,-303.53)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:33.55,0:18:33.59,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,-315.8)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:33.59,0:18:33.63,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160,-328.12)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:33.63,0:18:33.67,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(159.98,-340.4)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:33.67,0:18:33.71,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(160.01,-352.76)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:33.71,0:18:33.76,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(159.01,-367.76)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:33.76,0:18:33.80,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(161.04,-360.8)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:33.80,0:18:33.84,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(167.98,-374.8)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Dialogue: 1,0:18:33.84,0:18:33.88,Sign_Rounded,,0,0,0,,{=5}{\fscy100\fscx100\an7\b1\fsp5\fs50\bord0\pos(167.99,-387.18)}Good morning★{\fs70}\N \N{\fs50}今天的幸運自拍Mission也{\fs70}\N \N{\fs50}complete了dish★\N
+Comment: 0,0:18:30.38,0:18:33.88,Sign_Rounded,,0,0,0,,{\an7\bord0\pos(0,0)\p1\c&H6C6C6C&}m 140 650 l 140 1000 1300 1000 1300 650
+Dialogue: 0,0:18:37.30,0:18:37.34,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,1068.21)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:37.34,0:18:37.38,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,1056.06)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:37.38,0:18:37.43,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,1043.71)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:37.43,0:18:37.47,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,1031.56)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:37.47,0:18:37.51,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,1019.25)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:37.51,0:18:37.55,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,1007.03)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:37.55,0:18:37.59,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,994.72)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:37.59,0:18:37.63,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,982.42)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:37.63,0:18:37.68,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,970.09)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:37.68,0:18:37.72,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,957.81)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:37.72,0:18:37.76,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,945.51)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:37.76,0:18:37.80,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,933.19)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:37.80,0:18:37.84,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,920.87)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:37.84,0:18:37.88,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,908.56)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:37.88,0:18:37.93,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,896.26)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:37.93,0:18:37.97,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,883.95)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:37.97,0:18:38.01,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,871.64)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:38.01,0:18:38.05,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,859.32)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:38.05,0:18:38.09,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,847.01)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:38.09,0:18:38.13,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,834.72)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:38.13,0:18:38.18,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,822.4)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:38.18,0:18:38.22,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,810.08)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:38.22,0:18:38.26,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,797.76)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:38.26,0:18:38.30,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,785.45)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:38.30,0:18:38.34,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,773.14)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:38.34,0:18:38.38,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,760.83)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:38.38,0:18:38.43,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,748.5)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:38.43,0:18:38.47,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,736.2)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:38.47,0:18:38.51,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,723.89)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:38.51,0:18:38.55,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,711.59)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:38.55,0:18:38.59,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,699.26)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:38.59,0:18:38.64,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,686.93)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:38.64,0:18:38.68,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,674.61)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:38.68,0:18:38.72,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,662.31)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:38.72,0:18:38.76,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,650)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:38.76,0:18:38.80,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,637.68)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:38.80,0:18:38.84,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,625.36)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:38.84,0:18:38.89,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,613.05)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:38.89,0:18:38.93,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,600.76)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:38.93,0:18:38.97,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,588.44)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:38.97,0:18:39.01,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,576.11)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:39.01,0:18:39.05,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,563.8)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:39.05,0:18:39.09,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,551.49)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:39.09,0:18:39.14,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,539.18)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:39.14,0:18:39.18,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,526.86)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:39.18,0:18:39.22,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,514.55)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:39.22,0:18:39.26,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,502.23)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:39.26,0:18:39.30,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,489.92)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:39.30,0:18:39.34,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,477.62)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:39.34,0:18:39.39,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,465.3)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:39.39,0:18:39.43,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,452.99)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:39.43,0:18:39.47,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,440.66)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:39.47,0:18:39.51,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,428.36)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:39.51,0:18:39.55,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,416.04)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:39.55,0:18:39.59,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,403.72)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:39.59,0:18:39.64,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,391.41)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:39.64,0:18:39.68,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,379.09)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:39.68,0:18:39.72,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,366.79)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:39.72,0:18:39.76,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,354.47)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:39.76,0:18:39.80,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,342.16)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:39.80,0:18:39.84,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,329.84)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:39.84,0:18:39.89,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,317.53)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:39.89,0:18:39.93,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,305.23)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:39.93,0:18:39.97,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,292.92)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:39.97,0:18:40.01,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,280.59)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:40.01,0:18:40.05,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,268.27)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:40.05,0:18:40.09,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,255.96)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:40.09,0:18:40.14,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,243.66)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:40.14,0:18:40.18,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,231.33)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:40.18,0:18:40.22,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,219.02)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:40.22,0:18:40.26,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,206.7)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:40.26,0:18:40.30,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,194.4)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:40.30,0:18:40.35,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,182.09)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:40.35,0:18:40.39,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,169.77)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:40.39,0:18:40.43,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,157.45)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:40.43,0:18:40.47,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,145.14)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:40.47,0:18:40.51,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,132.85)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:40.51,0:18:40.55,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,120.52)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:40.55,0:18:40.60,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,108.2)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:40.60,0:18:40.64,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,95.87)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:40.64,0:18:40.68,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640.01,83.57)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:40.68,0:18:40.72,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,71.26)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:40.72,0:18:40.76,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,58.94)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:40.76,0:18:40.80,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,46.63)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:40.80,0:18:40.85,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,34.31)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:40.85,0:18:40.89,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,22.02)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:40.89,0:18:40.93,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,9.7)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:40.93,0:18:40.97,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-2.6)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:40.97,0:18:41.01,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-14.93)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:41.01,0:18:41.05,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-27.25)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:41.05,0:18:41.10,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-39.55)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:41.10,0:18:41.14,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-51.86)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:41.14,0:18:41.18,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-64.18)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:41.18,0:18:41.22,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-76.5)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:41.22,0:18:41.26,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-88.81)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:41.26,0:18:41.30,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-101.11)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:41.30,0:18:41.35,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-113.43)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:41.35,0:18:41.39,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-125.76)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:41.39,0:18:41.43,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-138.07)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:41.43,0:18:41.47,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-150.38)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:41.47,0:18:41.51,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-162.68)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:41.51,0:18:41.55,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-175)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:41.55,0:18:41.60,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-187.32)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:41.60,0:18:41.64,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-199.64)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:41.64,0:18:41.68,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-211.93)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:41.68,0:18:41.72,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-224.24)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:41.72,0:18:41.76,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-236.55)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:41.76,0:18:41.80,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-248.88)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:41.80,0:18:41.85,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-261.18)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:41.85,0:18:41.89,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-273.48)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:41.89,0:18:41.93,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-285.79)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:41.93,0:18:41.97,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-298.11)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:41.97,0:18:42.01,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-310.42)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:42.01,0:18:42.06,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-322.72)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:42.06,0:18:42.10,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-335.02)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:42.10,0:18:42.14,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-347.34)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:42.14,0:18:42.18,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-359.66)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:42.18,0:18:42.22,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-371.96)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:42.22,0:18:42.26,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-384.17)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:42.26,0:18:42.31,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-396.51)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:42.31,0:18:42.35,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-408.8)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:42.35,0:18:42.39,Sign_Rounded,Text,0,0,0,,{=6}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-421.18)}莎拉 Good morning☆{\fs80}\N \N{\fs46}謝謝你今天的{\fs80}\N \N{\fs46}幸運自拍！
+Dialogue: 0,0:18:37.30,0:18:37.34,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,1090.21)}已讀
+Dialogue: 0,0:18:37.34,0:18:37.38,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,1078.06)}已讀
+Dialogue: 0,0:18:37.38,0:18:37.43,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,1065.71)}已讀
+Dialogue: 0,0:18:37.43,0:18:37.47,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,1053.56)}已讀
+Comment: 0,0:18:37.84,0:18:37.88,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,930.56)}已讀
+Dialogue: 0,0:18:38.72,0:18:38.76,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,672)}已讀
+Dialogue: 0,0:18:38.76,0:18:38.80,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,659.68)}已讀
+Dialogue: 0,0:18:38.80,0:18:38.84,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,647.36)}已讀
+Dialogue: 0,0:18:38.84,0:18:38.89,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,635.05)}已讀
+Dialogue: 0,0:18:38.89,0:18:38.93,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,622.76)}已讀
+Dialogue: 0,0:18:38.93,0:18:38.97,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,610.44)}已讀
+Dialogue: 0,0:18:38.97,0:18:39.01,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,598.11)}已讀
+Dialogue: 0,0:18:39.01,0:18:39.05,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,585.8)}已讀
+Dialogue: 0,0:18:39.05,0:18:39.09,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,573.49)}已讀
+Dialogue: 0,0:18:39.09,0:18:39.14,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,561.18)}已讀
+Dialogue: 0,0:18:39.14,0:18:39.18,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,548.86)}已讀
+Dialogue: 0,0:18:39.18,0:18:39.22,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,536.55)}已讀
+Dialogue: 0,0:18:39.22,0:18:39.26,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,524.23)}已讀
+Dialogue: 0,0:18:39.26,0:18:39.30,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,511.92)}已讀
+Dialogue: 0,0:18:39.30,0:18:39.34,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,499.62)}已讀
+Dialogue: 0,0:18:39.34,0:18:39.39,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,487.3)}已讀
+Dialogue: 0,0:18:39.39,0:18:39.43,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,474.99)}已讀
+Dialogue: 0,0:18:39.43,0:18:39.47,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,462.66)}已讀
+Dialogue: 0,0:18:39.47,0:18:39.51,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,450.36)}已讀
+Dialogue: 0,0:18:39.51,0:18:39.55,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,438.04)}已讀
+Dialogue: 0,0:18:39.55,0:18:39.59,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,425.72)}已讀
+Dialogue: 0,0:18:39.59,0:18:39.64,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,413.41)}已讀
+Dialogue: 0,0:18:39.64,0:18:39.68,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,401.09)}已讀
+Dialogue: 0,0:18:39.68,0:18:39.72,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,388.79)}已讀
+Dialogue: 0,0:18:39.72,0:18:39.76,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,376.47)}已讀
+Dialogue: 0,0:18:39.76,0:18:39.80,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,364.16)}已讀
+Dialogue: 0,0:18:39.80,0:18:39.84,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,351.84)}已讀
+Dialogue: 0,0:18:39.84,0:18:39.89,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,339.53)}已讀
+Dialogue: 0,0:18:39.89,0:18:39.93,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,327.23)}已讀
+Dialogue: 0,0:18:39.93,0:18:39.97,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,314.92)}已讀
+Dialogue: 0,0:18:39.97,0:18:40.01,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,302.59)}已讀
+Dialogue: 0,0:18:40.01,0:18:40.05,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,290.27)}已讀
+Dialogue: 0,0:18:40.05,0:18:40.09,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,277.96)}已讀
+Dialogue: 0,0:18:40.09,0:18:40.14,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,265.66)}已讀
+Dialogue: 0,0:18:40.14,0:18:40.18,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,253.33)}已讀
+Dialogue: 0,0:18:40.18,0:18:40.22,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,241.02)}已讀
+Dialogue: 0,0:18:40.22,0:18:40.26,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,228.7)}已讀
+Dialogue: 0,0:18:40.26,0:18:40.30,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,216.4)}已讀
+Dialogue: 0,0:18:40.30,0:18:40.35,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,204.09)}已讀
+Dialogue: 0,0:18:40.35,0:18:40.39,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,191.77)}已讀
+Dialogue: 0,0:18:40.39,0:18:40.43,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,179.45)}已讀
+Dialogue: 0,0:18:40.43,0:18:40.47,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,167.14)}已讀
+Dialogue: 0,0:18:40.47,0:18:40.51,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,154.85)}已讀
+Dialogue: 0,0:18:40.51,0:18:40.55,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,142.52)}已讀
+Dialogue: 0,0:18:40.55,0:18:40.60,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,130.2)}已讀
+Dialogue: 0,0:18:40.60,0:18:40.64,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,117.87)}已讀
+Dialogue: 0,0:18:40.64,0:18:40.68,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,105.57)}已讀
+Dialogue: 0,0:18:40.68,0:18:40.72,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,93.26)}已讀
+Dialogue: 0,0:18:40.72,0:18:40.76,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,80.94)}已讀
+Dialogue: 0,0:18:40.76,0:18:40.80,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,68.63)}已讀
+Dialogue: 0,0:18:40.80,0:18:40.85,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,56.31)}已讀
+Dialogue: 0,0:18:40.85,0:18:40.89,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,44.02)}已讀
+Dialogue: 0,0:18:40.89,0:18:40.93,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,31.7)}已讀
+Dialogue: 0,0:18:40.93,0:18:40.97,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,19.4)}已讀
+Dialogue: 0,0:18:40.97,0:18:41.01,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,7.07)}已讀
+Dialogue: 0,0:18:41.01,0:18:41.05,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-5.25)}已讀
+Dialogue: 0,0:18:41.05,0:18:41.10,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-17.55)}已讀
+Dialogue: 0,0:18:41.10,0:18:41.14,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-29.86)}已讀
+Dialogue: 0,0:18:41.14,0:18:41.18,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-42.18)}已讀
+Dialogue: 0,0:18:41.18,0:18:41.22,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-54.5)}已讀
+Dialogue: 0,0:18:41.22,0:18:41.26,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-66.81)}已讀
+Dialogue: 0,0:18:41.26,0:18:41.30,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-79.11)}已讀
+Dialogue: 0,0:18:41.30,0:18:41.35,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-91.43)}已讀
+Dialogue: 0,0:18:41.35,0:18:41.39,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-103.76)}已讀
+Dialogue: 0,0:18:41.39,0:18:41.43,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-116.07)}已讀
+Dialogue: 0,0:18:41.43,0:18:41.47,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-128.38)}已讀
+Dialogue: 0,0:18:41.47,0:18:41.51,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-140.68)}已讀
+Dialogue: 0,0:18:41.51,0:18:41.55,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-153)}已讀
+Dialogue: 0,0:18:41.55,0:18:41.60,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-165.32)}已讀
+Dialogue: 0,0:18:41.60,0:18:41.64,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-177.64)}已讀
+Dialogue: 0,0:18:41.64,0:18:41.68,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-189.93)}已讀
+Dialogue: 0,0:18:41.68,0:18:41.72,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-202.24)}已讀
+Dialogue: 0,0:18:41.72,0:18:41.76,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-214.55)}已讀
+Dialogue: 0,0:18:41.76,0:18:41.80,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-226.88)}已讀
+Dialogue: 0,0:18:41.80,0:18:41.85,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-239.18)}已讀
+Dialogue: 0,0:18:41.85,0:18:41.89,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-251.48)}已讀
+Dialogue: 0,0:18:41.89,0:18:41.93,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-263.79)}已讀
+Dialogue: 0,0:18:41.93,0:18:41.97,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-276.11)}已讀
+Dialogue: 0,0:18:41.97,0:18:42.01,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-288.42)}已讀
+Dialogue: 0,0:18:42.01,0:18:42.06,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-300.72)}已讀
+Dialogue: 0,0:18:42.06,0:18:42.10,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-313.02)}已讀
+Dialogue: 0,0:18:42.10,0:18:42.14,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-325.34)}已讀
+Dialogue: 0,0:18:42.14,0:18:42.18,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-337.66)}已讀
+Dialogue: 0,0:18:42.18,0:18:42.22,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-349.96)}已讀
+Dialogue: 0,0:18:42.22,0:18:42.26,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-362.17)}已讀
+Dialogue: 0,0:18:42.26,0:18:42.31,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-374.51)}已讀
+Dialogue: 0,0:18:42.31,0:18:42.35,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-386.8)}已讀
+Dialogue: 0,0:18:42.35,0:18:42.39,Sign_Rounded,Text,0,0,0,,{=7}{\an7\fsp5\fs46\bord0\pos(1826,-399.18)}已讀
+Dialogue: 0,0:18:39.26,0:18:39.30,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,1079.71)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:39.30,0:18:39.34,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,1067.26)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:39.34,0:18:39.39,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,1055.01)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:39.39,0:18:39.43,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,1042.64)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:39.43,0:18:39.47,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,1030.33)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:39.47,0:18:39.51,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,1018.04)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:39.51,0:18:39.55,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,1005.75)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:39.55,0:18:39.59,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,993.42)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:39.59,0:18:39.64,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,981.11)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:39.64,0:18:39.68,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,968.81)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:39.68,0:18:39.72,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,956.51)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:39.72,0:18:39.76,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,944.19)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:39.76,0:18:39.80,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,931.87)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:39.80,0:18:39.84,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,919.55)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:39.84,0:18:39.89,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,907.25)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:39.89,0:18:39.93,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,894.95)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:39.93,0:18:39.97,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,882.65)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:39.97,0:18:40.01,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,870.32)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:40.01,0:18:40.05,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,858.01)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:40.05,0:18:40.09,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,845.71)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:40.09,0:18:40.14,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,833.4)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:40.14,0:18:40.18,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,821.08)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:40.18,0:18:40.22,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,808.75)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:40.22,0:18:40.26,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,796.44)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:40.26,0:18:40.30,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,784.14)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:40.30,0:18:40.35,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,771.83)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:40.35,0:18:40.39,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,759.51)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:40.39,0:18:40.43,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,747.18)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:40.43,0:18:40.47,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,734.88)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:40.47,0:18:40.51,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,722.59)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:40.51,0:18:40.55,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,710.26)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:40.55,0:18:40.60,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,697.93)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:40.60,0:18:40.64,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,685.61)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:40.64,0:18:40.68,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,673.31)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:40.68,0:18:40.72,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,661)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:40.72,0:18:40.76,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,648.68)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:40.76,0:18:40.80,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,636.36)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:40.80,0:18:40.85,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,624.04)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:40.85,0:18:40.89,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,611.75)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:40.89,0:18:40.93,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,599.43)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:40.93,0:18:40.97,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,587.15)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:40.97,0:18:41.01,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,574.81)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:41.01,0:18:41.05,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,562.48)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:41.05,0:18:41.10,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,550.18)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:41.10,0:18:41.14,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,537.87)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:41.14,0:18:41.18,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,525.55)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:41.18,0:18:41.22,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,513.23)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:41.22,0:18:41.26,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,500.92)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:41.26,0:18:41.30,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,488.62)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:41.30,0:18:41.35,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,476.29)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:41.35,0:18:41.39,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,463.97)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:41.39,0:18:41.43,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,451.66)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:41.43,0:18:41.47,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,439.36)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:41.47,0:18:41.51,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,427.04)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:41.51,0:18:41.55,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,414.72)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:41.55,0:18:41.60,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,402.4)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:41.60,0:18:41.64,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,390.08)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:41.64,0:18:41.68,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,377.78)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:41.68,0:18:41.72,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,365.47)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:41.72,0:18:41.76,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,353.16)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:41.76,0:18:41.80,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,340.83)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:41.80,0:18:41.85,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,328.53)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:41.85,0:18:41.89,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,316.23)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:41.89,0:18:41.93,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,303.91)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:41.93,0:18:41.97,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,291.6)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:41.97,0:18:42.01,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,279.27)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:42.01,0:18:42.06,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,266.96)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:42.06,0:18:42.10,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640.01,254.65)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:42.10,0:18:42.14,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640.01,242.34)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:42.14,0:18:42.18,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,230.01)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:42.18,0:18:42.22,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,217.7)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:42.22,0:18:42.26,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,205.39)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:42.26,0:18:42.31,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,193.08)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:42.31,0:18:42.35,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,180.76)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:42.35,0:18:42.39,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,168.45)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:42.39,0:18:42.43,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640.01,156.13)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:42.43,0:18:42.47,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640.01,143.81)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:42.47,0:18:42.51,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,131.5)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:42.51,0:18:42.56,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,119.19)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:42.56,0:18:42.60,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,106.88)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:42.60,0:18:42.64,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,94.57)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:42.64,0:18:42.68,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,82.27)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:42.68,0:18:42.72,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,69.95)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:42.72,0:18:42.76,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,57.63)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:42.76,0:18:42.81,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,45.32)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:42.81,0:18:42.85,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640.01,33.01)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:42.85,0:18:42.89,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,20.69)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:42.89,0:18:42.93,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,8.37)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:42.93,0:18:42.97,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-3.94)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:42.97,0:18:43.01,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-16.28)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:43.01,0:18:43.06,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-28.58)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:43.06,0:18:43.10,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-40.9)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:43.10,0:18:43.14,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-53.21)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:43.14,0:18:43.18,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-65.53)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:43.18,0:18:43.22,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-77.84)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:43.22,0:18:43.26,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-90.14)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:43.26,0:18:43.31,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-102.45)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:43.31,0:18:43.35,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-114.75)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:43.35,0:18:43.39,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-127.06)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:43.39,0:18:43.43,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-139.38)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:43.43,0:18:43.47,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-151.68)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:43.47,0:18:43.51,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-163.99)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:43.51,0:18:43.56,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-176.31)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:43.56,0:18:43.60,Sign_Rounded,Text,0,0,0,,{=9}{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,-188.64)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:40.68,0:18:40.72,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,674)}已讀
+Dialogue: 0,0:18:40.72,0:18:40.76,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,661.68)}已讀
+Dialogue: 0,0:18:40.76,0:18:40.80,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,649.36)}已讀
+Dialogue: 0,0:18:40.80,0:18:40.85,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,637.04)}已讀
+Dialogue: 0,0:18:40.85,0:18:40.89,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,624.75)}已讀
+Dialogue: 0,0:18:40.89,0:18:40.93,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,612.43)}已讀
+Dialogue: 0,0:18:40.93,0:18:40.97,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,600.15)}已讀
+Dialogue: 0,0:18:40.97,0:18:41.01,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,587.81)}已讀
+Dialogue: 0,0:18:41.01,0:18:41.05,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,575.48)}已讀
+Dialogue: 0,0:18:41.05,0:18:41.10,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,563.18)}已讀
+Dialogue: 0,0:18:41.10,0:18:41.14,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,550.87)}已讀
+Dialogue: 0,0:18:41.14,0:18:41.18,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,538.55)}已讀
+Dialogue: 0,0:18:41.18,0:18:41.22,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,526.23)}已讀
+Dialogue: 0,0:18:41.22,0:18:41.26,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,513.92)}已讀
+Dialogue: 0,0:18:41.26,0:18:41.30,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,501.62)}已讀
+Dialogue: 0,0:18:41.30,0:18:41.35,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,489.29)}已讀
+Dialogue: 0,0:18:41.35,0:18:41.39,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,476.97)}已讀
+Dialogue: 0,0:18:41.39,0:18:41.43,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,464.66)}已讀
+Dialogue: 0,0:18:41.43,0:18:41.47,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,452.36)}已讀
+Dialogue: 0,0:18:41.47,0:18:41.51,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824.01,440.04)}已讀
+Dialogue: 0,0:18:41.51,0:18:41.55,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,427.72)}已讀
+Dialogue: 0,0:18:41.55,0:18:41.60,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,415.4)}已讀
+Dialogue: 0,0:18:41.60,0:18:41.64,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,403.08)}已讀
+Dialogue: 0,0:18:41.64,0:18:41.68,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,390.78)}已讀
+Dialogue: 0,0:18:41.68,0:18:41.72,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,378.47)}已讀
+Dialogue: 0,0:18:41.72,0:18:41.76,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,366.16)}已讀
+Dialogue: 0,0:18:41.76,0:18:41.80,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,353.83)}已讀
+Dialogue: 0,0:18:41.80,0:18:41.85,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,341.53)}已讀
+Dialogue: 0,0:18:41.85,0:18:41.89,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,329.23)}已讀
+Dialogue: 0,0:18:41.89,0:18:41.93,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,316.91)}已讀
+Dialogue: 0,0:18:41.93,0:18:41.97,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,304.6)}已讀
+Dialogue: 0,0:18:41.97,0:18:42.01,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,292.27)}已讀
+Dialogue: 0,0:18:42.01,0:18:42.06,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,279.96)}已讀
+Dialogue: 0,0:18:42.06,0:18:42.10,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,267.65)}已讀
+Dialogue: 0,0:18:42.10,0:18:42.14,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,255.34)}已讀
+Dialogue: 0,0:18:42.14,0:18:42.18,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,243.01)}已讀
+Dialogue: 0,0:18:42.18,0:18:42.22,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,230.7)}已讀
+Dialogue: 0,0:18:42.22,0:18:42.26,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,218.39)}已讀
+Dialogue: 0,0:18:42.26,0:18:42.31,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,206.08)}已讀
+Dialogue: 0,0:18:42.31,0:18:42.35,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,193.76)}已讀
+Dialogue: 0,0:18:42.35,0:18:42.39,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,181.45)}已讀
+Dialogue: 0,0:18:42.39,0:18:42.43,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,169.13)}已讀
+Dialogue: 0,0:18:42.43,0:18:42.47,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,156.81)}已讀
+Dialogue: 0,0:18:42.47,0:18:42.51,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,144.5)}已讀
+Dialogue: 0,0:18:42.51,0:18:42.56,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,132.19)}已讀
+Dialogue: 0,0:18:42.56,0:18:42.60,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,119.88)}已讀
+Dialogue: 0,0:18:42.60,0:18:42.64,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,107.57)}已讀
+Dialogue: 0,0:18:42.64,0:18:42.68,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,95.27)}已讀
+Dialogue: 0,0:18:42.68,0:18:42.72,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,82.95)}已讀
+Dialogue: 0,0:18:42.72,0:18:42.76,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,70.63)}已讀
+Dialogue: 0,0:18:42.76,0:18:42.81,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,58.32)}已讀
+Dialogue: 0,0:18:42.81,0:18:42.85,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,46.01)}已讀
+Dialogue: 0,0:18:42.85,0:18:42.89,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,33.69)}已讀
+Dialogue: 0,0:18:42.89,0:18:42.93,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,21.37)}已讀
+Dialogue: 0,0:18:42.93,0:18:42.97,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,9.06)}已讀
+Dialogue: 0,0:18:42.97,0:18:43.01,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,-3.28)}已讀
+Dialogue: 0,0:18:43.01,0:18:43.06,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,-15.58)}已讀
+Dialogue: 0,0:18:43.06,0:18:43.10,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,-27.9)}已讀
+Dialogue: 0,0:18:43.10,0:18:43.14,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,-40.21)}已讀
+Dialogue: 0,0:18:43.14,0:18:43.18,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,-52.53)}已讀
+Dialogue: 0,0:18:43.18,0:18:43.22,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,-64.84)}已讀
+Dialogue: 0,0:18:43.22,0:18:43.26,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,-77.14)}已讀
+Dialogue: 0,0:18:43.26,0:18:43.31,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,-89.45)}已讀
+Dialogue: 0,0:18:43.31,0:18:43.35,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,-101.75)}已讀
+Dialogue: 0,0:18:43.35,0:18:43.39,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,-114.06)}已讀
+Dialogue: 0,0:18:43.39,0:18:43.43,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,-126.38)}已讀
+Dialogue: 0,0:18:43.43,0:18:43.47,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,-138.68)}已讀
+Dialogue: 0,0:18:43.47,0:18:43.51,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,-150.99)}已讀
+Dialogue: 0,0:18:43.51,0:18:43.56,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,-163.31)}已讀
+Dialogue: 0,0:18:43.56,0:18:43.60,Sign_Rounded,Text,0,0,0,,{=8}{\an7\fsp5\fs46\bord0\pos(1824,-175.64)}已讀
+Comment: 0,0:18:39.26,0:18:43.62,Sign_Rounded,Text,0,0,0,,{\an7\b1\fsp5\fs46\bord0\c&H313131&\pos(640,661)}因為莎拉{\fs80}\N \N{\fs46}我每天都很開心dish☆
+Dialogue: 0,0:18:42.31,0:18:42.35,Sign_Rounded,Text,0,0,0,,{=10}{\fscy100\fscx100\alpha&H00&\an7\fsp5\fs46\bord0\pos(1584,655.32)}已讀
+Dialogue: 0,0:18:42.35,0:18:42.39,Sign_Rounded,Text,0,0,0,,{=10}{\fscy100\fscx100\alpha&H00&\an7\fsp5\fs46\bord0\pos(1584,643)}已讀
+Dialogue: 0,0:18:42.39,0:18:42.43,Sign_Rounded,Text,0,0,0,,{=10}{\fscy100\fscx100\alpha&H00&\an7\fsp5\fs46\bord0\pos(1584,630.67)}已讀
+Dialogue: 0,0:18:42.43,0:18:42.47,Sign_Rounded,Text,0,0,0,,{=10}{\fscy100\fscx100\alpha&H00&\an7\fsp5\fs46\bord0\pos(1584,618.37)}已讀
+Dialogue: 0,0:18:42.47,0:18:42.51,Sign_Rounded,Text,0,0,0,,{=10}{\fscy100\fscx100\alpha&H00&\an7\fsp5\fs46\bord0\pos(1584,606.07)}已讀
+Dialogue: 0,0:18:42.51,0:18:42.56,Sign_Rounded,Text,0,0,0,,{=10}{\fscy100\fscx100\alpha&H00&\an7\fsp5\fs46\bord0\pos(1584,593.74)}已讀
+Dialogue: 0,0:18:42.56,0:18:42.60,Sign_Rounded,Text,0,0,0,,{=10}{\fscy100\fscx100\alpha&H00&\an7\fsp5\fs46\bord0\pos(1584,581.42)}已讀
+Dialogue: 0,0:18:42.60,0:18:42.64,Sign_Rounded,Text,0,0,0,,{=10}{\fscy100\fscx100\alpha&H00&\an7\fsp5\fs46\bord0\pos(1584,569.11)}已讀
+Dialogue: 0,0:18:42.64,0:18:42.68,Sign_Rounded,Text,0,0,0,,{=10}{\fscy100\fscx100\alpha&H00&\an7\fsp5\fs46\bord0\pos(1584,556.81)}已讀
+Dialogue: 0,0:18:42.68,0:18:42.72,Sign_Rounded,Text,0,0,0,,{=10}{\fscy100\fscx100\alpha&H00&\an7\fsp5\fs46\bord0\pos(1584,544.51)}已讀
+Dialogue: 0,0:18:42.72,0:18:42.76,Sign_Rounded,Text,0,0,0,,{=10}{\fscy100\fscx100\alpha&H00&\an7\fsp5\fs46\bord0\pos(1584,532.19)}已讀
+Dialogue: 0,0:18:42.76,0:18:42.81,Sign_Rounded,Text,0,0,0,,{=10}{\fscy100\fscx100\alpha&H00&\an7\fsp5\fs46\bord0\pos(1584,519.88)}已讀
+Dialogue: 0,0:18:42.81,0:18:42.85,Sign_Rounded,Text,0,0,0,,{=10}{\fscy100\fscx100\alpha&H00&\an7\fsp5\fs46\bord0\pos(1584,507.58)}已讀
+Dialogue: 0,0:18:42.85,0:18:42.89,Sign_Rounded,Text,0,0,0,,{=10}{\fscy99.99\fscx99.99\alpha&H00&\an7\fsp5\fs46\bord0\pos(1584,495.27)}已讀
+Dialogue: 0,0:18:42.89,0:18:42.93,Sign_Rounded,Text,0,0,0,,{=10}{\fscy100\fscx100\alpha&H00&\an7\fsp5\fs46\bord0\pos(1584,482.95)}已讀
+Dialogue: 0,0:18:42.93,0:18:42.97,Sign_Rounded,Text,0,0,0,,{=10}{\fscy99.99\fscx99.99\alpha&H00&\an7\fsp5\fs46\bord0\pos(1584,470.65)}已讀
+Dialogue: 0,0:18:42.97,0:18:43.01,Sign_Rounded,Text,0,0,0,,{=10}{\fscy100\fscx100\alpha&H00&\an7\fsp5\fs46\bord0\pos(1584,458.31)}已讀
+Dialogue: 0,0:18:43.01,0:18:43.06,Sign_Rounded,Text,0,0,0,,{=10}{\fscy100\fscx100\alpha&H00&\an7\fsp5\fs46\bord0\pos(1584,446)}已讀
+Dialogue: 0,0:18:43.06,0:18:43.10,Sign_Rounded,Text,0,0,0,,{=10}{\fscy100\fscx100\alpha&H00&\an7\fsp5\fs46\bord0\pos(1584,433.68)}已讀
+Dialogue: 0,0:18:43.10,0:18:43.14,Sign_Rounded,Text,0,0,0,,{=10}{\fscy100\fscx100\alpha&H00&\an7\fsp5\fs46\bord0\pos(1584,421.35)}已讀
+Dialogue: 0,0:18:43.14,0:18:43.18,Sign_Rounded,Text,0,0,0,,{=10}{\fscy100\fscx100\alpha&H00&\an7\fsp5\fs46\bord0\pos(1584,409.05)}已讀
+Dialogue: 0,0:18:43.18,0:18:43.22,Sign_Rounded,Text,0,0,0,,{=10}{\fscy99.99\fscx99.99\alpha&H00&\an7\fsp5\fs46\bord0\pos(1584,396.73)}已讀
+Dialogue: 0,0:18:43.22,0:18:43.26,Sign_Rounded,Text,0,0,0,,{=10}{\fscy100\fscx100\alpha&H00&\an7\fsp5\fs46\bord0\pos(1584,384.42)}已讀
+Dialogue: 0,0:18:43.26,0:18:43.31,Sign_Rounded,Text,0,0,0,,{=10}{\fscy100\fscx100\alpha&H00&\an7\fsp5\fs46\bord0\pos(1584,372.12)}已讀
+Dialogue: 0,0:18:43.31,0:18:43.35,Sign_Rounded,Text,0,0,0,,{=10}{\fscy100\fscx100\alpha&H00&\an7\fsp5\fs46\bord0\pos(1584,359.81)}已讀
+Dialogue: 0,0:18:43.35,0:18:43.39,Sign_Rounded,Text,0,0,0,,{=10}{\fscy99.99\fscx99.99\alpha&H00&\an7\fsp5\fs46\bord0\pos(1584,347.5)}已讀
+Dialogue: 0,0:18:43.39,0:18:43.43,Sign_Rounded,Text,0,0,0,,{=10}{\fscy99.99\fscx99.99\alpha&H00&\an7\fsp5\fs46\bord0\pos(1584,335.19)}已讀
+Dialogue: 0,0:18:43.43,0:18:43.47,Sign_Rounded,Text,0,0,0,,{=10}{\fscy99.99\fscx99.99\alpha&H00&\an7\fsp5\fs46\bord0\pos(1584,322.89)}已讀
+Dialogue: 0,0:18:43.47,0:18:43.51,Sign_Rounded,Text,0,0,0,,{=10}{\fscy99.99\fscx99.99\alpha&H00&\an7\fsp5\fs46\bord0\pos(1584,310.56)}已讀
+Dialogue: 0,0:18:43.51,0:18:43.56,Sign_Rounded,Text,0,0,0,,{=10}{\fscy99.99\fscx99.99\alpha&H00&\an7\fsp5\fs46\bord0\pos(1584,298.25)}已讀
+Dialogue: 0,0:18:43.56,0:18:43.60,Sign_Rounded,Text,0,0,0,,{=10}{\fscy100\fscx100\alpha&H00&\an7\fsp5\fs46\bord0\pos(1584,286)}已讀
+Dialogue: 0,0:18:43.60,0:18:43.64,Sign_Rounded,Text,0,0,0,,{=10}{\fscy98.14\fscx98.14\alpha&H4E&\an7\fsp5\fs46\bord0\pos(1584,271.24)}已讀
+Dialogue: 0,0:18:43.64,0:18:43.68,Sign_Rounded,Text,0,0,0,,{=10}{\fscy97.31\fscx97.31\alpha&H99&\an7\fsp5\fs46\bord0\pos(1584,248.98)}已讀
+Dialogue: 0,0:18:43.68,0:18:43.72,Sign_Rounded,Text,0,0,0,,{=10}{\fscy102.36\fscx102.36\alpha&HE7&\an7\fsp5\fs46\bord0\pos(1584,257.81)}已讀
+Comment: 0,0:00:00.00,0:00:00.01,Main,,0,0,0,,
+Comment: 0,0:05:27.80,0:05:29.47,Sign_Others,Text,0,0,0,,{\fs30\bord2\pos(1004,920)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:27.80,0:05:27.84,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,920)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:27.84,0:05:27.89,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,925.65)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:27.89,0:05:27.93,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,931.25)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:27.93,0:05:27.97,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,936.85)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:27.97,0:05:28.01,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,942.5)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:28.01,0:05:28.05,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,948.12)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:28.05,0:05:28.09,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,953.76)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:28.09,0:05:28.14,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,959.39)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:28.14,0:05:28.18,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,965)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:28.18,0:05:28.22,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,970.63)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:28.22,0:05:28.26,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,976.26)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:28.26,0:05:28.30,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,981.98)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:28.30,0:05:28.34,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,987.54)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:28.34,0:05:28.39,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,993.17)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:28.39,0:05:28.43,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,998.82)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:28.43,0:05:28.47,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,1004.34)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:28.47,0:05:28.51,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,1010.06)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:28.51,0:05:28.55,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,1015.6)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:28.55,0:05:28.60,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,1021.32)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:28.60,0:05:28.64,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,1026.93)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:28.64,0:05:28.68,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,1032.57)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:28.68,0:05:28.72,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,1038.23)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:28.72,0:05:28.76,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,1043.84)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:28.76,0:05:28.80,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,1049.48)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:28.80,0:05:28.85,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,1055.08)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:28.85,0:05:28.89,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,1060.7)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:28.89,0:05:28.93,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,1066.34)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:28.93,0:05:28.97,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,1071.96)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:28.97,0:05:29.01,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,1077.59)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:29.01,0:05:29.05,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,1083.27)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:29.05,0:05:29.10,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,1088.84)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:29.10,0:05:29.14,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,1094.49)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:29.14,0:05:29.18,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,1100.1)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:29.18,0:05:29.22,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,1105.8)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:29.22,0:05:29.26,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,1111.38)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:29.26,0:05:29.30,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,1117.06)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:29.30,0:05:29.35,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,1122.63)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:29.35,0:05:29.39,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004.01,1128.34)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:29.39,0:05:29.43,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004.02,1133.95)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:05:29.43,0:05:29.47,Sign_Others,Text,0,0,0,,{=0}{\fscy100\fscx100\fs30\bord2\pos(1004,1139.69)\3c&H2D3335&\c&H4E8184&}河童王國的王子
+Dialogue: 0,0:13:38.88,0:13:38.92,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy113.66\fscx113.66\bord5.68\c&HE5E5E5&\3c&H19101A&\fs60\pos(957.79,1301.63)}箱子喪屍
+Dialogue: 0,0:13:38.92,0:13:38.96,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy113.04\fscx113.04\bord5.65\c&HE5E5E5&\3c&H19101A&\fs60\pos(958.13,1281.18)}箱子喪屍
+Dialogue: 0,0:13:38.96,0:13:39.00,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy111.98\fscx111.98\bord5.6\c&HE5E5E5&\3c&H19101A&\fs60\pos(958.04,1259.99)}箱子喪屍
+Dialogue: 0,0:13:39.00,0:13:39.04,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy110.84\fscx110.84\bord5.54\c&HE5E5E5&\3c&H19101A&\fs60\pos(958.22,1239.52)}箱子喪屍
+Dialogue: 0,0:13:39.04,0:13:39.09,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy109.77\fscx109.77\bord5.49\c&HE5E5E5&\3c&H19101A&\fs60\pos(958.4,1219.96)}箱子喪屍
+Dialogue: 0,0:13:39.09,0:13:39.13,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy108.74\fscx108.74\bord5.44\c&HE5E5E5&\3c&H19101A&\fs60\pos(958.55,1201.43)}箱子喪屍
+Dialogue: 0,0:13:39.13,0:13:39.17,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy107.78\fscx107.78\bord5.39\c&HE5E5E5&\3c&H19101A&\fs60\pos(958.7,1183.87)}箱子喪屍
+Dialogue: 0,0:13:39.17,0:13:39.21,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy106.9\fscx106.9\bord5.35\c&HE5E5E5&\3c&H19101A&\fs60\pos(958.86,1167.36)}箱子喪屍
+Dialogue: 0,0:13:39.21,0:13:39.25,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy106.08\fscx106.08\bord5.3\c&HE5E5E5&\3c&H19101A&\fs60\pos(958.99,1151.9)}箱子喪屍
+Dialogue: 0,0:13:39.25,0:13:39.29,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy105.31\fscx105.31\bord5.27\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.12,1137.48)}箱子喪屍
+Dialogue: 0,0:13:39.29,0:13:39.34,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy104.61\fscx104.61\bord5.23\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.21,1124.18)}箱子喪屍
+Dialogue: 0,0:13:39.34,0:13:39.38,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy103.98\fscx103.98\bord5.2\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.34,1112.06)}箱子喪屍
+Dialogue: 0,0:13:39.38,0:13:39.42,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy103.4\fscx103.4\bord5.17\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.41,1101.11)}箱子喪屍
+Dialogue: 0,0:13:39.42,0:13:39.46,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy102.88\fscx102.88\bord5.14\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.5,1091.29)}箱子喪屍
+Dialogue: 0,0:13:39.46,0:13:39.50,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy102.41\fscx102.41\bord5.12\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.58,1082.62)}箱子喪屍
+Dialogue: 0,0:13:39.50,0:13:39.54,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy102.01\fscx102.01\bord5.1\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.65,1075.08)}箱子喪屍
+Dialogue: 0,0:13:39.54,0:13:39.59,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy101.64\fscx101.64\bord5.08\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.69,1068.55)}箱子喪屍
+Dialogue: 0,0:13:39.59,0:13:39.63,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy101.32\fscx101.32\bord5.07\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.75,1063.02)}箱子喪屍
+Dialogue: 0,0:13:39.63,0:13:39.67,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy101.05\fscx101.05\bord5.05\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.8,1058.35)}箱子喪屍
+Dialogue: 0,0:13:39.67,0:13:39.71,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy100.81\fscx100.81\bord5.04\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.84,1054.41)}箱子喪屍
+Dialogue: 0,0:13:39.71,0:13:39.75,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy100.61\fscx100.61\bord5.03\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.87,1051.19)}箱子喪屍
+Dialogue: 0,0:13:39.75,0:13:39.79,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy100.43\fscx100.43\bord5.02\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.9,1048.49)}箱子喪屍
+Dialogue: 0,0:13:39.79,0:13:39.84,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy100.27\fscx100.27\bord5.01\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.92,1046.3)}箱子喪屍
+Dialogue: 0,0:13:39.84,0:13:39.88,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy100.13\fscx100.13\bord5.01\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.94,1044.51)}箱子喪屍
+Dialogue: 0,0:13:39.88,0:13:39.92,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy100.02\fscx100.02\bord5\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.94,1043.13)}箱子喪屍
+Dialogue: 0,0:13:39.92,0:13:39.96,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy100\fscx100\bord5\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.97,1042.12)}箱子喪屍
+Dialogue: 0,0:13:39.96,0:13:40.00,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy100\fscx100\bord5\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.99,1041.36)}箱子喪屍
+Dialogue: 0,0:13:40.00,0:13:40.04,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy100\fscx100\bord5\c&HE5E5E5&\3c&H19101A&\fs60\pos(960,1040.82)}箱子喪屍
+Dialogue: 0,0:13:40.04,0:13:40.09,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy100\fscx100\bord5\c&HE5E5E5&\3c&H19101A&\fs60\pos(960.01,1040.46)}箱子喪屍
+Dialogue: 0,0:13:40.09,0:13:40.13,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy100\fscx100\bord5\c&HE5E5E5&\3c&H19101A&\fs60\pos(960.01,1040.18)}箱子喪屍
+Dialogue: 0,0:13:40.13,0:13:40.17,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy100\fscx100\bord5\c&HE5E5E5&\3c&H19101A&\fs60\pos(960,1040.06)}箱子喪屍
+Dialogue: 0,0:13:40.17,0:13:40.96,Sign_Others,Text,0,0,0,,{=1}{\fn汉仪雅酷黑 95W}{\fscy100\fscx100\bord5\c&HE5E5E5&\3c&H19101A&\fs60\pos(960,1040)}箱子喪屍
+Comment: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\c&H231E1A&\bord3\pos(960,890)\3c&H7A5747&\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(730,807,740,893)\pos(960,890)\1c&H000000&\3c&H765545&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(740,807,750,893)\pos(960,890)\1c&H000000&\3c&H775646&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(750,807,760,893)\pos(960,890)\1c&H000000&\3c&H785749&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(760,807,770,893)\pos(960,890)\1c&H000000&\3c&H785949&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(770,807,780,893)\pos(960,890)\1c&H000000&\3c&H7B5A4A&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(780,807,790,893)\pos(960,890)\1c&H000000&\3c&H7C5B4D&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(790,807,800,893)\pos(960,890)\1c&H000000&\3c&H7D5C4E&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(800,807,810,893)\pos(960,890)\1c&H000000&\3c&H7D5E4E&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(810,807,820,893)\pos(960,890)\1c&H000000&\3c&H7E5F51&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(820,807,830,893)\pos(960,890)\1c&H000000&\3c&H7F6052&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(830,807,840,893)\pos(960,890)\1c&H000000&\3c&H826153&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(840,807,850,893)\pos(960,890)\1c&H000000&\3c&H826355&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(850,807,860,893)\pos(960,890)\1c&H000000&\3c&H836456&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(860,807,870,893)\pos(960,890)\1c&H000000&\3c&H846557&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(870,807,880,893)\pos(960,890)\1c&H000000&\3c&H856659&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(880,807,890,893)\pos(960,890)\1c&H000000&\3c&H86685A&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(890,807,900,893)\pos(960,890)\1c&H000000&\3c&H87695B&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(900,807,910,893)\pos(960,890)\1c&H000000&\3c&H896A5D&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(910,807,920,893)\pos(960,890)\1c&H000000&\3c&H8A6B5E&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(920,807,930,893)\pos(960,890)\1c&H000000&\3c&H8B6D5F&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(930,807,940,893)\pos(960,890)\1c&H000000&\3c&H8C6E61&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(940,807,950,893)\pos(960,890)\1c&H000000&\3c&H8D6F62&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(950,807,960,893)\pos(960,890)\1c&H000000&\3c&H8E7063&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(960,807,970,893)\pos(960,890)\1c&H000000&\3c&H907265&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(970,807,980,893)\pos(960,890)\1c&H000000&\3c&H917467&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(980,807,990,893)\pos(960,890)\1c&H000000&\3c&H937669&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(990,807,1000,893)\pos(960,890)\1c&H000000&\3c&H95786B&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(1000,807,1010,893)\pos(960,890)\1c&H000000&\3c&H977A6D&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(1010,807,1020,893)\pos(960,890)\1c&H000000&\3c&H987C6F&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(1020,807,1030,893)\pos(960,890)\1c&H000000&\3c&H9A7E71&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(1030,807,1040,893)\pos(960,890)\1c&H000000&\3c&H9C8073&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(1040,807,1050,893)\pos(960,890)\1c&H000000&\3c&H9D8275&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(1050,807,1060,893)\pos(960,890)\1c&H000000&\3c&H9F8477&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(1060,807,1070,893)\pos(960,890)\1c&H000000&\3c&HA18579&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(1070,807,1080,893)\pos(960,890)\1c&H000000&\3c&HA2877B&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(1080,807,1090,893)\pos(960,890)\1c&H000000&\3c&HA4897D&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(1090,807,1100,893)\pos(960,890)\1c&H000000&\3c&HA68B7F&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(1100,807,1110,893)\pos(960,890)\1c&H000000&\3c&HA78D81&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(1110,807,1120,893)\pos(960,890)\1c&H000000&\3c&HA98F83&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(1120,807,1130,893)\pos(960,890)\1c&H000000&\3c&HAB9185&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(1130,807,1140,893)\pos(960,890)\1c&H000000&\3c&HAC9287&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(1140,807,1150,893)\pos(960,890)\1c&H000000&\3c&HAE9489&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(1150,807,1160,893)\pos(960,890)\1c&H000000&\3c&HB0968B&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(1160,807,1170,893)\pos(960,890)\1c&H000000&\3c&HB2988D&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(1170,807,1180,893)\pos(960,890)\1c&H000000&\3c&HB39A8F&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(1180,807,1190,893)\pos(960,890)\1c&H000000&\3c&HB59C91&}{\fs50}前方學校 減速慢行
+Dialogue: 0,0:19:07.75,0:19:09.75,Sign_Rounded,,0,0,0,,{\clip(1190,807,1200,893)\pos(960,890)\1c&H000000&\3c&HB59C91&}{\fs50}前方學校 減速慢行
+Comment: 0,0:00:00.00,0:00:00.06,Main,,0,0,0,,Sign (Discard)
+Comment: 0,0:03:34.23,0:03:41.61,Sign_Gothic,,0,0,0,,淺草
+Comment: 0,0:03:48.74,0:03:50.25,Sign_Gothic,,0,0,0,,淺草
+Comment: 0,0:03:54.75,0:04:06.60,Sign_Gothic,,0,0,0,,淺草
+Comment: 0,0:08:06.71,0:08:08.71,Sign_Others,,0,0,0,,淺草
+Comment: 0,0:04:00.88,0:04:02.34,Sign_Others,,0,0,0,,淺草皿電視台
+Comment: 0,0:06:50.38,0:06:52.89,Sign_Others,,0,0,0,,久慈悠
+Comment: 0,0:06:52.89,0:06:55.39,Sign_Others,,0,0,0,,久慈悠
+Comment: 0,0:10:04.56,0:10:06.29,Sign_Others,,0,0,0,,御守
+Comment: 0,0:11:01.72,0:11:03.72,Sign_Others,,0,0,0,,尻子玉榨取
+Comment: 0,0:12:34.73,0:12:36.21,Sign_Others,,0,0,0,,欲 望
+Comment: 0,0:13:44.97,0:13:47.90,sign_19780_209_Kaminarimon,Text,0,0,0,,Kaminarimon
+Comment: 0,0:15:34.20,0:15:37.45,sign_22428_241_Butt_,Text,0,0,0,,Butt
+Comment: 0,0:15:59.98,0:16:03.85,sign_22428_241_Butt_,,0,0,0,,Butt
+Comment: 0,0:16:24.87,0:16:27.84,sign_22428_241_Butt_,,0,0,0,,Butt
+Comment: 0,0:16:53.78,0:16:54.49,sign_24307_274_Butt,,0,0,0,,Butt
+Comment: 0,0:17:22.79,0:17:31.59,sign_24823_266_Leak,Text,0,0,0,,Leak
+Comment: 0,0:17:55.86,0:18:20.12,sign_25795_280_Leak,Text,0,0,0,,Leak
+Comment: 0,0:18:37.57,0:18:43.62,sign_25795_280_Leak,,0,0,0,,Leak
+Comment: 0,0:12:36.56,0:12:38.06,sign_18140_183_Missing,,0,0,0,,Nationwide Traffic Safety Happening Now
+Comment: 0,0:12:38.06,0:12:45.11,sign_5137_22_Missing,Text,0,0,0,,Asakusa
+Comment: 0,0:13:21.82,0:13:24.44,sign_19225_203_Missing,,0,0,0,,Kappa
+Comment: 0,0:22:19.42,0:22:20.17,sign_32114_335_Missing,,0,0,0,,Extract
+Comment: 0,0:22:34.06,0:22:34.99,sign_32465_338_Missing,,0,0,0,,Extract
+Comment: 0,0:17:15.30,0:17:17.95,sign_24823_266_Leak,Text,0,0,0,,Leak
+
+[Aegisub Extradata]
+Data: 0,a-mo,u?S*V>7FE)DIC/$5T/4.B-$=N/')S.#UU:7)Q,4AR:4%N9G)W/'5Z.$AV.71U)CQC<X*J:WFO97R5:8BU)DIC?VR=:H-T-&R=9G^S:$*=8("P=SAR-$!U,$ES-#F=8$.D*EAS2$-T-T5G8&RD*EAV-$AU/$-G@?;SM_?LJ??/C_7<P??;B/?/C_7NE#*^
+Data: 1,a-mo,u?S*V>7FE)DIC:4ER-'%S9W)N.D.C.CUU:D!U,7&B:$5N.$=T-T!Q-DEX.4EY)CQC<X*J:WFO97R5:8BU)DIC?VR=:G\GFLHGL;0FCY@FB9PEP:0HLI$HO9&=8'*P=G1V8&RD*EB&.55V245G8&QT9S:)-4EQ24%Z*FR=:H-W-&R=='^T+$EW-#QR-$1Q+8XHLL(FL:$EO+@FM,AC@1
+Data: 5,a-mo,u?S*V>7FE)DIC.T-X-DEW9D)N-4AQ/3UU.T&B,7)U/4%N:'5V:7%W.G1Y.$)Y)CQC<X*J:WFO97R5:8BU)DIC?VR=97YX8&RG<O;7O?;NI_7(BO7=BF^(1EN=8')R8&RG=X!V8&RG=T5Q8&RC<X*E-&R=='^T+$%W-#QW-D!J@5>P<W1A<7^S<GFO:_+9B8N=8':T.T"^8&R/)&R=4HN=8':T.4"^Z,O+Z;3JZZK%Z<GY[,_1[)?KZIO.47FT=WFP<O3ZHXN=8':T.T"^8&R/)&R=4HN=8':T.4"^9W^N='RF>'8EOI:E;8.IYJC&8&R/)HU
+Data: 6,a-mo,u?S*V>7FE)DIC:4AV/'5T9W9N9T9X.SUU-T>E,4FF:7)N.$6G.7*C-T.F.D*C)CQC<X*J:WFO97R5:8BU)DIC?VR=97YX8&RG<O;7O?;NI_7&M/3[L?7=BF^(1EN@Z,CN8&RC-6R=:H.Q.6R=:H-U.FR=9G^S:$"=8'-G3$-R-T%T-3:=8("P=SAW.$!M.D5Q+8XIDI\GCYEA2W^P:#"N<X*O;7ZH?VR=:H-Y-(V=8%YA8&R/?VR=:H-U.HXIM+,IM+,EP;$EOYLFJ+HHGI2\8&RG=TAQ@6R=4C"=8%Z\8&RG=T1W@?7ZO/C`E/C(KO;,D?_]A3*^
+Data: 7,a-mo,u?S*V>7FE)DIC-DBB:'6E:D9N-G)V.#UU:$*D,7&F945N:D)V:$!Z-TEW-TAR)CQC<X*J:WFO97R5:8BU)DIC?VR=97YX8&RG<O;7O?;NI_7&M/3[L?7=BF^(1EN@Z,CN8&RG=X!V8&RG=T1W8&RC<X*E-&R=='^T+$%Y-D9M.D=S+8XFN\,IL\MC@1
+Data: 8,a-mo,u?S*V>7FE)DIC9T)U:G9Z:D1N9T1V/#UU.T-S,7%X.G1N-$FD:$5Z.4>G.$%X)CQC<X*J:WFO97R5:8BU)DIC?VR=97YX8&RG<O;7O?;NI_7&M/3[L?7=BF^(1EN@Z,CN8&RG=X!V8&RG=T1W8&RC<X*E-&R=='^T+$%Y-D1M.D=U+8XFN\,IL\MC@1
+Data: 9,a-mo,u?S*V>7FE)DIC9D9W-41U.$EN/'*B:3UU.W.F,7)S9DAN:4&E:7-Q.D%Z94&G)CQC<X*J:WFO97R5:8BU)DIC?VR=97YX8&RG<O;7O?;NI_7&M/3[L?7=BF^(1EN@Z,CN8&RC-6R=:H.Q.6R=:H-U.FR=9G^S:$"=8'-G3$-R-T%T-3:=8("P=SAW.$!M.D9R+8XFG[$EO,LIDI\GCYF\8&RG=TAQ@6R=4C"=8%Z\8&RG=T1W@?;)E?;PD_7EK?G$P?7_C/7]A/7`AW2J=WAC@1
+Data: 10,a-mo,u?S*V>7FE)DIC979Z.T=V-4)N-TEQ/#UU.4*E,7)Q/49N9D.F.72D-W*C-7-U)CQC<X*J:WFO97R5:8BU)DIC?VR=97YX8&RG<O;7O?;NI_7&M/3[L?7=BF^(1EN@Z,CN8&RG=X!V8&RG=T1W8&RC<X*E-&R=:G&E+$!M-4-Y+6R=='^T+$%V/$1M-DAW+8XFN\,IL\MC@1
