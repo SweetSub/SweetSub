@@ -17,10 +17,12 @@ SweetSub
 
 
 ### **剧场版**
-| 英文名           | 中文名         | 日文名                    | 备注                                                         |
-| ---------------- | -------------- | ------------------------- | ------------------------------------------------------------ |
-| Okko's Inn       | 温泉屋少掌柜   | 劇場版　若おかみは小学生! | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Okko's%20Inn) |
-| FLCL Alternative | 特别的她  外传 | フリクリ　オルタナ        | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/FLCL%20Alternative) |
+| 英文名           | 中文名                  | 日文名                                 | 备注                                                         |
+| ---------------- | ----------------------- | -------------------------------------- | ------------------------------------------------------------ |
+| Okko's Inn       | 温泉屋少掌柜            | 劇場版　若おかみは小学生!              | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Okko's%20Inn) [B 站](https://www.bilibili.com/video/av50498166/) |
+| FLCL Alternative | 特别的她  外传          | フリクリ　オルタナ                     | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/FLCL%20Alternative) [B 站](https://www.bilibili.com/video/av43737048) |
+| Modest Heros     | 小英雄 -蟹和蛋和透明人- | ちいさな英雄－カニとタマゴと透明人間－ | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Modest%20Heros) [B 站](https://www.bilibili.com/video/av50605867) |
+| Mirai            | 未来的未来              | 未来のミライ                           | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Mirai) |
 
 
 
@@ -74,7 +76,7 @@ SweetSub 的字幕在二次使用时默认遵从<a rel="license" href="http://cr
 
   - 在调整时间轴时最好不要仅使用 [sushi](https://github.com/tp7/Sushi) 调轴，因为 SweetSub 的字幕中包含很多屏幕字，这些屏幕字都是以帧为单位对齐画面的。sushi 的调轴基于音频，所以画面字不一定能对齐，需要手工调整——我知道大家觉得这麻烦，因此 SweetSub 的字幕在动画出了 BD 版之后，都**一定**会发布一个 BD 版的字幕。
 
-  ​
+  
 
 
 ###### 详细说明
@@ -88,7 +90,7 @@ SweetSub 的字幕在二次使用时默认遵从<a rel="license" href="http://cr
 
 - 除了调整时间轴以外的修改请不要对外公开发布，留着自己私下使用就好。
 
-  ​
+  
 
 
 ###### 其它说明
