@@ -13,7 +13,7 @@ SweetSub
 | Made in Abyss (S1)           | 来自深渊 (第一季)    | メイドインアビス (S1)                    | 13 集正片 + 制作纪实（[B 站](https://www.bilibili.com/video/av19676043)） / [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Made%20in%20Abyss) |
 | DARLING in the FRANXX        | 比翼之吻             | ダーリン・イン・ザ・フランキス           | 24 集正片 + Web 预告 / [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/DARLING%20in%20the%20FRANXX) |
 | Boogiepop Phantom            | 不吉波普不笑幻影死神 | ブギーポップは笑わない Boogiepop Phantom | 12 集 对应 R2J 版 DVD / [字幕](https://github.com/tastysugar/SweetSub/tree/master/Boogiepop%20Phantom) / B 站 [无注释版](https://www.bilibili.com/video/av45135917) [注释版](https://www.bilibili.com/video/av45179572/) |
-| Sarazanmai                   |                      | さらざんまい                             | [字幕](https://github.com/tastysugar/SweetSub/tree/master/Sarazanmai) |
+| Sarazanmai                   |                      | さらざんまい                             | [字幕](https://github.com/tastysugar/SweetSub/tree/master/Sarazanmai) (连载中) |
 
 
 
