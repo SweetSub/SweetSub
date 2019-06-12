@@ -1,5 +1,5 @@
 ﻿[Script Info]
-Comment: Processed by 繁化姬 dict-2f2a8a1a-r851 @ 2019/05/04 12:24:48 | https://zhconvert.org
+Comment: Processed by 繁化姬 dict-c1a99f81-r863 | https://zhconvert.org
 ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 1920
@@ -44,6 +44,10 @@ Style: IN_CN_IV,DFKanTingLiu-B5 Otf W9,40,&H007D7EE1,&H000019FF,&H00F0F0F0,&H28A
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,Note
+Dialogue: 0,0:08:41.12,0:08:44.62,Main,,30,0,30,,{\an7\fs70}註：貼滿了催債的告示
+Dialogue: 0,0:13:55.48,0:14:05.82,Top,,0,0,0,,{\fs40\bord2\an9\fad(300,0)}註：出自岩手縣著名的一種小碗蕎麦面わんこそば。\N每當客人食用完一碗，侍者會一邊添面，一邊用\N“嗨~咚咚，嗨~鏘鏘” 的號子給客人加油鼓勁。
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,Ruby
 Dialogue: 0,0:02:32.87,0:02:34.11,Ruby,,0,0,0,,{\pos(930,54)}soba
 Dialogue: 0,0:02:34.11,0:02:35.38,Ruby,,0,0,0,,{\pos(892,54)}soba
 Dialogue: 0,0:02:36.47,0:02:37.88,Ruby,,0,0,0,,{\pos(930,976)}soba
@@ -85,35 +89,33 @@ Dialogue: 0,0:10:06.03,0:10:09.66,Ruby,Kazuki,0,0,0,,{\pos(1152,976)}sara
 Dialogue: 0,0:15:28.23,0:15:31.74,Ruby,Toi,0,0,0,,{\pos(876,976)}kappa
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,Sign
 Dialogue: 0,0:00:04.98,0:00:09.94,Sign_Gothic,,0,0,0,,{\bord4\3c&H8E3DE8&\c&H000000&\fs70\an8\fad(1200,764)\t(0,3974,\fs50)\t(1443,4154,1.2,\frz-90)\move(960,60,3500,60,2800,4947)}想 要 相 連
-Dialogue: 0,0:08:41.12,0:08:44.62,Main,Text,30,0,30,,{\an7\fs70}註：貼滿了催債的告示
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,BANK
 Dialogue: 0,0:15:56.31,0:15:57.68,Sign_Gothic,,0,0,0,,{\blur6\fad(600,0)\bord6\3c&H75360A&\c&H000000&\org(960,550)\fr180\t(620,790,1,\fr0)\t(790,830,1,\fr-5)\t(830,880,1,\fr0)}A
 Dialogue: 0,0:16:08.57,0:16:09.69,Sign_Gothic,,0,0,0,,{\blur6\fad(570,0)\bord6\3c&H75360A&\c&HE0DAD1&\pos(950,490)}A
-Dialogue: 0,0:19:46.49,0:19:49.50,Sign_Rounded,Text,0,0,0,,{\clip()\p1\an7\pos(0,0)\bord0\c&HFCFBF1&\blur3}m 766 560 l 765 830 1265 838 1265 558
-Dialogue: 0,0:19:46.49,0:19:49.50,Sign_Rounded,Text,0,0,0,,{\an7\fs50\b1\bord0\c&H616161&\pos(792,596)}抱歉，情況有變\N\N暫時是沒法來接你了\N\N等我聯繫。
-Dialogue: 0,0:22:53.06,0:22:55.06,Sign_Others,,0,0,0,,{\fnSource Han Serif TC\b1\fs50\an4\pos(480,674)\bord0}本故事純屬虛構。\N\N所有登場人物及團體均與現實無關。
 Dialogue: 0,0:13:29.33,0:13:31.58,Sign_Others,,0,0,0,,{\fn汉仪雅酷黑 95W}{\fad(1020,0)\b1\fs90\bord0\shad4\pos(960,860)}吾妻橋{\fnSource Han Sans TC Medium} @ {\fn汉仪雅酷黑 95W}欲望領域
 Dialogue: 0,0:19:19.55,0:19:20.09,Sign_Others,,0,0,0,,{\fnSource Han Serif TC}{\be1}{\bord0\fs40\c&H3B3FE9&\b1\pos(952.943,224)}{\fad(50,0)\c&H3E3BBE&}沒有開始
 Dialogue: 0,0:19:19.55,0:19:20.09,Sign_Others,,0,0,0,,{\fnSource Han Serif TC}{\be1}{\bord0\fs40\c&H3B3FE9&\b1\pos(679.333,651.333)}{\fad(50,0)\c&H3E3BBE&}沒有相連
 Dialogue: 0,0:19:19.55,0:19:20.09,Sign_Others,,0,0,0,,{\fnSource Han Serif TC}{\be1}{\bord0\fs40\c&H3B3FE9&\b1\pos(1234.8,658.4)}{\fad(50,0)\c&H3E3BBE&}沒有終結
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
+Dialogue: 0,0:19:46.49,0:19:49.50,Sign_Rounded,Text,0,0,0,,{\clip()\p1\an7\pos(0,0)\bord0\c&HFCFBF1&\blur3}m 766 560 l 765 830 1265 838 1265 558
+Dialogue: 0,0:19:46.49,0:19:49.50,Sign_Rounded,Text,0,0,0,,{\an7\fs50\b1\bord0\c&H616161&\pos(792,596)}抱歉，情況有變\N\N暫時是沒法來接你了\N\N等我聯繫。
+Dialogue: 0,0:22:53.06,0:22:55.06,Sign_Others,,0,0,0,,{\fnSource Han Serif TC\b1\fs50\an4\pos(480,674)\bord0}本故事純屬虛構。\N\N所有登場人物及團體均與現實無關。
 Dialogue: 0,0:10:15.84,0:10:21.85,Sign_Others,Toi,0,0,0,,{\an8\c&H43484A&\3c&HF5FCFD&\fs50\pos(1660,50)}淺草奇怪屍體事件  調查總部
+Dialogue: 0,0:10:46.24,0:10:47.75,Sign_Others,Text,0,0,0,,{\fnSource Han Serif TC SemiBold\bord1\fsp4\shad4\blur6\an3\pos(1818,900)\3c&H020814&\3a&HFF&}昨天的蕎麥麵
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 1,0:10:21.85,0:10:25.98,Sign_Gothic,Text,0,0,0,,{\fs45\bord0\1c&H696969&\pos(1040,348)}蕎麥谷 湯男
 Dialogue: 1,0:10:21.85,0:10:25.98,Sign_Others,Text,0,0,0,,{\fs30\bord0\\c&H7E7E7E&\pos(1038.429,425)}個體戶
 Dialogue: 0,0:10:21.85,0:10:25.98,Sign_Others,Text,0,0,0,,{\an7\bord0\p1\pos(0,0)\c&HF8F8F8&\blur2\clip()}m 985 396 l 986 424 1096 426 1094 396
 Dialogue: 0,0:10:21.85,0:10:25.98,Sign_Others,Text,0,0,0,,{\an7\bord0\p1\pos(0,0)\c&HF1F1F1&\blur2\clip()}m 953 305 l 954 348 1128 351 1127 304
 Dialogue: 0,0:10:36.86,0:10:39.49,Sign_Gothic,,0,0,0,,{\bord0\\c&H4B4B4B&\pos(1444,674)\blur1}個體戶
 Dialogue: 0,0:10:36.86,0:10:39.49,Sign_Gothic,,0,0,0,,{\c&H3A3A3A&\bord0\pos(1240,316)\blur1}蕎麥谷 湯男
-Dialogue: 1,0:10:36.86,0:10:39.49,Sign_Others,,0,0,0,,{\fs30\bord0\\fnSource Han Serif TC\b1\c&H8D8D8D&\fsp6\an7\pos(983.2,738.666)}蕎麥麵館「蕎麥湯」的店主。半年前，因闖入\N\N女性常客的家中，偷走了用過的泡澡水而一度\N\N被逮捕，但因證據不足後將其釋放。
+Dialogue: 1,0:10:36.86,0:10:39.49,Sign_Others,,0,0,0,,{\fs30\fnSource Han Serif TC\b1\c&H8D8D8D&\fsp6\an7\pos(984,738)\3c&H8D8D8D&\3a&HC8&\bord1\blur8}蕎麥麵館「蕎麥湯」的店主。半年前，因闖入\N\N女性常客的家中，偷走了用過的泡澡水而一度\N\N被逮捕，但因證據不足後將其釋放。
 Dialogue: 0,0:10:36.86,0:10:39.49,Sign_Others,Text,0,0,0,,{\p1\pos(0,0)\an7\bordf0\c&HF2F2F2&\clip()}m 960 720 l 960 920 1535 920 1535 720
-Dialogue: 0,0:10:46.24,0:10:47.75,Sign_Others,Text,0,0,0,,{\fnSource Han Serif TC SemiBold\bord1\fsp4\shad4\blur6\an3\pos(1818,900)\3c&H020814&\3a&HFF&}昨天的蕎麥麵
-Dialogue: 0,0:12:42.78,0:12:51.79,Sign_Others,,0,0,0,,{\fn方正剪纸_GBK\blur1\fs40\an8\pos(290,10)\c&H9755FE&\3c&HFFFFFF&}淺草皿TV
-Dialogue: 1,0:12:42.78,0:12:51.79,Sign_Gothic,Text,0,0,0,,{\bord0\an5\c&HA67FE3&\fax-0.1\fs30\move(1140,1032,1030,1032,0,7992)\blur0.8\b1\clip(406.667,1012,1757.333,1049.333)}颯爽報道 + {\b0}莎拉其實是烏冬麵派的 dish. 因為有皿烏冬麵這道菜卻沒有皿蕎麥麵 dish. 盤子和盛蕎麥麵的竹笊是不同的 dish. 這是和任何人都不能說的秘密 dish.
-Dialogue: 0,0:12:42.78,0:12:51.79,Sign_Gothic,Text,0,0,0,,{\bord0\an7\pos(0,0)\p1\clip()\blur1}m 406 1011 l 406 1050 1757 1050 1757 1011
-Dialogue: 0,0:12:42.78,0:12:51.79,Sign_Others,Ruby,0,0,0,,{\an6\pos(1758,764)\fn方正雅珠体简繁 DemiBold\bord2\shad4\4c&H9925E8&\3c&H8C44FF&}悲劇! 剛剛還在身邊的呢
-Dialogue: 0,0:12:42.78,0:12:51.79,Sign_Others,Text,0,0,0,,{\an2\fn方正雅珠体简繁 DemiBold\bord1\shad2\4c&H9925E8&\3c&H8C44FF&\fs40\pos(1548.6,730.6)}soba
-Dialogue: 0,0:12:42.78,0:12:51.79,Sign_Others,,0,0,0,,{\fn方正剪纸_GBK\blir1\fs40\an8\pos(290,10)\c&H9755FE&\3c&HFFFFFF&}淺草皿TV
+Dialogue: 0,0:06:51.47,0:06:53.47,Sign_Gothic,Text,0,0,0,,{\an8\c&H040504&\3c&H353A39&\blur4\3a&H5F&}蕎麥久{\fs60} 因店主去世暫停營業
+Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,Sara TV
 Dialogue: 0,0:02:05.02,0:02:06.77,Sign_Others,,0,0,0,,{\fn方正剪纸_GBK\blur1\fs40\an8\pos(290,10)\c&H9755FE&\3c&HFFFFFF&}淺草皿TV
 Dialogue: 0,0:02:05.02,0:02:06.77,Sign_Others,Text,0,0,0,,{\an6\pos(1758,764)\fn方正少儿_GBK\b1\bord2\shad4\4c&H9925E8&\3c&H8C44FF&}幸運自拍占卜
-Dialogue: 1,0:02:05.02,0:02:06.77,Sign_Others,Text,0,0,0,,{\bord0\an5\c&HA67FE3&\fax-0.1\fs30\pos(1070,1032)\blur0.8}作家存乎於生與死之間 dish。莎拉存乎於墨田區和台東區之間 dish。王子存乎於愛與欲望
+Dialogue: 1,0:02:05.02,0:02:06.77,Sign_Others,Text,0,0,0,,{\bord0\an5\c&HA67FE3&\fax-0.1\fs30\pos(1080,1032)\blur0.8}作家存乎於生與死之間 dish。莎拉存乎於墨田區和台東區之間 dish。王子存乎於愛與欲望
 Dialogue: 0,0:02:05.02,0:02:06.77,Sign_Others,Text,0,0,0,,{\bord0\an7\pos(0,0)\p1\clip()\blur1}m 406 1011 l 406 1050 1757 1050 1757 1011
 Dialogue: 0,0:02:25.29,0:02:28.79,Sign_Others,,0,0,0,,{\fn方正剪纸_GBK\blir1\fs30\an8\c&H9755FE&\3c&HFFFFFF&\frz351.4\pos(658,165.333)}淺草皿TV
 Dialogue: 0,0:02:25.29,0:02:28.79,Sign_Gothic,Text,0,0,0,,{\fs40\an6\fn方正少儿_GBK\b1\bord2\shad4\4c&H9925E8&\3c&H8C44FF&\frz352.5\pos(1550,788)}幸運自拍占卜
@@ -121,14 +123,18 @@ Dialogue: 0,0:02:25.29,0:02:28.79,Sign_Gothic,Text,0,0,0,,{\p1\pos(0,0)\an7\bord
 Dialogue: 0,0:02:25.29,0:02:28.79,Sign_Gothic,Text,0,0,0,,{\bord0\an5\c&HA67FE3&\fax-0.1\fs20\blur0.8\frz352\fax-0.05\pos(1062,885.333)\b1}颯爽報道+ {\b0}作家存乎於生與死之間 dish。莎拉存乎於墨田區和台東區之間 dish。王子存乎於愛與欲望
 Dialogue: 0,0:02:28.79,0:02:35.38,Sign_Others,,0,0,0,,{\fn方正剪纸_GBK\blur1\fs40\an8\pos(290,10)\c&H9755FE&\3c&HFFFFFF&}淺草皿TV
 Dialogue: 0,0:02:28.79,0:02:35.38,Sign_Others,Text,0,0,0,,{\an6\pos(1758,764)\fn方正少儿_GBK\b1\bord2\shad4\4c&H9925E8&\3c&H8C44FF&}幸運自拍占卜
-Dialogue: 1,0:02:28.79,0:02:35.38,Sign_Others,Text,0,0,0,,{\bord0\an5\c&HA67FE3&\fax-0.1\fs30\pos(1070,1032)\blur0.8}作家存乎於生與死之間 dish。莎拉存乎於墨田區和台東區之間 dish。王子存乎於愛與欲望之間 dish。
+Dialogue: 1,0:02:28.79,0:02:35.38,Sign_Others,Text,0,0,0,,{\bord0\an5\c&HA67FE3&\fax-0.1\fs30\pos(1080,1032)\blur0.8}作家存乎於生與死之間 dish。莎拉存乎於墨田區和台東區之間 dish。王子存乎於愛與欲望之間 dish。
 Dialogue: 0,0:02:28.79,0:02:35.38,Sign_Others,Text,0,0,0,,{\bord0\an7\pos(0,0)\p1\clip()\blur1}m 406 1011 l 406 1050 1757 1050 1757 1011
 Dialogue: 0,0:02:31.25,0:02:32.21,Sign_Kanteiryu,Text,0,0,0,,{\fad(280,0)\an8\bord4\\3c&HFCFEF4&\c&H030303&\\clip()}{1}蕎麥
+Dialogue: 0,0:12:42.78,0:12:51.79,Sign_Others,,0,0,0,,{\fn方正剪纸_GBK\blur1\fs40\an8\pos(290,10)\c&H9755FE&\3c&HFFFFFF&}淺草皿TV
+Dialogue: 1,0:12:42.78,0:12:51.79,Sign_Gothic,Text,0,0,0,,{\bord0\an5\c&HA67FE3&\fax-0.1\fs30\move(1140,1032,1030,1032,0,7992)\blur0.8\b1\clip(406.667,1012,1757.333,1049.333)}颯爽報道 + {\b0}莎拉其實是烏冬麵派的 dish. 因為有皿烏冬麵這道菜卻沒有皿蕎麥麵 dish. 盤子和盛蕎麥麵的竹笊是不同的 dish. 這是和任何人都不能說的秘密 dish.
+Dialogue: 0,0:12:42.78,0:12:51.79,Sign_Gothic,Text,0,0,0,,{\bord0\an7\pos(0,0)\p1\clip()\blur1}m 406 1011 l 406 1050 1757 1050 1757 1011
+Dialogue: 0,0:12:42.78,0:12:51.79,Sign_Others,Ruby,0,0,0,,{\an6\pos(1758,764)\fn方正雅珠体简繁 DemiBold\bord2\shad4\4c&H9925E8&\3c&H8C44FF&}悲劇! 剛剛還在身邊的呢
+Dialogue: 0,0:12:42.78,0:12:51.79,Sign_Others,Text,0,0,0,,{\an2\fn方正雅珠体简繁 DemiBold\bord1\shad2\4c&H9925E8&\3c&H8C44FF&\fs40\pos(1548.6,730.6)}soba
 Dialogue: 0,0:02:37.88,0:02:46.14,Sign_Others,,0,0,0,,{\fn方正剪纸_GBK\blur1\fs40\an8\pos(290,10)\c&H9755FE&\3c&HFFFFFF&}淺草皿TV
-Dialogue: 0,0:02:37.88,0:02:46.14,Sign_Others,Text,0,0,0,,{\an6\pos(1758,764)\fn方正雅珠体简繁 DemiBold\bord2\shad4\4c&H9925E8&\3c&H8C44FF&}眾望所歸的莎拉握手會！
-Dialogue: 1,0:02:37.88,0:02:46.14,Sign_Others,,0,0,0,,{\bord0\an5\c&HA67FE3&\fax-0.1\fs30\pos(1070,1032)\blur0.8}作家存乎於生與死之間 dish。莎拉存乎於墨田區和台東區之間 dish。王子存乎於愛與欲望之間 dish。
+Dialogue: 0,0:02:37.88,0:02:46.14,Sign_Others,Text,0,0,0,,{\an6\pos(1758,764)\fn方正雅珠体简繁 DemiBold\bord2\shad4\4c&H9925E8&\3c&H8C44FF&}众望所歸的莎拉握手會！
+Dialogue: 1,0:02:37.88,0:02:46.14,Sign_Others,,0,0,0,,{\bord0\an5\c&HA67FE3&\fax-0.1\fs30\pos(1080,1032)\blur0.8}作家存乎於生與死之間 dish。莎拉存乎於墨田區和台東區之間 dish。王子存乎於愛與欲望之間 dish。
 Dialogue: 0,0:02:37.88,0:02:46.14,Sign_Others,,0,0,0,,{\bord0\an7\pos(0,0)\p1\clip()\blur1}m 406 1011 l 406 1050 1757 1050 1757 1011
-Dialogue: 0,0:06:51.47,0:06:53.47,Sign_Gothic,Text,0,0,0,,{\an8\c&H222524&\3c&H535956&}蕎麥久{\fs60} 因店主去世暫停營業
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,Title
 Dialogue: 0,0:20:43.05,0:20:48.06,Title,,0,0,0,,{\an8\pos(960,240)\fs70\fnSource Han Serif TC\b1}想　要　相　連　可　是　卻　又
 Dialogue: 0,0:20:43.05,0:20:48.06,Title,,0,0,0,,{\an8\pos(960,640)\fs120\fnSource Han Serif TC\b1}不　在　我　的　身　邊
@@ -182,8 +188,8 @@ Dialogue: 0,0:14:21.92,0:14:23.38,IN_JP_II,,0,0,0,,{\fad(200,200)\move(0,40,40,4
 Dialogue: 0,0:14:23.38,0:14:32.31,IN_JP_II,,0,0,0,,{\fad(200,200)\move(0,40,40,40,0,200)}生命の意味を 確かめるのさ
 Dialogue: 0,0:14:32.43,0:14:34.52,IN_JP_II,,0,0,0,,{\fad(200,200)\move(0,40,40,40,0,200)}は·じ·け·て
 Dialogue: 0,0:14:35.23,0:14:37.69,IN_JP_II,,0,0,0,,{\fad(200,200)\move(0,40,40,40,0,200)}泳げ人生
-Dialogue: 0,0:14:37.69,0:14:40.36,IN_JP_II,ruby,0,0,0,,{\fad(200,200)\move(0,40,40,40,0,200)}つかめ栄光
-Dialogue: 0,0:14:37.69,0:14:40.36,IN_JP_II,,0,0,0,,{\fad(200,200)\move(130,26,170,26,0,200)\fs30}サクセス
+Dialogue: 0,0:14:37.69,0:14:40.36,IN_JP_II,,0,0,0,,{\fad(200,200)\move(0,40,40,40,0,200)}つかめ栄光
+Dialogue: 0,0:14:37.69,0:14:40.36,IN_JP_II,ruby,0,0,0,,{\fad(200,200)\move(130,26,170,26,0,200)\fs30}サクセス
 Dialogue: 0,0:14:40.36,0:14:45.40,IN_JP_II,,0,0,0,,{\fad(200,200)\move(0,40,40,40,0,200)}それは愛だと 信じていいのさ
 Dialogue: 0,0:14:45.74,0:14:48.24,IN_JP_II,,0,0,0,,{\fad(200,200)\move(0,40,40,40,0,200)}Soul on a dish 重ねて
 Dialogue: 0,0:14:48.24,0:14:50.82,IN_JP_II,,0,0,0,,{\fad(200,200)\move(0,40,40,40,0,200)}Catch the ball 抜き取れ
@@ -249,53 +255,65 @@ Dialogue: 0,0:10:33.11,0:10:34.73,IN_CN_IV,,0,0,0,,{\fad(100,150)\c&H3B3B3D&}水
 Dialogue: 0,0:10:34.73,0:10:36.18,IN_CN_IV,,0,0,0,,{\fad(100,150)\c&H3B3B3D&}去奪過來！蕎麥！蕎麥！
 Dialogue: 0,0:10:36.18,0:10:37.96,IN_CN_IV,,0,0,0,,{\fad(100,150)\c&H3B3B3D&}世上全是！謊言！謊言！
 Dialogue: 0,0:10:37.96,0:10:39.49,IN_CN_IV,,0,0,0,,{\fad(100,150)\c&H3B3B3D&}去奪過來！蕎麥！蕎麥！
-Dialogue: 1,0:00:40.10,0:00:44.48,OP_JP - Top Layer,,0,0,0,,背景紛れたら 透明街の角
-Dialogue: 1,0:00:44.48,0:00:49.07,OP_JP - Top Layer,,0,0,0,,消えそうな声で泣いている僕らよ
-Dialogue: 1,0:00:49.07,0:00:53.74,OP_JP - Top Layer,,0,0,0,,最低な夜から 這って抜けるように
-Dialogue: 1,0:00:53.74,0:00:58.37,OP_JP - Top Layer,,0,0,0,,千切れた痛みと共に行けよ
-Dialogue: 1,0:00:58.37,0:01:02.50,OP_JP - Top Layer,,0,0,0,,いつだって一人きりなんだろ
-Dialogue: 1,0:01:02.50,0:01:08.54,OP_JP - Top Layer,,0,0,0,,心が叫んでる欲望の音 もう一度
-Dialogue: 1,0:01:08.54,0:01:12.76,OP_JP - Top Layer,,0,0,0,,話せたら 繋がれたら
+Dialogue: 1,0:00:40.10,0:00:43.27,OP_JP - Top Layer,,0,0,0,,背景 紛れたら透明
+Dialogue: 1,0:00:43.27,0:00:49.07,OP_JP - Top Layer,,0,0,0,,街の角 消えそうな声で鳴いている僕らよ
+Dialogue: 1,0:00:49.07,0:00:53.74,OP_JP - Top Layer,,0,0,0,,最低な夜から這って抜けるように
+Dialogue: 1,0:00:53.74,0:00:58.37,OP_JP - Top Layer,,0,0,0,,千切れた痛みとともにゆけよ
+Dialogue: 1,0:00:58.37,0:01:02.41,OP_JP - Top Layer,,0,0,0,,いつだって独りきりなんだろう
+Dialogue: 1,0:01:02.41,0:01:07.67,OP_JP - Top Layer,,0,0,0,,{\fad(0,550)}心が叫んでる 欲望の音
+Dialogue: 3,0:01:07.04,0:01:12.76,OP_JP - Top Layer,,0,0,0,,{\fad(550,0)}もう一度 話せたら 繋がれたら
 Dialogue: 1,0:01:12.76,0:01:16.22,OP_JP - Top Layer,,0,0,0,,{\fad(0,200)}ただ溢れて
-Dialogue: 1,0:01:17.47,0:01:22.47,OP_JP - Top Layer,,0,0,0,,だんだん遠くなってく 君を追いかけていく
-Dialogue: 1,0:01:26.77,0:01:31.40,OP_JP - Top Layer,,0,0,0,,まっさらな想いを伝えに 火玉していく
-Dialogue: 1,0:01:35.90,0:01:39.70,OP_JP - Top Layer,,0,0,0,,{\fad(200,0)}現在過去未来 君と繋いでいたいよ
+Dialogue: 1,0:01:17.47,0:01:19.51,OP_JP - Top Layer,,0,0,0,,だんだん遠くなってく
+Dialogue: 1,0:01:19.51,0:01:22.47,OP_JP - Top Layer,,0,0,0,,君を追いかけていく
+Dialogue: 1,0:01:26.77,0:01:29.94,OP_JP - Top Layer,,0,0,0,,まっさらな想いを伝えに
+Dialogue: 1,0:01:29.94,0:01:31.40,OP_JP - Top Layer,,0,0,0,,ひた走っていく
+Dialogue: 1,0:01:35.90,0:01:38.03,OP_JP - Top Layer,,0,0,0,,{\fad(200,0)}現在 過去 未来
+Dialogue: 1,0:01:38.03,0:01:39.70,OP_JP - Top Layer,,0,0,0,,君と繋いでいたいよ
 Dialogue: 1,0:01:39.70,0:01:42.87,OP_JP - Top Layer,,0,0,0,,{\fad(0,200)}感情を 心の奥を
-Dialogue: 0,0:00:40.10,0:00:44.48,OP_JP - Bottom Layer,,0,0,0,,{\blur2}背景紛れたら 透明街の角
-Dialogue: 0,0:00:44.48,0:00:49.07,OP_JP - Bottom Layer,,0,0,0,,{\blur2}消えそうな声で泣いている僕らよ
-Dialogue: 0,0:00:49.07,0:00:53.74,OP_JP - Bottom Layer,,0,0,0,,{\blur2}最低な夜から 這って抜けるように
-Dialogue: 0,0:00:53.74,0:00:58.37,OP_JP - Bottom Layer,,0,0,0,,{\blur2}千切れた痛みと共に行けよ
-Dialogue: 0,0:00:58.37,0:01:02.50,OP_JP - Bottom Layer,,0,0,0,,{\blur2}いつだって一人きりなんだろ
-Dialogue: 0,0:01:02.50,0:01:08.54,OP_JP - Bottom Layer,,0,0,0,,{\blur2}心が叫んでる欲望の音 もう一度
-Dialogue: 0,0:01:08.54,0:01:12.76,OP_JP - Bottom Layer,,0,0,0,,{\blur2}話せたら 繋がれたら
+Dialogue: 0,0:00:40.10,0:00:43.27,OP_JP - Bottom Layer,,0,0,0,,{\blur2}背景 紛れたら透明
+Dialogue: 0,0:00:43.27,0:00:49.07,OP_JP - Bottom Layer,,0,0,0,,{\blur2}街の角 消えそうな声で鳴いている僕らよ
+Dialogue: 0,0:00:49.07,0:00:53.74,OP_JP - Bottom Layer,,0,0,0,,{\blur2}最低な夜から這って抜けるように
+Dialogue: 0,0:00:53.74,0:00:58.37,OP_JP - Bottom Layer,,0,0,0,,{\blur2}千切れた痛みとともにゆけよ
+Dialogue: 0,0:00:58.37,0:01:02.41,OP_JP - Bottom Layer,,0,0,0,,{\blur2}いつだって独りきりなんだろう
+Dialogue: 0,0:01:02.41,0:01:07.67,OP_JP - Bottom Layer,,0,0,0,,{\blur2\fad(0,550)}心が叫んでる 欲望の音
+Dialogue: 2,0:01:07.04,0:01:12.76,OP_JP - Bottom Layer,,0,0,0,,{\blur2\fad(550,0)}もう一度 話せたら 繋がれたら
 Dialogue: 0,0:01:12.76,0:01:16.22,OP_JP - Bottom Layer,,0,0,0,,{\blur2\fad(0,200)}ただ溢れて
-Dialogue: 0,0:01:17.47,0:01:22.47,OP_JP - Bottom Layer,,0,0,0,,{\blur2}だんだん遠くなってく 君を追いかけていく
-Dialogue: 0,0:01:26.77,0:01:31.40,OP_JP - Bottom Layer,,0,0,0,,{\blur2}まっさらな想いを伝えに 火玉していく
-Dialogue: 0,0:01:35.90,0:01:39.70,OP_JP - Bottom Layer,,0,0,0,,{\blur2\fad(200,0)}現在過去未来 君と繋いでいたいよ
+Dialogue: 0,0:01:17.47,0:01:19.51,OP_JP - Bottom Layer,,0,0,0,,{\blur2}だんだん遠くなってく
+Dialogue: 0,0:01:19.51,0:01:22.47,OP_JP - Bottom Layer,,0,0,0,,{\blur2}君を追いかけていく
+Dialogue: 0,0:01:26.77,0:01:29.94,OP_JP - Bottom Layer,,0,0,0,,{\blur2}まっさらな想いを伝えに
+Dialogue: 0,0:01:29.94,0:01:31.40,OP_JP - Bottom Layer,,0,0,0,,{\blur2}ひた走っていく
+Dialogue: 0,0:01:35.90,0:01:38.03,OP_JP - Bottom Layer,,0,0,0,,{\blur2\fad(200,0)}現在 過去 未来
+Dialogue: 0,0:01:38.03,0:01:39.70,OP_JP - Bottom Layer,,0,0,0,,{\blur2}君と繋いでいたいよ
 Dialogue: 0,0:01:39.70,0:01:42.87,OP_JP - Bottom Layer,,0,0,0,,{\blur2\fad(0,200)}感情を 心の奥を
-Dialogue: 1,0:00:40.06,0:00:44.48,OP_CN - Top Layer,,0,0,0,,當背景交錯 在透明街角
-Dialogue: 1,0:00:44.48,0:00:49.07,OP_CN - Top Layer,,0,0,0,,又有誰能聽見我們的哭聲
-Dialogue: 1,0:00:49.07,0:00:53.74,OP_CN - Top Layer,,0,0,0,,為了爬出 這最糟的黑夜
+Dialogue: 1,0:00:40.06,0:00:43.27,OP_CN - Top Layer,,0,0,0,,背景交錯便是透明
+Dialogue: 1,0:00:43.27,0:00:49.07,OP_CN - Top Layer,,0,0,0,,誰能聽見街角我們微弱的聲音
+Dialogue: 1,0:00:49.07,0:00:53.74,OP_CN - Top Layer,,0,0,0,,為了爬出這最糟的黑夜
 Dialogue: 1,0:00:53.74,0:00:58.37,OP_CN - Top Layer,,0,0,0,,願與粉身碎骨的痛楚並肩前行
-Dialogue: 1,0:00:58.37,0:01:02.50,OP_CN - Top Layer,,0,0,0,,反正無論何時總免不了孤身一人
-Dialogue: 1,0:01:02.50,0:01:08.54,OP_CN - Top Layer,,0,0,0,,讓心中呼喚的欲望之聲
-Dialogue: 1,0:01:08.54,0:01:12.76,OP_CN - Top Layer,,0,0,0,,再一次攀談 再一次連結
+Dialogue: 1,0:00:58.37,0:01:02.41,OP_CN - Top Layer,,0,0,0,,反正無論何時總免不了孤身一人
+Dialogue: 1,0:01:02.41,0:01:07.67,OP_CN - Top Layer,,0,0,0,,{\fad(0,550)}讓心中呼喚的欲望之聲
+Dialogue: 3,0:01:07.04,0:01:12.76,OP_CN - Top Layer,,0,0,0,,{\fad(550,0)}再一次攀談 再一次連結
 Dialogue: 1,0:01:12.76,0:01:16.22,OP_CN - Top Layer,,0,0,0,,{\fad(0,200)}那就一發不可收拾
-Dialogue: 1,0:01:17.47,0:01:22.47,OP_CN - Top Layer,,0,0,0,,漸漸遠去的你 讓我一心追逐
-Dialogue: 1,0:01:26.77,0:01:31.40,OP_CN - Top Layer,,0,0,0,,把全新的思緒 化作火球投向你
-Dialogue: 1,0:01:35.90,0:01:39.70,OP_CN - Top Layer,,0,0,0,,{\fad(200,0)}現在過去未來 只想與你相連
+Dialogue: 1,0:01:17.47,0:01:19.51,OP_CN - Top Layer,,0,0,0,,漸漸遠去的你
+Dialogue: 1,0:01:19.51,0:01:22.47,OP_CN - Top Layer,,0,0,0,,讓我一心追逐
+Dialogue: 1,0:01:26.77,0:01:29.94,OP_CN - Top Layer,,0,0,0,,懷著全新的思緒
+Dialogue: 1,0:01:29.94,0:01:31.40,OP_CN - Top Layer,,0,0,0,,只為徑直奔向你
+Dialogue: 1,0:01:35.90,0:01:38.03,OP_CN - Top Layer,,0,0,0,,{\fad(200,0)}現在 過去 未來
+Dialogue: 1,0:01:38.03,0:01:39.70,OP_CN - Top Layer,,0,0,0,,多想與你相連
 Dialogue: 1,0:01:39.70,0:01:42.87,OP_CN - Top Layer,,0,0,0,,{\fad(0,200)}這份感情 這份真心
-Dialogue: 0,0:00:40.06,0:00:44.48,OP_CN - Bottom Layer,,0,0,0,,{\blur2}當背景交錯 在透明街角
-Dialogue: 0,0:00:44.48,0:00:49.07,OP_CN - Bottom Layer,,0,0,0,,{\blur2}又有誰能聽見我們的哭聲
-Dialogue: 0,0:00:49.07,0:00:53.74,OP_CN - Bottom Layer,,0,0,0,,{\blur2}為了爬出 這最糟的黑夜
+Dialogue: 0,0:00:40.06,0:00:43.27,OP_CN - Bottom Layer,,0,0,0,,{\blur2}背景交錯便是透明
+Dialogue: 0,0:00:43.27,0:00:49.07,OP_CN - Bottom Layer,,0,0,0,,{\blur2}誰能聽見街角我們微弱的聲音
+Dialogue: 0,0:00:49.07,0:00:53.74,OP_CN - Bottom Layer,,0,0,0,,{\blur2}為了爬出這最糟的黑夜
 Dialogue: 0,0:00:53.74,0:00:58.37,OP_CN - Bottom Layer,,0,0,0,,{\blur2}願與粉身碎骨的痛楚並肩前行
-Dialogue: 0,0:00:58.37,0:01:02.50,OP_CN - Bottom Layer,,0,0,0,,{\blur2}反正無論何時總免不了孤身一人
-Dialogue: 0,0:01:02.50,0:01:08.54,OP_CN - Bottom Layer,,0,0,0,,{\blur2}讓心中呼喚的欲望之聲
-Dialogue: 0,0:01:08.54,0:01:12.76,OP_CN - Bottom Layer,,0,0,0,,{\blur2}再一次攀談 再一次連結
+Dialogue: 0,0:00:58.37,0:01:02.41,OP_CN - Bottom Layer,,0,0,0,,{\blur2}反正無論何時總免不了孤身一人
+Dialogue: 0,0:01:02.41,0:01:07.67,OP_CN - Bottom Layer,,0,0,0,,{\blur2\fad(0,550)}讓心中呼喚的欲望之聲
+Dialogue: 2,0:01:07.04,0:01:12.76,OP_CN - Bottom Layer,,0,0,0,,{\blur2\fad(550,0)}再一次攀談 再一次連結
 Dialogue: 0,0:01:12.76,0:01:16.22,OP_CN - Bottom Layer,,0,0,0,,{\blur2\fad(0,200)}那就一發不可收拾
-Dialogue: 0,0:01:17.47,0:01:22.47,OP_CN - Bottom Layer,,0,0,0,,{\blur2}漸漸遠去的你 讓我一心追逐
-Dialogue: 0,0:01:26.77,0:01:31.40,OP_CN - Bottom Layer,,0,0,0,,{\blur2}把全新的思緒 化作火球投向你
-Dialogue: 0,0:01:35.90,0:01:39.70,OP_CN - Bottom Layer,,0,0,0,,{\blur2\fad(200,0)}現在過去未來 只想與你相連
+Dialogue: 0,0:01:17.47,0:01:19.51,OP_CN - Bottom Layer,,0,0,0,,{\blur2}漸漸遠去的你
+Dialogue: 0,0:01:19.51,0:01:22.47,OP_CN - Bottom Layer,,0,0,0,,{\blur2}讓我一心追逐
+Dialogue: 0,0:01:26.77,0:01:29.94,OP_CN - Bottom Layer,,0,0,0,,{\blur2}懷著全新的思緒
+Dialogue: 0,0:01:29.94,0:01:31.40,OP_CN - Bottom Layer,,0,0,0,,{\blur2}只為徑直奔向你
+Dialogue: 0,0:01:35.90,0:01:38.03,OP_CN - Bottom Layer,,0,0,0,,{\blur2\fad(200,0)}現在 過去 未來
+Dialogue: 0,0:01:38.03,0:01:39.70,OP_CN - Bottom Layer,,0,0,0,,{\blur2}多想與你相連
 Dialogue: 0,0:01:39.70,0:01:42.87,OP_CN - Bottom Layer,,0,0,0,,{\blur2\fad(0,200)}這份感情 這份真心
 Dialogue: 1,0:20:48.06,0:20:53.14,ED_JP - Top Layer,,0,0,0,,スタンドバイミー お願い
 Dialogue: 1,0:20:53.14,0:20:57.94,ED_JP - Top Layer,,0,0,0,,僕は 僕は 強くなれるのかな
@@ -371,8 +389,8 @@ Dialogue: 0,0:22:06.84,0:22:12.22,ED_CN - Bottom Layer,,0,0,0,,{\blur2}當淚水
 Dialogue: 0,0:22:12.22,0:22:18.10,ED_CN - Bottom Layer,,0,0,0,,{\blur2}想與你的溫暖擁抱 僅此而已
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,STAFF
 Dialogue: 2,0:00:40.01,0:00:40.06,STAFF - Top Layer,,0,0,0,,{\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,350)}翻譯
-Dialogue: 2,0:00:40.01,0:00:40.06,STAFF - Top Layer,,0,0,0,,{\pos(200,338)\iclip(m 318 345 l 332 353 346 360 355 365 370 369 384 373 388 375 402 380 416 382 432 384 466 386 475 385 492 398 506 412 516 420 516 423 506 425 497 427 481 430 458 437 436 444 423 448 409 454 387 462 371 470 362 474 394 534 610 455 628 368 454 285)}tastySugar
-Dialogue: 2,0:00:40.01,0:00:40.06,STAFF - Top Layer,,0,0,0,,{\pos(200,418)\iclip(m 318 345 l 332 353 346 360 355 365 370 369 384 373 388 375 402 380 416 382 432 384 466 386 475 385 492 398 506 412 516 420 516 423 506 425 497 427 481 430 458 437 436 444 423 448 409 454 387 462 371 470 362 474 394 534 610 455 628 368 454 285)}絶対女装黙示録
+Dialogue: 2,0:00:40.01,0:00:40.06,STAFF - Top Layer,,0,0,0,,{\pos(200,338)\iclip(m 318 345 l 332 353 346 360 355 365 370 369 384 373 388 375 402 380 416 382 432 384 466 386 475 385 492 398 506 412 516 420 516 423 506 425 497 427 481 430 458 437 436 444 423 448 409 454 387 462 371 470 320 498 304 509 264 536 650 536 650 345)}tastySugar
+Dialogue: 2,0:00:40.01,0:00:40.06,STAFF - Top Layer,,0,0,0,,{\pos(200,418)\iclip(m 318 345 l 332 353 346 360 355 365 370 369 384 373 388 375 402 380 416 382 432 384 466 386 475 385 492 398 506 412 516 420 516 423 506 425 497 427 481 430 458 437 436 444 423 448 409 454 387 462 371 470 320 498 304 509 264 536 650 536 650 345)}絶対女装黙示録
 Dialogue: 2,0:00:40.06,0:00:42.52,STAFF - Top Layer,,0,0,0,,{\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,350)}翻譯
 Dialogue: 2,0:00:40.06,0:00:42.52,STAFF - Top Layer,,0,0,0,,{\pos(200,338)}tastySugar
 Dialogue: 2,0:00:40.06,0:00:42.52,STAFF - Top Layer,,0,0,0,,{\pos(200,418)}絶対女装黙示録
@@ -392,8 +410,8 @@ Dialogue: 2,0:01:07.63,0:01:09.96,STAFF - Top Layer,,0,0,0,,{\pos(266,558)}natsu
 Dialogue: 2,0:01:32.28,0:01:34.94,STAFF - Top Layer,,0,0,0,,{\an2\fs34\fnSource Han Sans TC Medium\b1\pos(960,632)}字幕製作
 Dialogue: 2,0:01:32.28,0:01:34.94,STAFF - Top Layer,,0,0,0,,{\an2\pos(960,698)}SweetSub
 Dialogue: 1,0:00:40.01,0:00:40.06,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,350)}翻譯
-Dialogue: 1,0:00:40.01,0:00:40.06,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(200,338)\iclip(m 318 345 l 332 353 346 360 355 365 370 369 384 373 388 375 402 380 416 382 432 384 466 386 475 385 492 398 506 412 516 420 516 423 506 425 497 427 481 430 458 437 436 444 423 448 409 454 387 462 371 470 362 474 394 534 610 455 628 368 454 285)}tastySugar
-Dialogue: 1,0:00:40.01,0:00:40.06,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(200,418)\iclip(m 318 345 l 332 353 346 360 355 365 370 369 384 373 388 375 402 380 416 382 432 384 466 386 475 385 492 398 506 412 516 420 516 423 506 425 497 427 481 430 458 437 436 444 423 448 409 454 387 462 371 470 362 474 394 534 610 455 628 368 454 285)}絶対女装黙示録
+Dialogue: 1,0:00:40.01,0:00:40.06,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(200,338)\iclip(m 318 345 l 332 353 346 360 355 365 370 369 384 373 388 375 402 380 416 382 432 384 466 386 475 385 492 398 506 412 516 420 516 423 506 425 497 427 481 430 458 437 436 444 423 448 409 454 387 462 371 470 320 498 304 509 264 536 650 536 650 345)}tastySugar
+Dialogue: 1,0:00:40.01,0:00:40.06,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(200,418)\iclip(m 318 345 l 332 353 346 360 355 365 370 369 384 373 388 375 402 380 416 382 432 384 466 386 475 385 492 398 506 412 516 420 516 423 506 425 497 427 481 430 458 437 436 444 423 448 409 454 387 462 371 470 320 498 304 509 264 536 650 536 650 345)}絶対女装黙示録
 Dialogue: 1,0:00:40.06,0:00:42.52,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\fs34\fnSource Han Sans TC Medium\b1\pos(118.488,350)}翻譯
 Dialogue: 1,0:00:40.06,0:00:42.52,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(200,338)}tastySugar
 Dialogue: 1,0:00:40.06,0:00:42.52,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(200,418)}絶対女装黙示録
@@ -610,7 +628,6 @@ Dialogue: 0,0:13:25.47,0:13:29.07,Main,Keppi,0,0,0,,這次河童喪屍的欲求�
 Dialogue: 0,0:13:29.07,0:13:32.33,Top,Enta,0,0,0,,久慈  你家的店沒事吧？
 Dialogue: 0,0:13:32.83,0:13:35.06,Main,Kazuki,0,0,0,,久慈家是開蕎麥麵館的麼
 Dialogue: 0,0:13:36.08,0:13:38.02,Main,Toi,0,0,0,,被奪去的東西唯有奪回來
-Dialogue: 0,0:13:55.48,0:14:05.82,Top,,0,0,0,,{\fs40\bord2\an9\fad(300,0)}註：出自岩手縣著名的一種小碗蕎麦面わんこそば。\N每當客人食用完一碗，侍者會一邊添面，一邊用\N“嗨~咚咚，嗨~鏘鏘” 的號子給客人加油鼓勁。
 Dialogue: 0,0:13:55.52,0:13:57.48,Top,,0,0,0,,嗨~咚咚
 Dialogue: 0,0:13:57.48,0:13:58.73,Top,,0,0,0,,嗨~鏘鏘
 Dialogue: 0,0:13:59.00,0:14:00.70,Top,,0,0,0,,嗨~咚咚
@@ -719,290 +736,290 @@ Dialogue: 0,0:22:42.76,0:22:45.05,Main,Enta,0,0,0,,怎麼能讓給久慈這傢�
 Dialogue: 0,0:22:45.05,0:22:46.98,Main,Enta,0,0,0,,春河對你來說不重要了嗎!?
 Dialogue: 0,0:22:46.98,0:22:47.71,Main,Kazuki,0,0,0,,我…
 Dialogue: 0,0:22:50.65,0:22:53.05,Main,Kazuki,0,0,0,,我  討厭春河
-Dialogue: 0,0:09:26.42,0:09:26.46,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1899.92,686.5)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:26.46,0:09:26.50,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1893.94,682.42)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:26.50,0:09:26.54,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1887.99,678.33)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:26.54,0:09:26.58,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1882.08,674.21)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:26.58,0:09:26.62,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1876.1,670.14)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:26.62,0:09:26.67,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1870.18,666.03)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:26.67,0:09:26.71,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1864.24,661.97)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:26.71,0:09:26.75,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1858.28,657.87)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:26.75,0:09:26.79,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1852.3,653.78)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:26.79,0:09:26.83,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1846.35,649.67)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:26.83,0:09:26.88,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1840.43,645.58)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:26.88,0:09:26.92,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1834.49,641.45)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:26.92,0:09:26.96,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1828.51,637.42)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:26.96,0:09:27.00,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1822.58,633.32)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:27.00,0:09:27.04,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1816.64,629.21)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:27.04,0:09:27.08,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1810.71,625.07)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:27.08,0:09:27.13,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1804.72,621.05)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:27.13,0:09:27.17,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1798.75,616.93)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:27.17,0:09:27.21,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1792.88,612.81)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:27.21,0:09:27.25,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1786.9,608.7)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:27.25,0:09:27.29,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1780.93,604.68)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:27.29,0:09:27.33,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1774.99,600.56)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:27.33,0:09:27.38,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1769.1,596.44)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:27.38,0:09:27.42,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1763.12,592.35)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:27.42,0:09:27.46,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1757.15,588.32)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:27.46,0:09:27.50,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1751.22,584.18)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:27.50,0:09:27.54,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1745.31,580.07)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:27.54,0:09:27.58,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1739.34,576.01)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:27.58,0:09:27.63,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1733.37,571.95)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:27.63,0:09:27.67,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1727.42,567.83)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:27.67,0:09:27.71,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1721.51,563.71)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:27.71,0:09:27.75,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1715.53,559.67)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:27.75,0:09:27.79,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1709.58,555.58)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:27.79,0:09:27.83,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1703.63,551.48)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:27.83,0:09:27.88,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1697.72,547.34)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:27.88,0:09:27.92,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1691.75,543.29)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:27.92,0:09:27.96,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1685.8,539.2)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:27.96,0:09:28.00,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1679.86,535.09)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:28.00,0:09:28.04,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1673.92,530.97)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:28.04,0:09:28.08,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1667.96,526.9)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:28.08,0:09:28.13,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1662.03,522.81)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:28.13,0:09:28.17,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1656.07,518.72)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:28.17,0:09:28.21,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1650.14,514.6)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:28.21,0:09:28.25,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1644.16,510.53)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:28.25,0:09:28.29,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1638.23,506.45)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:28.29,0:09:28.33,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1632.29,502.36)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:28.33,0:09:28.38,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1626.33,498.26)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:28.38,0:09:28.42,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1620.38,494.16)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:28.42,0:09:28.46,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1614.44,490.07)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:28.46,0:09:28.50,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1608.5,485.98)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:28.50,0:09:28.54,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1602.55,481.9)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:28.54,0:09:28.59,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1596.62,477.77)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:28.59,0:09:28.63,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1590.67,473.7)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:28.63,0:09:28.67,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1584.73,469.59)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:28.67,0:09:28.71,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1578.75,465.52)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:28.71,0:09:28.75,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1572.85,461.38)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:28.75,0:09:28.79,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1566.9,457.3)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:28.79,0:09:28.84,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1560.94,453.18)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:28.84,0:09:28.88,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1554.95,449.15)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:28.88,0:09:28.92,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1549.01,445.03)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:28.92,0:09:28.96,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1543.1,440.92)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:28.96,0:09:29.00,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1537.13,436.84)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:29.00,0:09:29.04,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1531.15,432.79)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:29.04,0:09:29.09,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1525.23,428.67)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:29.09,0:09:29.13,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1519.31,424.55)\frz343.6\frx5\blur1}房產證
-Dialogue: 0,0:09:29.13,0:09:29.17,Sign_Others,,0,0,0,,{=1}{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1513.34,420.49)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:26.42,0:09:26.46,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1899.92,686.5)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:26.46,0:09:26.50,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1893.94,682.42)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:26.50,0:09:26.54,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1887.99,678.33)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:26.54,0:09:26.58,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1882.08,674.21)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:26.58,0:09:26.62,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1876.1,670.14)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:26.62,0:09:26.67,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1870.18,666.03)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:26.67,0:09:26.71,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1864.24,661.97)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:26.71,0:09:26.75,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1858.28,657.87)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:26.75,0:09:26.79,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1852.3,653.78)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:26.79,0:09:26.83,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1846.35,649.67)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:26.83,0:09:26.88,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1840.43,645.58)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:26.88,0:09:26.92,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1834.49,641.45)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:26.92,0:09:26.96,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1828.51,637.42)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:26.96,0:09:27.00,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1822.58,633.32)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:27.00,0:09:27.04,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1816.64,629.21)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:27.04,0:09:27.08,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1810.71,625.07)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:27.08,0:09:27.13,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1804.72,621.05)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:27.13,0:09:27.17,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1798.75,616.93)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:27.17,0:09:27.21,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1792.88,612.81)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:27.21,0:09:27.25,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1786.9,608.7)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:27.25,0:09:27.29,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1780.93,604.68)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:27.29,0:09:27.33,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1774.99,600.56)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:27.33,0:09:27.38,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1769.1,596.44)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:27.38,0:09:27.42,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1763.12,592.35)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:27.42,0:09:27.46,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1757.15,588.32)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:27.46,0:09:27.50,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1751.22,584.18)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:27.50,0:09:27.54,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1745.31,580.07)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:27.54,0:09:27.58,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1739.34,576.01)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:27.58,0:09:27.63,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1733.37,571.95)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:27.63,0:09:27.67,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1727.42,567.83)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:27.67,0:09:27.71,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1721.51,563.71)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:27.71,0:09:27.75,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1715.53,559.67)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:27.75,0:09:27.79,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1709.58,555.58)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:27.79,0:09:27.83,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1703.63,551.48)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:27.83,0:09:27.88,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1697.72,547.34)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:27.88,0:09:27.92,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1691.75,543.29)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:27.92,0:09:27.96,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1685.8,539.2)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:27.96,0:09:28.00,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1679.86,535.09)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:28.00,0:09:28.04,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1673.92,530.97)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:28.04,0:09:28.08,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1667.96,526.9)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:28.08,0:09:28.13,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1662.03,522.81)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:28.13,0:09:28.17,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1656.07,518.72)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:28.17,0:09:28.21,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1650.14,514.6)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:28.21,0:09:28.25,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1644.16,510.53)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:28.25,0:09:28.29,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1638.23,506.45)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:28.29,0:09:28.33,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1632.29,502.36)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:28.33,0:09:28.38,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1626.33,498.26)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:28.38,0:09:28.42,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1620.38,494.16)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:28.42,0:09:28.46,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1614.44,490.07)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:28.46,0:09:28.50,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1608.5,485.98)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:28.50,0:09:28.54,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1602.55,481.9)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:28.54,0:09:28.59,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1596.62,477.77)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:28.59,0:09:28.63,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1590.67,473.7)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:28.63,0:09:28.67,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1584.73,469.59)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:28.67,0:09:28.71,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1578.75,465.52)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:28.71,0:09:28.75,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1572.85,461.38)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:28.75,0:09:28.79,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1566.9,457.3)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:28.79,0:09:28.84,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1560.94,453.18)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:28.84,0:09:28.88,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1554.95,449.15)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:28.88,0:09:28.92,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1549.01,445.03)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:28.92,0:09:28.96,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1543.1,440.92)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:28.96,0:09:29.00,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1537.13,436.84)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:29.00,0:09:29.04,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1531.15,432.79)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:29.04,0:09:29.09,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1525.23,428.67)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:29.09,0:09:29.13,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1519.31,424.55)\frz343.6\frx5\blur1}房產證
+Dialogue: 0,0:09:29.13,0:09:29.17,Sign_Others,,0,0,0,,{\fscy100\fscx100\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1513.34,420.49)\frz343.6\frx5\blur1}房產證
 Comment: 0,0:09:27.92,0:09:27.96,Sign_Others,,0,0,0,,{\fnSource Han Serif TC\b1\bord0\c&H416B95&\fs40\pos(1685.8,539.2)\frz343.6\frx5\frx5\blur1}房產證
 Dialogue: 0,0:09:44.18,0:09:47.15,Sign_Rounded,Text,0,0,0,,{\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1612,886)}經紀人
 Dialogue: 0,0:09:44.18,0:09:47.15,Sign_Rounded,Text,0,0,0,,{\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1632,368)}榻榻米座位
 Dialogue: 0,0:09:44.18,0:09:47.15,Sign_Rounded,Text,0,0,0,,{\pos(427.849,474.5)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
 Dialogue: 0,0:09:44.18,0:09:47.15,Sign_Rounded,Text,0,0,0,,{\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(1148,598)\3c&H867B6D&}休息室
-Dialogue: 0,0:09:47.15,0:09:47.19,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1612,886)}經紀人
-Dialogue: 0,0:09:47.19,0:09:47.23,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1566.18,845.23)}經紀人
-Dialogue: 0,0:09:47.23,0:09:47.27,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1515.01,799.65)}經紀人
-Dialogue: 0,0:09:47.27,0:09:47.31,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1461.37,751.91)}經紀人
-Dialogue: 0,0:09:47.31,0:09:47.35,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1406.54,703.15)}經紀人
-Dialogue: 0,0:09:47.35,0:09:47.40,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1351.34,654)}經紀人
-Dialogue: 0,0:09:47.40,0:09:47.44,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1296.2,604.92)}經紀人
-Dialogue: 0,0:09:47.44,0:09:47.48,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1241.5,556.18)}經紀人
-Dialogue: 0,0:09:47.48,0:09:47.52,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1187.44,508.12)}經紀人
-Dialogue: 0,0:09:47.52,0:09:47.56,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1134.24,460.74)}經紀人
-Dialogue: 0,0:09:47.56,0:09:47.60,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1082.22,414.47)}經紀人
-Dialogue: 0,0:09:47.60,0:09:47.65,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1031.41,369.26)}經紀人
-Dialogue: 0,0:09:47.65,0:09:47.69,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(982.1,325.39)}經紀人
-Dialogue: 0,0:09:47.69,0:09:47.73,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(934.35,282.9)}經紀人
-Dialogue: 0,0:09:47.73,0:09:47.77,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(888.42,242.07)}經紀人
-Dialogue: 0,0:09:47.77,0:09:47.81,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(844.59,203.05)}經紀人
-Dialogue: 0,0:09:47.81,0:09:47.85,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(802.99,165.97)}經紀人
-Dialogue: 0,0:09:47.85,0:09:47.90,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(763.79,131.18)}經紀人
-Dialogue: 0,0:09:47.90,0:09:47.94,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(727.41,98.84)}經紀人
-Dialogue: 0,0:09:47.94,0:09:47.98,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(694.14,69.13)}經紀人
-Dialogue: 0,0:09:47.98,0:09:48.02,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(664.27,42.59)}經紀人
-Dialogue: 0,0:09:48.02,0:09:48.06,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(638.35,19.4)}經紀人
-Dialogue: 0,0:09:48.06,0:09:48.10,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(616.84,0.21)}經紀人
-Dialogue: 0,0:09:48.10,0:09:48.15,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(600.35,-14.45)}經紀人
-Dialogue: 0,0:09:48.15,0:09:48.19,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(589.75,-23.87)}經紀人
-Dialogue: 0,0:09:48.19,0:09:48.23,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(586,-27.22)}經紀人
-Dialogue: 0,0:09:48.23,0:09:48.27,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(586.13,-27.08)}經紀人
-Dialogue: 0,0:09:47.15,0:09:47.19,Sign_Rounded,Text,0,0,0,,{=4}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1632,368)}榻榻米座位
-Dialogue: 0,0:09:47.19,0:09:47.23,Sign_Rounded,Text,0,0,0,,{=4}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1586.18,327.23)}榻榻米座位
-Dialogue: 0,0:09:47.23,0:09:47.27,Sign_Rounded,Text,0,0,0,,{=4}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1535.01,281.65)}榻榻米座位
-Dialogue: 0,0:09:47.27,0:09:47.31,Sign_Rounded,Text,0,0,0,,{=4}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1481.37,233.91)}榻榻米座位
-Dialogue: 0,0:09:47.31,0:09:47.35,Sign_Rounded,Text,0,0,0,,{=4}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1426.54,185.15)}榻榻米座位
-Dialogue: 0,0:09:47.35,0:09:47.40,Sign_Rounded,Text,0,0,0,,{=4}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1371.34,136)}榻榻米座位
-Dialogue: 0,0:09:47.40,0:09:47.44,Sign_Rounded,Text,0,0,0,,{=4}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1316.2,86.92)}榻榻米座位
-Dialogue: 0,0:09:47.44,0:09:47.48,Sign_Rounded,Text,0,0,0,,{=4}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1261.5,38.18)}榻榻米座位
-Dialogue: 0,0:09:47.48,0:09:47.52,Sign_Rounded,Text,0,0,0,,{=4}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1207.44,-9.88)}榻榻米座位
-Dialogue: 0,0:09:47.52,0:09:47.56,Sign_Rounded,Text,0,0,0,,{=4}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1154.24,-57.26)}榻榻米座位
-Dialogue: 0,0:09:47.56,0:09:47.60,Sign_Rounded,Text,0,0,0,,{=4}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1102.22,-103.53)}榻榻米座位
-Dialogue: 0,0:09:47.60,0:09:47.65,Sign_Rounded,Text,0,0,0,,{=4}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1051.41,-148.74)}榻榻米座位
-Dialogue: 0,0:09:47.65,0:09:47.69,Sign_Rounded,Text,0,0,0,,{=4}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1002.1,-192.61)}榻榻米座位
-Dialogue: 0,0:09:47.69,0:09:47.73,Sign_Rounded,Text,0,0,0,,{=4}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(954.35,-235.1)}榻榻米座位
-Dialogue: 0,0:09:47.73,0:09:47.77,Sign_Rounded,Text,0,0,0,,{=4}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(908.42,-275.93)}榻榻米座位
-Dialogue: 0,0:09:47.77,0:09:47.81,Sign_Rounded,Text,0,0,0,,{=4}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(864.59,-314.95)}榻榻米座位
-Dialogue: 0,0:09:47.81,0:09:47.85,Sign_Rounded,Text,0,0,0,,{=4}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(822.99,-352.03)}榻榻米座位
-Dialogue: 0,0:09:47.85,0:09:47.90,Sign_Rounded,Text,0,0,0,,{=4}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(783.79,-386.82)}榻榻米座位
-Dialogue: 0,0:09:47.90,0:09:47.94,Sign_Rounded,Text,0,0,0,,{=4}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(747.41,-419.16)}榻榻米座位
-Dialogue: 0,0:09:47.94,0:09:47.98,Sign_Rounded,Text,0,0,0,,{=4}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(714.14,-448.87)}榻榻米座位
-Dialogue: 0,0:09:47.98,0:09:48.02,Sign_Rounded,Text,0,0,0,,{=4}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(684.27,-475.41)}榻榻米座位
-Dialogue: 0,0:09:48.02,0:09:48.06,Sign_Rounded,Text,0,0,0,,{=4}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(658.35,-498.6)}榻榻米座位
-Dialogue: 0,0:09:48.06,0:09:48.10,Sign_Rounded,Text,0,0,0,,{=4}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(636.84,-517.79)}榻榻米座位
-Dialogue: 0,0:09:48.10,0:09:48.15,Sign_Rounded,Text,0,0,0,,{=4}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(620.35,-532.45)}榻榻米座位
-Dialogue: 0,0:09:48.15,0:09:48.19,Sign_Rounded,Text,0,0,0,,{=4}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(609.75,-541.87)}榻榻米座位
-Dialogue: 0,0:09:48.19,0:09:48.23,Sign_Rounded,Text,0,0,0,,{=4}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(606,-545.22)}榻榻米座位
-Dialogue: 0,0:09:48.23,0:09:48.27,Sign_Rounded,Text,0,0,0,,{=4}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(606.13,-545.08)}榻榻米座位
-Dialogue: 0,0:09:47.15,0:09:47.19,Sign_Rounded,Text,0,0,0,,{=3}{\fscy100\fscx100\pos(427.85,474.5)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:47.19,0:09:47.23,Sign_Rounded,Text,0,0,0,,{=3}{\fscy100\fscx100\pos(382.03,433.73)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:47.23,0:09:47.27,Sign_Rounded,Text,0,0,0,,{=3}{\fscy100\fscx100\pos(330.86,388.15)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:47.27,0:09:47.31,Sign_Rounded,Text,0,0,0,,{=3}{\fscy100\fscx100\pos(277.22,340.41)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:47.31,0:09:47.35,Sign_Rounded,Text,0,0,0,,{=3}{\fscy100\fscx100\pos(222.39,291.65)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:47.35,0:09:47.40,Sign_Rounded,Text,0,0,0,,{=3}{\fscy100\fscx100\pos(167.19,242.5)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:47.40,0:09:47.44,Sign_Rounded,Text,0,0,0,,{=3}{\fscy100\fscx100\pos(112.05,193.42)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:47.44,0:09:47.48,Sign_Rounded,Text,0,0,0,,{=3}{\fscy100\fscx100\pos(57.35,144.68)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:47.48,0:09:47.52,Sign_Rounded,Text,0,0,0,,{=3}{\fscy100\fscx100\pos(3.29,96.62)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:47.52,0:09:47.56,Sign_Rounded,Text,0,0,0,,{=3}{\fscy100\fscx100\pos(-49.91,49.24)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:47.56,0:09:47.60,Sign_Rounded,Text,0,0,0,,{=3}{\fscy100\fscx100\pos(-101.94,2.97)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:47.60,0:09:47.65,Sign_Rounded,Text,0,0,0,,{=3}{\fscy100\fscx100\pos(-152.74,-42.24)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:47.65,0:09:47.69,Sign_Rounded,Text,0,0,0,,{=3}{\fscy100\fscx100\pos(-202.06,-86.11)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:47.69,0:09:47.73,Sign_Rounded,Text,0,0,0,,{=3}{\fscy100\fscx100\pos(-249.8,-128.6)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:47.73,0:09:47.77,Sign_Rounded,Text,0,0,0,,{=3}{\fscy100\fscx100\pos(-295.73,-169.43)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:47.77,0:09:47.81,Sign_Rounded,Text,0,0,0,,{=3}{\fscy100\fscx100\pos(-339.56,-208.45)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:47.81,0:09:47.85,Sign_Rounded,Text,0,0,0,,{=3}{\fscy100\fscx100\pos(-381.17,-245.53)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:47.85,0:09:47.90,Sign_Rounded,Text,0,0,0,,{=3}{\fscy100\fscx100\pos(-420.37,-280.32)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:47.90,0:09:47.94,Sign_Rounded,Text,0,0,0,,{=3}{\fscy100\fscx100\pos(-456.75,-312.66)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:47.94,0:09:47.98,Sign_Rounded,Text,0,0,0,,{=3}{\fscy100\fscx100\pos(-490.01,-342.37)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:47.98,0:09:48.02,Sign_Rounded,Text,0,0,0,,{=3}{\fscy100\fscx100\pos(-519.88,-368.91)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:48.02,0:09:48.06,Sign_Rounded,Text,0,0,0,,{=3}{\fscy100\fscx100\pos(-545.8,-392.1)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:48.06,0:09:48.10,Sign_Rounded,Text,0,0,0,,{=3}{\fscy100\fscx100\pos(-567.31,-411.29)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:48.10,0:09:48.15,Sign_Rounded,Text,0,0,0,,{=3}{\fscy100\fscx100\pos(-583.8,-425.95)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:48.15,0:09:48.19,Sign_Rounded,Text,0,0,0,,{=3}{\fscy100\fscx100\pos(-594.4,-435.37)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:48.19,0:09:48.23,Sign_Rounded,Text,0,0,0,,{=3}{\fscy100\fscx100\pos(-598.15,-438.72)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:48.23,0:09:48.27,Sign_Rounded,Text,0,0,0,,{=3}{\fscy100\fscx100\pos(-598.02,-438.58)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:47.15,0:09:47.19,Sign_Rounded,Text,0,0,0,,{=2}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(1148,598)\3c&H867B6D&}休息室
-Dialogue: 0,0:09:47.19,0:09:47.23,Sign_Rounded,Text,0,0,0,,{=2}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(1102.18,557.23)\3c&H867B6D&}休息室
-Dialogue: 0,0:09:47.23,0:09:47.27,Sign_Rounded,Text,0,0,0,,{=2}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(1051.01,511.65)\3c&H867B6D&}休息室
-Dialogue: 0,0:09:47.27,0:09:47.31,Sign_Rounded,Text,0,0,0,,{=2}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(997.37,463.91)\3c&H867B6D&}休息室
-Dialogue: 0,0:09:47.31,0:09:47.35,Sign_Rounded,Text,0,0,0,,{=2}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(942.54,415.15)\3c&H867B6D&}休息室
-Dialogue: 0,0:09:47.35,0:09:47.40,Sign_Rounded,Text,0,0,0,,{=2}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(887.34,366)\3c&H867B6D&}休息室
-Dialogue: 0,0:09:47.40,0:09:47.44,Sign_Rounded,Text,0,0,0,,{=2}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(832.2,316.92)\3c&H867B6D&}休息室
-Dialogue: 0,0:09:47.44,0:09:47.48,Sign_Rounded,Text,0,0,0,,{=2}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(777.5,268.18)\3c&H867B6D&}休息室
-Dialogue: 0,0:09:47.48,0:09:47.52,Sign_Rounded,Text,0,0,0,,{=2}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(723.44,220.12)\3c&H867B6D&}休息室
-Dialogue: 0,0:09:47.52,0:09:47.56,Sign_Rounded,Text,0,0,0,,{=2}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(670.24,172.74)\3c&H867B6D&}休息室
-Dialogue: 0,0:09:47.56,0:09:47.60,Sign_Rounded,Text,0,0,0,,{=2}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(618.22,126.47)\3c&H867B6D&}休息室
-Dialogue: 0,0:09:47.60,0:09:47.65,Sign_Rounded,Text,0,0,0,,{=2}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(567.41,81.26)\3c&H867B6D&}休息室
-Dialogue: 0,0:09:47.65,0:09:47.69,Sign_Rounded,Text,0,0,0,,{=2}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(518.1,37.39)\3c&H867B6D&}休息室
-Dialogue: 0,0:09:47.69,0:09:47.73,Sign_Rounded,Text,0,0,0,,{=2}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(470.35,-5.11)\3c&H867B6D&}休息室
-Dialogue: 0,0:09:47.73,0:09:47.77,Sign_Rounded,Text,0,0,0,,{=2}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(424.42,-45.93)\3c&H867B6D&}休息室
-Dialogue: 0,0:09:47.77,0:09:47.81,Sign_Rounded,Text,0,0,0,,{=2}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(380.59,-84.95)\3c&H867B6D&}休息室
-Dialogue: 0,0:09:47.81,0:09:47.85,Sign_Rounded,Text,0,0,0,,{=2}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(338.99,-122.03)\3c&H867B6D&}休息室
-Dialogue: 0,0:09:47.85,0:09:47.90,Sign_Rounded,Text,0,0,0,,{=2}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(299.79,-156.82)\3c&H867B6D&}休息室
-Dialogue: 0,0:09:47.90,0:09:47.94,Sign_Rounded,Text,0,0,0,,{=2}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(263.41,-189.16)\3c&H867B6D&}休息室
-Dialogue: 0,0:09:47.94,0:09:47.98,Sign_Rounded,Text,0,0,0,,{=2}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(230.14,-218.87)\3c&H867B6D&}休息室
-Dialogue: 0,0:09:47.98,0:09:48.02,Sign_Rounded,Text,0,0,0,,{=2}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(200.27,-245.41)\3c&H867B6D&}休息室
-Dialogue: 0,0:09:48.02,0:09:48.06,Sign_Rounded,Text,0,0,0,,{=2}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(174.35,-268.6)\3c&H867B6D&}休息室
-Dialogue: 0,0:09:48.06,0:09:48.10,Sign_Rounded,Text,0,0,0,,{=2}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(152.84,-287.79)\3c&H867B6D&}休息室
-Dialogue: 0,0:09:48.10,0:09:48.15,Sign_Rounded,Text,0,0,0,,{=2}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(136.35,-302.45)\3c&H867B6D&}休息室
-Dialogue: 0,0:09:48.15,0:09:48.19,Sign_Rounded,Text,0,0,0,,{=2}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(125.75,-311.87)\3c&H867B6D&}休息室
-Dialogue: 0,0:09:48.19,0:09:48.23,Sign_Rounded,Text,0,0,0,,{=2}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(122,-315.22)\3c&H867B6D&}休息室
-Dialogue: 0,0:09:48.23,0:09:48.27,Sign_Rounded,Text,0,0,0,,{=2}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(122.13,-315.09)\3c&H867B6D&}休息室
-Dialogue: 0,0:09:48.73,0:09:48.77,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(559.33,-7.13)}經紀人
-Dialogue: 0,0:09:48.77,0:09:48.81,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(613.34,38.87)}經紀人
-Dialogue: 0,0:09:48.81,0:09:48.86,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(613.34,38.87)}經紀人
-Dialogue: 0,0:09:48.86,0:09:48.90,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(635.34,70.87)}經紀人
-Dialogue: 0,0:09:48.90,0:09:48.94,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(635.34,70.87)}經紀人
-Dialogue: 0,0:09:48.94,0:09:49.02,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(675.33,108.87)}經紀人
-Dialogue: 0,0:09:49.02,0:09:49.11,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(699.34,144.87)}經紀人
-Dialogue: 0,0:09:49.11,0:09:49.19,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(729.34,178.87)}經紀人
-Dialogue: 0,0:09:49.19,0:09:49.27,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(751.34,214.87)}經紀人
-Dialogue: 0,0:09:49.27,0:09:49.36,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(769.34,256.87)}經紀人
-Dialogue: 0,0:09:49.36,0:09:49.44,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(805.34,296.87)}經紀人
-Dialogue: 0,0:09:49.44,0:09:49.52,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(837.33,334.87)}經紀人
-Dialogue: 0,0:09:49.52,0:09:49.61,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(869.32,370.88)}經紀人
-Dialogue: 0,0:09:49.61,0:09:49.69,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(897.32,398.88)}經紀人
-Dialogue: 0,0:09:49.69,0:09:49.77,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(927.33,444.88)}經紀人
-Dialogue: 0,0:09:49.77,0:09:49.86,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(957.2,476.89)}經紀人
-Dialogue: 0,0:09:49.86,0:09:49.94,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(979.22,516.91)}經紀人
-Dialogue: 0,0:09:49.94,0:09:50.02,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1002.27,553.03)}經紀人
-Dialogue: 0,0:09:50.02,0:09:50.06,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1022.26,583.16)}經紀人
-Dialogue: 0,0:09:50.06,0:09:50.11,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1022.25,583.22)}經紀人
-Dialogue: 0,0:09:50.11,0:09:50.15,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1043.36,612.11)}經紀人
-Dialogue: 0,0:09:50.15,0:09:50.19,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1043.35,612.16)}經紀人
-Dialogue: 0,0:09:50.19,0:09:50.27,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1061.7,636.45)}經紀人
-Dialogue: 0,0:09:50.27,0:09:50.36,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1067.49,646.69)}經紀人
-Dialogue: 0,0:09:50.36,0:09:50.44,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1077.43,658.76)}經紀人
-Dialogue: 0,0:09:50.44,0:09:50.52,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1080.55,662.93)}經紀人
-Dialogue: 0,0:09:50.52,0:09:50.61,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1081.8,664.62)}經紀人
-Dialogue: 0,0:09:50.61,0:09:50.65,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1082.12,665.09)}經紀人
-Dialogue: 0,0:09:50.65,0:09:50.69,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1082.12,665.1)}經紀人
-Dialogue: 0,0:09:50.69,0:09:51.44,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1082.14,665.13)}經紀人
-Dialogue: 0,0:09:51.44,0:09:51.48,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1082.13,665.13)}經紀人
-Dialogue: 0,0:09:51.48,0:09:51.52,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1082.12,665.14)}經紀人
-Dialogue: 0,0:09:51.52,0:09:51.57,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1082.11,665.14)}經紀人
-Dialogue: 0,0:09:51.57,0:09:51.61,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1087,669.51)}經紀人
-Dialogue: 0,0:09:51.61,0:09:51.65,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1101.42,682.51)}經紀人
-Dialogue: 0,0:09:51.65,0:09:51.69,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1125.18,703.76)}經紀人
-Dialogue: 0,0:09:51.69,0:09:51.73,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1157.66,732.89)}經紀人
-Dialogue: 0,0:09:51.73,0:09:51.77,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1198.32,769.26)}經紀人
-Dialogue: 0,0:09:51.77,0:09:51.82,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1246.16,812.13)}經紀人
-Dialogue: 0,0:09:51.82,0:09:51.86,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1300.15,860.59)}經紀人
-Dialogue: 0,0:09:51.86,0:09:51.90,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1359.15,913.49)}經紀人
-Dialogue: 0,0:09:51.90,0:09:51.94,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1421.93,969.71)}經紀人
-Dialogue: 0,0:09:51.94,0:09:51.98,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1487.05,1028)}經紀人
-Dialogue: 0,0:09:51.98,0:09:52.03,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1553.21,1087.35)}經紀人
-Dialogue: 0,0:09:52.03,0:09:52.07,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1619.18,1146.38)}經紀人
-Dialogue: 0,0:09:52.07,0:09:52.11,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1683.71,1204.31)}經紀人
-Comment: 0,0:09:48.69,0:09:51.57,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\move(694.14,69.13,1086,671.333,0,2860)}經紀人
-Comment: 0,0:09:48.94,0:09:48.98,Sign_Rounded,Text,0,0,0,,{=5}{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(694.14,69.13)}經紀人
-Dialogue: 0,0:09:51.82,0:09:51.86,Sign_Rounded,Text,0,0,0,,{=14}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(833.39,-347.66)}榻榻米座位
-Dialogue: 0,0:09:51.86,0:09:51.90,Sign_Rounded,Text,0,0,0,,{=14}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(892.4,-294.78)}榻榻米座位
-Dialogue: 0,0:09:51.90,0:09:51.94,Sign_Rounded,Text,0,0,0,,{=14}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(955.16,-238.56)}榻榻米座位
-Dialogue: 0,0:09:51.94,0:09:51.98,Sign_Rounded,Text,0,0,0,,{=14}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1020.39,-180.28)}榻榻米座位
-Dialogue: 0,0:09:51.98,0:09:52.03,Sign_Rounded,Text,0,0,0,,{=14}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1086.55,-120.9)}榻榻米座位
-Dialogue: 0,0:09:52.03,0:09:52.07,Sign_Rounded,Text,0,0,0,,{=14}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1152.52,-61.85)}榻榻米座位
-Dialogue: 0,0:09:52.07,0:09:52.11,Sign_Rounded,Text,0,0,0,,{=14}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1216.9,-3.94)}榻榻米座位
-Dialogue: 0,0:09:52.11,0:09:52.15,Sign_Rounded,Text,0,0,0,,{=14}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1279,51.58)}榻榻米座位
-Dialogue: 0,0:09:52.15,0:09:52.19,Sign_Rounded,Text,0,0,0,,{=14}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1337.6,104.13)}榻榻米座位
-Dialogue: 0,0:09:52.19,0:09:52.23,Sign_Rounded,Text,0,0,0,,{=14}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1392.08,152.94)}榻榻米座位
-Dialogue: 0,0:09:52.23,0:09:52.28,Sign_Rounded,Text,0,0,0,,{=14}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1441.68,197.44)}榻榻米座位
-Dialogue: 0,0:09:52.28,0:09:52.32,Sign_Rounded,Text,0,0,0,,{=14}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1486.08,237.24)}榻榻米座位
-Dialogue: 0,0:09:52.32,0:09:52.36,Sign_Rounded,Text,0,0,0,,{=14}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1524.83,271.98)}榻榻米座位
-Dialogue: 0,0:09:52.36,0:09:52.40,Sign_Rounded,Text,0,0,0,,{=14}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1557.77,301.44)}榻榻米座位
-Dialogue: 0,0:09:52.40,0:09:52.44,Sign_Rounded,Text,0,0,0,,{=14}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1584.65,325.47)}榻榻米座位
-Dialogue: 0,0:09:52.44,0:09:52.48,Sign_Rounded,Text,0,0,0,,{=14}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1605.5,344.21)}榻榻米座位
-Dialogue: 0,0:09:52.48,0:09:52.53,Sign_Rounded,Text,0,0,0,,{=14}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1620.29,357.47)}榻榻米座位
-Dialogue: 0,0:09:52.53,0:09:52.57,Sign_Rounded,Text,0,0,0,,{=14}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1629.1,365.45)}榻榻米座位
-Dialogue: 0,0:09:52.57,0:09:52.61,Sign_Rounded,Text,0,0,0,,{=14}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1632,368)}榻榻米座位
-Dialogue: 0,0:09:51.82,0:09:51.86,Sign_Rounded,Text,0,0,0,,{=13}{\fscy100\fscx100\pos(-370.76,-241.16)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:51.86,0:09:51.90,Sign_Rounded,Text,0,0,0,,{=13}{\fscy100\fscx100\pos(-311.75,-188.29)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:51.90,0:09:51.94,Sign_Rounded,Text,0,0,0,,{=13}{\fscy100\fscx100\pos(-248.99,-132.06)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:51.94,0:09:51.98,Sign_Rounded,Text,0,0,0,,{=13}{\fscy100\fscx100\pos(-183.76,-73.78)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:51.98,0:09:52.03,Sign_Rounded,Text,0,0,0,,{=13}{\fscy100\fscx100\pos(-117.6,-14.4)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:52.03,0:09:52.07,Sign_Rounded,Text,0,0,0,,{=13}{\fscy100\fscx100\pos(-51.63,44.65)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:52.07,0:09:52.11,Sign_Rounded,Text,0,0,0,,{=13}{\fscy100\fscx100\pos(12.75,102.56)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:52.11,0:09:52.15,Sign_Rounded,Text,0,0,0,,{=13}{\fscy100\fscx100\pos(74.85,158.08)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:52.15,0:09:52.19,Sign_Rounded,Text,0,0,0,,{=13}{\fscy100\fscx100\pos(133.45,210.63)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:52.19,0:09:52.23,Sign_Rounded,Text,0,0,0,,{=13}{\fscy100\fscx100\pos(187.93,259.44)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:52.23,0:09:52.28,Sign_Rounded,Text,0,0,0,,{=13}{\fscy100\fscx100\pos(237.53,303.94)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:52.28,0:09:52.32,Sign_Rounded,Text,0,0,0,,{=13}{\fscy100\fscx100\pos(281.93,343.74)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:52.32,0:09:52.36,Sign_Rounded,Text,0,0,0,,{=13}{\fscy100\fscx100\pos(320.68,378.48)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:52.36,0:09:52.40,Sign_Rounded,Text,0,0,0,,{=13}{\fscy100\fscx100\pos(353.62,407.94)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:52.40,0:09:52.44,Sign_Rounded,Text,0,0,0,,{=13}{\fscy100\fscx100\pos(380.5,431.97)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:52.44,0:09:52.48,Sign_Rounded,Text,0,0,0,,{=13}{\fscy100\fscx100\pos(401.35,450.71)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:52.48,0:09:52.53,Sign_Rounded,Text,0,0,0,,{=13}{\fscy100\fscx100\pos(416.14,463.97)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:52.53,0:09:52.57,Sign_Rounded,Text,0,0,0,,{=13}{\fscy100\fscx100\pos(424.95,471.95)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:52.57,0:09:52.61,Sign_Rounded,Text,0,0,0,,{=13}{\fscy100\fscx100\pos(427.85,474.5)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:09:51.82,0:09:51.86,Sign_Rounded,Text,0,0,0,,{=12}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(349.39,-117.66)\3c&H867B6D&}{\1aFF\3aFF\4aFF}休{\1a00\3a00\4a00}息室
-Dialogue: 0,0:09:51.86,0:09:51.90,Sign_Rounded,Text,0,0,0,,{=12}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(408.4,-64.79)\3c&H867B6D&}{\1aFF\3aFF\4aFF}休{\1a00\3a00\4a00}息室
-Dialogue: 0,0:09:51.90,0:09:51.94,Sign_Rounded,Text,0,0,0,,{=12}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(471.16,-8.56)\3c&H867B6D&}{\1aFF\3aFF\4aFF}休{\1a00\3a00\4a00}息室
-Dialogue: 0,0:09:51.94,0:09:51.98,Sign_Rounded,Text,0,0,0,,{=12}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(536.39,49.72)\3c&H867B6D&}{\1aFF\3aFF\4aFF}休{\1a00\3a00\4a00}息室
-Dialogue: 0,0:09:51.98,0:09:52.03,Sign_Rounded,Text,0,0,0,,{=12}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(602.55,109.1)\3c&H867B6D&}{\1aFF\3aFF\4aFF}休{\1a00\3a00\4a00}息室
-Dialogue: 0,0:09:52.03,0:09:52.07,Sign_Rounded,Text,0,0,0,,{=12}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(668.52,168.15)\3c&H867B6D&}{\1aFF\3aFF\4aFF}休{\1a00\3a00\4a00}息室
-Dialogue: 0,0:09:52.07,0:09:52.11,Sign_Rounded,Text,0,0,0,,{=12}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(732.9,226.06)\3c&H867B6D&}{\1aFF\3aFF\4aFF}休{\1a00\3a00\4a00}息室
-Dialogue: 0,0:09:52.11,0:09:52.15,Sign_Rounded,Text,0,0,0,,{=12}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(795,281.58)\3c&H867B6D&}{\1aFF\3aFF\4aFF}休{\1a00\3a00\4a00}息室
-Dialogue: 0,0:09:52.15,0:09:52.19,Sign_Rounded,Text,0,0,0,,{=12}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(853.6,334.13)\3c&H867B6D&}{\1aFF\3aFF\4aFF}休{\1a00\3a00\4a00}息室
-Dialogue: 0,0:09:52.19,0:09:52.23,Sign_Rounded,Text,0,0,0,,{=12}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(908.08,382.94)\3c&H867B6D&\clip(m 866 343 l 902 413 1023 388 977 288)}休息室
-Dialogue: 0,0:09:52.23,0:09:52.28,Sign_Rounded,Text,0,0,0,,{=12}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(957.68,427.44)\3c&H867B6D&\clip(m 912 378 l 949 458 1050 434 1023 344)}休息室
-Dialogue: 0,0:09:52.28,0:09:52.32,Sign_Rounded,Text,0,0,0,,{=12}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(1002.08,467.24)\3c&H867B6D&\clip(m 955 415 l 992 491 1115 475 1066 382)}休息室
-Dialogue: 0,0:09:52.32,0:09:52.36,Sign_Rounded,Text,0,0,0,,{=12}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(1040.83,501.98)\3c&H867B6D&\clip(m 996 457 l 1028 523 1160 495 1112 422)}休息室
-Dialogue: 0,0:09:52.36,0:09:52.40,Sign_Rounded,Text,0,0,0,,{=12}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(1073.77,531.44)\3c&H867B6D&\clip(m 1030 488 l 1065 559 1185 529 1139 453)}休息室
-Dialogue: 0,0:09:52.40,0:09:52.44,Sign_Rounded,Text,0,0,0,,{=12}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(1100.65,555.47)\3c&H867B6D&\clip(m 1058 518 l 1087 573 1223 544 1178 466)}休息室
-Dialogue: 0,0:09:52.44,0:09:52.48,Sign_Rounded,Text,0,0,0,,{=12}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(1121.5,574.21)\3c&H867B6D&\clip(m 1080 533 l 1112 604 1260 562 1234 490)}休息室
-Dialogue: 0,0:09:52.48,0:09:52.53,Sign_Rounded,Text,0,0,0,,{=12}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(1136.29,587.47)\3c&H867B6D&\clip(m 1092 545 l 1124 611 1292 582 1242 486)}休息室
-Dialogue: 0,0:09:52.53,0:09:52.57,Sign_Rounded,Text,0,0,0,,{=12}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(1145.1,595.45)\3c&H867B6D&\clip(m 1102 555 l 1136 622 1266 591 1203 514)}休息室
-Dialogue: 0,0:09:52.57,0:09:52.61,Sign_Rounded,Text,0,0,0,,{=12}{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(1148,598)\3c&H867B6D&\clip(m 1092 528 l 1137 624 1260 594 1231 496)}休息室
+Dialogue: 0,0:09:47.15,0:09:47.19,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1612,886)}經紀人
+Dialogue: 0,0:09:47.19,0:09:47.23,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1566.18,845.23)}經紀人
+Dialogue: 0,0:09:47.23,0:09:47.27,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1515.01,799.65)}經紀人
+Dialogue: 0,0:09:47.27,0:09:47.31,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1461.37,751.91)}經紀人
+Dialogue: 0,0:09:47.31,0:09:47.35,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1406.54,703.15)}經紀人
+Dialogue: 0,0:09:47.35,0:09:47.40,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1351.34,654)}經紀人
+Dialogue: 0,0:09:47.40,0:09:47.44,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1296.2,604.92)}經紀人
+Dialogue: 0,0:09:47.44,0:09:47.48,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1241.5,556.18)}經紀人
+Dialogue: 0,0:09:47.48,0:09:47.52,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1187.44,508.12)}經紀人
+Dialogue: 0,0:09:47.52,0:09:47.56,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1134.24,460.74)}經紀人
+Dialogue: 0,0:09:47.56,0:09:47.60,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1082.22,414.47)}經紀人
+Dialogue: 0,0:09:47.60,0:09:47.65,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1031.41,369.26)}經紀人
+Dialogue: 0,0:09:47.65,0:09:47.69,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(982.1,325.39)}經紀人
+Dialogue: 0,0:09:47.69,0:09:47.73,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(934.35,282.9)}經紀人
+Dialogue: 0,0:09:47.73,0:09:47.77,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(888.42,242.07)}經紀人
+Dialogue: 0,0:09:47.77,0:09:47.81,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(844.59,203.05)}經紀人
+Dialogue: 0,0:09:47.81,0:09:47.85,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(802.99,165.97)}經紀人
+Dialogue: 0,0:09:47.85,0:09:47.90,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(763.79,131.18)}經紀人
+Dialogue: 0,0:09:47.90,0:09:47.94,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(727.41,98.84)}經紀人
+Dialogue: 0,0:09:47.94,0:09:47.98,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(694.14,69.13)}經紀人
+Dialogue: 0,0:09:47.98,0:09:48.02,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(664.27,42.59)}經紀人
+Dialogue: 0,0:09:48.02,0:09:48.06,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(638.35,19.4)}經紀人
+Dialogue: 0,0:09:48.06,0:09:48.10,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(616.84,0.21)}經紀人
+Dialogue: 0,0:09:48.10,0:09:48.15,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(600.35,-14.45)}經紀人
+Dialogue: 0,0:09:48.15,0:09:48.19,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(589.75,-23.87)}經紀人
+Dialogue: 0,0:09:48.19,0:09:48.23,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(586,-27.22)}經紀人
+Dialogue: 0,0:09:48.23,0:09:48.27,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(586.13,-27.08)}經紀人
+Dialogue: 0,0:09:47.15,0:09:47.19,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1632,368)}榻榻米座位
+Dialogue: 0,0:09:47.19,0:09:47.23,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1586.18,327.23)}榻榻米座位
+Dialogue: 0,0:09:47.23,0:09:47.27,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1535.01,281.65)}榻榻米座位
+Dialogue: 0,0:09:47.27,0:09:47.31,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1481.37,233.91)}榻榻米座位
+Dialogue: 0,0:09:47.31,0:09:47.35,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1426.54,185.15)}榻榻米座位
+Dialogue: 0,0:09:47.35,0:09:47.40,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1371.34,136)}榻榻米座位
+Dialogue: 0,0:09:47.40,0:09:47.44,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1316.2,86.92)}榻榻米座位
+Dialogue: 0,0:09:47.44,0:09:47.48,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1261.5,38.18)}榻榻米座位
+Dialogue: 0,0:09:47.48,0:09:47.52,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1207.44,-9.88)}榻榻米座位
+Dialogue: 0,0:09:47.52,0:09:47.56,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1154.24,-57.26)}榻榻米座位
+Dialogue: 0,0:09:47.56,0:09:47.60,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1102.22,-103.53)}榻榻米座位
+Dialogue: 0,0:09:47.60,0:09:47.65,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1051.41,-148.74)}榻榻米座位
+Dialogue: 0,0:09:47.65,0:09:47.69,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1002.1,-192.61)}榻榻米座位
+Dialogue: 0,0:09:47.69,0:09:47.73,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(954.35,-235.1)}榻榻米座位
+Dialogue: 0,0:09:47.73,0:09:47.77,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(908.42,-275.93)}榻榻米座位
+Dialogue: 0,0:09:47.77,0:09:47.81,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(864.59,-314.95)}榻榻米座位
+Dialogue: 0,0:09:47.81,0:09:47.85,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(822.99,-352.03)}榻榻米座位
+Dialogue: 0,0:09:47.85,0:09:47.90,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(783.79,-386.82)}榻榻米座位
+Dialogue: 0,0:09:47.90,0:09:47.94,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(747.41,-419.16)}榻榻米座位
+Dialogue: 0,0:09:47.94,0:09:47.98,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(714.14,-448.87)}榻榻米座位
+Dialogue: 0,0:09:47.98,0:09:48.02,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(684.27,-475.41)}榻榻米座位
+Dialogue: 0,0:09:48.02,0:09:48.06,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(658.35,-498.6)}榻榻米座位
+Dialogue: 0,0:09:48.06,0:09:48.10,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(636.84,-517.79)}榻榻米座位
+Dialogue: 0,0:09:48.10,0:09:48.15,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(620.35,-532.45)}榻榻米座位
+Dialogue: 0,0:09:48.15,0:09:48.19,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(609.75,-541.87)}榻榻米座位
+Dialogue: 0,0:09:48.19,0:09:48.23,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(606,-545.22)}榻榻米座位
+Dialogue: 0,0:09:48.23,0:09:48.27,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(606.13,-545.08)}榻榻米座位
+Dialogue: 0,0:09:47.15,0:09:47.19,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(427.85,474.5)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:47.19,0:09:47.23,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(382.03,433.73)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:47.23,0:09:47.27,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(330.86,388.15)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:47.27,0:09:47.31,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(277.22,340.41)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:47.31,0:09:47.35,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(222.39,291.65)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:47.35,0:09:47.40,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(167.19,242.5)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:47.40,0:09:47.44,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(112.05,193.42)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:47.44,0:09:47.48,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(57.35,144.68)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:47.48,0:09:47.52,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(3.29,96.62)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:47.52,0:09:47.56,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(-49.91,49.24)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:47.56,0:09:47.60,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(-101.94,2.97)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:47.60,0:09:47.65,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(-152.74,-42.24)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:47.65,0:09:47.69,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(-202.06,-86.11)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:47.69,0:09:47.73,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(-249.8,-128.6)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:47.73,0:09:47.77,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(-295.73,-169.43)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:47.77,0:09:47.81,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(-339.56,-208.45)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:47.81,0:09:47.85,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(-381.17,-245.53)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:47.85,0:09:47.90,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(-420.37,-280.32)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:47.90,0:09:47.94,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(-456.75,-312.66)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:47.94,0:09:47.98,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(-490.01,-342.37)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:47.98,0:09:48.02,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(-519.88,-368.91)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:48.02,0:09:48.06,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(-545.8,-392.1)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:48.06,0:09:48.10,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(-567.31,-411.29)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:48.10,0:09:48.15,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(-583.8,-425.95)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:48.15,0:09:48.19,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(-594.4,-435.37)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:48.19,0:09:48.23,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(-598.15,-438.72)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:48.23,0:09:48.27,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(-598.02,-438.58)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:47.15,0:09:47.19,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(1148,598)\3c&H867B6D&}休息室
+Dialogue: 0,0:09:47.19,0:09:47.23,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(1102.18,557.23)\3c&H867B6D&}休息室
+Dialogue: 0,0:09:47.23,0:09:47.27,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(1051.01,511.65)\3c&H867B6D&}休息室
+Dialogue: 0,0:09:47.27,0:09:47.31,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(997.37,463.91)\3c&H867B6D&}休息室
+Dialogue: 0,0:09:47.31,0:09:47.35,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(942.54,415.15)\3c&H867B6D&}休息室
+Dialogue: 0,0:09:47.35,0:09:47.40,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(887.34,366)\3c&H867B6D&}休息室
+Dialogue: 0,0:09:47.40,0:09:47.44,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(832.2,316.92)\3c&H867B6D&}休息室
+Dialogue: 0,0:09:47.44,0:09:47.48,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(777.5,268.18)\3c&H867B6D&}休息室
+Dialogue: 0,0:09:47.48,0:09:47.52,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(723.44,220.12)\3c&H867B6D&}休息室
+Dialogue: 0,0:09:47.52,0:09:47.56,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(670.24,172.74)\3c&H867B6D&}休息室
+Dialogue: 0,0:09:47.56,0:09:47.60,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(618.22,126.47)\3c&H867B6D&}休息室
+Dialogue: 0,0:09:47.60,0:09:47.65,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(567.41,81.26)\3c&H867B6D&}休息室
+Dialogue: 0,0:09:47.65,0:09:47.69,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(518.1,37.39)\3c&H867B6D&}休息室
+Dialogue: 0,0:09:47.69,0:09:47.73,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(470.35,-5.11)\3c&H867B6D&}休息室
+Dialogue: 0,0:09:47.73,0:09:47.77,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(424.42,-45.93)\3c&H867B6D&}休息室
+Dialogue: 0,0:09:47.77,0:09:47.81,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(380.59,-84.95)\3c&H867B6D&}休息室
+Dialogue: 0,0:09:47.81,0:09:47.85,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(338.99,-122.03)\3c&H867B6D&}休息室
+Dialogue: 0,0:09:47.85,0:09:47.90,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(299.79,-156.82)\3c&H867B6D&}休息室
+Dialogue: 0,0:09:47.90,0:09:47.94,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(263.41,-189.16)\3c&H867B6D&}休息室
+Dialogue: 0,0:09:47.94,0:09:47.98,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(230.14,-218.87)\3c&H867B6D&}休息室
+Dialogue: 0,0:09:47.98,0:09:48.02,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(200.27,-245.41)\3c&H867B6D&}休息室
+Dialogue: 0,0:09:48.02,0:09:48.06,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(174.35,-268.6)\3c&H867B6D&}休息室
+Dialogue: 0,0:09:48.06,0:09:48.10,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(152.84,-287.79)\3c&H867B6D&}休息室
+Dialogue: 0,0:09:48.10,0:09:48.15,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(136.35,-302.45)\3c&H867B6D&}休息室
+Dialogue: 0,0:09:48.15,0:09:48.19,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(125.75,-311.87)\3c&H867B6D&}休息室
+Dialogue: 0,0:09:48.19,0:09:48.23,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(122,-315.22)\3c&H867B6D&}休息室
+Dialogue: 0,0:09:48.23,0:09:48.27,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(122.13,-315.09)\3c&H867B6D&}休息室
+Dialogue: 0,0:09:48.73,0:09:48.77,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(559.33,-7.13)}經紀人
+Dialogue: 0,0:09:48.77,0:09:48.81,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(613.34,38.87)}經紀人
+Dialogue: 0,0:09:48.81,0:09:48.86,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(613.34,38.87)}經紀人
+Dialogue: 0,0:09:48.86,0:09:48.90,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(635.34,70.87)}經紀人
+Dialogue: 0,0:09:48.90,0:09:48.94,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(635.34,70.87)}經紀人
+Dialogue: 0,0:09:48.94,0:09:49.02,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(675.33,108.87)}經紀人
+Dialogue: 0,0:09:49.02,0:09:49.11,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(699.34,144.87)}經紀人
+Dialogue: 0,0:09:49.11,0:09:49.19,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(729.34,178.87)}經紀人
+Dialogue: 0,0:09:49.19,0:09:49.27,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(751.34,214.87)}經紀人
+Dialogue: 0,0:09:49.27,0:09:49.36,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(769.34,256.87)}經紀人
+Dialogue: 0,0:09:49.36,0:09:49.44,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(805.34,296.87)}經紀人
+Dialogue: 0,0:09:49.44,0:09:49.52,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(837.33,334.87)}經紀人
+Dialogue: 0,0:09:49.52,0:09:49.61,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(869.32,370.88)}經紀人
+Dialogue: 0,0:09:49.61,0:09:49.69,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(897.32,398.88)}經紀人
+Dialogue: 0,0:09:49.69,0:09:49.77,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(927.33,444.88)}經紀人
+Dialogue: 0,0:09:49.77,0:09:49.86,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(957.2,476.89)}經紀人
+Dialogue: 0,0:09:49.86,0:09:49.94,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(979.22,516.91)}經紀人
+Dialogue: 0,0:09:49.94,0:09:50.02,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1002.27,553.03)}經紀人
+Dialogue: 0,0:09:50.02,0:09:50.06,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1022.26,583.16)}經紀人
+Dialogue: 0,0:09:50.06,0:09:50.11,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1022.25,583.22)}經紀人
+Dialogue: 0,0:09:50.11,0:09:50.15,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1043.36,612.11)}經紀人
+Dialogue: 0,0:09:50.15,0:09:50.19,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1043.35,612.16)}經紀人
+Dialogue: 0,0:09:50.19,0:09:50.27,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1061.7,636.45)}經紀人
+Dialogue: 0,0:09:50.27,0:09:50.36,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1067.49,646.69)}經紀人
+Dialogue: 0,0:09:50.36,0:09:50.44,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1077.43,658.76)}經紀人
+Dialogue: 0,0:09:50.44,0:09:50.52,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1080.55,662.93)}經紀人
+Dialogue: 0,0:09:50.52,0:09:50.61,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1081.8,664.62)}經紀人
+Dialogue: 0,0:09:50.61,0:09:50.65,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1082.12,665.09)}經紀人
+Dialogue: 0,0:09:50.65,0:09:50.69,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1082.12,665.1)}經紀人
+Dialogue: 0,0:09:50.69,0:09:51.44,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1082.14,665.13)}經紀人
+Dialogue: 0,0:09:51.44,0:09:51.48,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1082.13,665.13)}經紀人
+Dialogue: 0,0:09:51.48,0:09:51.52,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1082.12,665.14)}經紀人
+Dialogue: 0,0:09:51.52,0:09:51.57,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1082.11,665.14)}經紀人
+Dialogue: 0,0:09:51.57,0:09:51.61,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1087,669.51)}經紀人
+Dialogue: 0,0:09:51.61,0:09:51.65,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1101.42,682.51)}經紀人
+Dialogue: 0,0:09:51.65,0:09:51.69,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1125.18,703.76)}經紀人
+Dialogue: 0,0:09:51.69,0:09:51.73,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1157.66,732.89)}經紀人
+Dialogue: 0,0:09:51.73,0:09:51.77,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1198.32,769.26)}經紀人
+Dialogue: 0,0:09:51.77,0:09:51.82,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1246.16,812.13)}經紀人
+Dialogue: 0,0:09:51.82,0:09:51.86,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1300.15,860.59)}經紀人
+Dialogue: 0,0:09:51.86,0:09:51.90,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1359.15,913.49)}經紀人
+Dialogue: 0,0:09:51.90,0:09:51.94,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1421.93,969.71)}經紀人
+Dialogue: 0,0:09:51.94,0:09:51.98,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1487.05,1028)}經紀人
+Dialogue: 0,0:09:51.98,0:09:52.03,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1553.21,1087.35)}經紀人
+Dialogue: 0,0:09:52.03,0:09:52.07,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1619.18,1146.38)}經紀人
+Dialogue: 0,0:09:52.07,0:09:52.11,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(1683.71,1204.31)}經紀人
+Comment: 0,0:09:48.69,0:09:51.57,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\move(694.14,69.13,1086,671.333,0,2860)}經紀人
+Comment: 0,0:09:48.94,0:09:48.98,Sign_Rounded,Text,0,0,0,,{\fscy100\bord3\fscx100\b1\fs60\c&H448475&\frz26.61\frx30\fry15\pos(694.14,69.13)}經紀人
+Dialogue: 0,0:09:51.82,0:09:51.86,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(833.39,-347.66)}榻榻米座位
+Dialogue: 0,0:09:51.86,0:09:51.90,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(892.4,-294.78)}榻榻米座位
+Dialogue: 0,0:09:51.90,0:09:51.94,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(955.16,-238.56)}榻榻米座位
+Dialogue: 0,0:09:51.94,0:09:51.98,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1020.39,-180.28)}榻榻米座位
+Dialogue: 0,0:09:51.98,0:09:52.03,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1086.55,-120.9)}榻榻米座位
+Dialogue: 0,0:09:52.03,0:09:52.07,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1152.52,-61.85)}榻榻米座位
+Dialogue: 0,0:09:52.07,0:09:52.11,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1216.9,-3.94)}榻榻米座位
+Dialogue: 0,0:09:52.11,0:09:52.15,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1279,51.58)}榻榻米座位
+Dialogue: 0,0:09:52.15,0:09:52.19,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1337.6,104.13)}榻榻米座位
+Dialogue: 0,0:09:52.19,0:09:52.23,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1392.08,152.94)}榻榻米座位
+Dialogue: 0,0:09:52.23,0:09:52.28,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1441.68,197.44)}榻榻米座位
+Dialogue: 0,0:09:52.28,0:09:52.32,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1486.08,237.24)}榻榻米座位
+Dialogue: 0,0:09:52.32,0:09:52.36,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1524.83,271.98)}榻榻米座位
+Dialogue: 0,0:09:52.36,0:09:52.40,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1557.77,301.44)}榻榻米座位
+Dialogue: 0,0:09:52.40,0:09:52.44,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1584.65,325.47)}榻榻米座位
+Dialogue: 0,0:09:52.44,0:09:52.48,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1605.5,344.21)}榻榻米座位
+Dialogue: 0,0:09:52.48,0:09:52.53,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1620.29,357.47)}榻榻米座位
+Dialogue: 0,0:09:52.53,0:09:52.57,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1629.1,365.45)}榻榻米座位
+Dialogue: 0,0:09:52.57,0:09:52.61,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1632,368)}榻榻米座位
+Dialogue: 0,0:09:51.82,0:09:51.86,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(-370.76,-241.16)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:51.86,0:09:51.90,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(-311.75,-188.29)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:51.90,0:09:51.94,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(-248.99,-132.06)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:51.94,0:09:51.98,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(-183.76,-73.78)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:51.98,0:09:52.03,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(-117.6,-14.4)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:52.03,0:09:52.07,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(-51.63,44.65)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:52.07,0:09:52.11,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(12.75,102.56)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:52.11,0:09:52.15,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(74.85,158.08)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:52.15,0:09:52.19,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(133.45,210.63)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:52.19,0:09:52.23,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(187.93,259.44)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:52.23,0:09:52.28,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(237.53,303.94)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:52.28,0:09:52.32,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(281.93,343.74)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:52.32,0:09:52.36,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(320.68,378.48)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:52.36,0:09:52.40,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(353.62,407.94)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:52.40,0:09:52.44,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(380.5,431.97)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:52.44,0:09:52.48,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(401.35,450.71)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:52.48,0:09:52.53,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(416.14,463.97)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:52.53,0:09:52.57,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(424.95,471.95)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:52.57,0:09:52.61,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\pos(427.85,474.5)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
+Dialogue: 0,0:09:51.82,0:09:51.86,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(349.39,-117.66)\3c&H867B6D&}{\1aFF\3aFF\4aFF}休{\1a00\3a00\4a00}息室
+Dialogue: 0,0:09:51.86,0:09:51.90,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(408.4,-64.79)\3c&H867B6D&}{\1aFF\3aFF\4aFF}休{\1a00\3a00\4a00}息室
+Dialogue: 0,0:09:51.90,0:09:51.94,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(471.16,-8.56)\3c&H867B6D&}{\1aFF\3aFF\4aFF}休{\1a00\3a00\4a00}息室
+Dialogue: 0,0:09:51.94,0:09:51.98,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(536.39,49.72)\3c&H867B6D&}{\1aFF\3aFF\4aFF}休{\1a00\3a00\4a00}息室
+Dialogue: 0,0:09:51.98,0:09:52.03,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(602.55,109.1)\3c&H867B6D&}{\1aFF\3aFF\4aFF}休{\1a00\3a00\4a00}息室
+Dialogue: 0,0:09:52.03,0:09:52.07,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(668.52,168.15)\3c&H867B6D&}{\1aFF\3aFF\4aFF}休{\1a00\3a00\4a00}息室
+Dialogue: 0,0:09:52.07,0:09:52.11,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(732.9,226.06)\3c&H867B6D&}{\1aFF\3aFF\4aFF}休{\1a00\3a00\4a00}息室
+Dialogue: 0,0:09:52.11,0:09:52.15,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(795,281.58)\3c&H867B6D&}{\1aFF\3aFF\4aFF}休{\1a00\3a00\4a00}息室
+Dialogue: 0,0:09:52.15,0:09:52.19,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(853.6,334.13)\3c&H867B6D&}{\1aFF\3aFF\4aFF}休{\1a00\3a00\4a00}息室
+Dialogue: 0,0:09:52.19,0:09:52.23,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(908.08,382.94)\3c&H867B6D&\clip(m 866 343 l 902 413 1023 388 977 288)}休息室
+Dialogue: 0,0:09:52.23,0:09:52.28,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(957.68,427.44)\3c&H867B6D&\clip(m 912 378 l 949 458 1050 434 1023 344)}休息室
+Dialogue: 0,0:09:52.28,0:09:52.32,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(1002.08,467.24)\3c&H867B6D&\clip(m 955 415 l 992 491 1115 475 1066 382)}休息室
+Dialogue: 0,0:09:52.32,0:09:52.36,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(1040.83,501.98)\3c&H867B6D&\clip(m 996 457 l 1028 523 1160 495 1112 422)}休息室
+Dialogue: 0,0:09:52.36,0:09:52.40,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(1073.77,531.44)\3c&H867B6D&\clip(m 1030 488 l 1065 559 1185 529 1139 453)}休息室
+Dialogue: 0,0:09:52.40,0:09:52.44,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(1100.65,555.47)\3c&H867B6D&\clip(m 1058 518 l 1087 573 1223 544 1178 466)}休息室
+Dialogue: 0,0:09:52.44,0:09:52.48,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(1121.5,574.21)\3c&H867B6D&\clip(m 1080 533 l 1112 604 1260 562 1234 490)}休息室
+Dialogue: 0,0:09:52.48,0:09:52.53,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(1136.29,587.47)\3c&H867B6D&\clip(m 1092 545 l 1124 611 1292 582 1242 486)}休息室
+Dialogue: 0,0:09:52.53,0:09:52.57,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(1145.1,595.45)\3c&H867B6D&\clip(m 1102 555 l 1136 622 1266 591 1203 514)}休息室
+Dialogue: 0,0:09:52.57,0:09:52.61,Sign_Rounded,Text,0,0,0,,{\fscy100\fscx100\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\pos(1148,598)\3c&H867B6D&\clip(m 1092 528 l 1137 624 1260 594 1231 496)}休息室
 Dialogue: 0,0:09:52.61,0:09:52.69,Sign_Rounded,Text,0,0,0,,{\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1632,368)}榻榻米座位
 Dialogue: 0,0:09:52.69,0:09:52.78,Sign_Rounded,Text,0,0,0,,{\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1632,368)\clip(m 1520 346 l 1615 335 1636 409 1519 422)}榻榻米座位
 Dialogue: 0,0:09:52.78,0:09:52.86,Sign_Rounded,Text,0,0,0,,{\frx30\fry10\fax0.25\bord2\c&H444341&\fs40\b1\frz21\3c&H867B6D&\pos(1632,368)\clip(m 1606 322 l 1802 283 1794 437 1628 436)}榻榻米座位
@@ -1017,237 +1034,237 @@ Dialogue: 0,0:09:53.86,0:09:56.20,Sign_Rounded,Text,0,0,0,,{\frx30\fry10\fax0.25
 Dialogue: 0,0:09:53.94,0:09:54.03,Sign_Rounded,Text,0,0,0,,{\pos(427.849,474.5)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5\clip(m 398 395 l 411 453 440 512 535 484 485 371)}桌椅座位
 Dialogue: 0,0:09:54.03,0:09:54.11,Sign_Rounded,Text,0,0,0,,{\pos(427.849,474.5)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5\clip(m 396 362 l 411 410 420 432 433 459 426 462 413 467 403 474 394 483 392 487 384 446)}桌椅座位
 Dialogue: 0,0:09:54.11,0:09:56.20,Sign_Rounded,Text,0,0,0,,{\pos(427.849,474.5)\frx30\fry10\fax0.25\bord0\c&H444341&\fs40\b1\frz19.5}桌椅座位
-Dialogue: 0,0:13:31.58,0:13:31.62,Sign_Kanteiryu,,0,0,0,,{=17}{\fscy100\bord4\fscx100\c&H25262B&\3c&H020814&\3a&HFF&\pos(956,706)}蕎 麥
-Dialogue: 0,0:13:31.62,0:13:31.66,Sign_Kanteiryu,,0,0,0,,{=17}{\fscy97.59\bord3.9\fscx97.59\c&H25262B&\3c&H020814&\3a&HFF&\pos(956.49,687.3)}蕎 麥
-Dialogue: 0,0:13:31.66,0:13:31.70,Sign_Kanteiryu,,0,0,0,,{=17}{\fscy95.25\bord3.81\fscx95.25\c&H25262B&\3c&H020814&\3a&HFF&\pos(956.98,669.47)}蕎 麥
-Dialogue: 0,0:13:31.70,0:13:31.74,Sign_Kanteiryu,,0,0,0,,{=17}{\fscy93.03\bord3.72\fscx93.03\c&H25262B&\3c&H020814&\3a&HFF&\pos(957.44,652.46)}蕎 麥
-Dialogue: 0,0:13:31.74,0:13:31.79,Sign_Kanteiryu,,0,0,0,,{=17}{\fscy90.94\bord3.64\fscx90.94\c&H25262B&\3c&H020814&\3a&HFF&\pos(957.86,636.19)}蕎 麥
-Dialogue: 0,0:13:31.79,0:13:31.83,Sign_Kanteiryu,,0,0,0,,{=17}{\fscy88.9\bord3.56\fscx88.9\c&H25262B&\3c&H020814&\3a&HFF&\pos(958.28,620.67)}蕎 麥
-Dialogue: 0,0:13:31.83,0:13:31.87,Sign_Kanteiryu,,0,0,0,,{=17}{\fscy86.98\bord3.48\fscx86.98\c&H25262B&\3c&H020814&\3a&HFF&\pos(958.68,605.77)}蕎 麥
-Dialogue: 0,0:13:31.87,0:13:31.91,Sign_Kanteiryu,,0,0,0,,{=17}{\fscy85.13\bord3.41\fscx85.13\c&H25262B&\3c&H020814&\3a&HFF&\pos(959.07,591.52)}蕎 麥
-Dialogue: 0,0:13:31.91,0:13:31.95,Sign_Kanteiryu,,0,0,0,,{=17}{\fscy83.35\bord3.33\fscx83.35\c&H25262B&\3c&H020814&\3a&HFF&\pos(959.43,577.88)}蕎 麥
-Dialogue: 0,0:13:31.95,0:13:32.00,Sign_Kanteiryu,,0,0,0,,{=17}{\fscy81.66\bord3.27\fscx81.66\c&H25262B&\3c&H020814&\3a&HFF&\pos(959.78,564.81)}蕎 麥
-Dialogue: 0,0:13:32.00,0:13:32.04,Sign_Kanteiryu,,0,0,0,,{=17}{\fscy80.02\bord3.2\fscx80.02\c&H25262B&\3c&H020814&\3a&HFF&\pos(960.12,552.29)}蕎 麥
-Dialogue: 0,0:13:32.04,0:13:32.08,Sign_Kanteiryu,,0,0,0,,{=17}{\fscy78.46\bord3.14\fscx78.46\c&H25262B&\3c&H020814&\3a&HFF&\pos(960.44,540.25)}蕎 麥
-Dialogue: 0,0:13:32.08,0:13:32.12,Sign_Kanteiryu,,0,0,0,,{=17}{\fscy76.94\bord3.08\fscx76.94\c&H25262B&\3c&H020814&\3a&HFF&\pos(960.74,528.74)}蕎 麥
-Dialogue: 0,0:13:32.12,0:13:32.16,Sign_Kanteiryu,,0,0,0,,{=17}{\fscy75.53\bord3.02\fscx75.53\c&H25262B&\3c&H020814&\3a&HFF&\pos(961.03,517.7)}蕎 麥
-Dialogue: 0,0:13:32.16,0:13:32.20,Sign_Kanteiryu,,0,0,0,,{=17}{\fscy74.17\bord2.97\fscx74.17\c&H25262B&\3c&H020814&\3a&HFF&\pos(961.32,507.12)}蕎 麥
-Dialogue: 0,0:13:32.20,0:13:32.25,Sign_Kanteiryu,,0,0,0,,{=17}{\fscy72.84\bord2.91\fscx72.84\c&H25262B&\3c&H020814&\3a&HFF&\pos(961.6,497.02)}蕎 麥
-Dialogue: 0,0:13:32.25,0:13:32.29,Sign_Kanteiryu,,0,0,0,,{=17}{\fscy71.59\bord2.86\fscx71.59\c&H25262B&\3c&H020814&\3a&HFF&\pos(961.86,487.36)}蕎 麥
-Dialogue: 0,0:13:32.29,0:13:32.33,Sign_Kanteiryu,,0,0,0,,{=17}{\fscy70.41\bord2.82\fscx70.41\c&H25262B&\3c&H020814&\3a&HFF&\pos(962.09,478.16)}蕎 麥
-Dialogue: 0,0:13:32.33,0:13:32.37,Sign_Kanteiryu,,0,0,0,,{=17}{\fscy69.27\bord2.77\fscx69.27\c&H25262B&\3c&H020814&\3a&HFF&\pos(962.33,469.45)}蕎 麥
-Dialogue: 0,0:13:32.37,0:13:32.41,Sign_Kanteiryu,,0,0,0,,{=17}{\fscy68.18\bord2.73\fscx68.18\c&H25262B&\3c&H020814&\3a&HFF&\pos(962.55,461.25)}蕎 麥
-Dialogue: 0,0:13:32.41,0:13:32.45,Sign_Kanteiryu,,0,0,0,,{=17}{\fscy67.19\bord2.69\fscx67.19\c&H25262B&\3c&H020814&\3a&HFF&\pos(962.76,453.57)}蕎 麥
-Dialogue: 0,0:13:32.45,0:13:32.50,Sign_Kanteiryu,,0,0,0,,{=17}{\fscy66.3\bord2.65\fscx66.3\c&H25262B&\3c&H020814&\3a&HFF&\pos(962.94,446.46)}蕎 麥
-Dialogue: 0,0:13:32.50,0:13:32.54,Sign_Kanteiryu,,0,0,0,,{=17}{\fscy65.44\bord2.62\fscx65.44\c&H25262B&\3c&H020814&\3a&HFF&\pos(963.12,440.05)}蕎 麥
-Dialogue: 0,0:13:32.54,0:13:32.58,Sign_Kanteiryu,,0,0,0,,{=17}{\fscy64.7\bord2.59\fscx64.7\c&H25262B&\3c&H020814&\3a&HFF&\pos(963.27,434.38)}蕎 麥
-Dialogue: 0,0:13:32.58,0:13:32.62,Sign_Kanteiryu,,0,0,0,,{=17}{\fscy64.08\bord2.56\fscx64.08\c&H25262B&\3c&H020814&\3a&HFF&\pos(963.4,429.55)}蕎 麥
-Dialogue: 0,0:13:32.62,0:13:32.66,Sign_Kanteiryu,,0,0,0,,{=17}{\fscy63.57\bord2.54\fscx63.57\c&H25262B&\3c&H020814&\3a&HFF&\pos(963.52,425.66)}蕎 麥
-Dialogue: 0,0:13:32.66,0:13:32.70,Sign_Kanteiryu,,0,0,0,,{=17}{\fscy63.2\bord2.53\fscx63.2\c&H25262B&\3c&H020814&\3a&HFF&\pos(963.59,422.8)}蕎 麥
-Dialogue: 0,0:13:32.70,0:13:32.75,Sign_Kanteiryu,,0,0,0,,{=17}{\fscy62.98\bord2.52\fscx62.98\c&H25262B&\3c&H020814&\3a&HFF&\pos(963.63,420.89)}蕎 麥
-Dialogue: 0,0:13:32.75,0:13:32.79,Sign_Kanteiryu,,0,0,0,,{=17}{\fscy62.82\bord2.51\fscx62.82\c&H25262B&\3c&H020814&\3a&HFF&\pos(963.65,419.92)}蕎 麥
-Dialogue: 0,0:13:32.79,0:13:32.83,Sign_Kanteiryu,,0,0,0,,{=17}{\fscy62.82\bord2.51\fscx62.82\c&H25262B&\3c&H020814&\3a&HFF&\pos(963.66,419.65)}蕎 麥
-Dialogue: 0,0:13:32.12,0:13:32.16,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy124.12\fscx124.12\bord6.21\c&HE5E5E5&\3c&H19101A&\fs60\pos(955.71,1349.9)}蕎麥麵喪屍
-Dialogue: 0,0:13:32.16,0:13:32.20,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy118.38\fscx118.38\bord5.92\c&HE5E5E5&\3c&H19101A&\fs60\pos(957.19,1292.63)}蕎麥麵喪屍
-Dialogue: 0,0:13:32.20,0:13:32.25,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy116.09\fscx116.09\bord5.8\c&HE5E5E5&\3c&H19101A&\fs60\pos(957.38,1259.09)}蕎麥麵喪屍
-Dialogue: 0,0:13:32.25,0:13:32.29,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy114.01\fscx114.01\bord5.7\c&HE5E5E5&\3c&H19101A&\fs60\pos(957.67,1228.15)}蕎麥麵喪屍
-Dialogue: 0,0:13:32.29,0:13:32.33,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy112.09\fscx112.09\bord5.6\c&HE5E5E5&\3c&H19101A&\fs60\pos(957.98,1199.64)}蕎麥麵喪屍
-Dialogue: 0,0:13:32.33,0:13:32.37,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy110.28\fscx110.28\bord5.51\c&HE5E5E5&\3c&H19101A&\fs60\pos(958.29,1173.45)}蕎麥麵喪屍
-Dialogue: 0,0:13:32.37,0:13:32.41,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy108.58\fscx108.58\bord5.43\c&HE5E5E5&\3c&H19101A&\fs60\pos(958.57,1149.64)}蕎麥麵喪屍
-Dialogue: 0,0:13:32.41,0:13:32.45,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy106.99\fscx106.99\bord5.35\c&HE5E5E5&\3c&H19101A&\fs60\pos(958.82,1128.08)}蕎麥麵喪屍
-Dialogue: 0,0:13:32.45,0:13:32.50,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy105.52\fscx105.52\bord5.28\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.06,1108.77)}蕎麥麵喪屍
-Dialogue: 0,0:13:32.50,0:13:32.54,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy104.2\fscx104.2\bord5.21\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.29,1091.75)}蕎麥麵喪屍
-Dialogue: 0,0:13:32.54,0:13:32.58,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy103.03\fscx103.03\bord5.15\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.48,1077.04)}蕎麥麵喪屍
-Dialogue: 0,0:13:32.58,0:13:32.62,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy102.02\fscx102.02\bord5.1\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.64,1064.74)}蕎麥麵喪屍
-Dialogue: 0,0:13:32.62,0:13:32.66,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy101.2\fscx101.2\bord5.06\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.78,1054.97)}蕎麥麵喪屍
-Dialogue: 0,0:13:32.66,0:13:32.70,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy100.62\fscx100.62\bord5.03\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.87,1047.84)}蕎麥麵喪屍
-Dialogue: 0,0:13:32.70,0:13:32.75,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy100.24\fscx100.24\bord5.01\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.95,1043.17)}蕎麥麵喪屍
-Dialogue: 0,0:13:32.75,0:13:32.79,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy100.03\fscx100.03\bord5\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.99,1040.68)}蕎麥麵喪屍
-Dialogue: 0,0:13:32.79,0:13:32.83,Sign_Others,Text,0,0,0,,{=2}{\fn汉仪雅酷黑 95W}{\fscy100\fscx100\bord5\c&HE5E5E5&\3c&H19101A&\fs60\pos(960,1040)}蕎麥麵喪屍
+Dialogue: 0,0:13:31.58,0:13:31.62,Sign_Kanteiryu,,0,0,0,,{\fscy100\bord4\fscx100\c&H25262B&\3c&H020814&\3a&HFF&\pos(956,706)}蕎 麥
+Dialogue: 0,0:13:31.62,0:13:31.66,Sign_Kanteiryu,,0,0,0,,{\fscy97.59\bord3.9\fscx97.59\c&H25262B&\3c&H020814&\3a&HFF&\pos(956.49,687.3)}蕎 麥
+Dialogue: 0,0:13:31.66,0:13:31.70,Sign_Kanteiryu,,0,0,0,,{\fscy95.25\bord3.81\fscx95.25\c&H25262B&\3c&H020814&\3a&HFF&\pos(956.98,669.47)}蕎 麥
+Dialogue: 0,0:13:31.70,0:13:31.74,Sign_Kanteiryu,,0,0,0,,{\fscy93.03\bord3.72\fscx93.03\c&H25262B&\3c&H020814&\3a&HFF&\pos(957.44,652.46)}蕎 麥
+Dialogue: 0,0:13:31.74,0:13:31.79,Sign_Kanteiryu,,0,0,0,,{\fscy90.94\bord3.64\fscx90.94\c&H25262B&\3c&H020814&\3a&HFF&\pos(957.86,636.19)}蕎 麥
+Dialogue: 0,0:13:31.79,0:13:31.83,Sign_Kanteiryu,,0,0,0,,{\fscy88.9\bord3.56\fscx88.9\c&H25262B&\3c&H020814&\3a&HFF&\pos(958.28,620.67)}蕎 麥
+Dialogue: 0,0:13:31.83,0:13:31.87,Sign_Kanteiryu,,0,0,0,,{\fscy86.98\bord3.48\fscx86.98\c&H25262B&\3c&H020814&\3a&HFF&\pos(958.68,605.77)}蕎 麥
+Dialogue: 0,0:13:31.87,0:13:31.91,Sign_Kanteiryu,,0,0,0,,{\fscy85.13\bord3.41\fscx85.13\c&H25262B&\3c&H020814&\3a&HFF&\pos(959.07,591.52)}蕎 麥
+Dialogue: 0,0:13:31.91,0:13:31.95,Sign_Kanteiryu,,0,0,0,,{\fscy83.35\bord3.33\fscx83.35\c&H25262B&\3c&H020814&\3a&HFF&\pos(959.43,577.88)}蕎 麥
+Dialogue: 0,0:13:31.95,0:13:32.00,Sign_Kanteiryu,,0,0,0,,{\fscy81.66\bord3.27\fscx81.66\c&H25262B&\3c&H020814&\3a&HFF&\pos(959.78,564.81)}蕎 麥
+Dialogue: 0,0:13:32.00,0:13:32.04,Sign_Kanteiryu,,0,0,0,,{\fscy80.02\bord3.2\fscx80.02\c&H25262B&\3c&H020814&\3a&HFF&\pos(960.12,552.29)}蕎 麥
+Dialogue: 0,0:13:32.04,0:13:32.08,Sign_Kanteiryu,,0,0,0,,{\fscy78.46\bord3.14\fscx78.46\c&H25262B&\3c&H020814&\3a&HFF&\pos(960.44,540.25)}蕎 麥
+Dialogue: 0,0:13:32.08,0:13:32.12,Sign_Kanteiryu,,0,0,0,,{\fscy76.94\bord3.08\fscx76.94\c&H25262B&\3c&H020814&\3a&HFF&\pos(960.74,528.74)}蕎 麥
+Dialogue: 0,0:13:32.12,0:13:32.16,Sign_Kanteiryu,,0,0,0,,{\fscy75.53\bord3.02\fscx75.53\c&H25262B&\3c&H020814&\3a&HFF&\pos(961.03,517.7)}蕎 麥
+Dialogue: 0,0:13:32.16,0:13:32.20,Sign_Kanteiryu,,0,0,0,,{\fscy74.17\bord2.97\fscx74.17\c&H25262B&\3c&H020814&\3a&HFF&\pos(961.32,507.12)}蕎 麥
+Dialogue: 0,0:13:32.20,0:13:32.25,Sign_Kanteiryu,,0,0,0,,{\fscy72.84\bord2.91\fscx72.84\c&H25262B&\3c&H020814&\3a&HFF&\pos(961.6,497.02)}蕎 麥
+Dialogue: 0,0:13:32.25,0:13:32.29,Sign_Kanteiryu,,0,0,0,,{\fscy71.59\bord2.86\fscx71.59\c&H25262B&\3c&H020814&\3a&HFF&\pos(961.86,487.36)}蕎 麥
+Dialogue: 0,0:13:32.29,0:13:32.33,Sign_Kanteiryu,,0,0,0,,{\fscy70.41\bord2.82\fscx70.41\c&H25262B&\3c&H020814&\3a&HFF&\pos(962.09,478.16)}蕎 麥
+Dialogue: 0,0:13:32.33,0:13:32.37,Sign_Kanteiryu,,0,0,0,,{\fscy69.27\bord2.77\fscx69.27\c&H25262B&\3c&H020814&\3a&HFF&\pos(962.33,469.45)}蕎 麥
+Dialogue: 0,0:13:32.37,0:13:32.41,Sign_Kanteiryu,,0,0,0,,{\fscy68.18\bord2.73\fscx68.18\c&H25262B&\3c&H020814&\3a&HFF&\pos(962.55,461.25)}蕎 麥
+Dialogue: 0,0:13:32.41,0:13:32.45,Sign_Kanteiryu,,0,0,0,,{\fscy67.19\bord2.69\fscx67.19\c&H25262B&\3c&H020814&\3a&HFF&\pos(962.76,453.57)}蕎 麥
+Dialogue: 0,0:13:32.45,0:13:32.50,Sign_Kanteiryu,,0,0,0,,{\fscy66.3\bord2.65\fscx66.3\c&H25262B&\3c&H020814&\3a&HFF&\pos(962.94,446.46)}蕎 麥
+Dialogue: 0,0:13:32.50,0:13:32.54,Sign_Kanteiryu,,0,0,0,,{\fscy65.44\bord2.62\fscx65.44\c&H25262B&\3c&H020814&\3a&HFF&\pos(963.12,440.05)}蕎 麥
+Dialogue: 0,0:13:32.54,0:13:32.58,Sign_Kanteiryu,,0,0,0,,{\fscy64.7\bord2.59\fscx64.7\c&H25262B&\3c&H020814&\3a&HFF&\pos(963.27,434.38)}蕎 麥
+Dialogue: 0,0:13:32.58,0:13:32.62,Sign_Kanteiryu,,0,0,0,,{\fscy64.08\bord2.56\fscx64.08\c&H25262B&\3c&H020814&\3a&HFF&\pos(963.4,429.55)}蕎 麥
+Dialogue: 0,0:13:32.62,0:13:32.66,Sign_Kanteiryu,,0,0,0,,{\fscy63.57\bord2.54\fscx63.57\c&H25262B&\3c&H020814&\3a&HFF&\pos(963.52,425.66)}蕎 麥
+Dialogue: 0,0:13:32.66,0:13:32.70,Sign_Kanteiryu,,0,0,0,,{\fscy63.2\bord2.53\fscx63.2\c&H25262B&\3c&H020814&\3a&HFF&\pos(963.59,422.8)}蕎 麥
+Dialogue: 0,0:13:32.70,0:13:32.75,Sign_Kanteiryu,,0,0,0,,{\fscy62.98\bord2.52\fscx62.98\c&H25262B&\3c&H020814&\3a&HFF&\pos(963.63,420.89)}蕎 麥
+Dialogue: 0,0:13:32.75,0:13:32.79,Sign_Kanteiryu,,0,0,0,,{\fscy62.82\bord2.51\fscx62.82\c&H25262B&\3c&H020814&\3a&HFF&\pos(963.65,419.92)}蕎 麥
+Dialogue: 0,0:13:32.79,0:13:32.83,Sign_Kanteiryu,,0,0,0,,{\fscy62.82\bord2.51\fscx62.82\c&H25262B&\3c&H020814&\3a&HFF&\pos(963.66,419.65)}蕎 麥
+Dialogue: 0,0:13:32.12,0:13:32.16,Sign_Others,Text,0,0,0,,{\fn汉仪雅酷黑 95W}{\fscy124.12\fscx124.12\bord6.21\c&HE5E5E5&\3c&H19101A&\fs60\pos(955.71,1349.9)}蕎麥麵喪屍
+Dialogue: 0,0:13:32.16,0:13:32.20,Sign_Others,Text,0,0,0,,{\fn汉仪雅酷黑 95W}{\fscy118.38\fscx118.38\bord5.92\c&HE5E5E5&\3c&H19101A&\fs60\pos(957.19,1292.63)}蕎麥麵喪屍
+Dialogue: 0,0:13:32.20,0:13:32.25,Sign_Others,Text,0,0,0,,{\fn汉仪雅酷黑 95W}{\fscy116.09\fscx116.09\bord5.8\c&HE5E5E5&\3c&H19101A&\fs60\pos(957.38,1259.09)}蕎麥麵喪屍
+Dialogue: 0,0:13:32.25,0:13:32.29,Sign_Others,Text,0,0,0,,{\fn汉仪雅酷黑 95W}{\fscy114.01\fscx114.01\bord5.7\c&HE5E5E5&\3c&H19101A&\fs60\pos(957.67,1228.15)}蕎麥麵喪屍
+Dialogue: 0,0:13:32.29,0:13:32.33,Sign_Others,Text,0,0,0,,{\fn汉仪雅酷黑 95W}{\fscy112.09\fscx112.09\bord5.6\c&HE5E5E5&\3c&H19101A&\fs60\pos(957.98,1199.64)}蕎麥麵喪屍
+Dialogue: 0,0:13:32.33,0:13:32.37,Sign_Others,Text,0,0,0,,{\fn汉仪雅酷黑 95W}{\fscy110.28\fscx110.28\bord5.51\c&HE5E5E5&\3c&H19101A&\fs60\pos(958.29,1173.45)}蕎麥麵喪屍
+Dialogue: 0,0:13:32.37,0:13:32.41,Sign_Others,Text,0,0,0,,{\fn汉仪雅酷黑 95W}{\fscy108.58\fscx108.58\bord5.43\c&HE5E5E5&\3c&H19101A&\fs60\pos(958.57,1149.64)}蕎麥麵喪屍
+Dialogue: 0,0:13:32.41,0:13:32.45,Sign_Others,Text,0,0,0,,{\fn汉仪雅酷黑 95W}{\fscy106.99\fscx106.99\bord5.35\c&HE5E5E5&\3c&H19101A&\fs60\pos(958.82,1128.08)}蕎麥麵喪屍
+Dialogue: 0,0:13:32.45,0:13:32.50,Sign_Others,Text,0,0,0,,{\fn汉仪雅酷黑 95W}{\fscy105.52\fscx105.52\bord5.28\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.06,1108.77)}蕎麥麵喪屍
+Dialogue: 0,0:13:32.50,0:13:32.54,Sign_Others,Text,0,0,0,,{\fn汉仪雅酷黑 95W}{\fscy104.2\fscx104.2\bord5.21\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.29,1091.75)}蕎麥麵喪屍
+Dialogue: 0,0:13:32.54,0:13:32.58,Sign_Others,Text,0,0,0,,{\fn汉仪雅酷黑 95W}{\fscy103.03\fscx103.03\bord5.15\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.48,1077.04)}蕎麥麵喪屍
+Dialogue: 0,0:13:32.58,0:13:32.62,Sign_Others,Text,0,0,0,,{\fn汉仪雅酷黑 95W}{\fscy102.02\fscx102.02\bord5.1\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.64,1064.74)}蕎麥麵喪屍
+Dialogue: 0,0:13:32.62,0:13:32.66,Sign_Others,Text,0,0,0,,{\fn汉仪雅酷黑 95W}{\fscy101.2\fscx101.2\bord5.06\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.78,1054.97)}蕎麥麵喪屍
+Dialogue: 0,0:13:32.66,0:13:32.70,Sign_Others,Text,0,0,0,,{\fn汉仪雅酷黑 95W}{\fscy100.62\fscx100.62\bord5.03\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.87,1047.84)}蕎麥麵喪屍
+Dialogue: 0,0:13:32.70,0:13:32.75,Sign_Others,Text,0,0,0,,{\fn汉仪雅酷黑 95W}{\fscy100.24\fscx100.24\bord5.01\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.95,1043.17)}蕎麥麵喪屍
+Dialogue: 0,0:13:32.75,0:13:32.79,Sign_Others,Text,0,0,0,,{\fn汉仪雅酷黑 95W}{\fscy100.03\fscx100.03\bord5\c&HE5E5E5&\3c&H19101A&\fs60\pos(959.99,1040.68)}蕎麥麵喪屍
+Dialogue: 0,0:13:32.79,0:13:32.83,Sign_Others,Text,0,0,0,,{\fn汉仪雅酷黑 95W}{\fscy100\fscx100\bord5\c&HE5E5E5&\3c&H19101A&\fs60\pos(960,1040)}蕎麥麵喪屍
 Dialogue: 0,0:15:37.25,0:15:39.25,Sign_Kanteiryu,Text,0,0,0,,{\fad(500,0)\bord0\\c&H57575B&\fs30\frz340.1\pos(1321.334,208)}女友
-Dialogue: 0,0:15:39.25,0:15:39.29,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1428,96)\frx14\fry356}女友
-Dialogue: 0,0:15:39.29,0:15:39.33,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1429.16,95.24)\frx14\fry356}女友
-Dialogue: 0,0:15:39.33,0:15:39.37,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1430.28,94.48)\frx14\fry356}女友
-Dialogue: 0,0:15:39.37,0:15:39.41,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1431.46,93.7)\frx14\fry356}女友
-Dialogue: 0,0:15:39.41,0:15:39.46,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1432.61,92.93)\frx14\fry356}女友
-Dialogue: 0,0:15:39.46,0:15:39.50,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1433.76,92.16)\frx14\fry356}女友
-Dialogue: 0,0:15:39.50,0:15:39.54,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1434.91,91.4)\frx14\fry356}女友
-Dialogue: 0,0:15:39.54,0:15:39.58,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1436.06,90.62)\frx14\fry356}女友
-Dialogue: 0,0:15:39.58,0:15:39.62,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1437.21,89.86)\frx14\fry356}女友
-Dialogue: 0,0:15:39.62,0:15:39.66,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1438.36,89.08)\frx14\fry356}女友
-Dialogue: 0,0:15:39.66,0:15:39.71,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1439.51,88.32)\frx14\fry356}女友
-Dialogue: 0,0:15:39.71,0:15:39.75,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1440.66,87.55)\frx14\fry356}女友
-Dialogue: 0,0:15:39.75,0:15:39.79,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1441.81,86.79)\frx14\fry356}女友
-Dialogue: 0,0:15:39.79,0:15:39.83,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1442.95,86.03)\frx14\fry356}女友
-Dialogue: 0,0:15:39.83,0:15:39.87,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1444.12,85.26)\frx14\fry356}女友
-Dialogue: 0,0:15:39.87,0:15:39.91,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1445.27,84.49)\frx14\fry356}女友
-Dialogue: 0,0:15:39.91,0:15:39.96,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1446.4,83.72)\frx14\fry356}女友
-Dialogue: 0,0:15:39.96,0:15:40.00,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1447.58,82.95)\frx14\fry356}女友
-Dialogue: 0,0:15:40.00,0:15:40.04,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1448.73,82.18)\frx14\fry356}女友
-Dialogue: 0,0:15:40.04,0:15:40.08,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1449.88,81.42)\frx14\fry356}女友
-Dialogue: 0,0:15:40.08,0:15:40.12,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1451.03,80.66)\frx14\fry356}女友
-Dialogue: 0,0:15:40.12,0:15:40.16,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1452.18,79.88)\frx14\fry356}女友
-Dialogue: 0,0:15:40.16,0:15:40.21,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1453.33,79.12)\frx14\fry356}女友
-Dialogue: 0,0:15:40.21,0:15:40.25,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1454.48,78.35)\frx14\fry356}女友
-Dialogue: 0,0:15:40.25,0:15:40.29,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1455.64,77.58)\frx14\fry356}女友
-Dialogue: 0,0:15:40.29,0:15:40.33,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1456.78,76.81)\frx14\fry356}女友
-Dialogue: 0,0:15:40.33,0:15:40.37,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1457.93,76.05)\frx14\fry356}女友
-Dialogue: 0,0:15:40.37,0:15:40.42,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1459.09,75.28)\frx14\fry356}女友
-Dialogue: 0,0:15:40.42,0:15:40.46,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1460.22,74.51)\frx14\fry356}女友
-Dialogue: 0,0:15:40.46,0:15:40.50,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1461.37,73.75)\frx14\fry356}女友
-Dialogue: 0,0:15:40.50,0:15:40.54,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1462.54,72.98)\frx14\fry356}女友
-Dialogue: 0,0:15:40.54,0:15:40.58,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1463.68,72.21)\frx14\fry356}女友
-Dialogue: 0,0:15:40.58,0:15:40.62,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1464.84,71.45)\frx14\fry356}女友
-Dialogue: 0,0:15:40.62,0:15:40.67,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1465.99,70.67)\frx14\fry356}女友
-Dialogue: 0,0:15:40.67,0:15:40.71,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1467.14,69.92)\frx14\fry356}女友
-Dialogue: 0,0:15:40.71,0:15:40.75,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1468.29,69.15)\frx14\fry356}女友
-Dialogue: 0,0:15:40.75,0:15:40.79,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1469.43,68.37)\frx14\fry356}女友
-Dialogue: 0,0:15:40.79,0:15:40.83,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1470.58,67.61)\frx14\fry356}女友
-Dialogue: 0,0:15:40.83,0:15:40.87,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1471.74,66.84)\frx14\fry356}女友
-Dialogue: 0,0:15:40.87,0:15:40.92,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1472.9,66.07)\frx14\fry356}女友
-Dialogue: 0,0:15:40.92,0:15:40.96,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1474.05,65.31)\frx14\fry356}女友
-Dialogue: 0,0:15:40.96,0:15:41.00,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1475.19,64.53)\frx14\fry356}女友
-Dialogue: 0,0:15:41.00,0:15:41.04,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1476.35,63.78)\frx14\fry356}女友
-Dialogue: 0,0:15:41.04,0:15:41.08,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1477.48,63.02)\frx14\fry356}女友
-Dialogue: 0,0:15:41.08,0:15:41.12,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1478.65,62.24)\frx14\fry356}女友
-Dialogue: 0,0:15:41.12,0:15:41.17,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1479.81,61.47)\frx14\fry356}女友
-Dialogue: 0,0:15:41.17,0:15:41.21,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1480.94,60.71)\frx14\fry356}女友
-Dialogue: 0,0:15:41.21,0:15:41.25,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1482.09,59.94)\frx14\fry356}女友
-Dialogue: 0,0:15:41.25,0:15:41.29,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1483.25,59.17)\frx14\fry356}女友
-Dialogue: 0,0:15:41.29,0:15:41.33,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1484.4,58.4)\frx14\fry356}女友
-Dialogue: 0,0:15:41.33,0:15:41.37,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1485.56,57.64)\frx14\fry356}女友
-Dialogue: 0,0:15:41.37,0:15:41.42,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1486.71,56.87)\frx14\fry356}女友
-Dialogue: 0,0:15:41.42,0:15:41.46,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1487.85,56.11)\frx14\fry356}女友
-Dialogue: 0,0:15:41.46,0:15:41.50,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1489.02,55.33)\frx14\fry356}女友
-Dialogue: 0,0:15:41.50,0:15:41.54,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1490.16,54.57)\frx14\fry356}女友
-Dialogue: 0,0:15:41.54,0:15:41.58,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1491.3,53.81)\frx14\fry356}女友
-Dialogue: 0,0:15:41.58,0:15:41.62,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1492.46,53.03)\frx14\fry356}女友
-Dialogue: 0,0:15:41.62,0:15:41.67,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1493.61,52.26)\frx14\fry356}女友
-Dialogue: 0,0:15:41.67,0:15:41.71,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1494.76,51.49)\frx14\fry356}女友
-Dialogue: 0,0:15:41.71,0:15:41.75,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1495.91,50.73)\frx14\fry356}女友
-Dialogue: 0,0:15:41.75,0:15:41.79,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1497.06,49.96)\frx14\fry356}女友
-Dialogue: 0,0:15:41.79,0:15:41.83,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1498.21,49.19)\frx14\fry356}女友
-Dialogue: 0,0:15:41.83,0:15:41.88,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1499.36,48.42)\frx14\fry356}女友
-Dialogue: 0,0:15:41.88,0:15:41.92,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1500.51,47.66)\frx14\fry356}女友
-Dialogue: 0,0:15:41.92,0:15:41.96,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1501.67,46.89)\frx14\fry356}女友
-Dialogue: 0,0:15:41.96,0:15:42.00,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1502.81,46.12)\frx14\fry356}女友
-Dialogue: 0,0:15:42.00,0:15:42.04,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1503.96,45.36)\frx14\fry356}女友
-Dialogue: 0,0:15:42.04,0:15:42.08,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1505.11,44.59)\frx14\fry356}女友
-Dialogue: 0,0:15:42.08,0:15:42.13,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1506.27,43.82)\frx14\fry356}女友
-Dialogue: 0,0:15:42.13,0:15:42.17,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1507.41,43.05)\frx14\fry356}女友
-Dialogue: 0,0:15:42.17,0:15:42.21,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1508.57,42.29)\frx14\fry356}女友
-Dialogue: 0,0:15:42.21,0:15:42.25,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1509.72,41.52)\frx14\fry356}女友
-Dialogue: 0,0:15:42.25,0:15:42.29,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1510.88,40.75)\frx14\fry356}女友
-Dialogue: 0,0:15:42.29,0:15:42.33,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1512.01,39.99)\frx14\fry356}女友
-Dialogue: 0,0:15:42.33,0:15:42.38,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1513.17,39.22)\frx14\fry356}女友
-Dialogue: 0,0:15:42.38,0:15:42.42,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1514.33,38.44)\frx14\fry356}女友
-Dialogue: 0,0:15:42.42,0:15:42.46,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1515.47,37.68)\frx14\fry356}女友
-Dialogue: 0,0:15:42.46,0:15:42.50,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1516.63,36.92)\frx14\fry356}女友
-Dialogue: 0,0:15:42.50,0:15:42.54,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1517.76,36.15)\frx14\fry356}女友
-Dialogue: 0,0:15:42.54,0:15:42.58,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1518.93,35.38)\frx14\fry356}女友
-Dialogue: 0,0:15:42.58,0:15:42.63,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1520.08,34.61)\frx14\fry356}女友
-Dialogue: 0,0:15:42.63,0:15:42.67,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1521.22,33.85)\frx14\fry356}女友
-Dialogue: 0,0:15:42.67,0:15:42.71,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1522.38,33.08)\frx14\fry356}女友
-Dialogue: 0,0:15:42.71,0:15:42.75,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1523.53,32.31)\frx14\fry356}女友
-Dialogue: 0,0:15:42.75,0:15:42.79,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1524.68,31.55)\frx14\fry356}女友
-Dialogue: 0,0:15:42.79,0:15:42.83,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1525.83,30.78)\frx14\fry356}女友
-Dialogue: 0,0:15:42.83,0:15:42.88,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1526.98,30.01)\frx14\fry356}女友
-Dialogue: 0,0:15:42.88,0:15:42.92,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1528.13,29.23)\frx14\fry356}女友
-Dialogue: 0,0:15:42.92,0:15:42.96,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1529.29,28.47)\frx14\fry356}女友
-Dialogue: 0,0:15:42.96,0:15:43.00,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1530.41,27.72)\frx14\fry356}女友
-Dialogue: 0,0:15:43.00,0:15:43.04,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1531.59,26.95)\frx14\fry356}女友
-Dialogue: 0,0:15:43.04,0:15:43.08,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1532.75,26.17)\frx14\fry356}女友
-Dialogue: 0,0:15:43.08,0:15:43.13,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1533.88,25.41)\frx14\fry356}女友
-Dialogue: 0,0:15:43.13,0:15:43.17,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1535.03,24.64)\frx14\fry356}女友
-Dialogue: 0,0:15:43.17,0:15:43.21,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1536.19,23.88)\frx14\fry356}女友
-Dialogue: 0,0:15:43.21,0:15:43.25,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1537.31,23.11)\frx14\fry356}女友
-Dialogue: 0,0:15:43.25,0:15:43.29,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1538.48,22.34)\frx14\fry356}女友
-Dialogue: 0,0:15:43.29,0:15:43.33,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1539.64,21.57)\frx14\fry356}女友
-Dialogue: 0,0:15:43.33,0:15:43.38,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1540.77,20.82)\frx14\fry356}女友
-Dialogue: 0,0:15:43.38,0:15:43.42,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1541.95,20.05)\frx14\fry356}女友
-Dialogue: 0,0:15:43.42,0:15:43.46,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1543.09,19.27)\frx14\fry356}女友
-Dialogue: 0,0:15:43.46,0:15:43.50,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1544.24,18.5)\frx14\fry356}女友
-Dialogue: 0,0:15:43.50,0:15:43.54,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1545.38,17.73)\frx14\fry356}女友
-Dialogue: 0,0:15:43.54,0:15:43.59,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1546.55,16.96)\frx14\fry356}女友
-Dialogue: 0,0:15:43.59,0:15:43.63,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1547.7,16.2)\frx14\fry356}女友
-Dialogue: 0,0:15:43.63,0:15:43.67,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1548.84,15.43)\frx14\fry356}女友
-Dialogue: 0,0:15:43.67,0:15:43.71,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1550,14.66)\frx14\fry356}女友
-Dialogue: 0,0:15:43.71,0:15:43.75,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1551.15,13.9)\frx14\fry356}女友
-Dialogue: 0,0:15:43.75,0:15:43.79,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1552.31,13.14)\frx14\fry356}女友
-Dialogue: 0,0:15:43.79,0:15:43.84,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1553.42,12.38)\frx14\fry356}女友
-Dialogue: 0,0:15:43.84,0:15:43.88,Sign_Kanteiryu,Text,0,0,0,,{=23}{\bord0\c&H333333&\fs50\frz340.1\pos(1554.6,11.63)\frx14\fry356}女友
-Dialogue: 0,0:17:03.54,0:17:03.58,Sign_Others,,0,0,0,,{=20}{\fscy100\bord3\fscx100\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1338,242)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:03.58,0:17:03.62,Sign_Others,,0,0,0,,{=20}{\fscy100.16\bord3\fscx100.16\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1337.88,241.51)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:03.62,0:17:03.67,Sign_Others,,0,0,0,,{=20}{\fscy100.35\bord3.01\fscx100.35\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1337.88,240.94)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:03.67,0:17:03.71,Sign_Others,,0,0,0,,{=20}{\fscy100.52\bord3.02\fscx100.52\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1337.79,240.44)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:03.71,0:17:03.75,Sign_Others,,0,0,0,,{=20}{\fscy100.71\bord3.02\fscx100.71\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1337.76,239.89)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:03.75,0:17:03.79,Sign_Others,,0,0,0,,{=20}{\fscy100.88\bord3.03\fscx100.88\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1337.68,239.36)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:03.79,0:17:03.83,Sign_Others,,0,0,0,,{=20}{\fscy101.06\bord3.03\fscx101.06\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1337.62,238.83)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:03.83,0:17:03.87,Sign_Others,,0,0,0,,{=20}{\fscy101.22\bord3.04\fscx101.22\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1337.51,238.34)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:03.87,0:17:03.92,Sign_Others,,0,0,0,,{=20}{\fscy101.4\bord3.04\fscx101.4\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1337.45,237.81)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:03.92,0:17:03.96,Sign_Others,,0,0,0,,{=20}{\fscy101.58\bord3.05\fscx101.58\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1337.38,237.29)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:03.96,0:17:04.00,Sign_Others,,0,0,0,,{=20}{\fscy101.76\bord3.05\fscx101.76\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1337.33,236.74)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:04.00,0:17:04.04,Sign_Others,,0,0,0,,{=20}{\fscy101.94\bord3.06\fscx101.94\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1337.24,236.21)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:04.04,0:17:04.08,Sign_Others,,0,0,0,,{=20}{\fscy102.13\bord3.06\fscx102.13\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1337.23,235.64)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:04.08,0:17:04.12,Sign_Others,,0,0,0,,{=20}{\fscy102.3\bord3.07\fscx102.3\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1337.12,235.12)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:04.12,0:17:04.17,Sign_Others,,0,0,0,,{=20}{\fscy102.49\bord3.07\fscx102.49\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1337.08,234.58)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:04.17,0:17:04.21,Sign_Others,,0,0,0,,{=20}{\fscy102.66\bord3.08\fscx102.66\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1336.97,234.05)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:04.21,0:17:04.25,Sign_Others,,0,0,0,,{=20}{\fscy102.86\bord3.09\fscx102.86\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1336.95,233.47)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:04.25,0:17:04.29,Sign_Others,,0,0,0,,{=20}{\fscy103.04\bord3.09\fscx103.04\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1336.87,232.94)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:04.29,0:17:04.33,Sign_Others,,0,0,0,,{=20}{\fscy103.23\bord3.1\fscx103.23\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1336.82,232.39)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:04.33,0:17:04.37,Sign_Others,,0,0,0,,{=20}{\fscy103.41\bord3.1\fscx103.41\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1336.71,231.83)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:04.37,0:17:04.42,Sign_Others,,0,0,0,,{=20}{\fscy103.59\bord3.11\fscx103.59\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1336.63,231.3)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:04.42,0:17:04.46,Sign_Others,,0,0,0,,{=20}{\fscy103.78\bord3.11\fscx103.78\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1336.56,230.74)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:04.46,0:17:04.50,Sign_Others,,0,0,0,,{=20}{\fscy103.97\bord3.12\fscx103.97\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1336.54,230.16)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:04.50,0:17:04.54,Sign_Others,,0,0,0,,{=20}{\fscy104.16\bord3.12\fscx104.16\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1336.46,229.6)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:04.54,0:17:04.58,Sign_Others,,0,0,0,,{=20}{\fscy104.35\bord3.13\fscx104.35\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1336.4,229.04)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:04.58,0:17:04.62,Sign_Others,,0,0,0,,{=20}{\fscy104.55\bord3.14\fscx104.55\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1336.37,228.45)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:04.62,0:17:04.67,Sign_Others,,0,0,0,,{=20}{\fscy104.74\bord3.14\fscx104.74\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1336.33,227.88)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:04.67,0:17:04.71,Sign_Others,,0,0,0,,{=20}{\fscy104.93\bord3.15\fscx104.93\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1336.23,227.33)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:04.71,0:17:04.75,Sign_Others,,0,0,0,,{=20}{\fscy105.12\bord3.15\fscx105.12\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1336.15,226.76)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:04.75,0:17:04.79,Sign_Others,,0,0,0,,{=20}{\fscy105.31\bord3.16\fscx105.31\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1336.08,226.17)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:04.79,0:17:04.83,Sign_Others,,0,0,0,,{=20}{\fscy105.5\bord3.16\fscx105.5\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1335.98,225.61)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:04.83,0:17:04.87,Sign_Others,,0,0,0,,{=20}{\fscy105.69\bord3.17\fscx105.69\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1335.89,225.06)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:04.87,0:17:04.92,Sign_Others,,0,0,0,,{=20}{\fscy105.89\bord3.18\fscx105.89\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1335.85,224.45)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:04.92,0:17:04.96,Sign_Others,,0,0,0,,{=20}{\fscy106.09\bord3.18\fscx106.09\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1335.79,223.87)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:04.96,0:17:05.00,Sign_Others,,0,0,0,,{=20}{\fscy106.28\bord3.19\fscx106.28\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1335.69,223.3)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:05.00,0:17:05.04,Sign_Others,,0,0,0,,{=20}{\fscy106.48\bord3.19\fscx106.48\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1335.66,222.68)\frz78.58}擀蕎麥麵!
-Dialogue: 0,0:17:03.54,0:17:03.58,Sign_Others,,0,0,0,,{=19}{\fscy100\bord3\fscx100\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1554,277)}{\fs60}節日當天
-Dialogue: 0,0:17:03.58,0:17:03.62,Sign_Others,,0,0,0,,{=19}{\fscy100.16\bord3\fscx100.16\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1554.23,276.56)}{\fs60}節日當天
-Dialogue: 0,0:17:03.62,0:17:03.67,Sign_Others,,0,0,0,,{=19}{\fscy100.35\bord3.01\fscx100.35\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1554.64,276.07)}{\fs60}節日當天
-Dialogue: 0,0:17:03.67,0:17:03.71,Sign_Others,,0,0,0,,{=19}{\fscy100.52\bord3.02\fscx100.52\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1554.91,275.62)}{\fs60}節日當天
-Dialogue: 0,0:17:03.71,0:17:03.75,Sign_Others,,0,0,0,,{=19}{\fscy100.71\bord3.02\fscx100.71\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1555.28,275.14)}{\fs60}節日當天
-Dialogue: 0,0:17:03.75,0:17:03.79,Sign_Others,,0,0,0,,{=19}{\fscy100.88\bord3.03\fscx100.88\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1555.58,274.67)}{\fs60}節日當天
-Dialogue: 0,0:17:03.79,0:17:03.83,Sign_Others,,0,0,0,,{=19}{\fscy101.06\bord3.03\fscx101.06\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1555.9,274.2)}{\fs60}節日當天
-Dialogue: 0,0:17:03.83,0:17:03.87,Sign_Others,,0,0,0,,{=19}{\fscy101.22\bord3.04\fscx101.22\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1556.15,273.77)}{\fs60}節日當天
-Dialogue: 0,0:17:03.87,0:17:03.92,Sign_Others,,0,0,0,,{=19}{\fscy101.4\bord3.04\fscx101.4\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1556.48,273.3)}{\fs60}節日當天
-Dialogue: 0,0:17:03.92,0:17:03.96,Sign_Others,,0,0,0,,{=19}{\fscy101.58\bord3.05\fscx101.58\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1556.79,272.84)}{\fs60}節日當天
-Dialogue: 0,0:17:03.96,0:17:04.00,Sign_Others,,0,0,0,,{=19}{\fscy101.76\bord3.05\fscx101.76\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1557.13,272.36)}{\fs60}節日當天
-Dialogue: 0,0:17:04.00,0:17:04.04,Sign_Others,,0,0,0,,{=19}{\fscy101.94\bord3.06\fscx101.94\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1557.43,271.89)}{\fs60}節日當天
-Dialogue: 0,0:17:04.04,0:17:04.08,Sign_Others,,0,0,0,,{=19}{\fscy102.13\bord3.06\fscx102.13\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1557.84,271.38)}{\fs60}節日當天
-Dialogue: 0,0:17:04.08,0:17:04.12,Sign_Others,,0,0,0,,{=19}{\fscy102.3\bord3.07\fscx102.3\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1558.09,270.92)}{\fs60}節日當天
-Dialogue: 0,0:17:04.12,0:17:04.17,Sign_Others,,0,0,0,,{=19}{\fscy102.49\bord3.07\fscx102.49\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1558.46,270.45)}{\fs60}節日當天
-Dialogue: 0,0:17:04.17,0:17:04.21,Sign_Others,,0,0,0,,{=19}{\fscy102.66\bord3.08\fscx102.66\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1558.72,269.99)}{\fs60}節日當天
-Dialogue: 0,0:17:04.21,0:17:04.25,Sign_Others,,0,0,0,,{=19}{\fscy102.86\bord3.09\fscx102.86\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1559.13,269.47)}{\fs60}節日當天
-Dialogue: 0,0:17:04.25,0:17:04.29,Sign_Others,,0,0,0,,{=19}{\fscy103.04\bord3.09\fscx103.04\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1559.44,269.01)}{\fs60}節日當天
-Dialogue: 0,0:17:04.29,0:17:04.33,Sign_Others,,0,0,0,,{=19}{\fscy103.23\bord3.1\fscx103.23\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1559.79,268.52)}{\fs60}節日當天
-Dialogue: 0,0:17:04.33,0:17:04.37,Sign_Others,,0,0,0,,{=19}{\fscy103.41\bord3.1\fscx103.41\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1560.07,268.02)}{\fs60}節日當天
-Dialogue: 0,0:17:04.37,0:17:04.42,Sign_Others,,0,0,0,,{=19}{\fscy103.59\bord3.11\fscx103.59\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1560.39,267.56)}{\fs60}節日當天
-Dialogue: 0,0:17:04.42,0:17:04.46,Sign_Others,,0,0,0,,{=19}{\fscy103.78\bord3.11\fscx103.78\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1560.71,267.07)}{\fs60}節日當天
-Dialogue: 0,0:17:04.46,0:17:04.50,Sign_Others,,0,0,0,,{=19}{\fscy103.97\bord3.12\fscx103.97\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1561.12,266.55)}{\fs60}節日當天
-Dialogue: 0,0:17:04.50,0:17:04.54,Sign_Others,,0,0,0,,{=19}{\fscy104.16\bord3.12\fscx104.16\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1561.45,266.06)}{\fs60}節日當天
-Dialogue: 0,0:17:04.54,0:17:04.58,Sign_Others,,0,0,0,,{=19}{\fscy104.35\bord3.13\fscx104.35\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1561.79,265.57)}{\fs60}節日當天
-Dialogue: 0,0:17:04.58,0:17:04.62,Sign_Others,,0,0,0,,{=19}{\fscy104.55\bord3.14\fscx104.55\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1562.19,265.04)}{\fs60}節日當天
-Dialogue: 0,0:17:04.62,0:17:04.67,Sign_Others,,0,0,0,,{=19}{\fscy104.74\bord3.14\fscx104.74\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1562.58,264.54)}{\fs60}節日當天
-Dialogue: 0,0:17:04.67,0:17:04.71,Sign_Others,,0,0,0,,{=19}{\fscy104.93\bord3.15\fscx104.93\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1562.88,264.05)}{\fs60}節日當天
-Dialogue: 0,0:17:04.71,0:17:04.75,Sign_Others,,0,0,0,,{=19}{\fscy105.12\bord3.15\fscx105.12\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1563.2,263.55)}{\fs60}節日當天
-Dialogue: 0,0:17:04.75,0:17:04.79,Sign_Others,,0,0,0,,{=19}{\fscy105.31\bord3.16\fscx105.31\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1563.55,263.03)}{\fs60}節日當天
-Dialogue: 0,0:17:04.79,0:17:04.83,Sign_Others,,0,0,0,,{=19}{\fscy105.5\bord3.16\fscx105.5\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1563.86,262.54)}{\fs60}節日當天
-Dialogue: 0,0:17:04.83,0:17:04.87,Sign_Others,,0,0,0,,{=19}{\fscy105.69\bord3.17\fscx105.69\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1564.17,262.05)}{\fs60}節日當天
-Dialogue: 0,0:17:04.87,0:17:04.92,Sign_Others,,0,0,0,,{=19}{\fscy105.89\bord3.18\fscx105.89\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1564.57,261.51)}{\fs60}節日當天
-Dialogue: 0,0:17:04.92,0:17:04.96,Sign_Others,,0,0,0,,{=19}{\fscy106.09\bord3.18\fscx106.09\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1564.94,261)}{\fs60}節日當天
-Dialogue: 0,0:17:04.96,0:17:05.00,Sign_Others,,0,0,0,,{=19}{\fscy106.28\bord3.19\fscx106.28\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1565.25,260.49)}{\fs60}節日當天
-Dialogue: 0,0:17:05.00,0:17:05.04,Sign_Others,,0,0,0,,{=19}{\fscy106.48\bord3.19\fscx106.48\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1565.66,259.95)}{\fs60}節日當天
+Dialogue: 0,0:15:39.25,0:15:39.29,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1428,96)\frx14\fry356}女友
+Dialogue: 0,0:15:39.29,0:15:39.33,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1429.16,95.24)\frx14\fry356}女友
+Dialogue: 0,0:15:39.33,0:15:39.37,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1430.28,94.48)\frx14\fry356}女友
+Dialogue: 0,0:15:39.37,0:15:39.41,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1431.46,93.7)\frx14\fry356}女友
+Dialogue: 0,0:15:39.41,0:15:39.46,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1432.61,92.93)\frx14\fry356}女友
+Dialogue: 0,0:15:39.46,0:15:39.50,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1433.76,92.16)\frx14\fry356}女友
+Dialogue: 0,0:15:39.50,0:15:39.54,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1434.91,91.4)\frx14\fry356}女友
+Dialogue: 0,0:15:39.54,0:15:39.58,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1436.06,90.62)\frx14\fry356}女友
+Dialogue: 0,0:15:39.58,0:15:39.62,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1437.21,89.86)\frx14\fry356}女友
+Dialogue: 0,0:15:39.62,0:15:39.66,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1438.36,89.08)\frx14\fry356}女友
+Dialogue: 0,0:15:39.66,0:15:39.71,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1439.51,88.32)\frx14\fry356}女友
+Dialogue: 0,0:15:39.71,0:15:39.75,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1440.66,87.55)\frx14\fry356}女友
+Dialogue: 0,0:15:39.75,0:15:39.79,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1441.81,86.79)\frx14\fry356}女友
+Dialogue: 0,0:15:39.79,0:15:39.83,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1442.95,86.03)\frx14\fry356}女友
+Dialogue: 0,0:15:39.83,0:15:39.87,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1444.12,85.26)\frx14\fry356}女友
+Dialogue: 0,0:15:39.87,0:15:39.91,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1445.27,84.49)\frx14\fry356}女友
+Dialogue: 0,0:15:39.91,0:15:39.96,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1446.4,83.72)\frx14\fry356}女友
+Dialogue: 0,0:15:39.96,0:15:40.00,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1447.58,82.95)\frx14\fry356}女友
+Dialogue: 0,0:15:40.00,0:15:40.04,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1448.73,82.18)\frx14\fry356}女友
+Dialogue: 0,0:15:40.04,0:15:40.08,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1449.88,81.42)\frx14\fry356}女友
+Dialogue: 0,0:15:40.08,0:15:40.12,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1451.03,80.66)\frx14\fry356}女友
+Dialogue: 0,0:15:40.12,0:15:40.16,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1452.18,79.88)\frx14\fry356}女友
+Dialogue: 0,0:15:40.16,0:15:40.21,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1453.33,79.12)\frx14\fry356}女友
+Dialogue: 0,0:15:40.21,0:15:40.25,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1454.48,78.35)\frx14\fry356}女友
+Dialogue: 0,0:15:40.25,0:15:40.29,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1455.64,77.58)\frx14\fry356}女友
+Dialogue: 0,0:15:40.29,0:15:40.33,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1456.78,76.81)\frx14\fry356}女友
+Dialogue: 0,0:15:40.33,0:15:40.37,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1457.93,76.05)\frx14\fry356}女友
+Dialogue: 0,0:15:40.37,0:15:40.42,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1459.09,75.28)\frx14\fry356}女友
+Dialogue: 0,0:15:40.42,0:15:40.46,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1460.22,74.51)\frx14\fry356}女友
+Dialogue: 0,0:15:40.46,0:15:40.50,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1461.37,73.75)\frx14\fry356}女友
+Dialogue: 0,0:15:40.50,0:15:40.54,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1462.54,72.98)\frx14\fry356}女友
+Dialogue: 0,0:15:40.54,0:15:40.58,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1463.68,72.21)\frx14\fry356}女友
+Dialogue: 0,0:15:40.58,0:15:40.62,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1464.84,71.45)\frx14\fry356}女友
+Dialogue: 0,0:15:40.62,0:15:40.67,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1465.99,70.67)\frx14\fry356}女友
+Dialogue: 0,0:15:40.67,0:15:40.71,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1467.14,69.92)\frx14\fry356}女友
+Dialogue: 0,0:15:40.71,0:15:40.75,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1468.29,69.15)\frx14\fry356}女友
+Dialogue: 0,0:15:40.75,0:15:40.79,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1469.43,68.37)\frx14\fry356}女友
+Dialogue: 0,0:15:40.79,0:15:40.83,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1470.58,67.61)\frx14\fry356}女友
+Dialogue: 0,0:15:40.83,0:15:40.87,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1471.74,66.84)\frx14\fry356}女友
+Dialogue: 0,0:15:40.87,0:15:40.92,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1472.9,66.07)\frx14\fry356}女友
+Dialogue: 0,0:15:40.92,0:15:40.96,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1474.05,65.31)\frx14\fry356}女友
+Dialogue: 0,0:15:40.96,0:15:41.00,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1475.19,64.53)\frx14\fry356}女友
+Dialogue: 0,0:15:41.00,0:15:41.04,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1476.35,63.78)\frx14\fry356}女友
+Dialogue: 0,0:15:41.04,0:15:41.08,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1477.48,63.02)\frx14\fry356}女友
+Dialogue: 0,0:15:41.08,0:15:41.12,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1478.65,62.24)\frx14\fry356}女友
+Dialogue: 0,0:15:41.12,0:15:41.17,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1479.81,61.47)\frx14\fry356}女友
+Dialogue: 0,0:15:41.17,0:15:41.21,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1480.94,60.71)\frx14\fry356}女友
+Dialogue: 0,0:15:41.21,0:15:41.25,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1482.09,59.94)\frx14\fry356}女友
+Dialogue: 0,0:15:41.25,0:15:41.29,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1483.25,59.17)\frx14\fry356}女友
+Dialogue: 0,0:15:41.29,0:15:41.33,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1484.4,58.4)\frx14\fry356}女友
+Dialogue: 0,0:15:41.33,0:15:41.37,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1485.56,57.64)\frx14\fry356}女友
+Dialogue: 0,0:15:41.37,0:15:41.42,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1486.71,56.87)\frx14\fry356}女友
+Dialogue: 0,0:15:41.42,0:15:41.46,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1487.85,56.11)\frx14\fry356}女友
+Dialogue: 0,0:15:41.46,0:15:41.50,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1489.02,55.33)\frx14\fry356}女友
+Dialogue: 0,0:15:41.50,0:15:41.54,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1490.16,54.57)\frx14\fry356}女友
+Dialogue: 0,0:15:41.54,0:15:41.58,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1491.3,53.81)\frx14\fry356}女友
+Dialogue: 0,0:15:41.58,0:15:41.62,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1492.46,53.03)\frx14\fry356}女友
+Dialogue: 0,0:15:41.62,0:15:41.67,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1493.61,52.26)\frx14\fry356}女友
+Dialogue: 0,0:15:41.67,0:15:41.71,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1494.76,51.49)\frx14\fry356}女友
+Dialogue: 0,0:15:41.71,0:15:41.75,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1495.91,50.73)\frx14\fry356}女友
+Dialogue: 0,0:15:41.75,0:15:41.79,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1497.06,49.96)\frx14\fry356}女友
+Dialogue: 0,0:15:41.79,0:15:41.83,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1498.21,49.19)\frx14\fry356}女友
+Dialogue: 0,0:15:41.83,0:15:41.88,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1499.36,48.42)\frx14\fry356}女友
+Dialogue: 0,0:15:41.88,0:15:41.92,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1500.51,47.66)\frx14\fry356}女友
+Dialogue: 0,0:15:41.92,0:15:41.96,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1501.67,46.89)\frx14\fry356}女友
+Dialogue: 0,0:15:41.96,0:15:42.00,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1502.81,46.12)\frx14\fry356}女友
+Dialogue: 0,0:15:42.00,0:15:42.04,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1503.96,45.36)\frx14\fry356}女友
+Dialogue: 0,0:15:42.04,0:15:42.08,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1505.11,44.59)\frx14\fry356}女友
+Dialogue: 0,0:15:42.08,0:15:42.13,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1506.27,43.82)\frx14\fry356}女友
+Dialogue: 0,0:15:42.13,0:15:42.17,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1507.41,43.05)\frx14\fry356}女友
+Dialogue: 0,0:15:42.17,0:15:42.21,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1508.57,42.29)\frx14\fry356}女友
+Dialogue: 0,0:15:42.21,0:15:42.25,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1509.72,41.52)\frx14\fry356}女友
+Dialogue: 0,0:15:42.25,0:15:42.29,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1510.88,40.75)\frx14\fry356}女友
+Dialogue: 0,0:15:42.29,0:15:42.33,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1512.01,39.99)\frx14\fry356}女友
+Dialogue: 0,0:15:42.33,0:15:42.38,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1513.17,39.22)\frx14\fry356}女友
+Dialogue: 0,0:15:42.38,0:15:42.42,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1514.33,38.44)\frx14\fry356}女友
+Dialogue: 0,0:15:42.42,0:15:42.46,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1515.47,37.68)\frx14\fry356}女友
+Dialogue: 0,0:15:42.46,0:15:42.50,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1516.63,36.92)\frx14\fry356}女友
+Dialogue: 0,0:15:42.50,0:15:42.54,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1517.76,36.15)\frx14\fry356}女友
+Dialogue: 0,0:15:42.54,0:15:42.58,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1518.93,35.38)\frx14\fry356}女友
+Dialogue: 0,0:15:42.58,0:15:42.63,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1520.08,34.61)\frx14\fry356}女友
+Dialogue: 0,0:15:42.63,0:15:42.67,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1521.22,33.85)\frx14\fry356}女友
+Dialogue: 0,0:15:42.67,0:15:42.71,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1522.38,33.08)\frx14\fry356}女友
+Dialogue: 0,0:15:42.71,0:15:42.75,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1523.53,32.31)\frx14\fry356}女友
+Dialogue: 0,0:15:42.75,0:15:42.79,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1524.68,31.55)\frx14\fry356}女友
+Dialogue: 0,0:15:42.79,0:15:42.83,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1525.83,30.78)\frx14\fry356}女友
+Dialogue: 0,0:15:42.83,0:15:42.88,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1526.98,30.01)\frx14\fry356}女友
+Dialogue: 0,0:15:42.88,0:15:42.92,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1528.13,29.23)\frx14\fry356}女友
+Dialogue: 0,0:15:42.92,0:15:42.96,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1529.29,28.47)\frx14\fry356}女友
+Dialogue: 0,0:15:42.96,0:15:43.00,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1530.41,27.72)\frx14\fry356}女友
+Dialogue: 0,0:15:43.00,0:15:43.04,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1531.59,26.95)\frx14\fry356}女友
+Dialogue: 0,0:15:43.04,0:15:43.08,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1532.75,26.17)\frx14\fry356}女友
+Dialogue: 0,0:15:43.08,0:15:43.13,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1533.88,25.41)\frx14\fry356}女友
+Dialogue: 0,0:15:43.13,0:15:43.17,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1535.03,24.64)\frx14\fry356}女友
+Dialogue: 0,0:15:43.17,0:15:43.21,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1536.19,23.88)\frx14\fry356}女友
+Dialogue: 0,0:15:43.21,0:15:43.25,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1537.31,23.11)\frx14\fry356}女友
+Dialogue: 0,0:15:43.25,0:15:43.29,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1538.48,22.34)\frx14\fry356}女友
+Dialogue: 0,0:15:43.29,0:15:43.33,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1539.64,21.57)\frx14\fry356}女友
+Dialogue: 0,0:15:43.33,0:15:43.38,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1540.77,20.82)\frx14\fry356}女友
+Dialogue: 0,0:15:43.38,0:15:43.42,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1541.95,20.05)\frx14\fry356}女友
+Dialogue: 0,0:15:43.42,0:15:43.46,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1543.09,19.27)\frx14\fry356}女友
+Dialogue: 0,0:15:43.46,0:15:43.50,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1544.24,18.5)\frx14\fry356}女友
+Dialogue: 0,0:15:43.50,0:15:43.54,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1545.38,17.73)\frx14\fry356}女友
+Dialogue: 0,0:15:43.54,0:15:43.59,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1546.55,16.96)\frx14\fry356}女友
+Dialogue: 0,0:15:43.59,0:15:43.63,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1547.7,16.2)\frx14\fry356}女友
+Dialogue: 0,0:15:43.63,0:15:43.67,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1548.84,15.43)\frx14\fry356}女友
+Dialogue: 0,0:15:43.67,0:15:43.71,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1550,14.66)\frx14\fry356}女友
+Dialogue: 0,0:15:43.71,0:15:43.75,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1551.15,13.9)\frx14\fry356}女友
+Dialogue: 0,0:15:43.75,0:15:43.79,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1552.31,13.14)\frx14\fry356}女友
+Dialogue: 0,0:15:43.79,0:15:43.84,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1553.42,12.38)\frx14\fry356}女友
+Dialogue: 0,0:15:43.84,0:15:43.88,Sign_Kanteiryu,Text,0,0,0,,{\bord0\c&H333333&\fs50\frz340.1\pos(1554.6,11.63)\frx14\fry356}女友
+Dialogue: 0,0:17:03.54,0:17:03.58,Sign_Others,,0,0,0,,{\fscy100\bord3\fscx100\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1338,242)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:03.58,0:17:03.62,Sign_Others,,0,0,0,,{\fscy100.16\bord3\fscx100.16\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1337.88,241.51)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:03.62,0:17:03.67,Sign_Others,,0,0,0,,{\fscy100.35\bord3.01\fscx100.35\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1337.88,240.94)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:03.67,0:17:03.71,Sign_Others,,0,0,0,,{\fscy100.52\bord3.02\fscx100.52\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1337.79,240.44)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:03.71,0:17:03.75,Sign_Others,,0,0,0,,{\fscy100.71\bord3.02\fscx100.71\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1337.76,239.89)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:03.75,0:17:03.79,Sign_Others,,0,0,0,,{\fscy100.88\bord3.03\fscx100.88\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1337.68,239.36)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:03.79,0:17:03.83,Sign_Others,,0,0,0,,{\fscy101.06\bord3.03\fscx101.06\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1337.62,238.83)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:03.83,0:17:03.87,Sign_Others,,0,0,0,,{\fscy101.22\bord3.04\fscx101.22\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1337.51,238.34)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:03.87,0:17:03.92,Sign_Others,,0,0,0,,{\fscy101.4\bord3.04\fscx101.4\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1337.45,237.81)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:03.92,0:17:03.96,Sign_Others,,0,0,0,,{\fscy101.58\bord3.05\fscx101.58\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1337.38,237.29)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:03.96,0:17:04.00,Sign_Others,,0,0,0,,{\fscy101.76\bord3.05\fscx101.76\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1337.33,236.74)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:04.00,0:17:04.04,Sign_Others,,0,0,0,,{\fscy101.94\bord3.06\fscx101.94\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1337.24,236.21)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:04.04,0:17:04.08,Sign_Others,,0,0,0,,{\fscy102.13\bord3.06\fscx102.13\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1337.23,235.64)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:04.08,0:17:04.12,Sign_Others,,0,0,0,,{\fscy102.3\bord3.07\fscx102.3\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1337.12,235.12)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:04.12,0:17:04.17,Sign_Others,,0,0,0,,{\fscy102.49\bord3.07\fscx102.49\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1337.08,234.58)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:04.17,0:17:04.21,Sign_Others,,0,0,0,,{\fscy102.66\bord3.08\fscx102.66\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1336.97,234.05)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:04.21,0:17:04.25,Sign_Others,,0,0,0,,{\fscy102.86\bord3.09\fscx102.86\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1336.95,233.47)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:04.25,0:17:04.29,Sign_Others,,0,0,0,,{\fscy103.04\bord3.09\fscx103.04\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1336.87,232.94)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:04.29,0:17:04.33,Sign_Others,,0,0,0,,{\fscy103.23\bord3.1\fscx103.23\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1336.82,232.39)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:04.33,0:17:04.37,Sign_Others,,0,0,0,,{\fscy103.41\bord3.1\fscx103.41\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1336.71,231.83)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:04.37,0:17:04.42,Sign_Others,,0,0,0,,{\fscy103.59\bord3.11\fscx103.59\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1336.63,231.3)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:04.42,0:17:04.46,Sign_Others,,0,0,0,,{\fscy103.78\bord3.11\fscx103.78\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1336.56,230.74)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:04.46,0:17:04.50,Sign_Others,,0,0,0,,{\fscy103.97\bord3.12\fscx103.97\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1336.54,230.16)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:04.50,0:17:04.54,Sign_Others,,0,0,0,,{\fscy104.16\bord3.12\fscx104.16\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1336.46,229.6)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:04.54,0:17:04.58,Sign_Others,,0,0,0,,{\fscy104.35\bord3.13\fscx104.35\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1336.4,229.04)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:04.58,0:17:04.62,Sign_Others,,0,0,0,,{\fscy104.55\bord3.14\fscx104.55\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1336.37,228.45)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:04.62,0:17:04.67,Sign_Others,,0,0,0,,{\fscy104.74\bord3.14\fscx104.74\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1336.33,227.88)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:04.67,0:17:04.71,Sign_Others,,0,0,0,,{\fscy104.93\bord3.15\fscx104.93\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1336.23,227.33)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:04.71,0:17:04.75,Sign_Others,,0,0,0,,{\fscy105.12\bord3.15\fscx105.12\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1336.15,226.76)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:04.75,0:17:04.79,Sign_Others,,0,0,0,,{\fscy105.31\bord3.16\fscx105.31\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1336.08,226.17)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:04.79,0:17:04.83,Sign_Others,,0,0,0,,{\fscy105.5\bord3.16\fscx105.5\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1335.98,225.61)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:04.83,0:17:04.87,Sign_Others,,0,0,0,,{\fscy105.69\bord3.17\fscx105.69\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1335.89,225.06)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:04.87,0:17:04.92,Sign_Others,,0,0,0,,{\fscy105.89\bord3.18\fscx105.89\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1335.85,224.45)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:04.92,0:17:04.96,Sign_Others,,0,0,0,,{\fscy106.09\bord3.18\fscx106.09\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1335.79,223.87)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:04.96,0:17:05.00,Sign_Others,,0,0,0,,{\fscy106.28\bord3.19\fscx106.28\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1335.69,223.3)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:05.00,0:17:05.04,Sign_Others,,0,0,0,,{\fscy106.48\bord3.19\fscx106.48\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\pos(1335.66,222.68)\frz78.58}擀蕎麥麵!
+Dialogue: 0,0:17:03.54,0:17:03.58,Sign_Others,,0,0,0,,{\fscy100\bord3\fscx100\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1554,277)}{\fs60}節日當天
+Dialogue: 0,0:17:03.58,0:17:03.62,Sign_Others,,0,0,0,,{\fscy100.16\bord3\fscx100.16\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1554.23,276.56)}{\fs60}節日當天
+Dialogue: 0,0:17:03.62,0:17:03.67,Sign_Others,,0,0,0,,{\fscy100.35\bord3.01\fscx100.35\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1554.64,276.07)}{\fs60}節日當天
+Dialogue: 0,0:17:03.67,0:17:03.71,Sign_Others,,0,0,0,,{\fscy100.52\bord3.02\fscx100.52\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1554.91,275.62)}{\fs60}節日當天
+Dialogue: 0,0:17:03.71,0:17:03.75,Sign_Others,,0,0,0,,{\fscy100.71\bord3.02\fscx100.71\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1555.28,275.14)}{\fs60}節日當天
+Dialogue: 0,0:17:03.75,0:17:03.79,Sign_Others,,0,0,0,,{\fscy100.88\bord3.03\fscx100.88\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1555.58,274.67)}{\fs60}節日當天
+Dialogue: 0,0:17:03.79,0:17:03.83,Sign_Others,,0,0,0,,{\fscy101.06\bord3.03\fscx101.06\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1555.9,274.2)}{\fs60}節日當天
+Dialogue: 0,0:17:03.83,0:17:03.87,Sign_Others,,0,0,0,,{\fscy101.22\bord3.04\fscx101.22\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1556.15,273.77)}{\fs60}節日當天
+Dialogue: 0,0:17:03.87,0:17:03.92,Sign_Others,,0,0,0,,{\fscy101.4\bord3.04\fscx101.4\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1556.48,273.3)}{\fs60}節日當天
+Dialogue: 0,0:17:03.92,0:17:03.96,Sign_Others,,0,0,0,,{\fscy101.58\bord3.05\fscx101.58\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1556.79,272.84)}{\fs60}節日當天
+Dialogue: 0,0:17:03.96,0:17:04.00,Sign_Others,,0,0,0,,{\fscy101.76\bord3.05\fscx101.76\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1557.13,272.36)}{\fs60}節日當天
+Dialogue: 0,0:17:04.00,0:17:04.04,Sign_Others,,0,0,0,,{\fscy101.94\bord3.06\fscx101.94\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1557.43,271.89)}{\fs60}節日當天
+Dialogue: 0,0:17:04.04,0:17:04.08,Sign_Others,,0,0,0,,{\fscy102.13\bord3.06\fscx102.13\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1557.84,271.38)}{\fs60}節日當天
+Dialogue: 0,0:17:04.08,0:17:04.12,Sign_Others,,0,0,0,,{\fscy102.3\bord3.07\fscx102.3\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1558.09,270.92)}{\fs60}節日當天
+Dialogue: 0,0:17:04.12,0:17:04.17,Sign_Others,,0,0,0,,{\fscy102.49\bord3.07\fscx102.49\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1558.46,270.45)}{\fs60}節日當天
+Dialogue: 0,0:17:04.17,0:17:04.21,Sign_Others,,0,0,0,,{\fscy102.66\bord3.08\fscx102.66\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1558.72,269.99)}{\fs60}節日當天
+Dialogue: 0,0:17:04.21,0:17:04.25,Sign_Others,,0,0,0,,{\fscy102.86\bord3.09\fscx102.86\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1559.13,269.47)}{\fs60}節日當天
+Dialogue: 0,0:17:04.25,0:17:04.29,Sign_Others,,0,0,0,,{\fscy103.04\bord3.09\fscx103.04\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1559.44,269.01)}{\fs60}節日當天
+Dialogue: 0,0:17:04.29,0:17:04.33,Sign_Others,,0,0,0,,{\fscy103.23\bord3.1\fscx103.23\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1559.79,268.52)}{\fs60}節日當天
+Dialogue: 0,0:17:04.33,0:17:04.37,Sign_Others,,0,0,0,,{\fscy103.41\bord3.1\fscx103.41\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1560.07,268.02)}{\fs60}節日當天
+Dialogue: 0,0:17:04.37,0:17:04.42,Sign_Others,,0,0,0,,{\fscy103.59\bord3.11\fscx103.59\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1560.39,267.56)}{\fs60}節日當天
+Dialogue: 0,0:17:04.42,0:17:04.46,Sign_Others,,0,0,0,,{\fscy103.78\bord3.11\fscx103.78\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1560.71,267.07)}{\fs60}節日當天
+Dialogue: 0,0:17:04.46,0:17:04.50,Sign_Others,,0,0,0,,{\fscy103.97\bord3.12\fscx103.97\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1561.12,266.55)}{\fs60}節日當天
+Dialogue: 0,0:17:04.50,0:17:04.54,Sign_Others,,0,0,0,,{\fscy104.16\bord3.12\fscx104.16\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1561.45,266.06)}{\fs60}節日當天
+Dialogue: 0,0:17:04.54,0:17:04.58,Sign_Others,,0,0,0,,{\fscy104.35\bord3.13\fscx104.35\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1561.79,265.57)}{\fs60}節日當天
+Dialogue: 0,0:17:04.58,0:17:04.62,Sign_Others,,0,0,0,,{\fscy104.55\bord3.14\fscx104.55\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1562.19,265.04)}{\fs60}節日當天
+Dialogue: 0,0:17:04.62,0:17:04.67,Sign_Others,,0,0,0,,{\fscy104.74\bord3.14\fscx104.74\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1562.58,264.54)}{\fs60}節日當天
+Dialogue: 0,0:17:04.67,0:17:04.71,Sign_Others,,0,0,0,,{\fscy104.93\bord3.15\fscx104.93\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1562.88,264.05)}{\fs60}節日當天
+Dialogue: 0,0:17:04.71,0:17:04.75,Sign_Others,,0,0,0,,{\fscy105.12\bord3.15\fscx105.12\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1563.2,263.55)}{\fs60}節日當天
+Dialogue: 0,0:17:04.75,0:17:04.79,Sign_Others,,0,0,0,,{\fscy105.31\bord3.16\fscx105.31\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1563.55,263.03)}{\fs60}節日當天
+Dialogue: 0,0:17:04.79,0:17:04.83,Sign_Others,,0,0,0,,{\fscy105.5\bord3.16\fscx105.5\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1563.86,262.54)}{\fs60}節日當天
+Dialogue: 0,0:17:04.83,0:17:04.87,Sign_Others,,0,0,0,,{\fscy105.69\bord3.17\fscx105.69\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1564.17,262.05)}{\fs60}節日當天
+Dialogue: 0,0:17:04.87,0:17:04.92,Sign_Others,,0,0,0,,{\fscy105.89\bord3.18\fscx105.89\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1564.57,261.51)}{\fs60}節日當天
+Dialogue: 0,0:17:04.92,0:17:04.96,Sign_Others,,0,0,0,,{\fscy106.09\bord3.18\fscx106.09\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1564.94,261)}{\fs60}節日當天
+Dialogue: 0,0:17:04.96,0:17:05.00,Sign_Others,,0,0,0,,{\fscy106.28\bord3.19\fscx106.28\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1565.25,260.49)}{\fs60}節日當天
+Dialogue: 0,0:17:05.00,0:17:05.04,Sign_Others,,0,0,0,,{\fscy106.48\bord3.19\fscx106.48\c&H3C241C&\3c&HFFFFFF&\3a&HFF&\frz82.57\pos(1565.66,259.95)}{\fs60}節日當天
 Comment: 0,0:19:20.09,0:19:22.10,Sign_Rounded,,0,0,0,,{\c&H231E1A&\bord3\pos(960,890)\3c&H7A5747&\fs50}前方學校 減速慢行
 Dialogue: 0,0:19:20.09,0:19:22.10,Sign_Rounded,,0,0,0,,{\clip(730,807,740,893)\pos(960,890)\1c&H000000&\3c&H765545&}{\fs50}前方學校 減速慢行
 Dialogue: 0,0:19:20.09,0:19:22.10,Sign_Rounded,,0,0,0,,{\clip(740,807,750,893)\pos(960,890)\1c&H000000&\3c&H775646&}{\fs50}前方學校 減速慢行
@@ -1296,44 +1313,3 @@ Dialogue: 0,0:19:20.09,0:19:22.10,Sign_Rounded,,0,0,0,,{\clip(1160,807,1170,893)
 Dialogue: 0,0:19:20.09,0:19:22.10,Sign_Rounded,,0,0,0,,{\clip(1170,807,1180,893)\pos(960,890)\1c&H000000&\3c&HB39A8F&}{\fs50}前方學校 減速慢行
 Dialogue: 0,0:19:20.09,0:19:22.10,Sign_Rounded,,0,0,0,,{\clip(1180,807,1190,893)\pos(960,890)\1c&H000000&\3c&HB59C91&}{\fs50}前方學校 減速慢行
 Dialogue: 0,0:19:20.09,0:19:22.10,Sign_Rounded,,0,0,0,,{\clip(1190,807,1200,893)\pos(960,890)\1c&H000000&\3c&HB59C91&}{\fs50}前方學校 減速慢行
-Comment: 0,0:03:06.04,0:03:12.04,sign_4461_43_Hazakura_Sobakyu,Text,0,0,0,,蕎麥久
-Comment: 0,0:07:57.45,0:07:59.45,sign_11448_144_Hazakura_Sobakyu,Text,0,0,0,,蕎麥久
-Comment: 0,0:10:36.86,0:10:39.49,sign_11964_152_Keith,,0,0,0,,{\pos(545.66,285.75)}Sobatani
-Comment: 0,0:12:37.52,0:12:39.52,sign_5137_22_Missing,,0,0,0,,Asakusa
-Comment: 0,0:12:42.78,0:12:51.79,sign_5137_22_Missing,Text,0,0,0,,Asakusa
-Comment: 0,0:13:21.07,0:13:23.07,sign_15866_158_Shirikodama,Toi,0,0,0,,Shirikodama
-Comment: 0,0:13:21.07,0:13:23.07,sign_15866_159_Extraction,Toi,0,0,0,,Extraction
-Comment: 0,0:13:32.12,0:13:32.83,sign_19459_264_Soba,,0,0,0,,Soba
-Comment: 0,0:13:55.48,0:13:57.48,sign_20032_271_Soba,,0,0,0,,Soba
-Comment: 0,0:13:59.98,0:14:02.94,sign_19459_264_Soba,,0,0,0,,Soba
-Comment: 0,0:14:16.60,0:14:18.62,sign_20538_279_Soba,,0,0,0,,Soba
-Comment: 0,0:14:35.08,0:14:37.73,sign_20981_287_Soba,,0,0,0,,Soba
-Comment: 0,0:14:49.24,0:14:50.95,sign_21321_291_Soba,,0,0,0,,Soba
-Comment: 0,0:14:50.95,0:14:52.03,sign_20981_287_Soba,,0,0,0,,Soba
-Comment: 0,0:15:46.56,0:15:48.67,sign_22695_317_Soba,,0,0,0,,Soba
-Comment: 0,0:13:36.08,0:13:38.56,sign_19780_209_Kaminarimon,,0,0,0,,Kaminarimon
-Comment: 0,0:15:28.34,0:15:28.42,sign_22428_241_Butt_,,0,0,0,,Butt
-Comment: 0,0:15:30.72,0:15:31.74,sign_22428_241_Butt_,,0,0,0,,Butt
-Comment: 0,0:15:37.08,0:15:39.25,sign_25101_330_Missing,,0,0,0,,ttuB
-Comment: 0,0:15:37.51,0:15:39.25,sign_22478_311_Sobatani,Text,0,0,0,,{\frz336\pos(894.34,252)}Sobatani
-Comment: 0,0:15:39.25,0:15:43.88,sign_22520_312_Girlfriend,Text,0,0,0,,{\frz335\move(1077.736,94.5,1161.509,45)}Girlfriend
-Comment: 0,0:15:39.25,0:15:43.88,sign_22520_313_Sobatani,Text,0,0,0,,{\frz336.5\move(801.509,202.5,898.868,135)}Sobatani
-Comment: 0,0:17:31.13,0:17:54.15,sign_25795_280_Leak,Text,0,0,0,,Leak
-Comment: 0,0:17:59.11,0:19:00.42,sign_25795_280_Leak,Text,0,0,0,,Leak
-Comment: 0,0:19:18.80,0:19:19.34,sign_25015_316_Kiss,,0,0,0,,{\fad(1,150)}Sobatani
-Comment: 0,0:19:25.78,0:19:26.47,sign_27951_363_Sobatani,,0,0,0,,{\frz350.4\move(643.019,45,645.283,103.5)\fad(1,222)}Sobatani
-Comment: 0,0:19:54.15,0:19:56.75,sign_28631_372_Hope,Text,0,0,0,,Hope
-Comment: 0,0:22:26.17,0:22:27.90,sign_28631_372_Hope,Text,0,0,0,,Hope
-Comment: 0,0:15:56.30,0:15:57.68,sign_24269_274_A,,0,0,0,,{\blur6.75}A
-Comment: 0,0:15:57.97,0:15:58.70,sign_24307_274_Butt,,0,0,0,,Butt
-Comment: 0,0:16:08.61,0:16:09.69,sign_24561_276_A,,0,0,0,,{\blur6.75\fad(570,1)}A
-Comment: 0,0:16:19.51,0:16:22.12,sign_24823_266_Leak,Text,0,0,0,,Leak
-Comment: 0,0:19:17.59,0:19:18.13,green,,0,0,0,,Butt    Butt    Butt    Butt    Butt    Butt    Butt    Butt    Butt    Butt    Butt
-Comment: 0,0:19:18.13,0:19:18.80,green,,0,0,0,,Butt    Butt    Butt    Butt    Butt    {\c&H2C874D&}Sobatani    {\c&H34B24B&}Butt    Butt    Butt    Butt    Butt
-Comment: 0,0:12:39.52,0:12:42.44,sign_18211_247_Hazakura_Sobakyu,Text,0,0,0,,Hazakura {\c&HA3B9BF&}Sobakyu
-Comment: 0,0:16:22.39,0:17:23.22,sign_24823_266_Leak,Text,0,0,0,,Leak
-
-[Aegisub Extradata]
-Data: 19,a-mo,e{"uuid"#3A"5add9f1d-ecd6-4593-88c5-61595c4802b9"#2C"originalText"#3A"{\\c&H3C241C&\\3c&HFFFFFF&\\3a&HFF&\\frz82.57\\pos(1554#2C277)}{\\fs60}#E8#8A#82#E6#97#A5#E5#BD#93#E5#A4#A9"}
-Data: 20,a-mo,e{"uuid"#3A"f0438ae6-2edb-486e-bd63-f09fc0086d91"#2C"originalText"#3A"{\\c&H3C241C&\\3c&HFFFFFF&\\3a&HFF&\\pos(1338#2C242)\\frz78.58}#E6#93#80#E8#8D#9E#E9#BA#A6#E9#9D#A2! "}
-Data: 23,a-mo,e{"uuid"#3A"e65a8c13-027a-4fa9-a791-b1de44aab5e6"#2C"originalText"#3A"{\\bord0\\c&H333333&\\fs50\\frz340.1\\pos(1428.001#2C96)\\frx14\\fry356}#E5#A5#B3#E5#8F#8B"}
