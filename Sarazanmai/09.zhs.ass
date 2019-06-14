@@ -45,7 +45,8 @@ Style: IN_CN_IV,DFKanTingLiu-GB Otf W9,40,&H007D7EE1,&H000019FF,&H00F0F0F0,&H28A
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,Note
 Dialogue: 0,0:00:39.72,0:00:46.06,Top,,0,0,0,,{\fs50\bord2\an9\pos(1880,30)}注：该装饰拉风的卡车是出自 70 年代的日本电影「トラック野郎（卡车混球）」系列的一番星号
-Dialogue: 0,0:03:42.24,0:03:43.50,Top,,0,0,0,,{\fs50\bord2\an9\pos(1880,30)}注：该装扮和台词捏他自音乐组合シャネルズ（CHANELS，现RATS&STAR）\N于1980年发行的单曲「ランナウェイ（Runaway）」
+Dialogue: 0,0:03:42.24,0:03:43.50,Top,,0,0,0,,{\fs50\bord2\an9\pos(1880,30)}注：该装扮捏他自音乐组合シャネルズ（CHANELS，现RATS&STAR），\N台词为其于1980年发行的同名单曲「ランナウェイ（Runaway）」
+Dialogue: 0,0:13:53.14,0:13:54.64,Top,,0,0,0,,{\fs50\bord2\an9\pos(1880,30)\c&HFFFFFF&\1a&H64&\3c&H020814&\3a&H64&}注：此处捏他了浅草地下街的「忍者場」酒吧
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,Ruby
 Dialogue: 0,0:17:09.96,0:17:12.11,Ruby,Chikai,0,0,0,,{\pos(986,976}tama
 Dialogue: 0,0:12:20.42,0:12:23.34,Ruby,Chikai,0,0,0,,{\pos(1030,976}tama
@@ -80,10 +81,10 @@ Comment: 0,0:21:57.38,0:21:58.38,Sign_Rounded,,0,0,0,,{\3c&H708383&\fs40\frx14\f
 Comment: 0,0:21:57.38,0:21:58.38,Sign_Rounded,,0,0,0,,{\3c&H708383&\blur2\fax0.1\fs40\frx10\fry40\pos(468,820.8)\frz357}{\c&HF0F0F0&\b1\fscx80}店{\fs41}内{\fs42\fscx90}也{\fs43}提{\fs44}供{\fscx100\fs45}堂{\fs46}食{\fs47}服{\fs48}务
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,Sara TV
 Dialogue: 0,0:02:51.65,0:02:53.40,Sign_Others,,0,0,0,,{\fn方正剪纸_GBK\blur1\fs30\an8\c&H9251FB&\3c&HD4CDF2&\pos(493.2,210)\frx30\fry358}浅草皿TV
-Dialogue: 2,0:02:51.65,0:02:53.40,Sign_Gothic,Text,0,0,0,,{\bord0\an5\c&HA67FE3&\fax-0.1\fs20\blur0.8\b1\clip()\pos(1063.067,832)\1a&H64&}飒爽报道 + {\b0}莎拉以后再也不在拉面里加胡椒粉了 dish。再也不打喷嚏了 dish。
+Dialogue: 2,0:02:51.65,0:02:53.40,Sign_Gothic,Text,0,0,0,,{\bord0\an5\c&HA67FE3&\fax-0.1\fs20\blur0.8\b1\clip()\pos(1063,832)\1a&H64&}飒爽报道 + {\b0}莎拉以后再也不在拉面里加胡椒粉了 dish。再也不打喷嚏了 dish。
 Dialogue: 1,0:02:51.65,0:02:53.40,Sign_Gothic,Text,0,0,0,,{\bord0\an7\pos(0,0)\p1\blur4\c&HF5F5F9&\clip()}m 527 797 l 549 797 548 825 556 824 705 824 926 824 1112 824 1568 825 1569 803 547 803 550 797 1567 796 1580 796 1585 846 526 845
 Dialogue: 0,0:02:51.65,0:02:53.40,Sign_Gothic,Text,0,0,0,,{\bord0\an7\pos(0,0)\p1\blur1\c&HF5F5F9&\clip()}m 528 794 l 531 826 548 825 1568 824 1578 822 1580 794 1586 846 526 845
-Dialogue: 0,0:02:51.65,0:02:53.40,Sign_Others,,0,0,0,,{\an6\fn方正雅珠体简繁 DemiBold\bord2\shad2\fs50\4c&H9925E8&\3c&H8C44FF&\pos(1562.8,655.2)\frx2\fry2\fscx95\fax0.05\c&HFFFFFF&\1a&H0A&}在和平的街区里发生了帮派火并!?
+Dialogue: 0,0:02:51.65,0:02:53.40,Sign_Others,,0,0,0,,{\an6\fn方正雅珠体简繁 DemiBold\bord2\shad2\fs50\4c&H9925E8&\3c&H8C44FF&\pos(1562,655.2)\frx2\fry2\fscx95\fax0.05\c&HFFFFFF&\1a&H0A&}在和平的街区里发生了帮派火并!?
 Dialogue: 0,0:02:51.65,0:02:53.40,Sign_Others,Text,0,0,0,,{\fnSource Han Serif SC\b1\fs40\bord1\fsp10\c&H9F9F9F&\blur4\3c&H020814&\3a&HF0&\pos(664.229,561.457)\frx6\fry358\fax-0.05}连续枪击事件
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 2,0:02:56.65,0:03:09.41,Sign_Gothic,Text,0,0,0,,{\bord0\an5\c&HA67FE3&\fax-0.1\fs20\blur0.8\b1\clip()\pos(1063.067,832)\1a&H64&}飒爽报道 + {\b0}莎拉以后再也不在拉面里加胡椒粉了 dish。再也不打喷嚏了 dish。
@@ -152,7 +153,7 @@ Dialogue: 0,0:16:36.01,0:16:36.93,Sign_Rounded,Text,0,0,0,,{\fs40\bord0\c&H602D1
 Dialogue: 0,0:16:36.01,0:16:36.85,Sign_Rounded,Text,0,0,0,,{\bord1\c&H1D110B&\blur2\fs20\b1\an4\frz30.71\3c&H020814&\3a&HC8&\pos(686.4,741.47)\fad(0,200)}我也\N为你\N加油!!
 Dialogue: 0,0:16:36.01,0:16:36.93,Sign_Rounded,Text,0,0,0,,{\bord1\c&H1D110B&\blur2\fs20\b1\an4\3c&H020814&\3a&HC8&\frz13.89\pos(844,938)\fad(0,300)}by 燕太
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
-Dialogue: 0,0:00:04.98,0:00:09.69,Sign_Gothic,,0,0,0,,{\bord4\3c&H8E3DE8&\c&H000000&\fs70\an8\fad(600,600)}想 要 相 连
+Dialogue: 0,0:00:04.98,0:00:09.69,Sign_Gothic,,0,0,0,,{\bord4\3c&H8E3DE8&\c&H000000&\fs70\an8\fad(600,300)}想 要 相 连
 Dialogue: 0,0:00:11.61,0:00:12.86,Sign_Gothic,,0,0,0,,{\fnSource Han Sans SC Heavy\frx16\fry-30\frz12\fsp8\c&HDFE0EE&\3c&H5560E5&\bord5\fs60\pos(1096.571,151.929)}急救中心
 Dialogue: 0,0:00:42.18,0:00:43.06,Sign_Kanteiryu,,0,0,0,,{\3c&HCBCFE0&\c&H252CCB&\blur1\frx10\fry-32\pos(237.667,794.333)\frz0.8794}无需{\fsp-2}多{\fscx84}言
 Dialogue: 0,0:00:45.19,0:00:46.06,Sign_Kanteiryu,,0,0,0,,{\3c&H121277&\c&HEFF1F3&\frx-30\fry9\fs50\bord6\pos(1494.399,693.714)}水獭一人旅
@@ -165,7 +166,7 @@ Dialogue: 0,0:05:50.20,0:05:52.16,Sign_Rounded,,0,0,0,,{\fad(450,0)\bord4\b1\3c&
 Dialogue: 0,0:05:50.20,0:05:52.16,Sign_Rounded,,0,0,0,,{\fad(450,0)\bord4\b1\3c&H9877FE&\shad4\4c&H0D3A71&\4a&H96&\pos(1820,40)\an9\fs60}热 烘 烘
 Dialogue: 0,0:13:21.11,0:13:23.11,Sign_Rounded,,0,0,0,,{\b1\c&H869FA1&\bord4\shad0\4c&H272F32&\fs30\pos(1320,660)\3a&H1E&\3c&H395754&}吾妻桥
 Dialogue: 1,0:13:21.11,0:13:23.11,Sign_Rounded,,0,0,0,,{\b1\c&H869FA1&\bord2\blur2\shad0\4c&H272F32&\fs30\pos(1320,660)\3a&H1E&\3c&H1C2424&}吾妻桥
-Dialogue: 0,0:13:53.14,0:13:54.64,Sign_Rounded,,0,0,0,,{\pos(960,270)\fs40\b1\c&H05041E&\bord0}水 獭 场{？}
+Dialogue: 0,0:13:53.14,0:13:54.64,Sign_Rounded,,0,0,0,,{\pos(960,270)\fs40\b1\c&H05041E&\bord0}水 獭 场
 Dialogue: 0,0:22:52.93,0:22:54.93,Sign_Others,,0,0,0,,{\fnSource Han Serif SC\b1\fs50\an4\pos(480,674)\bord0}本故事纯属虚构。\N\N所有登场人物及团体均与现实无关。
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:15:08.72,0:15:11.59,Sign_Others,,0,0,0,,{\pos(952.943,134)\fad(0,500)\fnSource Han Serif SC\be1\c&H5A5ACE&\t(2278,2570,\1cH453F68)\frx44\bord0\fs40\b1}没有开始
@@ -175,53 +176,65 @@ Dialogue: 0,0:15:08.72,0:15:11.64,Sign_Others,,0,0,0,,{\pos(952.943,164)\fad(0,5
 Dialogue: 0,0:15:08.72,0:15:13.39,Sign_Others,,0,0,0,,{\pos(484,580)\fad(0,0)\fnSource Han Serif SC\frx36\fscx120\fscy120\blur5\fax-0.1\be1\bord0\fs40\b1\c&H000000&\1a&HAA&}没有相连
 Dialogue: 0,0:15:08.72,0:15:13.47,Sign_Others,,0,0,0,,{\pos(1418,586)\fad(0,0)\fnSource Han Serif SC\fscx120\fscy120\blur4\be1\fax0.1\frx36\bord0\fs40\b1\c&H000000&\1a&HAA&}没有终结
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,Songs
-Dialogue: 1,0:01:12.05,0:01:16.43,OP_JP - Top Layer,,0,0,0,,背景紛れたら 透明街の角
-Dialogue: 1,0:01:16.43,0:01:21.01,OP_JP - Top Layer,,0,0,0,,消えそうな声で泣いている僕らよ
-Dialogue: 1,0:01:21.01,0:01:25.69,OP_JP - Top Layer,,0,0,0,,最低な夜から 這って抜けるように
-Dialogue: 1,0:01:25.69,0:01:30.32,OP_JP - Top Layer,,0,0,0,,千切れた痛みと共に行けよ
-Dialogue: 1,0:01:30.32,0:01:34.44,OP_JP - Top Layer,,0,0,0,,いつだって一人きりなんだろ
-Dialogue: 1,0:01:34.44,0:01:40.49,OP_JP - Top Layer,,0,0,0,,心が叫んでる欲望の音 もう一度
-Dialogue: 1,0:01:40.49,0:01:44.70,OP_JP - Top Layer,,0,0,0,,話せたら 繋がれたら
+Dialogue: 1,0:01:12.05,0:01:15.22,OP_JP - Top Layer,,0,0,0,,背景 紛れたら透明
+Dialogue: 1,0:01:15.22,0:01:21.01,OP_JP - Top Layer,,0,0,0,,街の角 消えそうな声で鳴いている僕らよ
+Dialogue: 1,0:01:21.01,0:01:25.69,OP_JP - Top Layer,,0,0,0,,最低な夜から這って抜けるように
+Dialogue: 1,0:01:25.69,0:01:30.32,OP_JP - Top Layer,,0,0,0,,千切れた痛みとともにゆけよ
+Dialogue: 1,0:01:30.32,0:01:34.36,OP_JP - Top Layer,,0,0,0,,いつだって独りきりなんだろう
+Dialogue: 1,0:01:34.36,0:01:39.62,OP_JP - Top Layer,,0,0,0,,{\fad(0,550)}心が叫んでる 欲望の音
+Dialogue: 3,0:01:38.99,0:01:44.70,OP_JP - Top Layer,,0,0,0,,{\fad(550,0)}もう一度 話せたら 繋がれたら
 Dialogue: 1,0:01:44.70,0:01:48.17,OP_JP - Top Layer,,0,0,0,,{\fad(0,200)}ただ溢れて
-Dialogue: 1,0:01:49.42,0:01:54.42,OP_JP - Top Layer,,0,0,0,,だんだん遠くなってく 君を追いかけていく
-Dialogue: 1,0:01:58.72,0:02:03.35,OP_JP - Top Layer,,0,0,0,,まっさらな想いを伝えに 火玉していく
-Dialogue: 1,0:02:07.85,0:02:11.65,OP_JP - Top Layer,,0,0,0,,{\fad(200,0)}現在過去未来 君と繋いでいたいよ
+Dialogue: 1,0:01:49.42,0:01:51.46,OP_JP - Top Layer,,0,0,0,,だんだん遠くなってく
+Dialogue: 1,0:01:51.46,0:01:54.42,OP_JP - Top Layer,,0,0,0,,君を追いかけていく
+Dialogue: 1,0:01:58.72,0:02:01.89,OP_JP - Top Layer,,0,0,0,,まっさらな想いを伝えに
+Dialogue: 1,0:02:01.89,0:02:03.35,OP_JP - Top Layer,,0,0,0,,ひた走っていく
+Dialogue: 1,0:02:07.85,0:02:09.98,OP_JP - Top Layer,,0,0,0,,{\fad(200,0)}現在 過去 未来
+Dialogue: 1,0:02:09.98,0:02:11.65,OP_JP - Top Layer,,0,0,0,,君と繋いでいたいよ
 Dialogue: 1,0:02:11.65,0:02:14.82,OP_JP - Top Layer,,0,0,0,,{\fad(0,200)}感情を 心の奥を
-Dialogue: 0,0:01:12.05,0:01:16.43,OP_JP - Bottom Layer,,0,0,0,,{\blur2}背景紛れたら 透明街の角
-Dialogue: 0,0:01:16.43,0:01:21.01,OP_JP - Bottom Layer,,0,0,0,,{\blur2}消えそうな声で泣いている僕らよ
-Dialogue: 0,0:01:21.01,0:01:25.69,OP_JP - Bottom Layer,,0,0,0,,{\blur2}最低な夜から 這って抜けるように
-Dialogue: 0,0:01:25.69,0:01:30.32,OP_JP - Bottom Layer,,0,0,0,,{\blur2}千切れた痛みと共に行けよ
-Dialogue: 0,0:01:30.32,0:01:34.44,OP_JP - Bottom Layer,,0,0,0,,{\blur2}いつだって一人きりなんだろ
-Dialogue: 0,0:01:34.44,0:01:40.49,OP_JP - Bottom Layer,,0,0,0,,{\blur2}心が叫んでる欲望の音 もう一度
-Dialogue: 0,0:01:40.49,0:01:44.70,OP_JP - Bottom Layer,,0,0,0,,{\blur2}話せたら 繋がれたら
+Dialogue: 0,0:01:12.05,0:01:15.22,OP_JP - Bottom Layer,,0,0,0,,{\blur2}背景 紛れたら透明
+Dialogue: 0,0:01:15.22,0:01:21.01,OP_JP - Bottom Layer,,0,0,0,,{\blur2}街の角 消えそうな声で鳴いている僕らよ
+Dialogue: 0,0:01:21.01,0:01:25.69,OP_JP - Bottom Layer,,0,0,0,,{\blur2}最低な夜から這って抜けるように
+Dialogue: 0,0:01:25.69,0:01:30.32,OP_JP - Bottom Layer,,0,0,0,,{\blur2}千切れた痛みとともにゆけよ
+Dialogue: 0,0:01:30.32,0:01:34.36,OP_JP - Bottom Layer,,0,0,0,,{\blur2}いつだって独りきりなんだろう
+Dialogue: 0,0:01:34.36,0:01:39.62,OP_JP - Bottom Layer,,0,0,0,,{\blur2\fad(0,550)}心が叫んでる 欲望の音
+Dialogue: 2,0:01:38.99,0:01:44.70,OP_JP - Bottom Layer,,0,0,0,,{\blur2\fad(550,0)}もう一度 話せたら 繋がれたら
 Dialogue: 0,0:01:44.70,0:01:48.17,OP_JP - Bottom Layer,,0,0,0,,{\blur2\fad(0,200)}ただ溢れて
-Dialogue: 0,0:01:49.42,0:01:54.42,OP_JP - Bottom Layer,,0,0,0,,{\blur2}だんだん遠くなってく 君を追いかけていく
-Dialogue: 0,0:01:58.72,0:02:03.35,OP_JP - Bottom Layer,,0,0,0,,{\blur2}まっさらな想いを伝えに 火玉していく
-Dialogue: 0,0:02:07.85,0:02:11.65,OP_JP - Bottom Layer,,0,0,0,,{\blur2\fad(200,0)}現在過去未来 君と繋いでいたいよ
+Dialogue: 0,0:01:49.42,0:01:51.46,OP_JP - Bottom Layer,,0,0,0,,{\blur2}だんだん遠くなってく
+Dialogue: 0,0:01:51.46,0:01:54.42,OP_JP - Bottom Layer,,0,0,0,,{\blur2}君を追いかけていく
+Dialogue: 0,0:01:58.72,0:02:01.89,OP_JP - Bottom Layer,,0,0,0,,{\blur2}まっさらな想いを伝えに
+Dialogue: 0,0:02:01.89,0:02:03.35,OP_JP - Bottom Layer,,0,0,0,,{\blur2}ひた走っていく
+Dialogue: 0,0:02:07.85,0:02:09.98,OP_JP - Bottom Layer,,0,0,0,,{\blur2\fad(200,0)}現在 過去 未来
+Dialogue: 0,0:02:09.98,0:02:11.65,OP_JP - Bottom Layer,,0,0,0,,{\blur2}君と繋いでいたいよ
 Dialogue: 0,0:02:11.65,0:02:14.82,OP_JP - Bottom Layer,,0,0,0,,{\blur2\fad(0,200)}感情を 心の奥を
-Dialogue: 1,0:01:12.01,0:01:16.43,OP_CN - Top Layer,,0,0,0,,当背景交错 在透明街角
-Dialogue: 1,0:01:16.43,0:01:21.01,OP_CN - Top Layer,,0,0,0,,又有谁能听见我们的哭声
-Dialogue: 1,0:01:21.01,0:01:25.69,OP_CN - Top Layer,,0,0,0,,为了爬出 这最糟的黑夜
+Dialogue: 1,0:01:12.01,0:01:15.22,OP_CN - Top Layer,,0,0,0,,背景交错便是透明
+Dialogue: 1,0:01:15.22,0:01:21.01,OP_CN - Top Layer,,0,0,0,,谁能听见街角我们微弱的声音
+Dialogue: 1,0:01:21.01,0:01:25.69,OP_CN - Top Layer,,0,0,0,,为了爬出这最糟的黑夜
 Dialogue: 1,0:01:25.69,0:01:30.32,OP_CN - Top Layer,,0,0,0,,愿与粉身碎骨的痛楚并肩前行
-Dialogue: 1,0:01:30.32,0:01:34.44,OP_CN - Top Layer,,0,0,0,,反正无论何时总免不了孤身一人
-Dialogue: 1,0:01:34.44,0:01:40.49,OP_CN - Top Layer,,0,0,0,,让心中呼唤的欲望之声
-Dialogue: 1,0:01:40.49,0:01:44.70,OP_CN - Top Layer,,0,0,0,,再一次攀谈 再一次连结
+Dialogue: 1,0:01:30.32,0:01:34.36,OP_CN - Top Layer,,0,0,0,,反正无论何时总免不了孤身一人
+Dialogue: 1,0:01:34.36,0:01:39.62,OP_CN - Top Layer,,0,0,0,,{\fad(0,550)}让心中呼唤的欲望之声
+Dialogue: 3,0:01:38.99,0:01:44.70,OP_CN - Top Layer,,0,0,0,,{\fad(550,0)}再一次攀谈 再一次连结
 Dialogue: 1,0:01:44.70,0:01:48.17,OP_CN - Top Layer,,0,0,0,,{\fad(0,200)}那就一发不可收拾
-Dialogue: 1,0:01:49.42,0:01:54.42,OP_CN - Top Layer,,0,0,0,,渐渐远去的你 让我一心追逐
-Dialogue: 1,0:01:58.72,0:02:03.35,OP_CN - Top Layer,,0,0,0,,把全新的思绪 化作火球投向你
-Dialogue: 1,0:02:07.85,0:02:11.65,OP_CN - Top Layer,,0,0,0,,{\fad(200,0)}现在过去未来 只想与你相连
+Dialogue: 1,0:01:49.42,0:01:51.46,OP_CN - Top Layer,,0,0,0,,渐渐远去的你
+Dialogue: 1,0:01:51.46,0:01:54.42,OP_CN - Top Layer,,0,0,0,,让我一心追逐
+Dialogue: 1,0:01:58.72,0:02:01.89,OP_CN - Top Layer,,0,0,0,,怀着全新的思绪
+Dialogue: 1,0:02:01.89,0:02:03.35,OP_CN - Top Layer,,0,0,0,,只为径直奔向你
+Dialogue: 1,0:02:07.85,0:02:09.98,OP_CN - Top Layer,,0,0,0,,{\fad(200,0)}现在 过去 未来
+Dialogue: 1,0:02:09.98,0:02:11.65,OP_CN - Top Layer,,0,0,0,,多想与你相连
 Dialogue: 1,0:02:11.65,0:02:14.82,OP_CN - Top Layer,,0,0,0,,{\fad(0,200)}这份感情 这份真心
-Dialogue: 0,0:01:12.01,0:01:16.43,OP_CN - Bottom Layer,,0,0,0,,{\blur2}当背景交错 在透明街角
-Dialogue: 0,0:01:16.43,0:01:21.01,OP_CN - Bottom Layer,,0,0,0,,{\blur2}又有谁能听见我们的哭声
-Dialogue: 0,0:01:21.01,0:01:25.69,OP_CN - Bottom Layer,,0,0,0,,{\blur2}为了爬出 这最糟的黑夜
+Dialogue: 0,0:01:12.01,0:01:15.22,OP_CN - Bottom Layer,,0,0,0,,{\blur2}背景交错便是透明
+Dialogue: 0,0:01:15.22,0:01:21.01,OP_CN - Bottom Layer,,0,0,0,,{\blur2}谁能听见街角我们微弱的声音
+Dialogue: 0,0:01:21.01,0:01:25.69,OP_CN - Bottom Layer,,0,0,0,,{\blur2}为了爬出这最糟的黑夜
 Dialogue: 0,0:01:25.69,0:01:30.32,OP_CN - Bottom Layer,,0,0,0,,{\blur2}愿与粉身碎骨的痛楚并肩前行
-Dialogue: 0,0:01:30.32,0:01:34.44,OP_CN - Bottom Layer,,0,0,0,,{\blur2}反正无论何时总免不了孤身一人
-Dialogue: 0,0:01:34.44,0:01:40.49,OP_CN - Bottom Layer,,0,0,0,,{\blur2}让心中呼唤的欲望之声
-Dialogue: 0,0:01:40.49,0:01:44.70,OP_CN - Bottom Layer,,0,0,0,,{\blur2}再一次攀谈 再一次连结
+Dialogue: 0,0:01:30.32,0:01:34.36,OP_CN - Bottom Layer,,0,0,0,,{\blur2}反正无论何时总免不了孤身一人
+Dialogue: 0,0:01:34.36,0:01:39.62,OP_CN - Bottom Layer,,0,0,0,,{\blur2\fad(0,550)}让心中呼唤的欲望之声
+Dialogue: 2,0:01:38.99,0:01:44.70,OP_CN - Bottom Layer,,0,0,0,,{\blur2\fad(550,0)}再一次攀谈 再一次连结
 Dialogue: 0,0:01:44.70,0:01:48.17,OP_CN - Bottom Layer,,0,0,0,,{\blur2\fad(0,200)}那就一发不可收拾
-Dialogue: 0,0:01:49.42,0:01:54.42,OP_CN - Bottom Layer,,0,0,0,,{\blur2}渐渐远去的你 让我一心追逐
-Dialogue: 0,0:01:58.72,0:02:03.35,OP_CN - Bottom Layer,,0,0,0,,{\blur2}把全新的思绪 化作火球投向你
-Dialogue: 0,0:02:07.85,0:02:11.65,OP_CN - Bottom Layer,,0,0,0,,{\blur2\fad(200,0)}现在过去未来 只想与你相连
+Dialogue: 0,0:01:49.42,0:01:51.46,OP_CN - Bottom Layer,,0,0,0,,{\blur2}渐渐远去的你
+Dialogue: 0,0:01:51.46,0:01:54.42,OP_CN - Bottom Layer,,0,0,0,,{\blur2}让我一心追逐
+Dialogue: 0,0:01:58.72,0:02:01.89,OP_CN - Bottom Layer,,0,0,0,,{\blur2}怀着全新的思绪
+Dialogue: 0,0:02:01.89,0:02:03.35,OP_CN - Bottom Layer,,0,0,0,,{\blur2}只为径直奔向你
+Dialogue: 0,0:02:07.85,0:02:09.98,OP_CN - Bottom Layer,,0,0,0,,{\blur2\fad(200,0)}现在 过去 未来
+Dialogue: 0,0:02:09.98,0:02:11.65,OP_CN - Bottom Layer,,0,0,0,,{\blur2}多想与你相连
 Dialogue: 0,0:02:11.65,0:02:14.82,OP_CN - Bottom Layer,,0,0,0,,{\blur2\fad(0,200)}这份感情 这份真心
 Dialogue: 1,0:18:12.98,0:18:18.07,ED_JP - Top Layer,,0,0,0,,スタンドバイミー お願い
 Dialogue: 1,0:18:18.07,0:18:22.87,ED_JP - Top Layer,,0,0,0,,僕は 僕は 強くなれるのかな
@@ -297,8 +310,8 @@ Dialogue: 0,0:19:31.77,0:19:37.15,ED_CN - Bottom Layer,,0,0,0,,{\blur2}当泪水
 Dialogue: 0,0:19:37.15,0:19:42.95,ED_CN - Bottom Layer,,0,0,0,,{\blur2}想与你的温暖拥抱 仅此而已
 Comment: 0,0:01:48.96,0:01:48.96,Main,,0,0,0,,STAFF
 Dialogue: 2,0:01:11.96,0:01:12.01,STAFF - Top Layer,,0,0,0,,{\fs34\fnSource Han Sans SC Medium\b1\pos(118.488,350)}翻译
-Dialogue: 2,0:01:11.96,0:01:12.01,STAFF - Top Layer,,0,0,0,,{\pos(200,338)\iclip(m 318 345 l 332 353 346 360 355 365 370 369 384 373 388 375 402 380 416 382 432 384 466 386 475 385 492 398 506 412 516 420 516 423 506 425 497 427 481 430 458 437 436 444 423 448 409 454 387 462 371 470 362 474 394 534 610 455 628 368 454 285)}tastySugar
-Dialogue: 2,0:01:11.96,0:01:12.01,STAFF - Top Layer,,0,0,0,,{\pos(200,418)\iclip(m 318 345 l 332 353 346 360 355 365 370 369 384 373 388 375 402 380 416 382 432 384 466 386 475 385 492 398 506 412 516 420 516 423 506 425 497 427 481 430 458 437 436 444 423 448 409 454 387 462 371 470 362 474 394 534 610 455 628 368 454 285)}絶対女装黙示録
+Dialogue: 2,0:01:11.96,0:01:12.01,STAFF - Top Layer,,0,0,0,,{\pos(200,338)\iclip(m 318 345 l 332 353 346 360 355 365 370 369 384 373 388 375 402 380 416 382 432 384 466 386 475 385 492 398 506 412 516 420 516 423 506 425 497 427 481 430 458 437 436 444 423 448 409 454 387 462 371 470 320 498 304 509 264 536 650 536 650 345)}tastySugar
+Dialogue: 2,0:01:11.96,0:01:12.01,STAFF - Top Layer,,0,0,0,,{\pos(200,418)\iclip(m 318 345 l 332 353 346 360 355 365 370 369 384 373 388 375 402 380 416 382 432 384 466 386 475 385 492 398 506 412 516 420 516 423 506 425 497 427 481 430 458 437 436 444 423 448 409 454 387 462 371 470 320 498 304 509 264 536 650 536 650 345)}絶対女装黙示録
 Dialogue: 2,0:01:12.01,0:01:14.47,STAFF - Top Layer,,0,0,0,,{\fs34\fnSource Han Sans SC Medium\b1\pos(118.488,350)}翻译
 Dialogue: 2,0:01:12.01,0:01:14.47,STAFF - Top Layer,,0,0,0,,{\pos(200,338)}tastySugar
 Dialogue: 2,0:01:12.01,0:01:14.47,STAFF - Top Layer,,0,0,0,,{\pos(200,418)}絶対女装黙示録
@@ -317,8 +330,8 @@ Dialogue: 2,0:01:39.57,0:01:41.91,STAFF - Top Layer,,0,0,0,,{\pos(266,558)}natsu
 Dialogue: 2,0:02:04.22,0:02:06.89,STAFF - Top Layer,,0,0,0,,{\an2\fs34\fnSource Han Sans SC Medium\b1\pos(960,632)}字幕制作
 Dialogue: 2,0:02:04.22,0:02:06.89,STAFF - Top Layer,,0,0,0,,{\an2\pos(960,698)}SweetSub
 Dialogue: 1,0:01:11.96,0:01:12.01,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\fs34\fnSource Han Sans SC Medium\b1\pos(118.488,350)}翻译
-Dialogue: 1,0:01:11.96,0:01:12.01,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(200,338)\iclip(m 318 345 l 332 353 346 360 355 365 370 369 384 373 388 375 402 380 416 382 432 384 466 386 475 385 492 398 506 412 516 420 516 423 506 425 497 427 481 430 458 437 436 444 423 448 409 454 387 462 371 470 362 474 394 534 610 455 628 368 454 285)}tastySugar
-Dialogue: 1,0:01:11.96,0:01:12.01,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(200,418)\iclip(m 318 345 l 332 353 346 360 355 365 370 369 384 373 388 375 402 380 416 382 432 384 466 386 475 385 492 398 506 412 516 420 516 423 506 425 497 427 481 430 458 437 436 444 423 448 409 454 387 462 371 470 362 474 394 534 610 455 628 368 454 285)}絶対女装黙示録
+Dialogue: 1,0:01:11.96,0:01:12.01,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(200,338)\iclip(m 318 345 l 332 353 346 360 355 365 370 369 384 373 388 375 402 380 416 382 432 384 466 386 475 385 492 398 506 412 516 420 516 423 506 425 497 427 481 430 458 437 436 444 423 448 409 454 387 462 371 470 320 498 304 509 264 536 650 536 650 345)}tastySugar
+Dialogue: 1,0:01:11.96,0:01:12.01,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(200,418)\iclip(m 318 345 l 332 353 346 360 355 365 370 369 384 373 388 375 402 380 416 382 432 384 466 386 475 385 492 398 506 412 516 420 516 423 506 425 497 427 481 430 458 437 436 444 423 448 409 454 387 462 371 470 320 498 304 509 264 536 650 536 650 345)}絶対女装黙示録
 Dialogue: 1,0:01:12.01,0:01:14.47,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\fs34\fnSource Han Sans SC Medium\b1\pos(118.488,350)}翻译
 Dialogue: 1,0:01:12.01,0:01:14.47,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(200,338)}tastySugar
 Dialogue: 1,0:01:12.01,0:01:14.47,STAFF - Bottom layer,,0,0,0,,{\1c0\blur3\pos(200,418)}絶対女装黙示録
