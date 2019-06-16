@@ -17,6 +17,7 @@
 | 第七皿 | 「想要相连可是却又 想要去背叛」  | [简体中文](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/07.zhs.ass) | [繁體中文](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/07.zht.ass) | [日本語](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/07.ja.ass)
 | 第八皿 | 「想要相连可是却又 无法再度相见」 | [简体中文](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/08.zhs.ass) | [繁體中文](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/08.zht.ass) | [日本語](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/08.ja.ass)
 | 第九皿 | 「想要相连可是却已 无法传达到」 | [简体中文](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/09.zhs.ass) | [繁體中文](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/09.zht.ass) | [日本語](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/09.ja.ass)
+| 第十皿 | 「想要相连可是却已 无法与你连系」 | [简体中文](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/10.zhs.ass) | [繁體中文](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/10.zht.ass) | [日本語](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/10.ja.ass)
 
 
 
