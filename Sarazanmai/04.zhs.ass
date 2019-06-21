@@ -135,7 +135,7 @@ Dialogue: 0,0:02:37.88,0:02:46.14,Sign_Others,Text,0,0,0,,{\an6\pos(1758,764)\fn
 Dialogue: 1,0:02:37.88,0:02:46.14,Sign_Others,,0,0,0,,{\bord0\an5\c&HA67FE3&\fax-0.1\fs30\pos(1080,1032)\blur0.8}作家存乎于生与死之间 dish。莎拉存乎于墨田区和台东区之间 dish。王子存乎于爱与欲望之间 dish。
 Dialogue: 0,0:02:37.88,0:02:46.14,Sign_Others,,0,0,0,,{\bord0\an7\pos(0,0)\p1\clip()\blur1}m 406 1011 l 406 1050 1757 1050 1757 1011
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,Title
-Dialogue: 0,0:20:43.05,0:20:48.06,Title,,0,0,0,,{\an8\pos(960,240)\fs70\fnSource Han Serif SC\b1}想　要　相　连　可　是　却　又
+Dialogue: 0,0:20:43.05,0:20:48.06,Title,,0,0,0,,{\an8\pos(960,240)\fs70\fnSource Han Serif SC\b1}想　要　相　连　可　又
 Dialogue: 0,0:20:43.05,0:20:48.06,Title,,0,0,0,,{\an8\pos(960,640)\fs120\fnSource Han Serif SC\b1}不　在　我　的　身　边
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,Songs
 Dialogue: 0,0:02:06.73,0:02:09.90,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}已经空无一人的教室里

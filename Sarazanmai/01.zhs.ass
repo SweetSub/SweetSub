@@ -161,8 +161,8 @@ Dialogue: 1,0:03:24.22,0:03:26.47,Sign_Kanteiryu,,0,0,0,,{\fnSource Han Sans SC 
 Dialogue: 0,0:03:24.22,0:03:26.47,Sign_Kanteiryu,,0,0,0,,{\fnSource Han Sans SC\fs60\3c&H8F32EE&\cFFFFFF\fscx100\fscy100\bord14\blur1\pos(1352,80)}●
 Dialogue: 1,0:03:24.22,0:03:26.47,Sign_Kanteiryu,,0,0,0,,{\fnSource Han Sans SC Medium\fs46\bord1\c&H000000&\pos(1352,74)}ア
 Comment: 0,0:00:00.00,0:00:00.01,Main,,0,0,0,,TITLE
-Dialogue: 0,0:20:25.99,0:20:31.00,Title,,0,0,0,,{\an8\pos(960,240)\fs70\fnSource Han Serif SC\b1}想　要　相　连　可　是　却　又
-Dialogue: 0,0:20:25.99,0:20:31.00,Title,,0,0,0,,{\an8\pos(960,640)\fs120\fnSource Han Serif SC\b1}想　要　伪　装
+Dialogue: 0,0:20:25.99,0:20:31.00,Title,,0,0,0,,{\an8\pos(960,240)\fs70\fnSource Han Serif SC\b1}想　要　相　连　可　又
+Dialogue: 0,0:20:25.99,0:20:31.00,Title,,0,0,0,,{\an8\pos(960,640)\fs120\fnSource Han Serif SC\b1}想　要　掩　饰
 Comment: 0,0:00:00.00,0:00:00.01,Main,,0,0,0,,STAFF
 Dialogue: 2,0:01:52.00,0:01:52.05,STAFF - Top Layer,,0,0,0,,{\fs34\fnSource Han Sans SC Medium\b1\pos(118.488,350)}翻译
 Dialogue: 2,0:01:52.00,0:01:52.05,STAFF - Top Layer,,0,0,0,,{\pos(200,338)\iclip(m 318 345 l 332 353 346 360 355 365 370 369 384 373 388 375 402 380 416 382 432 384 466 386 475 385 492 398 506 412 516 420 516 423 506 425 497 427 481 430 458 437 436 444 423 448 409 454 387 462 371 470 320 498 304 509 264 536 650 536 650 345)}tastySugar

@@ -148,7 +148,7 @@ Dialogue: 1,0:12:52.16,0:12:57.92,Sign_Gothic,Text,0,0,0,,{\bord0\an5\c&HA67FE3&
 Dialogue: 0,0:12:52.16,0:12:57.92,Sign_Gothic,Text,0,0,0,,{\bord0\an7\pos(0,0)\p1\clip()\blur1}m 406 1011 l 406 1050 1757 1050 1757 1011
 Dialogue: 0,0:12:52.16,0:12:57.92,Sign_Others,Text,0,0,0,,{\an6\pos(1758,764)\fn方正雅珠体简繁 DemiBold\bord2\shad4\4c&H9925E8&\3c&H8C44FF&}不好了！飞翔的新娘
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,Title
-Dialogue: 0,0:20:05.01,0:20:10.02,Title,,0,0,0,,{\an8\pos(960,240)\fs70\fnSource Han Serif SC\b1}想　要　相　连　可　是　却　又
+Dialogue: 0,0:20:05.01,0:20:10.02,Title,,0,0,0,,{\an8\pos(960,240)\fs70\fnSource Han Serif SC\b1}想　要　相　连　可　又
 Dialogue: 0,0:20:05.01,0:20:10.02,Title,,0,0,0,,{\an8\pos(960,640)\fs120\fnSource Han Serif SC\b1}得　不　到　回　报
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,Songs
 Dialogue: 0,0:02:04.89,0:02:08.06,IN_CN_I,,0,0,0,,{\fad(200,200)\an9}已经空无一人的教室里
