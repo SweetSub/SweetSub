@@ -6,7 +6,7 @@ PlayResX: 1920
 PlayResY: 1080
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
-Title: [SweetSub] Sarazanmai - 08
+Title: [SweetSub] Sarazanmai - 09
 Original Script: 翻译：tastySugar、絶対女装黙示録
 Original Translation: 主题曲翻译：ssnake
 Original Editing: 校对：Spica
@@ -357,7 +357,7 @@ Comment: 1,0:01:23.02,0:01:25.69,STAFF - Bottom layer,overlay,0,0,0,,{\1c0\blur3
 Comment: 1,0:01:23.02,0:01:25.69,STAFF - Bottom layer,overlay,0,0,0,,{\1c0\blur3\pos(370,518)}絶対女装黙示録
 Comment: 1,0:01:23.02,0:01:25.69,STAFF - Bottom layer,overlay,0,0,0,,{\1c0\blur3\pos(370,594)}tastySugar
 Comment: 0,0:20:27.04,0:20:32.04,Main,,0,0,0,,Title
-Dialogue: 0,0:18:07.98,0:18:12.98,Title,,0,0,0,,{\an8\pos(960,240)\fs70\fnSource Han Serif TC\b1}想　要　相　連　可　是　卻　已
+Dialogue: 0,0:18:07.98,0:18:12.98,Title,,0,0,0,,{\an8\pos(960,240)\fs70\fnSource Han Serif TC\b1}想　要　相　連　卻　已
 Dialogue: 0,0:18:07.98,0:18:12.98,Title,,0,0,0,,{\an8\pos(960,640)\fs120\fnSource Han Serif TC\b1}無　法　傳　達　到{/無法傳達到}
 Comment: 0,0:00:01.98,0:00:02.02,Main,,0,0,0,,Main
 Dialogue: 0,0:00:23.69,0:00:27.29,Main,Sara,0,0,0,,好重啊 dish…
@@ -568,7 +568,7 @@ Dialogue: 0,0:13:38.89,0:13:40.38,Main,Reo,0,0,0,,真武？
 Dialogue: 0,0:13:40.38,0:13:43.62,Main,Otter,0,0,0,,胡說  你好像很難受啊  真武
 Dialogue: 0,0:13:43.63,0:13:46.22,Main,Mabu,0,0,0,,啊… 別離開我
 Dialogue: 0,0:13:46.22,0:13:47.88,Main,Mabu,0,0,0,,好好看著我
-Dialogue: 0,0:13:47.88,0:13:48.99,Main,Otter,0,0,0,,胡說...
+Dialogue: 0,0:13:47.88,0:13:48.99,Main,Otter,0,0,0,,胡說…
 Dialogue: 0,0:13:50.02,0:13:51.89,Main,Otter,0,0,0,,如你所願
 Dialogue: 0,0:13:55.85,0:13:57.61,Main,Reo,0,0,0,,他們在幹什麼？
 Dialogue: 0,0:14:03.02,0:14:04.40,Main,Reo,0,0,0,,給我離真武遠一點！
