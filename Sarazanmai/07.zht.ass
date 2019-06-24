@@ -173,6 +173,10 @@ Dialogue: 1,0:15:10.47,0:15:22.73,Sign_Gothic,Text,0,0,0,,{\bord0\an5\c&HA67FE3&
 Dialogue: 0,0:15:10.47,0:15:22.73,Sign_Gothic,Text,0,0,0,,{\bord0\an7\pos(0,0)\p1\clip()\blur1}m 406 1011 l 406 1050 1757 1050 1757 1011
 Dialogue: 0,0:15:10.47,0:15:22.73,Sign_Others,,0,0,0,,{\an6\pos(1758,764)\fn方正雅珠体简繁 DemiBold\bord2\shad4\4c&H9925E8&\3c&H8C44FF&}嚇掉魂{tama}！開球 {外研社解釋裡的這個詞真的有嗎不確定；alternative： 驚魂}
 Dialogue: 0,0:15:10.47,0:15:22.73,Sign_Others,Text,0,0,0,,{\an2\fn方正雅珠体简繁 DemiBold\bord1\shad2\4c&H9925E8&\3c&H8C44FF&\fs40\pos(1514,730.6)}tama
+Dialogue: 0,0:14:57.45,0:15:01.46,Sign_Others,,0,0,0,,{\fn汉仪雅酷黑 95W\fs20\b1\an8\c&HFBA818&\bord1\blur2\3c&HFC7214&\pos(1000,16)}tama
+Dialogue: 0,0:14:57.45,0:15:01.46,Sign_Others,,0,0,0,,{\fn汉仪雅酷黑 95W}{\fs50\pos(960,30)\b1\an8\c&HFBA818&\bord1\blur2\3c&HFC7214&}欲望 球
+Dialogue: 0,0:15:04.96,0:15:06.96,Sign_Others,,0,0,0,,{\fn汉仪雅酷黑 95W\fs20\b1\an8\c&HFBA818&\bord1\blur2\3c&HFC7214&\pos(1000,16)\fad(0,450)}tama
+Dialogue: 0,0:15:04.96,0:15:06.96,Sign_Others,,0,0,0,,{\fn汉仪雅酷黑 95W}{\fs50\pos(960,30)\b1\an8\c&HFBA818&\bord1\blur2\3c&HFC7214&\fad(0,450)}欲望 球
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,Title
 Dialogue: 0,0:19:51.96,0:19:56.96,Title,,0,0,0,,{\an8\pos(960,240)\fs70\fnSource Han Serif TC\b1}想　要　相　連　可　又
 Dialogue: 0,0:19:51.96,0:19:56.96,Title,,0,0,0,,{\an8\pos(960,640)\fs120\fnSource Han Serif TC\b1}想　要　去　背　叛

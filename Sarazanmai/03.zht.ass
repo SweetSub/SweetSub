@@ -1183,6 +1183,10 @@ Dialogue: 0,0:05:59.71,0:05:59.75,Sign_Others,Text,0,0,0,,{\fscy104.94\fscx104.9
 Dialogue: 0,0:05:59.75,0:05:59.79,Sign_Others,Text,0,0,0,,{\fscy105.07\fscx105.07\c&H1E1E1E&\3c&H918774&\fs30\bord2.1\blur1.05\frx1\frz345\pos(778.71,364.21)}鱚魚料理
 Dialogue: 0,0:05:59.79,0:05:59.83,Sign_Others,Text,0,0,0,,{\fscy105.17\fscx105.17\c&H1E1E1E&\3c&H918774&\fs30\bord2.1\blur1.05\frx1\frz345\pos(778.29,364.07)}鱚魚料理
 Dialogue: 0,0:05:59.83,0:05:59.88,Sign_Others,Text,0,0,0,,{\fscy105.31\fscx105.31\c&H1E1E1E&\3c&H918774&\fs30\bord2.11\blur1.05\frx1\frz345\pos(777.87,364.02)}鱚魚料理
+Dialogue: 0,0:10:09.21,0:10:13.21,Sign_Others,,0,0,0,,{\fn汉仪雅酷黑 95W\fs20\b1\an8\c&HFBA818&\bord1\blur2\3c&HFC7214&\pos(1002,16)}kiss
+Dialogue: 0,0:10:09.21,0:10:13.21,Sign_Others,,0,0,0,,{\fn汉仪雅酷黑 95W}{\fs50\pos(960,30)\b1\an8\c&HFBA818&\bord1\blur2\3c&HFC7214&}欲望 {\fsp-6\fscx50}魚{\fsp2}喜{\fscx100\fsp0}魚
+Dialogue: 0,0:12:44.15,0:12:46.16,Sign_Others,,0,0,0,,{\fn汉仪雅酷黑 95W\fs20\b1\an8\c&HFBA818&\bord1\blur2\3c&HFC7214&\pos(1002,16)\fad(0,450)}kiss
+Dialogue: 0,0:12:44.15,0:12:46.16,Sign_Others,,0,0,0,,{\fn汉仪雅酷黑 95W}{\fs50\pos(960,30)\b1\an8\c&HFBA818&\bord1\blur2\3c&HFC7214&\fad(0,450)}欲望 {\fsp-6\fscx50}魚{\fsp2}喜{\fscx100\fsp0}魚
 Dialogue: 0,0:13:57.06,0:13:57.10,Sign_Others,Text,0,0,0,,{\fn汉仪雅酷黑 95W}{\fscy113.66\fscx113.66\bord5.68\c&HE5E5E5&\3c&H19101A&\fs60\pos(957.79,1301.63)}{\fsp-6\fscx50}魚{\fsp2}喜{\fscx100\fsp0}喪屍
 Dialogue: 0,0:13:57.10,0:13:57.15,Sign_Others,Text,0,0,0,,{\fn汉仪雅酷黑 95W}{\fscy113.04\fscx113.04\bord5.65\c&HE5E5E5&\3c&H19101A&\fs60\pos(958.13,1281.18)}{\fsp-6\fscx50}魚{\fsp2}喜{\fscx100\fsp0}喪屍
 Dialogue: 0,0:13:57.15,0:13:57.19,Sign_Others,Text,0,0,0,,{\fn汉仪雅酷黑 95W}{\fscy111.98\fscx111.98\bord5.6\c&HE5E5E5&\3c&H19101A&\fs60\pos(958.04,1259.99)}{\fsp-6\fscx50}魚{\fsp2}喜{\fscx100\fsp0}喪屍

@@ -82,7 +82,7 @@ Dialogue: 0,0:13:57.10,0:13:57.90,Sign_Gothic,,0,0,0,,{\blur6\fad(570,0)\bord6\3
 Dialogue: 0,0:15:38.66,0:15:39.16,Sign_Others,,0,0,0,,{\fnSource Han Serif TC}{\be1}{\bord0\fs40\c&H3B3FE9&\b1\pos(952.943,224)}{\fad(50,0)\c&H3E3BBE&}沒有開始
 Dialogue: 0,0:15:38.66,0:15:39.16,Sign_Others,,0,0,0,,{\fnSource Han Serif TC}{\be1}{\bord0\fs40\c&H3B3FE9&\b1\pos(679.333,651.333)}{\fad(50,0)\c&H3E3BBE&}沒有相連
 Dialogue: 0,0:15:38.66,0:15:39.16,Sign_Others,,0,0,0,,{\fnSource Han Serif TC}{\be1}{\bord0\fs40\c&H3B3FE9&\b1\pos(1234.8,658.4)}{\fad(50,0)\c&H3E3BBE&}沒有終結
-Dialogue: 0,0:10:14.63,0:10:15.63,Sign_Others,Text,0,0,0,,{\fn汉仪雅酷黑 95W}{\fs50\pos(960,30)\b1\an8\c&HFBA818&\bord1\blur2\3c&HFC7214&\fad(0,0)}欲望 真武
+Dialogue: 0,0:10:14.63,0:10:16.88,Sign_Others,Text,0,0,0,,{\fn汉仪雅酷黑 95W}{\fs50\pos(960,30)\b1\an8\c&HFBA818&\bord1\blur2\3c&HFC7214&\fad(0,450)}欲望 真武
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,
 Dialogue: 0,0:09:59.62,0:10:01.95,Sign_Others,,0,0,0,,{\1aFF\t(0,220,1.7\1a&H50&)\fnSource Han Serif TC\an4\b1\bord1\fs30\fsp4\c&HFFFFFF&\3c&HFFFFFF&\3a&HDC&\blur20\pos(1439.467,542.067)}人偶餅
 Dialogue: 0,0:02:24.79,0:02:24.87,Sign_Rounded,,0,0,0,,{\fad(0,0)\an8\c&H0D0CA2&\bord0\blur1\b1\fs60\fsp2\pos(920,104)\clip(m 917 72 l 1032 236 1295 233 1283 75)\1a&H82&}水果{\c&H000000&}果凍
