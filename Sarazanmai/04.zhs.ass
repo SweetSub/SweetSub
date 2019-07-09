@@ -92,6 +92,10 @@ Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,BANK
 Dialogue: 0,0:15:56.31,0:15:57.68,Sign_Gothic,,0,0,0,,{\blur6\fad(600,0)\bord6\3c&H75360A&\c&H000000&\org(960,550)\fr180\t(620,790,1,\fr0)\t(790,830,1,\fr-5)\t(830,880,1,\fr0)}A
 Dialogue: 0,0:16:08.57,0:16:09.69,Sign_Gothic,,0,0,0,,{\blur6\fad(570,0)\bord6\3c&H75360A&\c&HE0DAD1&\pos(950,490)}A
 Dialogue: 0,0:13:29.33,0:13:31.58,Sign_Others,,0,0,0,,{\fn汉仪雅酷黑 95W}{\fad(1020,0)\b1\fs90\bord0\shad4\pos(960,860)}吾妻桥{\fnSource Han Sans SC Medium} @ {\fn汉仪雅酷黑 95W}欲望领域
+Dialogue: 0,0:12:15.21,0:12:19.21,Sign_Others,,0,0,0,,{\fn汉仪雅酷黑 95W\fs20\b1\an8\c&HFBA818&\bord1\blur2\3c&HFC7214&\pos(1002,16)}soba
+Dialogue: 0,0:12:15.21,0:12:19.21,Sign_Others,,0,0,0,,{\fn汉仪雅酷黑 95W}{\fs50\pos(960,30)\b1\an8\c&HFBA818&\bord1\blur2\3c&HFC7214&}欲望 荞麦
+Dialogue: 0,0:12:33.52,0:12:34.98,Sign_Others,,0,0,0,,{\fn汉仪雅酷黑 95W\fs20\b1\an8\c&HFBA818&\bord1\blur2\3c&HFC7214&\pos(1002,16)\fad(0,450)}soba
+Dialogue: 0,0:12:33.52,0:12:34.98,Sign_Others,,0,0,0,,{\fn汉仪雅酷黑 95W}{\fs50\pos(960,30)\b1\an8\c&HFBA818&\bord1\blur2\3c&HFC7214&\fad(0,450)}欲望 荞麦
 Dialogue: 0,0:19:19.55,0:19:20.09,Sign_Others,,0,0,0,,{\fnSource Han Serif SC}{\be1}{\bord0\fs40\c&H3B3FE9&\b1\pos(952.943,224)}{\fad(50,0)\c&H3E3BBE&}没有开始
 Dialogue: 0,0:19:19.55,0:19:20.09,Sign_Others,,0,0,0,,{\fnSource Han Serif SC}{\be1}{\bord0\fs40\c&H3B3FE9&\b1\pos(679.333,651.333)}{\fad(50,0)\c&H3E3BBE&}没有相连
 Dialogue: 0,0:19:19.55,0:19:20.09,Sign_Others,,0,0,0,,{\fnSource Han Serif SC}{\be1}{\bord0\fs40\c&H3B3FE9&\b1\pos(1234.8,658.4)}{\fad(50,0)\c&H3E3BBE&}没有终结

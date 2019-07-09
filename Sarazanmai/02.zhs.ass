@@ -127,6 +127,8 @@ Dialogue: 0,0:14:28.93,0:14:32.18,Sign_Rounded,Haruka,0,0,0,,{\fs50\an7\bord0\fa
 Dialogue: 0,0:15:39.25,0:15:41.33,Sign_Kanteiryu,Enta,0,0,0,,{\pos(960,60)\fad(500,500)\an8\3c&HA5BBC0&\1c&H212730&\fs50}Sarazanmai就是意识共有
 Dialogue: 0,0:15:41.33,0:15:42.79,Sign_Kanteiryu,Enta,0,0,0,,{\pos(960,60)\fad(500,0)\an8\3c&HA5BBC0&\1c&H212730&\fs50}Sarazanmai是有风险的
 Dialogue: 0,0:15:43.54,0:15:45.80,Sign_Others,,0,0,0,,{\fn汉仪雅酷黑 95W}{\fad(1020,0)\b1\fs90\bord0\shad4\pos(960,860)}吾妻桥{\fnSource Han Sans SC Medium} @ {\fn汉仪雅酷黑 95W}欲望领域
+Dialogue: 0,0:13:18.27,0:13:22.28,Sign_Others,,0,0,0,,{\fn汉仪雅酷黑 95W}{\fs50\pos(960,30)\b1\an8\c&HFBA818&\bord1\blur2\3c&HFC7214&}欲望 猫咪
+Dialogue: 0,0:13:36.75,0:13:39.25,Sign_Others,,0,0,0,,{\fn汉仪雅酷黑 95W}{\fs50\pos(960,30)\b1\an8\c&HFBA818&\bord1\blur2\3c&HFC7214&\fad(0,450)}欲望 猫咪
 Dialogue: 0,0:15:45.92,0:15:45.96,Sign_Others,Text,0,0,0,,{\fn汉仪雅酷黑 95W}{\fscy113.66\fscx113.66\bord5.68\c&HE5E5E5&\3c&H19101A&\fs60\pos(957.79,1301.63)}猫咪丧尸
 Dialogue: 0,0:15:45.96,0:15:46.00,Sign_Others,Text,0,0,0,,{\fn汉仪雅酷黑 95W}{\fscy113.04\fscx113.04\bord5.65\c&HE5E5E5&\3c&H19101A&\fs60\pos(958.13,1281.18)}猫咪丧尸
 Dialogue: 0,0:15:46.00,0:15:46.05,Sign_Others,Text,0,0,0,,{\fn汉仪雅酷黑 95W}{\fscy111.98\fscx111.98\bord5.6\c&HE5E5E5&\3c&H19101A&\fs60\pos(958.04,1259.99)}猫咪丧尸

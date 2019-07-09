@@ -60,7 +60,6 @@ Dialogue: 0,0:09:56.54,0:09:58.41,Ruby,,0,0,0,,{\pos(906,976)}sara
 Dialogue: 0,0:04:15.78,0:04:17.11,Ruby,,0,0,0,,{\pos(960,976)}good sa-luck
 Dialogue: 0,0:04:17.50,0:04:19.11,Ruby,,0,0,0,,{\pos(930,976)}good sa-luck
 Dialogue: 0,0:17:23.89,0:17:27.10,Ruby,,0,0,0,,{\pos(1317,976)}good sa-luck
-Dialogue: 4,0:11:11.19,0:11:13.69,Ruby,,0,0,0,,{\fn汉仪雅酷黑 95W\fs20\b1\an8\c&HFFB400&\bord1\blur2\3c&HFC7214&\pos(1041,16)\fad(0,450)}charge
 Dialogue: 0,0:15:53.13,0:15:56.47,Ruby,,0,0,0,,{\pos(902,976)}kappa
 Dialogue: 0,0:20:09.72,0:20:12.55,Ruby,,0,0,0,,{\pos(933,976)}harukappa
 Comment: 0,0:00:00.00,0:00:00.01,Main,,0,0,0,,Sign
@@ -82,7 +81,7 @@ Dialogue: 0,0:13:30.54,0:13:31.85,Sign_Kanteiryu,,0,0,0,,{\pos(960,60)\fad(500,5
 Dialogue: 1,0:13:31.35,0:13:32.50,Sign_Kanteiryu,,0,0,0,,{\pos(960,60)\fad(500,500)\an8\3c&HA5BBC0&\1c&H212730&\fs50}欲望與箱
 Dialogue: 2,0:13:32.00,0:13:33.45,Sign_Kanteiryu,,0,0,0,,{\pos(960,60)\fad(500,0)\an8\3c&HA5BBC0&\1c&H212730&\fs50}欲望即箱
 Dialogue: 0,0:13:40.96,0:13:43.76,Sign_Kanteiryu,,0,0,0,,{\fad(500,500)\an8\3c&HA5BBC0&\1c&H212730&\fs50}河童是戰士
-Dialogue: 0,0:11:11.19,0:11:13.69,Sign_Others,,0,0,0,,{\fn汉仪雅酷黑 95W}{\fs50\pos(960,30)\b1\an8\c&HFBA818&\bord1\blur2\3c&HFC7214&\fad(0,450)}欲望 箱子 充能
+Dialogue: 0,0:11:11.19,0:11:13.69,Sign_Others,,0,0,0,,{\fn汉仪雅酷黑 95W}{\fs50\pos(960,30)\b1\an8\c&HFBA818&\bord1\blur2\3c&HFC7214&\fad(0,450)}欲望 箱子
 Dialogue: 2,0:00:16.91,0:00:18.91,Sign_Kanteiryu,,0,0,0,,{\an8\bord0\fs60\c&H304046&\pos(770,70)}吾
 Dialogue: 2,0:00:16.91,0:00:18.91,Sign_Kanteiryu,,0,0,0,,{\an8\bord0\fs60\c&H304046&\pos(964,70)}妻
 Dialogue: 2,0:00:16.91,0:00:18.91,Sign_Kanteiryu,,0,0,0,,{\an8\bord0\fs60\c&H304046&\pos(1158,70)}橋
