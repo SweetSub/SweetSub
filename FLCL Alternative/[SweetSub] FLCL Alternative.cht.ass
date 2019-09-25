@@ -17,9 +17,9 @@ Video File: [SweetSub] FLCL Alternative.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 3455
-Active Line: 3462
-Video Position: 192975
+Scroll Position: 2628
+Active Line: 2629
+Video Position: 111331
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -2666,7 +2666,7 @@ Dialogue: 0,1:17:04.05,1:17:05.55,Line CN - Top,,0,0,0,,腦袋  腦袋痛嗎？
 Dialogue: 0,1:17:04.43,1:17:07.97,Line CN,,0,0,0,,沒問題  才怪
 Dialogue: 0,1:17:15.69,1:17:16.82,Line CN,,0,0,0,,又跑掉了
 Dialogue: 0,1:17:21.32,1:17:22.03,Line CN,,0,0,0,,河本？
-Dialogue: 0,1:17:23.41,1:17:26.57,Line CN - Top,,0,0,0,,{畫面}{\c&H433D39&\3c&HCCC0B8&}辛苦了
+Dialogue: 1,1:17:23.41,1:17:26.57,Line CN - Top,,0,0,0,,{畫面}{\c&H433D39&\3c&HCCC0B8&}辛苦了
 Dialogue: 0,1:17:23.41,1:17:26.57,Line CN - Top,,0,0,0,,{\pos(957.714,54.286)}{畫面}{\fad(100,0)\bord0\c&HD0C4BC&\fscx500\fscy200\an5\blur5}■
 Dialogue: 2,1:17:30.91,1:17:33.08,Scr,,0,0,0,,{\an8\pos(500,30)\c&H44484C&\bord0}神秘圖釘是外星人搞出來的嗎？
 Dialogue: 1,1:17:30.91,1:17:33.08,Scr,,0,0,0,,{\c&H53595D&\bord0\an8\pos(500,115)\fs60}美國媒體的推測  在世界各國引起話題
