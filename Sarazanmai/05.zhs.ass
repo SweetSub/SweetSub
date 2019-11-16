@@ -98,7 +98,7 @@ Dialogue: 0,0:10:07.67,0:10:09.92,Sign_Rounded,,0,0,0,,{\fs30\bord2\c&H767AF6&\b
 Dialogue: 0,0:09:22.37,0:09:27.37,Sign_Rounded,,0,0,0,,{\fs30\bord2\c&H767AF6&\b1\1a&HFF&\3a&HFF&\3c&HF2F6FC&\pos(960,314)}雷鸣会馆　　{\1a&H00&\3a&H00&\c&HE590F6&}吾妻莎拉握手会　　{\c&H8CB5F9&}浅草皿TV
 Comment: 0,0:02:54.02,0:02:56.75,Sign_Rounded,,0,0,0,,{\fs60\an8\c&H575BC7&\bord2\shad3\4c&H3D4473&\3c&H2D387D&\4a&H96&}雷鸣会馆
 Dialogue: 0,0:03:50.33,0:03:53.33,Sign_Gothic,,0,0,0,,{\3c&HC4D0D6&\c&H4142A8&\bord4\pos(960,470)\blur3}清扫中
-Dialogue: 0,0:06:05.80,0:06:09.80,Sign_Others,,0,0,0,,{\an8\c&H43484A&\3c&HF5FCFD&\fs50\pos(1660,50)}浅草奇怪尸体事件  调查总部
+Dialogue: 0,0:06:05.80,0:06:09.80,Sign_Others,,0,0,0,,{\an8\c&H43484A&\3c&HF5FCFD&\fs50\pos(1645,50)}浅草死因不明尸体事件  调查总部
 Comment: 0,0:00:00.00,0:00:00.00,Main,,0,0,0,,Sara TV
 Dialogue: 0,0:05:18.92,0:05:21.67,Sign_Others,,0,0,0,,{\fn方正剪纸_GBK\blir1\fs30\an8\c&H9755FE&\3c&HFFFFFF&\pos(496.4,27.733)\frz348.7}浅草皿TV
 Dialogue: 0,0:05:18.92,0:05:21.17,Sign_Gothic,Text,0,0,0,,{\fs64\an6\fn方正少儿_GBK\b1\bord2\shad2\4c&H9925E8&\3c&H8C44FF&\pos(1473.2,830)\frz346.3}幸运自拍占卜
@@ -499,7 +499,7 @@ Dialogue: 0,0:05:58.29,0:05:59.88,Main,Enta,0,0,0,,你在搞什么啊  一稀
 Dialogue: 0,0:05:59.88,0:06:01.42,Main,Enta,0,0,0,,要是被春河发现了该怎么办
 Dialogue: 0,0:06:02.14,0:06:03.87,Top,Sara,0,0,0,,那么  祝大家今天也…
 Dialogue: 0,0:06:03.87,0:06:05.80,Top,Sara,0,0,0,,好运满盘！
-Dialogue: 0,0:06:06.86,0:06:11.80,Main,Cop,0,0,0,,在今天凌晨发现的奇怪尸体的身份已经查明了
+Dialogue: 0,0:06:06.86,0:06:11.80,Main,Cop,0,0,0,,在今天凌晨发现的死因不明的尸体  身份已经查明了
 Dialogue: 0,0:06:11.80,0:06:15.06,Main,Cop,0,0,0,,匂野福郎  35 岁  无职
 Dialogue: 0,0:06:15.06,0:06:16.12,Main,Cop,0,0,0,,在半年前
 Dialogue: 0,0:06:16.12,0:06:20.94,Main,Cop,0,0,0,,他作为「使用浅草自然保护动物制作香囊事件」的嫌疑人而被逮捕
