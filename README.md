@@ -18,13 +18,14 @@ SweetSub
 
 
 ### **剧场版**
-| 英文名           | 中文名                  | 日文名                                 | 备注                                                         |
-| ---------------- | ----------------------- | -------------------------------------- | ------------------------------------------------------------ |
-| Okko's Inn       | 温泉屋少掌柜            | 劇場版　若おかみは小学生!              | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Okko's%20Inn) |
-| FLCL Alternative | 特别的她  外传          | フリクリ　オルタナ                     | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/FLCL%20Alternative) [B 站](https://www.bilibili.com/video/av43737048) |
-| FLCL Progressive | 特别的她  后传          | フリクリ　プログレ                     | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/FLCL%20Progressive) |
-| Modest Heros     | 小英雄 -蟹和蛋和透明人- | ちいさな英雄－カニとタマゴと透明人間－ | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Modest%20Heros) [B 站](https://www.bilibili.com/video/av50605867) |
-| Mirai            | 未来的未来              | 未来のミライ                           | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Mirai) |
+| 英文名            | 中文名                  | 日文名                                 | 备注                                                         |
+| ----------------- | ----------------------- | -------------------------------------- | ------------------------------------------------------------ |
+| Okko's Inn        | 温泉屋少掌柜            | 劇場版　若おかみは小学生!              | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Okko's%20Inn) |
+| FLCL Alternative  | 特别的她  外传          | フリクリ　オルタナ                     | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/FLCL%20Alternative) [B 站](https://www.bilibili.com/video/av43737048) |
+| FLCL Progressive  | 特别的她  后传          | フリクリ　プログレ                     | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/FLCL%20Progressive) |
+| Modest Heros      | 小英雄 -蟹和蛋和透明人- | ちいさな英雄－カニとタマゴと透明人間－ | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Modest%20Heros) [B 站](https://www.bilibili.com/video/av50605867) |
+| Mirai             | 未来的未来              | 未来のミライ                           | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Mirai) |
+| Cencoroll Connect | 千子  连接              | センコロール　コネクト                 | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Cencoroll%20Connect) |
 
 
 
