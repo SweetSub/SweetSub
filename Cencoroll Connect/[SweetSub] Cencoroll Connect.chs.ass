@@ -11,16 +11,6 @@ Video Aspect Ratio: 0
 Video Zoom: 4
 YCbCr Matrix: TV.709
 
-[Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: cc.mkv
-Video File: cc.mkv
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 1094
-Active Line: 1101
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Source Han Sans SC Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,1,0,1,3,0,2,10,10,30,1
@@ -54,8 +44,152 @@ Comment: 0,0:30:00.48,0:30:07.49,Default,,0,0,0,,{\p5\an2\fscx60\fscy60\fax-0.15
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,//Sign
 Dialogue: 1,0:05:44.78,0:05:46.86,Screen,notice,0,0,0,,{\an5\fs80\3c&HDADCDC&\pos(960,70)\c&HBBBBBB&}蛋糕店
 Dialogue: 0,0:05:44.78,0:05:46.86,Screen,notice,0,0,0,,{\an5\fs80\bord0\blur3\fscx450\fscy180\pos(960,70)\c&HE2E2E2&}■
-Dialogue: 1,0:26:44.45,0:26:51.33,Screen,,0,0,0,,{\bord0\c&H686866&\fs50\an5\pos(970,271)}大小姐
-Dialogue: 0,0:26:44.45,0:26:51.33,Screen,,0,0,0,,{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(970,271)}■
+Dialogue: 1,0:26:44.45,0:26:44.58,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(970,271)}大小姐
+Dialogue: 1,0:26:44.58,0:26:44.70,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(970,291)}大小姐
+Dialogue: 1,0:26:44.70,0:26:44.83,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(970,267)}大小姐
+Dialogue: 1,0:26:44.83,0:26:44.87,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(970,311)}大小姐
+Dialogue: 1,0:26:44.87,0:26:44.95,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.99,311)}大小姐
+Dialogue: 1,0:26:44.95,0:26:44.99,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(970,291)}大小姐
+Dialogue: 1,0:26:44.99,0:26:45.08,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.99,291)}大小姐
+Dialogue: 1,0:26:45.08,0:26:45.20,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.99,298.99)}大小姐
+Dialogue: 1,0:26:45.20,0:26:45.33,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.99,279)}大小姐
+Dialogue: 1,0:26:45.33,0:26:45.45,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.98,299)}大小姐
+Dialogue: 1,0:26:45.45,0:26:45.58,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.98,273)}大小姐
+Dialogue: 1,0:26:45.58,0:26:45.70,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.98,307)}大小姐
+Dialogue: 1,0:26:45.70,0:26:45.83,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.97,271)}大小姐
+Dialogue: 1,0:26:45.83,0:26:45.87,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.98,291)}大小姐
+Dialogue: 1,0:26:45.87,0:26:45.91,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.97,291)}大小姐
+Dialogue: 1,0:26:45.91,0:26:45.95,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.98,291)}大小姐
+Dialogue: 1,0:26:45.95,0:26:46.08,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.97,266.99)}大小姐
+Dialogue: 1,0:26:46.08,0:26:46.20,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.97,311)}大小姐
+Dialogue: 1,0:26:46.20,0:26:46.33,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.96,291)}大小姐
+Dialogue: 1,0:26:46.33,0:26:46.45,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.96,299)}大小姐
+Dialogue: 1,0:26:46.45,0:26:46.54,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.96,279)}大小姐
+Dialogue: 1,0:26:46.54,0:26:46.58,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.97,279)}大小姐
+Dialogue: 1,0:26:46.58,0:26:46.70,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.97,299)}大小姐
+Dialogue: 1,0:26:46.70,0:26:46.83,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.97,273)}大小姐
+Dialogue: 1,0:26:46.83,0:26:46.87,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.97,307)}大小姐
+Dialogue: 1,0:26:46.87,0:26:46.91,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.96,306.99)}大小姐
+Dialogue: 1,0:26:46.91,0:26:46.96,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.97,307)}大小姐
+Dialogue: 1,0:26:46.96,0:26:47.04,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.97,271)}大小姐
+Dialogue: 1,0:26:47.04,0:26:47.08,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.96,271)}大小姐
+Dialogue: 1,0:26:47.08,0:26:47.21,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.96,291)}大小姐
+Dialogue: 1,0:26:47.21,0:26:47.25,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.95,267)}大小姐
+Dialogue: 1,0:26:47.25,0:26:47.33,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.96,267)}大小姐
+Dialogue: 1,0:26:47.33,0:26:47.46,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.96,311)}大小姐
+Dialogue: 1,0:26:47.46,0:26:47.58,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.96,291)}大小姐
+Dialogue: 1,0:26:47.58,0:26:47.71,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.96,299)}大小姐
+Dialogue: 1,0:26:47.71,0:26:47.75,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.96,279)}大小姐
+Dialogue: 1,0:26:47.75,0:26:47.83,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.96,278.99)}大小姐
+Dialogue: 1,0:26:47.83,0:26:47.91,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.96,299)}大小姐
+Dialogue: 1,0:26:47.91,0:26:47.96,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.97,299)}大小姐
+Dialogue: 1,0:26:47.96,0:26:48.08,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.96,273)}大小姐
+Dialogue: 1,0:26:48.08,0:26:48.21,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.96,307)}大小姐
+Dialogue: 1,0:26:48.21,0:26:48.33,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.97,271)}大小姐
+Dialogue: 1,0:26:48.33,0:26:48.46,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.97,291)}大小姐
+Dialogue: 1,0:26:48.46,0:26:48.54,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.97,267)}大小姐
+Dialogue: 1,0:26:48.54,0:26:48.58,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.96,267)}大小姐
+Dialogue: 1,0:26:48.58,0:26:48.71,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.96,311)}大小姐
+Dialogue: 1,0:26:48.71,0:26:48.79,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.96,291)}大小姐
+Dialogue: 1,0:26:48.79,0:26:48.83,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.97,291)}大小姐
+Dialogue: 1,0:26:48.83,0:26:48.96,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.96,299)}大小姐
+Dialogue: 1,0:26:48.96,0:26:49.08,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.96,279)}大小姐
+Dialogue: 1,0:26:49.08,0:26:49.17,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.97,299)}大小姐
+Dialogue: 1,0:26:49.17,0:26:49.21,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.96,299)}大小姐
+Dialogue: 1,0:26:49.21,0:26:49.29,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.96,273)}大小姐
+Dialogue: 1,0:26:49.29,0:26:49.33,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.95,273)}大小姐
+Dialogue: 1,0:26:49.33,0:26:49.46,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.96,307)}大小姐
+Dialogue: 1,0:26:49.46,0:26:49.58,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.95,271)}大小姐
+Dialogue: 1,0:26:49.58,0:26:49.71,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.95,291)}大小姐
+Dialogue: 1,0:26:49.71,0:26:49.83,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.94,267)}大小姐
+Dialogue: 1,0:26:49.83,0:26:49.87,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.94,311)}大小姐
+Dialogue: 1,0:26:49.87,0:26:49.96,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.95,311)}大小姐
+Dialogue: 1,0:26:49.96,0:26:50.04,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.95,291)}大小姐
+Dialogue: 1,0:26:50.04,0:26:50.08,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.94,291)}大小姐
+Dialogue: 1,0:26:50.08,0:26:50.21,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.94,299)}大小姐
+Dialogue: 1,0:26:50.21,0:26:50.29,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.95,279)}大小姐
+Dialogue: 1,0:26:50.29,0:26:50.33,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.94,279.01)}大小姐
+Dialogue: 1,0:26:50.33,0:26:50.46,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.94,299)}大小姐
+Dialogue: 1,0:26:50.46,0:26:50.58,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.94,273)}大小姐
+Dialogue: 1,0:26:50.58,0:26:50.71,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.93,307)}大小姐
+Dialogue: 1,0:26:50.71,0:26:50.83,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.93,271.01)}大小姐
+Dialogue: 1,0:26:50.83,0:26:50.96,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.94,291.01)}大小姐
+Dialogue: 1,0:26:50.96,0:26:51.08,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.94,267.01)}大小姐
+Dialogue: 1,0:26:51.08,0:26:51.21,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.94,311.01)}大小姐
+Dialogue: 1,0:26:51.21,0:26:51.33,Screen,,0,0,0,,{=1}{\bord0\c&H686866&\fs50\an5\pos(969.94,291)}大小姐
+Dialogue: 0,0:26:44.45,0:26:44.58,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(970,271)}■
+Dialogue: 0,0:26:44.58,0:26:44.70,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(970,291)}■
+Dialogue: 0,0:26:44.70,0:26:44.83,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(970,267)}■
+Dialogue: 0,0:26:44.83,0:26:44.87,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(970,311)}■
+Dialogue: 0,0:26:44.87,0:26:44.95,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.99,311)}■
+Dialogue: 0,0:26:44.95,0:26:44.99,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(970,291)}■
+Dialogue: 0,0:26:44.99,0:26:45.08,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.99,291)}■
+Dialogue: 0,0:26:45.08,0:26:45.20,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.99,298.99)}■
+Dialogue: 0,0:26:45.20,0:26:45.33,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.99,279)}■
+Dialogue: 0,0:26:45.33,0:26:45.45,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.98,299)}■
+Dialogue: 0,0:26:45.45,0:26:45.58,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.98,273)}■
+Dialogue: 0,0:26:45.58,0:26:45.70,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.98,307)}■
+Dialogue: 0,0:26:45.70,0:26:45.83,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.97,271)}■
+Dialogue: 0,0:26:45.83,0:26:45.87,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.98,291)}■
+Dialogue: 0,0:26:45.87,0:26:45.91,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.97,291)}■
+Dialogue: 0,0:26:45.91,0:26:45.95,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.98,291)}■
+Dialogue: 0,0:26:45.95,0:26:46.08,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.97,266.99)}■
+Dialogue: 0,0:26:46.08,0:26:46.20,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.97,311)}■
+Dialogue: 0,0:26:46.20,0:26:46.33,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.96,291)}■
+Dialogue: 0,0:26:46.33,0:26:46.45,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.96,299)}■
+Dialogue: 0,0:26:46.45,0:26:46.54,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.96,279)}■
+Dialogue: 0,0:26:46.54,0:26:46.58,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.97,279)}■
+Dialogue: 0,0:26:46.58,0:26:46.70,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.97,299)}■
+Dialogue: 0,0:26:46.70,0:26:46.83,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.97,273)}■
+Dialogue: 0,0:26:46.83,0:26:46.87,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.97,307)}■
+Dialogue: 0,0:26:46.87,0:26:46.91,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.96,306.99)}■
+Dialogue: 0,0:26:46.91,0:26:46.96,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.97,307)}■
+Dialogue: 0,0:26:46.96,0:26:47.04,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.97,271)}■
+Dialogue: 0,0:26:47.04,0:26:47.08,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.96,271)}■
+Dialogue: 0,0:26:47.08,0:26:47.21,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.96,291)}■
+Dialogue: 0,0:26:47.21,0:26:47.25,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.95,267)}■
+Dialogue: 0,0:26:47.25,0:26:47.33,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.96,267)}■
+Dialogue: 0,0:26:47.33,0:26:47.46,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.96,311)}■
+Dialogue: 0,0:26:47.46,0:26:47.58,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.96,291)}■
+Dialogue: 0,0:26:47.58,0:26:47.71,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.96,299)}■
+Dialogue: 0,0:26:47.71,0:26:47.75,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.96,279)}■
+Dialogue: 0,0:26:47.75,0:26:47.83,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.96,278.99)}■
+Dialogue: 0,0:26:47.83,0:26:47.91,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.96,299)}■
+Dialogue: 0,0:26:47.91,0:26:47.96,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.97,299)}■
+Dialogue: 0,0:26:47.96,0:26:48.08,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.96,273)}■
+Dialogue: 0,0:26:48.08,0:26:48.21,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.96,307)}■
+Dialogue: 0,0:26:48.21,0:26:48.33,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.97,271)}■
+Dialogue: 0,0:26:48.33,0:26:48.46,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.97,291)}■
+Dialogue: 0,0:26:48.46,0:26:48.54,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.97,267)}■
+Dialogue: 0,0:26:48.54,0:26:48.58,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.96,267)}■
+Dialogue: 0,0:26:48.58,0:26:48.71,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.96,311)}■
+Dialogue: 0,0:26:48.71,0:26:48.79,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.96,291)}■
+Dialogue: 0,0:26:48.79,0:26:48.83,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.97,291)}■
+Dialogue: 0,0:26:48.83,0:26:48.96,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.96,299)}■
+Dialogue: 0,0:26:48.96,0:26:49.08,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.96,279)}■
+Dialogue: 0,0:26:49.08,0:26:49.17,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.97,299)}■
+Dialogue: 0,0:26:49.17,0:26:49.21,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.96,299)}■
+Dialogue: 0,0:26:49.21,0:26:49.29,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.96,273)}■
+Dialogue: 0,0:26:49.29,0:26:49.33,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.95,273)}■
+Dialogue: 0,0:26:49.33,0:26:49.46,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.96,307)}■
+Dialogue: 0,0:26:49.46,0:26:49.58,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.95,271)}■
+Dialogue: 0,0:26:49.58,0:26:49.71,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.95,291)}■
+Dialogue: 0,0:26:49.71,0:26:49.83,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.94,267)}■
+Dialogue: 0,0:26:49.83,0:26:49.87,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.94,311)}■
+Dialogue: 0,0:26:49.87,0:26:49.96,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.95,311)}■
+Dialogue: 0,0:26:49.96,0:26:50.04,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.95,291)}■
+Dialogue: 0,0:26:50.04,0:26:50.08,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.94,291)}■
+Dialogue: 0,0:26:50.08,0:26:50.21,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.94,299)}■
+Dialogue: 0,0:26:50.21,0:26:50.29,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.95,279)}■
+Dialogue: 0,0:26:50.29,0:26:50.33,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.94,279.01)}■
+Dialogue: 0,0:26:50.33,0:26:50.46,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.94,299)}■
+Dialogue: 0,0:26:50.46,0:26:50.58,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.94,273)}■
+Dialogue: 0,0:26:50.58,0:26:50.71,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.93,307)}■
+Dialogue: 0,0:26:50.71,0:26:50.83,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.93,271.01)}■
+Dialogue: 0,0:26:50.83,0:26:50.96,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.94,291.01)}■
+Dialogue: 0,0:26:50.96,0:26:51.08,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.94,267.01)}■
+Dialogue: 0,0:26:51.08,0:26:51.21,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.94,311.01)}■
+Dialogue: 0,0:26:51.21,0:26:51.33,Screen,,0,0,0,,{=0}{\bord0\c&H1E1E1E&\an5\fscx250\blur2\pos(969.94,291)}■
 Comment: 1,0:42:49.96,0:42:53.00,Screen,notice,0,0,0,,{\an5\fs40\bord0\c&H000000&\3c&HFFFFFF&\pos(953.143,86)}日本特定动物对策管理研究所\N\N{\fs25}调查部对策课                                                   \h\N{\fs40}后藤田  学                                \h
 Comment: 0,0:42:49.96,0:42:53.00,Screen,notice,0,0,0,,{\an5\fs60\c&HF5F5F5&\bord0\fscx1300\fscy500\pos(979.428,84.857)\blur2}■
 Dialogue: 1,0:45:02.05,0:45:03.97,Screen,,0,0,0,,{\an5\bord0\c&H182433&\pos(960,100)}泽汤酒店
@@ -1451,3 +1585,7 @@ Comment: 0,0:26:30.77,0:26:34.48,Ending_CN_Nagi,,0,0,0,,{\blur10\t(0,200,\blur0)
 Comment: 1,0:26:34.32,0:26:37.78,Ending_CN_Nagi,,0,0,0,,{\blur10\t(0,200,\blur0)\fad(150,150)}真无聊  你也是太晚熟了吧
 Comment: 0,0:26:37.61,0:26:40.87,Ending_CN_Nagi,,0,0,0,,{\blur10\t(0,200,\blur0)\fad(150,150)}Wooo ho!
 Comment: 1,0:26:40.70,0:26:41.74,Ending_CN_Nagi,,0,0,0,,{\blur10\t(0,200,\blur0)\fad(150,150)}好吧
+
+[Aegisub Extradata]
+Data: 0,a-mo,e{"uuid"#3A"84a8e510-5a72-43b7-8f2f-adeaf8303b63"#2C"originalText"#3A"{\\bord0\\c&H1E1E1E&\\an5\\fscx250\\blur2\\pos(970#2C271)}#E2#96#A0"}
+Data: 1,a-mo,e{"uuid"#3A"8d9c12fe-2f8c-4c4b-aeb0-4d6507d883e1"#2C"originalText"#3A"{\\bord0\\c&H686866&\\fs50\\an5\\pos(970#2C271)}#E5#A4#A7#E5#B0#8F#E5#A7#90"}
