@@ -8,7 +8,7 @@ Cencoroll Connect 包含了前作 Cencoroll。
 
 思源黑體 Medium \<Source Han Sans TC Medium>
 
-源ノ角ゴシック JP Medium \<Source Han Sans JP Medium>
+源ノ角ゴシック Medium \<Source Han Sans Medium>
 
 [简体](https://github.com/tastysugar/SweetSub/raw/master/Cencoroll%20Connect/[SweetSub]%20Cencoroll%20Connect.chs.ass)
 
