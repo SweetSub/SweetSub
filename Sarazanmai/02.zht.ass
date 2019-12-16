@@ -92,7 +92,7 @@ Dialogue: 0,0:09:19.41,0:09:25.92,Sign_Gothic,Text,0,0,0,,{\fn方正准圆_GBK\b
 Dialogue: 0,0:09:19.41,0:09:25.92,Sign_Others,Text,0,0,0,,{\\fn方正少儿_GBK\bord1\fs14\c&H7A37FE&\3c&HFFFFFF&\fad(100,0)\pos(1237.948,360.364)}相親相愛蜜蜂忍者節
 Dialogue: 0,0:09:19.41,0:09:25.92,Sign_Others,Text,0,0,0,,{\fn方正少儿_GBK\fs14\3c&H7636EB&\bord1\fad(100,0)\pos(966,327.385)}情侶限定
 Dialogue: 0,0:10:16.72,0:10:20.22,Sign_Others,,0,0,0,,{\an8\fn方正少儿_GBK\fs60\c&H5546DA&\bord6\3c&HF8FAFC&}花{\c&H1815DD&}屋敷
-Dialogue: 0,0:11:21.53,0:11:25.53,Sign_Gothic,Text,0,0,0,,{\an8\c&H43484A&\3c&HF5FCFD&\fs50\pos(1660,50)}淺草奇怪屍體事件  調查總部
+Dialogue: 0,0:11:21.53,0:11:25.53,Sign_Gothic,Text,0,0,0,,{\an8\c&H43484A&\3c&HF5FCFD&\fs50\pos(1645,50)}淺草死因不明屍體事件  調查總部
 Dialogue: 1,0:11:40.55,0:11:43.18,Sign_Others,Text,0,0,0,,{\fs30\fnSource Han Serif TC\b1\c&H8D8D8D&\fsp6\an7\pos(984,738)\3c&H8D8D8D&\3a&HC8&\bord1\blur8}作為不斷捉走本地的寵物貓，剝去其全身毛皮\N\N的「淺草剝貓皮事件」的嫌疑人半年前一度被\N\N逮捕。但因證據不足，後得到釋放。
 Dialogue: 0,0:11:40.55,0:11:43.18,Sign_Others,Text,0,0,0,,{\p1\pos(0,0)\an7\bord0\c&HF2F2F2&\clip()}m 960 720 l 960 920 1535 920 1535 720
 Dialogue: 0,0:11:51.44,0:11:53.31,Sign_Gothic,,0,0,0,,{\c&H25262D&\blur0\bord0\shad1\fs50\pos(1115,70)}水獺派出所
@@ -759,7 +759,7 @@ Dialogue: 0,0:11:13.65,0:11:14.90,Main,Kazuki,0,0,0,,這…
 Dialogue: 0,0:11:15.71,0:11:16.53,Main,Kazuki,0,0,0,,不行
 Dialogue: 0,0:11:16.53,0:11:18.91,Main,Toi,0,0,0,,你也太自私任性了吧
 Dialogue: 0,0:11:18.91,0:11:21.53,Main,Kazuki,0,0,0,,久慈才是  你到底和喵太郎什麼仇什麼怨啊
-Dialogue: 0,0:11:21.53,0:11:26.01,Main,Man,0,0,0,,在今天凌晨發現的奇怪屍體的身份已經查明了
+Dialogue: 0,0:11:21.53,0:11:26.01,Main,Man,0,0,0,,在今天凌晨發現的死因不明的屍體  身份已經查明了
 Dialogue: 0,0:11:26.01,0:11:27.56,Main,Man,0,0,0,,貓山毛吉
 Dialogue: 0,0:11:27.56,0:11:29.36,Main,Man,0,0,0,,三十八歲  無職
 Dialogue: 0,0:11:29.36,0:11:32.54,Main,Man,0,0,0,,這個男的在半年前  作為不斷捉走寵物貓
