@@ -22,6 +22,7 @@
 
 
 [简体字幕合集下载](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/%5BSweetSub%5D%2520Sarazanmai.zhs.rar)
+
 [繁體字幕合集下載](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/%5BSweetSub%5D%2520Sarazanmai.zht.rar)
 
 [对应 TV 时间轴的字幕下载](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/%5BSweetSub%5D%20Sarazanmai%20TV%20%E7%89%88%E5%AD%97%E5%B9%95.rar)
