@@ -12,9 +12,6 @@ YCbCr Matrix: TV.709
 Original Translation: tastySugar
 Original Editing: Senren
 
-[Aegisub Project Garbage]
-Active Line: 3
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Line CN,思源黑体 Medium,75,&H00FFFFFF,&H000019FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,10,10,45,1
@@ -789,8 +786,8 @@ Dialogue: 1,0:28:01.61,0:28:02.91,Line CN,,0,0,0,,清醒了？
 Dialogue: 0,0:28:01.61,0:28:02.91,Line JP,,0,0,0,,目 覚めた？
 Dialogue: 1,0:28:02.91,0:28:04.76,Line CN,,0,0,0,,那我让你看看吧
 Dialogue: 0,0:28:02.91,0:28:04.76,Line JP,,0,0,0,,へたら  見せちゃげるいね
-Dialogue: 1,0:28:04.78,0:28:06.37,Line CN,,0,0,0,,跟我来！
-Dialogue: 0,0:28:04.78,0:28:06.37,Line JP,,0,0,0,,こっち！
+Dialogue: 1,0:28:04.78,0:28:05.66,Line CN,,0,0,0,,跟我来！
+Dialogue: 0,0:28:04.78,0:28:05.66,Line JP,,0,0,0,,こっち！
 Dialogue: 1,0:28:05.66,0:28:08.08,Line CN,,0,0,0,,啊  等等我啊
 Dialogue: 0,0:28:05.66,0:28:08.08,Line JP,,0,0,0,,あ～  ちょっと待ってよ
 Dialogue: 1,0:28:08.08,0:28:09.95,Line CN,,0,0,0,,这里  这里
@@ -2210,8 +2207,8 @@ Dialogue: 1,1:12:35.24,1:12:38.12,Line CN,,0,0,0,,明明我最希望她能笑
 Dialogue: 0,1:12:35.24,1:12:38.12,Line JP,,0,0,0,,一番  笑ってほしい人なのにね
 Dialogue: 1,1:12:38.12,1:12:40.21,Line CN,,0,0,0,,新子
 Dialogue: 0,1:12:38.12,1:12:40.21,Line JP,,0,0,0,,新子ちゃん
-Dialogue: 1,1:12:40.39,1:12:43.02,Line CN,,0,0,0,,明天的约定是…
-Dialogue: 0,1:12:40.39,1:12:43.02,Line JP,,0,0,0,,あしたの約束は…
+Dialogue: 1,1:12:40.39,1:12:42.71,Line CN,,0,0,0,,明天的约定是…
+Dialogue: 0,1:12:40.39,1:12:42.71,Line JP,,0,0,0,,あしたの約束は…
 Dialogue: 1,1:12:42.71,1:12:45.69,Line CN,,0,0,0,,明天要大家一起露出笑脸
 Dialogue: 0,1:12:42.71,1:12:45.69,Line JP,,0,0,0,,あしたは  みんなで笑うこと
 Dialogue: 1,1:12:46.13,1:12:47.56,Line CN,,0,0,0,,咦？
