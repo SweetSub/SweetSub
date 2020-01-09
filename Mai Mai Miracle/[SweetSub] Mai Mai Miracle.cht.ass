@@ -33,6 +33,13 @@ Style: ED JP - ruby - 2,FOT-UDMarugo_Large Pr6N E,30,&H00FFFFFF,&H000019FF,&H009
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Line CN,,0,0,0,,本字幕由 SweetSub 製作
+Comment: 0,0:00:00.00,0:00:00.00,Line CN,,0,0,0,,本字幕在遵循 Creative Common BY-NC-ND 4.0 規則的情況下可以自由轉載、使用。
+Comment: 0,0:00:00.00,0:00:00.00,Line CN,,0,0,0,,即，在署名、非商業利用、不進行修改的情況下可以自由轉載使用。
+Comment: 0,0:00:00.00,0:00:00.00,Line CN,,0,0,0,,如果是僅僅是修改時間軸匹配自己的片源的話，可以作為例外，在署名、非商業利用的情況下，可以自由轉載、使用。
+Comment: 0,0:00:00.00,0:00:00.00,Line CN,,0,0,0,,如果在其它情況下想要轉載和使用本字幕，可以通過 telegram 聯繫我。
+Comment: 0,0:00:00.00,0:00:00.00,Line CN,,0,0,0,,該版本為最終版字幕 v1，不出意外不會再做修正。
+Comment: 0,0:00:00.00,0:00:00.00,Line CN,,0,0,0,,如果在字幕中發現了錯誤或者有其它問題，可以使用 telegram 聯繫我，詳細方法見動漫花園發布頁。
 Dialogue: 1,0:00:47.02,0:00:50.49,Line CN - TOP,,0,0,0,,光子  我們去買東西囉
 Dialogue: 0,0:00:47.02,0:00:50.49,Line JP - TOP,,0,0,0,,光子ちゃ～ん  買い物に行くよ～
 Dialogue: 1,0:00:50.49,0:00:53.13,Line CN - TOP,,0,0,0,,{\an8}啊  等等我
