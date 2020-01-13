@@ -47,7 +47,7 @@ SweetSub
 
 ### 關於繁化
 
-- 除了 Flip Flappers 以外，SweetSub 的繁體字幕均是採用[繁化姬](https://zhconvert.org/)程序自動台灣化，**未**進行人工核查，歡迎有有意幫助繁化的人士提出 [issue](https://github.com/tastysugar/SweetSub/issues) 或是給出 pull request。
+- 除了 **Flip Flappers** 和**魔法紀錄：魔法少女小圓外傳**以外，SweetSub 的繁體字幕均是採用[繁化姬](https://zhconvert.org/)程序自動台灣化，**未**進行人工核查，歡迎有有意幫助繁化的人士提出 [issue](https://github.com/tastysugar/SweetSub/issues) 或是給出 pull request。
 
 - 然而，本頁標註了“**连载中**”的 TV 動畫字幕是半成品，很有可能在精校時有各種修改，因此，請等待其狀態變成“精校版”或是“BD 字幕”之后再進行人工繁化。
 
