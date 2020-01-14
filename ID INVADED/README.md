@@ -10,4 +10,4 @@ WEB 版字幕下载
 | :--: | :---------: | :--------------------------------------: | :--------------------------------------: |
 |  1   |  JIGSAWED   | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/ID%20INVADED/%5BSweetSub%5D%20ID%20INVADED%20-%2001.chs.ass) | [繁体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/ID%20INVADED/%5BSweetSub%5D%20ID%20INVADED%20-%2001.cht.ass) |
 |  2   | JIGSAWED II | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/ID%20INVADED/%5BSweetSub%5D%20ID%20INVADED%20-%2002.chs.ass) | [繁体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/ID%20INVADED/%5BSweetSub%5D%20ID%20INVADED%20-%200.cht.ass) |
-|  3   |   SNIPED    |                    -                     |                    -                     |
+|  3   |   SNIPED    | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/ID%20INVADED/%5BSweetSub%5D%20ID%20INVADED%20-%2003.chs.ass) | [繁体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/ID%20INVADED/%5BSweetSub%5D%20ID%20INVADED%20-%2003.chs.ass) |
