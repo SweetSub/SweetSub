@@ -20,15 +20,15 @@ SweetSub
 
 
 ### **剧场版**
-| 英文名               | 中文名           | 日文名                 | 备注                                       |
-| ----------------- | ------------- | ------------------- | ---------------------------------------- |
-| Okko's Inn        | 温泉屋少掌柜        | 劇場版　若おかみは小学生!       | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Okko's%20Inn) |
-| FLCL Alternative  | 特别的她  外传      | フリクリ　オルタナ           | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/FLCL%20Alternative) [B 站](https://www.bilibili.com/video/av43737048) |
-| FLCL Progressive  | 特别的她  后传      | フリクリ　プログレ           | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/FLCL%20Progressive) |
-| Modest Heros      | 小英雄 -蟹和蛋和透明人- | ちいさな英雄－カニとタマゴと透明人間－ | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Modest%20Heros) [B 站](https://www.bilibili.com/video/av50605867) |
-| Mirai             | 未来的未来         | 未来のミライ              | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Mirai) |
-| Cencoroll Connect |               | センコロール　コネクト         | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Cencoroll%20Connect) |
-| Mai Mai Miracle   | 翘发千子与千年魔法     | マイマイ新子と千年の魔法        | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Mai%20Mai%20Miracle) |
+| 英文名            | 中文名                  | 日文名                                 | 备注                                                         |
+| ----------------- | ----------------------- | -------------------------------------- | ------------------------------------------------------------ |
+| Okko's Inn        | 温泉屋少掌柜            | 劇場版　若おかみは小学生!              | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Okko's%20Inn) |
+| FLCL Alternative  | 特别的她  外传          | フリクリ　オルタナ                     | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/FLCL%20Alternative) / [B 站](https://www.bilibili.com/video/av43737048) |
+| FLCL Progressive  | 特别的她  后传          | フリクリ　プログレ                     | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/FLCL%20Progressive) |
+| Modest Heros      | 小英雄 -蟹和蛋和透明人- | ちいさな英雄－カニとタマゴと透明人間－ | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Modest%20Heros) / [B 站](https://www.bilibili.com/video/av50605867) |
+| Mirai             | 未来的未来              | 未来のミライ                           | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Mirai) |
+| Cencoroll Connect |                         | センコロール　コネクト                 | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Cencoroll%20Connect) |
+| Mai Mai Miracle   | 翘发千子与千年魔法      | マイマイ新子と千年の魔法               | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Mai%20Mai%20Miracle) |
 
 
 
@@ -47,7 +47,7 @@ SweetSub
 
 ### 關於繁化
 
-- 除了 Flip Flappers 以外，SweetSub 的繁體字幕均是採用[繁化姬](https://zhconvert.org/)程序自動台灣化，**未**進行人工核查，歡迎有有意幫助繁化的人士提出 [issue](https://github.com/tastysugar/SweetSub/issues) 或是給出 pull request。
+- 除了 **Flip Flappers** 和**魔法紀錄：魔法少女小圓外傳**以外，SweetSub 的繁體字幕均是採用[繁化姬](https://zhconvert.org/)程序自動台灣化，**未**進行人工核查，歡迎有有意幫助繁化的人士提出 [issue](https://github.com/tastysugar/SweetSub/issues) 或是給出 pull request。
 
 - 然而，本頁標註了“**连载中**”的 TV 動畫字幕是半成品，很有可能在精校時有各種修改，因此，請等待其狀態變成“精校版”或是“BD 字幕”之后再進行人工繁化。
 
