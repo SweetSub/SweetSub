@@ -13,10 +13,10 @@ YCbCr Matrix: TV.709
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Source Han Sans SC Medium,80,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,12,1
-Style: Line CN,Source Han Sans SC Medium,80,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,12,1
+Style: Line CN,Source Han Sans SC Medium,85,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,1
 Style: Line CN - Top,Source Han Sans SC Medium,80,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,30,30,12,1
-Style: TopLeft,Source Han Sans SC Medium,50,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,7,30,30,30,1
-Style: Sign,Source Han Sans SC Medium,80,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,12,1
+Style: TopLeft,Source Han Sans SC Medium,60,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,7,30,30,30,1
+Style: Sign,Source Han Sans SC Medium,85,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,1
 Style: EDJP,Source Han Sans Medium,60,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,30,30,30,1
 Style: EDCN,Source Han Sans SC Medium,60,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,0,0,8,30,30,30,1
 Style: OPCN,Source Han Sans SC Normal,60,&H32FFFFFF,&H00000000,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2,0,1,5,0,8,30,30,30,1
@@ -37,7 +37,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Line CN,,0,0,0,,如果在字幕中发现了错�
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,>STAFF<
 Dialogue: 0,0:23:19.79,0:23:19.83,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an3\fad(0,0)\c&H08A8FB&\fs44\blur1\1a&HB4&\pos(924,414)}翻译
 Dialogue: 0,0:23:19.79,0:23:19.83,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an3\fad(0,0)\c&H08A8FB&\fs44\blur1\fscx110\fsp-2\fscy160\1a&HB4&\pos(924,424)}____
-Dialogue: 0,0:23:19.79,0:23:19.83,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an1\fad(0,0)\c&H08A8FB&\fs50\blur1\1a&HB4&\pos(968,498)}谢方
+Dialogue: 0,0:23:19.79,0:23:19.83,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an1\fad(0,0)\c&H08A8FB&\fs50\blur1\1a&HB4&\pos(968,498)}谢  方
 Dialogue: 0,0:23:19.79,0:23:19.83,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an1\fad(0,0)\c&H08A8FB&\fs50\blur1\1a&HB4&\pos(968,452)}tastySugar
 Dialogue: 0,0:23:19.79,0:23:19.83,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an1\fad(0,0)\c&H08A8FB&\fs50\blur1\1a&HB4&\pos(968,416)}nialv7
 Dialogue: 0,0:23:19.79,0:23:19.83,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an9\fad(0,0)\c&H08A8FB&\fs44\blur1\1a&HB4&\pos(924,622)}校对
@@ -45,28 +45,28 @@ Dialogue: 0,0:23:19.79,0:23:19.83,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an
 Dialogue: 0,0:23:19.79,0:23:19.83,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an7\fad(0,0)\c&H08A8FB&\fs50\blur1\1a&HB4&\pos(968,622)}Senren
 Dialogue: 0,0:23:19.83,0:23:19.87,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an3\fad(0,0)\c&H0079FF&\fs44\blur1\1a&HB4&\pos(928,370)}翻译
 Dialogue: 0,0:23:19.83,0:23:19.87,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an3\fad(0,0)\c&H0079FF&\fs44\blur1\fscx110\fsp-2\fscy160\1a&HB4&\pos(928,380)}____
-Dialogue: 0,0:23:19.83,0:23:19.87,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an1\fad(0,0)\c&H0079FF&\fs50\blur1\1a&HB4&\pos(972,454)}谢方
+Dialogue: 0,0:23:19.83,0:23:19.87,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an1\fad(0,0)\c&H0079FF&\fs50\blur1\1a&HB4&\pos(972,454)}谢  方
 Dialogue: 0,0:23:19.83,0:23:19.87,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an1\fad(0,0)\c&H0079FF&\fs50\blur1\1a&HB4&\pos(972,408)}tastySugar
 Dialogue: 0,0:23:19.83,0:23:19.87,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an1\fad(0,0)\c&H0079FF&\fs50\blur1\1a&HB4&\pos(972,372)}nialv7
 Dialogue: 0,0:23:19.83,0:23:19.87,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an9\fad(0,0)\c&H0079FF&\fs44\blur1\1a&HB4&\pos(928,578)}校对
 Dialogue: 0,0:23:19.83,0:23:19.87,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an3\fad(0,0)\c&H0079FF&\fs44\blur1\fscx110\fsp-2\fscy160\1a&HB4&\pos(928,630)}____
 Dialogue: 0,0:23:19.83,0:23:19.87,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an7\fad(0,0)\c&H0079FF&\fs50\blur1\1a&HB4&\pos(972,578)}Senren
-Dialogue: 0,0:23:19.87,0:23:19.92,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an3\fad(0,0)\c&H292928&\fs44\blur1\1a&H32&\pos(938,388)}翻译
-Dialogue: 0,0:23:19.87,0:23:19.92,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an3\fad(0,0)\c&H292928&\fs44\blur1\fscx110\fsp-2\fscy160\1a&H32&\pos(938,398)}____
-Dialogue: 0,0:23:19.87,0:23:19.92,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an1\fad(0,0)\c&H292928&\fs50\blur1\1a&H32&\pos(982,472)}谢方
-Dialogue: 0,0:23:19.87,0:23:19.92,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an1\fad(0,0)\c&H292928&\fs50\blur1\1a&H32&\pos(982,426)}tastySugar
-Dialogue: 0,0:23:19.87,0:23:19.92,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an1\fad(0,0)\c&H292928&\fs50\blur1\1a&H32&\pos(982,390)}nialv7
-Dialogue: 0,0:23:19.87,0:23:19.92,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an9\fad(0,0)\c&H292928&\fs44\blur1\1a&H32&\pos(938,596)}校对
-Dialogue: 0,0:23:19.87,0:23:19.92,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an3\fad(0,0)\c&H292928&\fs44\blur1\fscx110\fsp-2\fscy160\1a&H32&\pos(938,648)}____
-Dialogue: 0,0:23:19.87,0:23:19.92,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an7\fad(0,0)\c&H292928&\fs50\blur1\1a&H32&\pos(982,596)}Senren
-Dialogue: 0,0:23:19.92,0:23:22.88,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an3\fad(0,0)\c&H292928&\fs44\blur1\pos(936,394)}翻译
-Dialogue: 0,0:23:19.92,0:23:22.88,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an3\fad(0,0)\c&H292928&\fs44\blur1\pos(936,404)\fscx110\fsp-2\fscy160}____
-Dialogue: 0,0:23:19.92,0:23:22.88,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an1\fad(0,0)\c&H292928&\fs50\blur1\pos(980,478)}谢方
-Dialogue: 0,0:23:19.92,0:23:22.88,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an1\fad(0,0)\c&H292928&\fs50\blur1\pos(980,432)}tastySugar
-Dialogue: 0,0:23:19.92,0:23:22.88,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an1\fad(0,0)\c&H292928&\fs50\blur1\pos(980,396)}nialv7
-Dialogue: 0,0:23:19.92,0:23:22.88,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an9\fad(0,0)\c&H292928&\fs44\blur1\pos(936,602)}校对
-Dialogue: 0,0:23:19.92,0:23:22.88,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an3\fad(0,0)\c&H292928&\fs44\blur1\pos(936,654)\fscx110\fsp-2\fscy160}____
-Dialogue: 0,0:23:19.92,0:23:22.88,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an7\fad(0,0)\c&H292928&\fs50\blur1\pos(980,602)}Senren
+Dialogue: 0,0:23:19.87,0:23:19.91,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an3\fad(0,0)\c&H292928&\fs44\blur1\1a&H32&\pos(938,388)}翻译
+Dialogue: 0,0:23:19.87,0:23:19.91,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an3\fad(0,0)\c&H292928&\fs44\blur1\fscx110\fsp-2\fscy160\1a&H32&\pos(938,398)}____
+Dialogue: 0,0:23:19.87,0:23:19.91,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an1\fad(0,0)\c&H292928&\fs50\blur1\1a&H32&\pos(982,472)}谢  方
+Dialogue: 0,0:23:19.87,0:23:19.91,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an1\fad(0,0)\c&H292928&\fs50\blur1\1a&H32&\pos(982,426)}tastySugar
+Dialogue: 0,0:23:19.87,0:23:19.91,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an1\fad(0,0)\c&H292928&\fs50\blur1\1a&H32&\pos(982,390)}nialv7
+Dialogue: 0,0:23:19.87,0:23:19.91,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an9\fad(0,0)\c&H292928&\fs44\blur1\1a&H32&\pos(938,596)}校对
+Dialogue: 0,0:23:19.87,0:23:19.91,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an3\fad(0,0)\c&H292928&\fs44\blur1\fscx110\fsp-2\fscy160\1a&H32&\pos(938,648)}____
+Dialogue: 0,0:23:19.87,0:23:19.91,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an7\fad(0,0)\c&H292928&\fs50\blur1\1a&H32&\pos(982,596)}Senren
+Dialogue: 0,0:23:19.91,0:23:22.88,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an3\fad(0,0)\c&H292928&\fs44\blur1\pos(936,394)}翻译
+Dialogue: 0,0:23:19.91,0:23:22.88,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an3\fad(0,0)\c&H292928&\fs44\blur1\pos(936,404)\fscx110\fsp-2\fscy160}____
+Dialogue: 0,0:23:19.91,0:23:22.88,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an1\fad(0,0)\c&H292928&\fs50\blur1\pos(980,478)}谢  方
+Dialogue: 0,0:23:19.91,0:23:22.88,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an1\fad(0,0)\c&H292928&\fs50\blur1\pos(980,432)}tastySugar
+Dialogue: 0,0:23:19.91,0:23:22.88,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an1\fad(0,0)\c&H292928&\fs50\blur1\pos(980,396)}nialv7
+Dialogue: 0,0:23:19.91,0:23:22.88,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an9\fad(0,0)\c&H292928&\fs44\blur1\pos(936,602)}校对
+Dialogue: 0,0:23:19.91,0:23:22.88,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an3\fad(0,0)\c&H292928&\fs44\blur1\pos(936,654)\fscx110\fsp-2\fscy160}____
+Dialogue: 0,0:23:19.91,0:23:22.88,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an7\fad(0,0)\c&H292928&\fs50\blur1\pos(980,602)}Senren
 Dialogue: 0,0:23:22.88,0:23:26.21,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an3\fad(0,0)\c&H292928&\fs44\blur1\pos(936,434)}后期
 Dialogue: 0,0:23:22.88,0:23:26.21,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an3\fad(0,0)\c&H292928&\fs44\blur1\pos(936,444)\fscx110\fsp-2\fscy160}____
 Dialogue: 0,0:23:22.88,0:23:26.21,STAFF,,0,0,0,,{\fnSource Han Sans SC Medium\an1\fad(0,0)\c&H292928&\fs50\blur1\pos(980,436)\fsp1}natsukage
@@ -432,9 +432,9 @@ Dialogue: 0,0:16:56.99,0:17:00.62,Line CN,,0,0,0,,或许是混在围观人群中
 Dialogue: 0,0:17:00.62,0:17:04.50,Line CN,,0,0,0,,装作是赶赴现场的自由摄影记者啊
 Dialogue: 0,0:17:04.50,0:17:05.62,Line CN,,0,0,0,,嫌疑人已缉拿
 Dialogue: 0,0:17:05.62,0:17:07.46,Line CN,,0,0,0,,好  带过来
-Dialogue: 2,0:17:07.46,0:17:09.09,Line CN - Top,,0,0,0,,{\an7\bord0\fs30\pos(1732,16)}▲▼{\fs34}手术内容{\c&H8B8B8B&}\N埋线双眼皮\N削下颌骨\N鼻尖成形术\N开眼角\N下巴CRF注射\N玻尿酸隆鼻\N面部吸脂术
-Dialogue: 0,0:17:07.46,0:17:09.09,Line CN - Top,,0,0,0,,{\an7\fs40\bord0\c&HEEEEEE&\p1\pos(1702,0)}m 20 10 l 20 300 200 300 200 10
-Dialogue: 1,0:17:07.46,0:17:09.09,Line CN - Top,,0,0,0,,{\an7\fs40\bord0\c&H6ACE63&\p1\pos(1702,0)}m 20 16 l 20 50 200 50 200 16
+Dialogue: 2,0:17:07.46,0:17:09.09,Sign,,0,0,0,,{\an7\bord0\fs30\pos(1732,16)}▲▼{\fs34}手术内容{\c&H8B8B8B&}\N埋线双眼皮\N削下颌骨\N鼻尖成形术\N开眼角\N下巴CRF注射\N玻尿酸隆鼻\N面部吸脂术
+Dialogue: 0,0:17:07.46,0:17:09.09,Sign,,0,0,0,,{\an7\fs40\bord0\c&HEEEEEE&\p1\pos(1702,0)}m 20 10 l 20 300 200 300 200 10
+Dialogue: 1,0:17:07.46,0:17:09.09,Sign,,0,0,0,,{\an7\fs40\bord0\c&H6ACE63&\p1\pos(1702,0)}m 20 16 l 20 50 200 50 200 16
 Dialogue: 0,0:17:09.09,0:17:13.47,Line CN,,0,0,0,,四年整七次  长相自然会变不少
 Dialogue: 0,0:17:13.47,0:17:15.97,Line CN,,0,0,0,,不过  变成帅哥了也挺好
 Dialogue: 0,0:17:15.97,0:17:18.55,Line CN,,0,0,0,,长相什么的根本无所谓
