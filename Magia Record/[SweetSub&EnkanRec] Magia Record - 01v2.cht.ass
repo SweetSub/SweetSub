@@ -25,6 +25,13 @@ Style: INCN,Source Han Sans TC Medium,60,&H00FFFFFF,&H00000000,&H00000000,&H0000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,本字幕由 SweetSub&圓環記錄攻略組 製作
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,本字幕在遵循 Creative Common BY-NC-ND 4.0 規則的情況下可以自由轉載、使用。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,即，在署名、非商業利用、不進行修改的情況下可以自由轉載使用。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果是僅僅是修改時間軸匹配自己的片源的話，可以作為例外，在署名、非商業利用的情況下，可以自由轉載、使用。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果在其它情況下想要轉載和使用本字幕，可以通過 telegram 聯繫我。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,請注意，該版本為初版字幕，在合集時會有修正。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果在字幕中發現了錯誤或者有其它問題，可以使用 telegram 聯繫我，詳細方法見動漫花園發布頁。
 Comment: 1,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Lyrics~
 Dialogue: 0,0:22:05.01,0:22:09.59,EDCN,,0,0,0,,{\blur2\fad(720,0)}無處  尋覓  那心所在
 Dialogue: 0,0:22:09.64,0:22:17.23,EDCN,,0,0,0,,{\blur2\fad(0,780)}掠過身邊  獨自搖曳
