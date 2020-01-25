@@ -13,10 +13,10 @@ PlayResY: 1080
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Source Han Sans TC Medium,80,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,12,1
-Style: Line CN,Source Han Sans TC Medium,80,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,12,1
+Style: Line CN,Source Han Sans TC Medium,85,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,1
 Style: Line CN - Top,Source Han Sans TC Medium,80,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,30,30,12,1
-Style: TopLeft,Source Han Sans TC Medium,50,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,7,30,30,30,1
-Style: Sign,Source Han Sans TC Medium,80,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,12,1
+Style: TopLeft,Source Han Sans TC Medium,60,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,7,30,30,30,1
+Style: Sign,Source Han Sans SC Medium,85,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,1
 Style: EDJP,Source Han Sans Medium,60,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,30,30,30,1
 Style: EDCN,Source Han Sans TC Medium,60,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,0,0,8,30,30,30,1
 Style: OPCN,Source Han Sans TC Normal,60,&H32FFFFFF,&H00000000,&H00FFFFFF,&H00000000,0,0,0,0,100,100,2,0,1,5,0,8,30,30,30,1
@@ -31,139 +31,34 @@ Comment: 0,0:00:00.00,0:00:00.00,Line CN,,0,0,0,,本字幕由 SweetSub 製作
 Comment: 0,0:00:00.00,0:00:00.00,Line CN,,0,0,0,,本字幕在遵循 Creative Common BY-NC-ND 4.0 規則的情況下可以自由轉載、使用。
 Comment: 0,0:00:00.00,0:00:00.00,Line CN,,0,0,0,,即，在署名、非商業利用、不進行修改的情況下可以自由轉載使用。
 Comment: 0,0:00:00.00,0:00:00.00,Line CN,,0,0,0,,如果是僅僅是修改時間軸匹配自己的片源的話，可以作為例外，在署名、非商業利用的情況下，可以自由轉載、使用。
-Comment: 0,0:00:00.00,0:00:00.00,Line CN,,0,0,0,,如果在其它情況下想要轉載和使用本字幕，可以通過 telegram 聯繫我。
-Comment: 0,0:00:00.00,0:00:00.00,Line CN,,0,0,0,,注意，該版本為初版字幕，在合集時會有修正。
-Comment: 0,0:00:00.00,0:00:00.00,Line CN,,0,0,0,,如果在字幕中發現了錯誤或者有其它問題，可以使用 telegram 聯繫我，詳細方法見動漫花園發布頁。
+Comment: 0,0:00:00.00,0:00:00.00,Line CN,,0,0,0,,如果在其它情況下想要轉載和使用本字幕，可以通過 telegram 聯絡我。
+Comment: 0,0:00:00.00,0:00:00.00,Line CN,,0,0,0,,請注意，該版本為初版字幕，在合集時會有修正。
+Comment: 0,0:00:00.00,0:00:00.00,Line CN,,0,0,0,,如果在字幕中發現了錯誤或者有其它問題，可以使用 telegram 聯絡我，詳細方法見動漫花園發布頁。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,>STAFF<
-Dialogue: 1,0:00:13.74,0:00:13.78,STAFF,,0,0,0,,{\fs28\an4\c&HF6F6F6&\1a&H1E&\pos(791.2,444.4)}翻譯
-Dialogue: 0,0:00:13.74,0:00:13.78,STAFF,,0,0,0,,{\fs28\an4\c&HF6F6F6&\1a&H1E&\pos(781.2,444.4)\c&H031A79&\blur4}翻譯
-Dialogue: 2,0:00:13.74,0:00:13.78,STAFF,,0,0,0,,{\fs28\an4\c&HF6F6F6&\1a&H1E&\pos(795.2,444.4)\c&HB6B186&\blur4\3c&H000000&}翻譯
-Dialogue: 1,0:00:13.74,0:00:13.78,STAFF,,0,0,0,,{\fs50\an6\pos(1091.2,483.4)\c&HDBE5E9&}nialv7
-Dialogue: 0,0:00:13.74,0:00:13.78,STAFF,,0,0,0,,{\fs50\an6\pos(1081.2,483.4)\c&H031A79&\blur4}nialv7
-Dialogue: 2,0:00:13.74,0:00:13.78,STAFF,,0,0,0,,{\fs50\an6\pos(1095.2,483.4)\c&HB6B186&\blur4\3c&H000000&}nialv7
-Dialogue: 1,0:00:13.74,0:00:13.78,STAFF,,0,0,0,,{\fs28\an4\c&HF6F6F6&\1a&H1E&\pos(781.2,624.4)}校對
-Dialogue: 0,0:00:13.74,0:00:13.78,STAFF,,0,0,0,,{\fs28\an4\c&HF6F6F6&\1a&H1E&\pos(791.2,624.4)\c&H031A79&\blur4}校對
-Dialogue: 2,0:00:13.74,0:00:13.78,STAFF,,0,0,0,,{\fs28\an4\c&HF6F6F6&\1a&H1E&\pos(795.2,624.4)\c&HB6B186&\blur4\3c&H000000&}校對
-Dialogue: 1,0:00:13.74,0:00:13.78,STAFF,,0,0,0,,{\fs50\an6\pos(1091.2,663.4)}Senren
-Dialogue: 0,0:00:13.74,0:00:13.78,STAFF,,0,0,0,,{\fs50\an6\pos(1081.2,663.4)\c&H031A79&\blur4}Senren
-Dialogue: 2,0:00:13.74,0:00:13.78,STAFF,,0,0,0,,{\fs50\an6\pos(1095.2,663.4)\c&HB6B186&\blur4\3c&H000000&}Senren
-Dialogue: 1,0:00:13.78,0:00:13.82,STAFF,,0,0,0,,{\fs28\an4\c&HF6F6F6&\1a&H1E&\pos(795.2,441.2)}翻譯
-Dialogue: 0,0:00:13.78,0:00:13.82,STAFF,,0,0,0,,{\fs28\an4\c&HF6F6F6&\1a&H1E&\c&H031A79&\blur4\pos(785.2,441.2)}翻譯
-Dialogue: 2,0:00:13.78,0:00:13.82,STAFF,,0,0,0,,{\fs28\an4\c&HF6F6F6&\1a&H1E&\c&HB6B186&\blur4\3c&H000000&\pos(799.2,441.2)}翻譯
-Dialogue: 1,0:00:13.78,0:00:13.82,STAFF,,0,0,0,,{\fs50\an6\c&HDBE5E9&\pos(1095.2,480.2)}nialv7
-Dialogue: 0,0:00:13.78,0:00:13.82,STAFF,,0,0,0,,{\fs50\an6\c&H031A79&\blur4\pos(1085.2,480.2)}nialv7
-Dialogue: 2,0:00:13.78,0:00:13.82,STAFF,,0,0,0,,{\fs50\an6\c&HB6B186&\blur4\3c&H000000&\pos(1099.2,480.2)}nialv7
-Dialogue: 1,0:00:13.78,0:00:13.82,STAFF,,0,0,0,,{\fs28\an4\c&HF6F6F6&\1a&H1E&\pos(785.2,621.2)}校對
-Dialogue: 0,0:00:13.78,0:00:13.82,STAFF,,0,0,0,,{\fs28\an4\c&HF6F6F6&\1a&H1E&\c&H031A79&\blur4\pos(795.2,621.2)}校對
-Dialogue: 2,0:00:13.78,0:00:13.82,STAFF,,0,0,0,,{\fs28\an4\c&HF6F6F6&\1a&H1E&\c&HB6B186&\blur4\3c&H000000&\pos(799.2,621.2)}校對
-Dialogue: 1,0:00:13.78,0:00:13.82,STAFF,,0,0,0,,{\fs50\an6\pos(1095.2,660.2)}Senren
-Dialogue: 0,0:00:13.78,0:00:13.82,STAFF,,0,0,0,,{\fs50\an6\c&H031A79&\blur4\pos(1085.2,660.2)}Senren
-Dialogue: 2,0:00:13.78,0:00:13.82,STAFF,,0,0,0,,{\fs50\an6\c&HB6B186&\blur4\3c&H000000&\pos(1099.2,660.2)}Senren
-Dialogue: 1,0:00:13.82,0:00:13.86,STAFF,,0,0,0,,{\fs28\an4\c&HF6F6F6&\1a&H1E&\pos(799.2,437.4)}翻譯
-Dialogue: 0,0:00:13.82,0:00:13.86,STAFF,,0,0,0,,{\fs28\an4\c&HF6F6F6&\1a&H1E&\c&H031A79&\blur4\pos(789.2,437.4)}翻譯
-Dialogue: 2,0:00:13.82,0:00:13.86,STAFF,,0,0,0,,{\fs28\an4\c&HF6F6F6&\1a&H1E&\c&HB6B186&\blur4\3c&H000000&\pos(803.2,437.4)}翻譯
-Dialogue: 1,0:00:13.82,0:00:13.86,STAFF,,0,0,0,,{\fs50\an6\c&HDBE5E9&\pos(1099.2,476.4)}nialv7
-Dialogue: 0,0:00:13.82,0:00:13.86,STAFF,,0,0,0,,{\fs50\an6\c&H031A79&\blur4\pos(1089.2,476.4)}nialv7
-Dialogue: 2,0:00:13.82,0:00:13.86,STAFF,,0,0,0,,{\fs50\an6\c&HB6B186&\blur4\3c&H000000&\pos(1103.2,476.4)}nialv7
-Dialogue: 1,0:00:13.82,0:00:13.86,STAFF,,0,0,0,,{\fs28\an4\c&HF6F6F6&\1a&H1E&\pos(789.2,617.4)}校對
-Dialogue: 0,0:00:13.82,0:00:13.86,STAFF,,0,0,0,,{\fs28\an4\c&HF6F6F6&\1a&H1E&\c&H031A79&\blur4\pos(799.2,617.4)}校對
-Dialogue: 2,0:00:13.82,0:00:13.86,STAFF,,0,0,0,,{\fs28\an4\c&HF6F6F6&\1a&H1E&\c&HB6B186&\blur4\3c&H000000&\pos(803.2,617.4)}校對
-Dialogue: 1,0:00:13.82,0:00:13.86,STAFF,,0,0,0,,{\fs50\an6\pos(1099.2,656.4)}Senren
-Dialogue: 0,0:00:13.82,0:00:13.86,STAFF,,0,0,0,,{\fs50\an6\c&H031A79&\blur4\pos(1089.2,656.4)}Senren
-Dialogue: 2,0:00:13.82,0:00:13.86,STAFF,,0,0,0,,{\fs50\an6\c&HB6B186&\blur4\3c&H000000&\pos(1103.2,656.4)}Senren
-Dialogue: 1,0:00:13.86,0:00:13.91,STAFF,,0,0,0,,{\fs28\an4\c&HF6F6F6&\1a&H1E&\pos(809.867,436.4)}翻譯
-Dialogue: 0,0:00:13.86,0:00:13.91,STAFF,,0,0,0,,{\fs28\an4\c&HF6F6F6&\1a&H1E&\c&H031A79&\blur4\pos(799.867,436.4)}翻譯
-Dialogue: 2,0:00:13.86,0:00:13.91,STAFF,,0,0,0,,{\fs28\an4\c&HF6F6F6&\1a&H1E&\c&HB6B186&\blur4\3c&H000000&\pos(813.867,436.4)}翻譯
-Dialogue: 1,0:00:13.86,0:00:13.91,STAFF,,0,0,0,,{\fs50\an6\c&HDBE5E9&\pos(1109.867,475.4)}nialv7
-Dialogue: 0,0:00:13.86,0:00:13.91,STAFF,,0,0,0,,{\fs50\an6\c&H031A79&\blur4\pos(1099.867,475.4)}nialv7
-Dialogue: 2,0:00:13.86,0:00:13.91,STAFF,,0,0,0,,{\fs50\an6\c&HB6B186&\blur4\3c&H000000&\pos(1113.867,475.4)}nialv7
-Dialogue: 1,0:00:13.86,0:00:13.91,STAFF,,0,0,0,,{\fs28\an4\c&HF6F6F6&\1a&H1E&\pos(799.867,616.4)}校對
-Dialogue: 0,0:00:13.86,0:00:13.91,STAFF,,0,0,0,,{\fs28\an4\c&HF6F6F6&\1a&H1E&\c&H031A79&\blur4\pos(809.867,616.4)}校對
-Dialogue: 2,0:00:13.86,0:00:13.91,STAFF,,0,0,0,,{\fs28\an4\c&HF6F6F6&\1a&H1E&\c&HB6B186&\blur4\3c&H000000&\pos(813.867,616.4)}校對
-Dialogue: 1,0:00:13.86,0:00:13.91,STAFF,,0,0,0,,{\fs50\an6\pos(1109.867,655.4)}Senren
-Dialogue: 0,0:00:13.86,0:00:13.91,STAFF,,0,0,0,,{\fs50\an6\c&H031A79&\blur4\pos(1099.867,655.4)}Senren
-Dialogue: 2,0:00:13.86,0:00:13.91,STAFF,,0,0,0,,{\fs50\an6\c&HB6B186&\blur4\3c&H000000&\pos(1113.867,655.4)}Senren
-Dialogue: 0,0:00:13.91,0:00:13.95,STAFF,,0,0,0,,{\fs28\an4\pos(812,435)\c&HF6F6F6&\1a&H1E&\blur1.5}翻譯
-Dialogue: 0,0:00:13.91,0:00:13.95,STAFF,,0,0,0,,{\fs50\an6\pos(1112,474)\blur1.5}nialv7
-Dialogue: 0,0:00:13.91,0:00:13.95,STAFF,,0,0,0,,{\fs28\an4\pos(812,615)\c&HF6F6F6&\1a&H1E&\blur1.5}校對
-Dialogue: 0,0:00:13.91,0:00:13.95,STAFF,,0,0,0,,{\fs50\an6\pos(1112,654)\blur1.5}Senren
-Dialogue: 0,0:00:13.95,0:00:16.57,STAFF,,0,0,0,,{\fs28\an4\pos(812,435)\c&HF6F6F6&\1a&H1E&}翻譯
-Dialogue: 0,0:00:13.95,0:00:16.57,STAFF,,0,0,0,,{\fs50\an6\pos(1112,474)}nialv7
-Dialogue: 0,0:00:13.95,0:00:16.57,STAFF,,0,0,0,,{\fs28\an4\pos(812,615)\c&HF6F6F6&\1a&H1E&}校對
-Dialogue: 0,0:00:13.95,0:00:16.57,STAFF,,0,0,0,,{\fs50\an6\pos(1112,654)}Senren
-Dialogue: 0,0:00:16.57,0:00:16.62,STAFF,,0,0,0,,{\fs28\an4\c&HF6F6F6&\1a&H1E&\blur4\pos(807.429,430)}翻譯
-Dialogue: 0,0:00:16.57,0:00:16.62,STAFF,,0,0,0,,{\fs50\an6\blur4\pos(1107.429,469)}nialv7
-Dialogue: 0,0:00:16.57,0:00:16.62,STAFF,,0,0,0,,{\fs28\an4\c&HF6F6F6&\1a&H1E&\blur4\pos(807.429,610)}校對
-Dialogue: 0,0:00:16.57,0:00:16.62,STAFF,,0,0,0,,{\fs50\an6\blur4\pos(1107.429,649)}Senren
-Dialogue: 0,0:00:16.62,0:00:16.66,STAFF,,0,0,0,,{\fs28\an4\c&HF6F6F6&\1a&H1E&\blur4\pos(721.562,449.733)}翻譯
-Dialogue: 0,0:00:16.62,0:00:16.66,STAFF,,0,0,0,,{\fs50\an6\blur4\pos(1021.562,488.733)}nialv7
-Dialogue: 0,0:00:16.62,0:00:16.66,STAFF,,0,0,0,,{\fs28\an4\c&HF6F6F6&\1a&H1E&\blur4\pos(721.562,629.733)}校對
-Dialogue: 0,0:00:16.62,0:00:16.66,STAFF,,0,0,0,,{\fs50\an6\blur4\pos(1021.562,668.733)}Senren
-Dialogue: 0,0:01:13.80,0:01:19.60,STAFF,,0,0,0,,{\fs30\an4\pos(830,580)\c&HF6F6F6&\1a&H1E&}字幕製作
-Dialogue: 0,0:01:13.80,0:01:19.60,STAFF,,0,0,0,,{\fs50\an6\pos(1088,630)}SweetSub
-Dialogue: 0,0:01:13.76,0:01:13.80,STAFF,,0,0,0,,{\fs30\an4\pos(830,580)\c&HF6F6F6&\1a&H1E&\blur1.5}字幕製作
-Dialogue: 0,0:01:13.76,0:01:13.80,STAFF,,0,0,0,,{\fs50\an6\pos(1088,630)\blur1.5}SweetSub
-Dialogue: 0,0:01:13.72,0:01:13.76,STAFF,,0,0,0,,{\fs30\an4\c&HF6F6F6&\1a&H1E&\pos(827.556,579.556)}字幕製作
-Dialogue: 0,0:01:13.72,0:01:13.76,STAFF,,0,0,0,,{\fs50\an6\pos(1085.556,629.556)}SweetSub
-Dialogue: 1,0:01:13.67,0:01:13.72,STAFF,,0,0,0,,{\fs30\an4\c&HF6F6F6&\1a&H1E&\pos(824,580)}字幕製作
-Dialogue: 0,0:01:13.67,0:01:13.72,STAFF,,0,0,0,,{\fs30\an4\c&HF6F6F6&\1a&H1E&\pos(824,570)\c&H031A79&\blur4}字幕製作
-Dialogue: 2,0:01:13.67,0:01:13.72,STAFF,,0,0,0,,{\fs30\an4\c&HF6F6F6&\1a&H1E&\pos(824,584)\c&HB6B186&\blur4\3c&H000000&}字幕製作
-Dialogue: 0,0:01:13.67,0:01:13.72,STAFF,,0,0,0,,{\fs50\an6\pos(1082,630)}SweetSub
-Dialogue: 0,0:01:13.67,0:01:13.72,STAFF,,0,0,0,,{\fs50\an6\pos(1072,630)\c&H031A79&\blur4}SweetSub
-Dialogue: 0,0:01:13.67,0:01:13.72,STAFF,,0,0,0,,{\fs50\an6\pos(1086,630)\c&HB6B186&\blur4\3c&H000000&}SweetSub
-Dialogue: 1,0:01:13.63,0:01:13.67,STAFF,,0,0,0,,{\fs30\an4\c&HF6F6F6&\1a&H1E&\pos(821,582)}字幕製作
-Dialogue: 0,0:01:13.63,0:01:13.67,STAFF,,0,0,0,,{\fs30\an4\c&HF6F6F6&\1a&H1E&\c&H031A79&\blur4\pos(821,572)}字幕製作
-Dialogue: 2,0:01:13.63,0:01:13.67,STAFF,,0,0,0,,{\fs30\an4\c&HF6F6F6&\1a&H1E&\c&HB6B186&\blur4\3c&H000000&\pos(821,586)}字幕製作
-Dialogue: 0,0:01:13.63,0:01:13.67,STAFF,,0,0,0,,{\fs50\an6\pos(1079,632)}SweetSub
-Dialogue: 0,0:01:13.63,0:01:13.67,STAFF,,0,0,0,,{\fs50\an6\c&H031A79&\blur4\pos(1069,632)}SweetSub
-Dialogue: 0,0:01:13.63,0:01:13.67,STAFF,,0,0,0,,{\fs50\an6\c&HB6B186&\blur4\3c&H000000&\pos(1083,632)}SweetSub
-Dialogue: 1,0:01:13.59,0:01:13.63,STAFF,,0,0,0,,{\fs30\an4\c&HF6F6F6&\1a&H1E&\pos(816,583.429)}字幕製作
-Dialogue: 0,0:01:13.59,0:01:13.63,STAFF,,0,0,0,,{\fs30\an4\c&HF6F6F6&\1a&H1E&\c&H031A79&\blur4\pos(816,573.429)}字幕製作
-Dialogue: 2,0:01:13.59,0:01:13.63,STAFF,,0,0,0,,{\fs30\an4\c&HF6F6F6&\1a&H1E&\c&HB6B186&\blur4\3c&H000000&\pos(816,587.429)}字幕製作
-Dialogue: 0,0:01:13.59,0:01:13.63,STAFF,,0,0,0,,{\fs50\an6\pos(1074,633.429)}SweetSub
-Dialogue: 0,0:01:13.59,0:01:13.63,STAFF,,0,0,0,,{\fs50\an6\c&H031A79&\blur4\pos(1064,633.429)}SweetSub
-Dialogue: 0,0:01:13.59,0:01:13.63,STAFF,,0,0,0,,{\fs50\an6\c&HB6B186&\blur4\3c&H000000&\pos(1078,633.429)}SweetSub
-Dialogue: 1,0:01:13.55,0:01:13.59,STAFF,,0,0,0,,{\fs30\an4\c&HF6F6F6&\1a&H1E&\pos(809.778,582.667)}字幕製作
-Dialogue: 0,0:01:13.55,0:01:13.59,STAFF,,0,0,0,,{\fs30\an4\c&HF6F6F6&\1a&H1E&\c&H031A79&\blur4\pos(809.778,572.667)}字幕製作
-Dialogue: 2,0:01:13.55,0:01:13.59,STAFF,,0,0,0,,{\fs30\an4\c&HF6F6F6&\1a&H1E&\c&HB6B186&\blur4\3c&H000000&\pos(809.778,586.667)}字幕製作
-Dialogue: 0,0:01:13.55,0:01:13.59,STAFF,,0,0,0,,{\fs50\an6\pos(1067.778,632.667)}SweetSub
-Dialogue: 0,0:01:13.55,0:01:13.59,STAFF,,0,0,0,,{\fs50\an6\c&H031A79&\blur4\pos(1057.778,632.667)}SweetSub
-Dialogue: 0,0:01:13.55,0:01:13.59,STAFF,,0,0,0,,{\fs50\an6\c&HB6B186&\blur4\3c&H000000&\pos(1071.778,632.667)}SweetSub
-Dialogue: 1,0:01:13.51,0:01:13.55,STAFF,,0,0,0,,{\fs30\an4\c&HF6F6F6&\1a&H1E&\pos(812,584)}字幕製作
-Dialogue: 0,0:01:13.51,0:01:13.55,STAFF,,0,0,0,,{\fs30\an4\c&HF6F6F6&\1a&H1E&\c&H031A79&\blur4\pos(812,574)}字幕製作
-Dialogue: 2,0:01:13.51,0:01:13.55,STAFF,,0,0,0,,{\fs30\an4\c&HF6F6F6&\1a&H1E&\c&HB6B186&\blur4\3c&H000000&\pos(812,588)}字幕製作
-Dialogue: 0,0:01:13.51,0:01:13.55,STAFF,,0,0,0,,{\fs50\an6\pos(1070,634)}SweetSub
-Dialogue: 0,0:01:13.51,0:01:13.55,STAFF,,0,0,0,,{\fs50\an6\c&H031A79&\blur4\pos(1060,634)}SweetSub
-Dialogue: 0,0:01:13.51,0:01:13.55,STAFF,,0,0,0,,{\fs50\an6\c&HB6B186&\blur4\3c&H000000&\pos(1074,634)}SweetSub
-Dialogue: 1,0:01:13.46,0:01:13.51,STAFF,,0,0,0,,{\fs30\an4\c&HF6F6F6&\1a&H1E&\pos(818.667,583.556)}字幕製作
-Dialogue: 0,0:01:13.46,0:01:13.51,STAFF,,0,0,0,,{\fs30\an4\c&HF6F6F6&\1a&H1E&\c&H031A79&\blur4\pos(818.667,573.556)}字幕製作
-Dialogue: 2,0:01:13.46,0:01:13.51,STAFF,,0,0,0,,{\fs30\an4\c&HF6F6F6&\1a&H1E&\c&HB6B186&\blur4\3c&H000000&\pos(818.667,587.556)}字幕製作
-Dialogue: 0,0:01:13.46,0:01:13.51,STAFF,,0,0,0,,{\fs50\an6\pos(1076.667,633.556)}SweetSub
-Dialogue: 0,0:01:13.46,0:01:13.51,STAFF,,0,0,0,,{\fs50\an6\c&H031A79&\blur4\pos(1066.667,633.556)}SweetSub
-Dialogue: 0,0:01:13.46,0:01:13.51,STAFF,,0,0,0,,{\fs50\an6\c&HB6B186&\blur4\3c&H000000&\pos(1080.667,633.556)}SweetSub
-Dialogue: 1,0:01:13.42,0:01:13.46,STAFF,,0,0,0,,{\fs30\an4\c&HF6F6F6&\1a&H1E&\pos(808,588.889)}字幕製作
-Dialogue: 0,0:01:13.42,0:01:13.46,STAFF,,0,0,0,,{\fs30\an4\c&HF6F6F6&\1a&H1E&\c&H031A79&\blur4\pos(808,578.889)}字幕製作
-Dialogue: 2,0:01:13.42,0:01:13.46,STAFF,,0,0,0,,{\fs30\an4\c&HF6F6F6&\1a&H1E&\c&HB6B186&\blur4\3c&H000000&\pos(808,592.889)}字幕製作
-Dialogue: 0,0:01:13.42,0:01:13.46,STAFF,,0,0,0,,{\fs50\an6\pos(1066,638.889)}SweetSub
-Dialogue: 0,0:01:13.42,0:01:13.46,STAFF,,0,0,0,,{\fs50\an6\c&H031A79&\blur4\pos(1056,638.889)}SweetSub
-Dialogue: 0,0:01:13.42,0:01:13.46,STAFF,,0,0,0,,{\fs50\an6\c&HB6B186&\blur4\3c&H000000&\pos(1070,638.889)}SweetSub
-Dialogue: 1,0:01:13.38,0:01:13.42,STAFF,,0,0,0,,{\fs30\an4\c&HF6F6F6&\1a&H1E&\pos(793,602)}字幕製作
-Dialogue: 0,0:01:13.38,0:01:13.42,STAFF,,0,0,0,,{\fs30\an4\c&HF6F6F6&\1a&H1E&\c&H031A79&\blur4\pos(793,592)}字幕製作
-Dialogue: 2,0:01:13.38,0:01:13.42,STAFF,,0,0,0,,{\fs30\an4\c&HF6F6F6&\1a&H1E&\c&HB6B186&\blur4\3c&H000000&\pos(793,606)}字幕製作
-Dialogue: 0,0:01:13.38,0:01:13.42,STAFF,,0,0,0,,{\fs50\an6\pos(1051,652)}SweetSub
-Dialogue: 0,0:01:13.38,0:01:13.42,STAFF,,0,0,0,,{\fs50\an6\c&H031A79&\blur4\pos(1041,652)}SweetSub
-Dialogue: 0,0:01:13.38,0:01:13.42,STAFF,,0,0,0,,{\fs50\an6\c&HB6B186&\blur4\3c&H000000&\pos(1055,652)}SweetSub
-Dialogue: 1,0:01:19.60,0:01:19.64,STAFF,,0,0,0,,{\fs30\an4\c&HF6F6F6&\1a&H1E&\pos(827,523)}字幕製作
-Dialogue: 0,0:01:19.60,0:01:19.64,STAFF,,0,0,0,,{\fs30\an4\c&HF6F6F6&\1a&H1E&\c&H031A79&\blur4\pos(827,513)}字幕製作
-Dialogue: 2,0:01:19.60,0:01:19.64,STAFF,,0,0,0,,{\fs30\an4\c&HF6F6F6&\1a&H1E&\c&HB6B186&\blur4\3c&H000000&\pos(827,527)}字幕製作
-Dialogue: 0,0:01:19.60,0:01:19.64,STAFF,,0,0,0,,{\fs50\an6\pos(1085,573)}SweetSub
-Dialogue: 0,0:01:19.60,0:01:19.64,STAFF,,0,0,0,,{\fs50\an6\c&H031A79&\blur4\pos(1075,573)}SweetSub
-Dialogue: 0,0:01:19.60,0:01:19.64,STAFF,,0,0,0,,{\fs50\an6\c&HB6B186&\blur4\3c&H000000&\pos(1089,573)}SweetSub
-Dialogue: 0,0:00:48.27,0:00:50.94,STAFF,,0,0,0,,{\fs28\an4\c&HF6F6F6&\1a&H1E&\pos(813,416)\fsp0}Sub Stylist
-Dialogue: 0,0:00:48.27,0:00:50.94,STAFF,,0,0,0,,{\fs40\an6\pos(1100,414)\fsp0\c&HF6F6F6&\1a&H1E&}natsukage
-Dialogue: 0,0:00:48.27,0:00:50.94,STAFF,,0,0,0,,{\fs28\an4\c&HF6F6F6&\1a&H1E&\pos(813,676)\fsp0}Sub Superviser
-Dialogue: 0,0:00:48.27,0:00:50.94,STAFF,,0,0,0,,{\fs40\an6\pos(1100,674)\fsp0\c&HF6F6F6&\1a&H1E&}tastySugar
-Dialogue: 0,0:01:13.51,0:01:13.55,STAFF,,0,0,0,,
+Dialogue: 0,0:23:12.37,0:23:16.41,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an3\fad(0,0)\c&H292928&\fs44\blur1\pos(1168,426)}翻譯
+Dialogue: 0,0:23:12.37,0:23:16.41,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an3\fad(0,0)\c&H292928&\fs44\blur1\fscx110\fsp-2\fscy160\pos(1168,436)}____
+Dialogue: 0,0:23:12.37,0:23:16.41,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an1\fad(0,0)\c&H292928&\fs50\blur1\pos(1212,432)}nialv7
+Dialogue: 0,0:23:12.37,0:23:16.41,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an9\fad(0,0)\c&H292928&\fs44\blur1\pos(1168,466)}校對
+Dialogue: 0,0:23:12.37,0:23:16.41,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an3\fad(0,0)\c&H292928&\fs44\blur1\fscx110\fsp-2\fscy160\pos(1168,518)}____
+Dialogue: 0,0:23:12.37,0:23:16.41,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an7\fad(0,0)\c&H292928&\fs50\blur1\pos(1212,460)}Senren
+Dialogue: 0,0:23:12.37,0:23:16.41,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an9\fad(0,0)\c&H292928&\fs44\blur1\pos(1168,542)}後期
+Dialogue: 0,0:23:12.37,0:23:16.41,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an3\fad(0,0)\c&H292928&\fs44\blur1\pos(1168,594)\fscx110\fsp-2\fscy160}____
+Dialogue: 0,0:23:12.37,0:23:16.41,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an7\fad(0,0)\c&H292928&\fs50\blur1\pos(1212,542)\fsp1}natsukage
+Dialogue: 0,0:23:12.37,0:23:16.41,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an7\fad(0,0)\c&H292928&\fs50\blur1\pos(1212,588)\fsp0.5}tastySugar
+Dialogue: 1,0:23:12.32,0:23:16.41,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an3\fad(0,0)\c&H292928&\fs44\blur1\pos(1168,426)\1a&HC8&}翻譯
+Dialogue: 1,0:23:12.32,0:23:16.41,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an3\fad(0,0)\c&H292928&\fs44\blur1\fscx110\fsp-2\fscy160\pos(1168,436)\1a&HC8&}____
+Dialogue: 1,0:23:12.32,0:23:16.41,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an1\fad(0,0)\c&H292928&\fs50\blur1\pos(1212,432)\1a&HC8&}nialv7
+Dialogue: 1,0:23:12.32,0:23:16.41,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an9\fad(0,0)\c&H292928&\fs44\blur1\pos(1168,466)\1a&HC8&}校對
+Dialogue: 1,0:23:12.32,0:23:16.41,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an3\fad(0,0)\c&H292928&\fs44\blur1\fscx110\fsp-2\fscy160\pos(1168,518)\1a&HC8&}____
+Dialogue: 1,0:23:12.32,0:23:16.41,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an7\fad(0,0)\c&H292928&\fs50\blur1\pos(1212,460)\1a&HC8&}Senren
+Dialogue: 1,0:23:12.32,0:23:16.41,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an9\fad(0,0)\c&H292928&\fs44\blur1\pos(1168,542)\1a&HC8&}後期
+Dialogue: 1,0:23:12.32,0:23:16.41,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an3\fad(0,0)\c&H292928&\fs44\blur1\pos(1168,594)\fscx110\fsp-2\fscy160\1a&HC8&}____
+Dialogue: 1,0:23:12.32,0:23:16.41,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an7\fad(0,0)\c&H292928&\fs50\blur1\pos(1212,542)\fsp1\1a&HC8&}natsukage
+Dialogue: 1,0:23:12.32,0:23:16.41,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an7\fad(0,0)\c&H292928&\fs50\blur1\pos(1212,588)\fsp0.5\1a&HC8&}tastySugar
+Dialogue: 0,0:24:30.11,0:24:33.24,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an8\fad(0,100)\c&HF0F0F0&\fs44\blur1\pos(384,642)}字幕製作
+Dialogue: 0,0:24:30.11,0:24:33.24,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an8\fad(0,100)\c&HF0F0F0&\fs44\blur1\pos(384,630)\fscx110\fsp-2\fscy160}________
+Dialogue: 0,0:24:30.11,0:24:33.24,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\1aFF\an8\fad(0,100)\c&H000000&\fs50\blur1\pos(384,700)\fsp1\bord1\3c&HF0F0F0&\blur2\3a&H00&}SweetSub
+Dialogue: 0,0:24:30.11,0:24:33.24,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an8\fad(0,100)\c&H000000&\fs50\blur2\pos(384,700)\fsp1}SweetSub
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,>Songs<
 Dialogue: 0,0:00:00.48,0:00:03.98,OPCN - Shad,,0,0,0,,{\fad(0,200)\move(1920,30,1440,30,0,250)\clip(0,0,0,100)\t(0,300,0.8,\clip(0,0,1920,100))\c&HFFFFFF&\1a&HFF&}今天也在空中游泳「你也是偽善者嗎」
 Dialogue: 0,0:00:03.98,0:00:07.19,OPCN - Shad,,0,0,0,,{\fad(0,200)\move(1920,30,1440,30,0,250)\clip(0,0,0,100)\t(0,300,0.8,\clip(0,0,1920,100))\c&HFFFFFF&\1a&HFF&}正義是什麼  自己定義一個就行
@@ -375,7 +270,8 @@ Dialogue: 0,0:04:28.33,0:04:30.29,Line CN,,0,0,0,,但背後一定有原因
 Dialogue: 0,0:04:30.29,0:04:33.00,Line CN,,0,0,0,,不過還是讓他給跑了啊
 Dialogue: 0,0:04:54.98,0:04:58.73,Line CN,,0,0,0,,你是什麼人？我們以前在哪見過嗎？
 Dialogue: 0,0:04:58.73,0:04:59.90,Line CN,,0,0,0,,是 John Walker！
-Dialogue: 0,0:04:59.90,0:05:04.15,Line CN,,0,0,0,,除了東鄉和國府  其他人暫時把解析工作集中在 John Walker 身上
+Dialogue: 0,0:04:59.90,0:05:01.28,Line CN,,0,0,0,,除了東鄉和國府
+Dialogue: 0,0:05:01.28,0:05:04.15,Line CN,,0,0,0,,其他人暫時把解析工作集中在 John Walker 身上
 Dialogue: 0,0:05:04.15,0:05:07.20,Line CN,,0,0,0,,總之  要把能獲取的訊息都收集起來！
 Dialogue: 0,0:05:07.20,0:05:08.57,Line CN,,0,0,0,,是！
 Dialogue: 0,0:05:08.57,0:05:12.50,Line CN,,0,0,0,,喂  你們是不是沒有認真搜尋本堂町
@@ -560,7 +456,7 @@ Dialogue: 0,0:17:07.92,0:17:09.80,Line CN,,0,0,0,,我還能潛
 Dialogue: 0,0:17:11.38,0:17:15.51,Line CN,,0,0,0,,那個女孩沒事吧？你那邊的那個
 Dialogue: 0,0:17:15.51,0:17:19.01,Line CN,,0,0,0,,她和這次的犯人接觸了吧？
 Dialogue: 0,0:17:19.01,0:17:20.43,Line CN,,0,0,0,,你是怎麼知道的？
-Dialogue: 0,0:17:20.43,0:17:25.77,Line CN,,0,0,0,,因為在那個世界裡  只有她一個人似乎突然有了自己的意識一般行動起來
+Dialogue: 0,0:17:20.43,0:17:25.77,Line CN,,0,0,0,,{\fsp-2}因為在那個世界裡  只有她一個人似乎突然有了自己的意識一般行動起來
 Dialogue: 0,0:17:25.77,0:17:31.32,Line CN,,0,0,0,,我想她在面對殺意的時候  讓犯人產生動搖了吧
 Dialogue: 0,0:17:31.32,0:17:34.70,Line CN,,0,0,0,,沒錯  她因此身受重傷
 Dialogue: 0,0:17:34.70,0:17:37.07,Line CN,,0,0,0,,不過多虧了她  我們抓到了犯人
@@ -605,7 +501,8 @@ Dialogue: 0,0:19:53.75,0:19:59.30,Line CN,,0,0,0,,這期間  你接連目睹了�
 Dialogue: 0,0:19:59.30,0:20:02.84,Line CN,,0,0,0,,根據你的經驗  你怎麼看？
 Dialogue: 0,0:20:04.14,0:20:08.39,Line CN,,0,0,0,,此前我在懷疑 John Walker 是否真實存在
 Dialogue: 0,0:20:08.39,0:20:12.23,Line CN,,0,0,0,,我認為是罔象女這台機器為方便起見{連続殺人犯の無意識に共通する何かの要素を}
-Dialogue: 0,0:20:12.23,0:20:17.86,Line CN,,0,0,0,,將連續殺人犯無意識中共通的某個要素  都替換成 John Walker 這個記號{「ミヅハノメ」という機械が便利的に「ジョン・ウォーカー」という記号に置き換えたんだと}
+Dialogue: 0,0:20:12.23,0:20:14.90,Line CN,,0,0,0,,將連續殺人犯無意識中共通的某個要素
+Dialogue: 0,0:20:14.90,0:20:17.86,Line CN,,0,0,0,,都替換成 John Walker 這個記號{「ミヅハノメ」という機械が便利的に「ジョン・ウォーカー」という記号に置き換えたんだと}
 Dialogue: 0,0:20:18.86,0:20:23.49,Line CN,,0,0,0,,是嗎  就像每次都會被殺害的小蛙一樣嗎？
 Dialogue: 0,0:20:23.49,0:20:28.87,Line CN,,0,0,0,,沒錯  我認為他是罔象女默認生成在創造出的 ID 裡的{はい　ミヅハノメの作るイドにデフォルトで用意されているだけで}
 Dialogue: 0,0:20:28.87,0:20:32.33,Line CN,,0,0,0,,只是我們還沒有搞清楚他的作用{まだその役目が分からないだけなんじゃないかと}

@@ -12,10 +12,10 @@ PlayResY: 1080
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Source Han Sans SC Medium,80,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,12,1
-Style: Line CN,Source Han Sans SC Medium,80,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,12,1
+Style: Line CN,Source Han Sans SC Medium,85,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,1
 Style: Line CN - Top,Source Han Sans SC Medium,80,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,30,30,12,1
-Style: TopLeft,Source Han Sans SC Medium,50,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,7,30,30,30,1
-Style: Sign,Source Han Sans SC Medium,80,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,12,1
+Style: TopLeft,Source Han Sans SC Medium,60,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,7,30,30,30,1
+Style: Sign,Source Han Sans SC Medium,85,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,1
 Style: STAFF,Source Han Sans SC Normal,105,&H00F6F6F6,&H000019FF,&H00000000,&H00000000,0,0,0,0,95,100,3,0,1,0,0,2,30,30,60,1
 Style: OPJP - Roll,Source Han Sans Medium,60,&H00F0F0F0,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,15,1
 Style: OPCN - Roll,Source Han Sans SC Medium,60,&H00F0F0F0,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,30,30,15,1
@@ -33,16 +33,16 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,>STAFF<
 Dialogue: 0,0:00:06.36,0:00:10.15,STAFF,,0,0,0,,{\fad(860,720)\an6\fs51\blur1\fscx105\pos(1120,653)}字幕制作
 Dialogue: 0,0:00:06.36,0:00:10.15,STAFF,,0,0,0,,{\fad(860,720)\an6\fs50\blur1\fscx110\fsp2\pos(1120,740)}Fansub Produced by
 Dialogue: 0,0:00:06.36,0:00:10.15,STAFF,,0,0,0,,{\fad(860,720)\an6\fs100\blur1\fscx121\pos(1120,848)}SweetSub
-Dialogue: 0,0:00:06.36,0:00:10.15,STAFF,,0,0,0,,{\fad(860,720)\p1\an7\pos(0,0)}m 1260 618 l 1260 892 1264 892 1264 618
+Dialogue: 0,0:00:06.36,0:00:10.15,STAFF,,0,0,0,,{\fad(860,720)\p1\an7\pos(0,0)\blur1}m 1260 619 l 1260 893 1265 893 1265 619
 Dialogue: 0,0:00:11.40,0:00:15.20,STAFF,,0,0,0,,{\fad(860,720)\an6\fs51\pos(595,780)\blur1\fscx105}翻译 　{\fs96\fscx92}tastySugar
-Dialogue: 0,0:00:11.40,0:00:15.20,STAFF,,0,0,0,,{\fad(860,720)\p1\an7\pos(0,0)}m 686 748 l 690 748 690 896 686 896
+Dialogue: 0,0:00:11.40,0:00:15.20,STAFF,,0,0,0,,{\fad(860,720)\p1\an7\pos(0,0)\blur1}m 685 750 l 690 750 690 896 685 896
 Dialogue: 0,0:00:11.40,0:00:15.20,STAFF,,0,0,0,,{\fad(860,720)\an6\fs51\pos(598,870)\blur1\fscx110\fsp1.5}Translation　{\fscx100}tastySugar
 Dialogue: 0,0:00:11.40,0:00:15.20,STAFF,,0,0,0,,{\fad(860,720)\an6\fs51\pos(1105,780)\blur1\fscx105}校对 　{\fs96}Senren
 Dialogue: 0,0:00:11.40,0:00:15.20,STAFF,,0,0,0,,{\fad(860,720)\an6\fs51\pos(1108,870)\blur1\fscx86\fsp1.5}Translation Check　Senren
-Dialogue: 0,0:00:11.40,0:00:15.20,STAFF,,0,0,0,,{\fad(860,720)\p1\an7\pos(0,0)}m 1226 748 l 1230 748 1230 896 1226 896
+Dialogue: 0,0:00:11.40,0:00:15.20,STAFF,,0,0,0,,{\fad(860,720)\p1\an7\pos(0,0)\blur1}m 1225 750 l 1230 750 1230 896 1225 896
 Dialogue: 0,0:00:16.45,0:00:20.25,STAFF,,0,0,0,,{\fad(860,720)\an6\fs51\blur1\fscx105\pos(1699,576)}后期 　{\fs96}natsukage & tastySugar
 Dialogue: 0,0:00:16.45,0:00:20.25,STAFF,,0,0,0,,{\fad(860,720)\an6\fs51\blur1\fsp1.5\pos(1702,666)}Stylist, Timer & Encoder　natsukage & tastySugar
-Dialogue: 0,0:00:16.45,0:00:20.25,STAFF,,0,0,0,,{\fad(860,720)\p1\an7\pos(596,-200)}m 1226 748 l 1230 748 1230 896 1226 896
+Dialogue: 0,0:00:16.45,0:00:20.25,STAFF,,0,0,0,,{\fad(860,720)\p1\an7\pos(596,-200)\blur1}m 1226 748 l 1231 748 1231 896 1226 896
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,>Song<
 Dialogue: 0,0:21:59.96,0:24:34.24,OPCN - Roll,,0,0,0,,{\p1\pos(0,0)\fad(0,400)\an7\blur1\bord0\1c&H000000&}m -20 990 l -20 1100 1940 1100 1940 990
 Dialogue: 0,0:21:59.96,0:24:34.24,OPCN - Roll,,0,0,0,,{\p1\pos(0,0)\fad(0,400)\an7\blur1\bord0\1c&H000000&}m -20 -20 l -20 80 1940 80 1940 -20
@@ -373,11 +373,11 @@ Dialogue: 0,0:14:20.17,0:14:23.88,Line CN,,0,0,0,,话说回来  你可别看漏�
 Dialogue: 0,0:14:23.88,0:14:27.88,Line CN,,0,0,0,,稚产灵…  真是不可思议
 Dialogue: 0,0:14:28.09,0:14:31.89,Line CN,,0,0,0,,凭这种机器就能采集人的杀意
 Dialogue: 0,0:14:32.47,0:14:35.89,Line CN,,0,0,0,,那个  在培训时我错过问的机会了
-Dialogue: 0,0:14:36.18,0:14:42.36,Line CN,,0,0,0,,ID 和弗洛伊德的「本我」以及取水用的「井」是故意搞的同音哏吗？
+Dialogue: 0,0:14:36.18,0:14:42.36,Line CN,,0,0,0,,{\fsp-2}ID 和弗洛伊德的「本我」以及取水用的「井」是故意搞的同音哏吗？
 Dialogue: 0,0:14:42.36,0:14:43.98,Line CN,,0,0,0,,还是说只是偶然而已？
 Dialogue: 0,0:14:44.27,0:14:46.86,Line CN,,0,0,0,,不是同音哏  这是必然
 Dialogue: 0,0:14:47.11,0:14:48.49,Line CN,,0,0,0,,必然？
-Dialogue: 0,0:14:51.70,0:14:55.70,TopLeft,,0,0,0,,异土：\N{\fs30}1. 不是故乡的地方。异乡。\N2. 异国。\N3. 远离尘世的地方。仙境。
+Dialogue: 0,0:14:51.70,0:14:55.70,TopLeft,,0,0,0,,异土：\N{\fs40}1. 不是故乡的地方。异乡。\N2. 异国。\N3. 远离尘世的地方。仙境。
 Dialogue: 0,0:14:48.65,0:14:53.70,Line CN,,0,0,0,,ido 也能写作与这里相异的土地 「异土」
 Dialogue: 0,0:14:54.08,0:14:55.70,Line CN,,0,0,0,,啊  真的啊
 Dialogue: 0,0:14:55.70,0:14:59.25,Line CN,,0,0,0,,既然有三重含义  那就是必然
