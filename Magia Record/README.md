@@ -14,5 +14,6 @@ WEB 版字幕下载
 |  4   |              并不是过去               | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Magia%20Record/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20-%2004.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Magia%20Record/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20-%2004.cht.ass) |
 |  5   |      我们之间没有容你插足的余地       | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Magia%20Record/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20-%2005.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Magia%20Record/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20-%2005.cht.ass) |
 |  6   |            我什么都愿意做             | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Magia%20Record/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20-%2006.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Magia%20Record/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20-%2006.cht.ass) |
+|  7   |           我想和你一起回家            | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Magia%20Record/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20-%2007.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Magia%20Record/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20-%2007.cht.ass) |
 
 
