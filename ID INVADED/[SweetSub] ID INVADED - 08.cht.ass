@@ -39,7 +39,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Line CN,,0,0,0,,如果在字幕中發現了錯�
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,>STAFF<
 Dialogue: 0,0:23:12.33,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an3\fad(0,0)\c&H292928&\fs44\blur1\pos(1168,426)}翻譯
 Dialogue: 0,0:23:12.33,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an3\fad(0,0)\c&H292928&\fs44\blur1\fscx110\fsp-2\fscy160\pos(1168,436)}____
-Dialogue: 0,0:23:12.33,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an1\fad(0,0)\c&H292928&\fs50\blur1\pos(1212,510)\fsp17}謝  方
+Dialogue: 0,0:23:12.33,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an1\fad(0,0)\c&H292928&\fs50\blur1\pos(1212,510)\fsp17}谢  方
 Dialogue: 0,0:23:12.33,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an1\fad(0,0)\c&H292928&\fs50\blur1\pos(1212,464)\fsp0.5}tastySugar
 Dialogue: 0,0:23:12.33,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an1\fad(0,0)\c&H292928&\fs50\blur1\pos(1212,428)}nialv7
 Dialogue: 0,0:23:12.33,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an9\fad(0,0)\c&H292928&\fs44\blur1\pos(1168,538)}校對
@@ -51,7 +51,7 @@ Dialogue: 0,0:23:12.33,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an
 Comment: 0,0:23:12.33,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an7\fad(0,0)\c&H292928&\fs50\blur1\pos(1212,660)\fsp0.5}tastySugar
 Dialogue: 1,0:23:12.29,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an3\fad(0,0)\c&H292928&\fs44\blur1\pos(1168,426)\1a&HC8&}翻譯
 Dialogue: 1,0:23:12.29,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an3\fad(0,0)\c&H292928&\fs44\blur1\fscx110\fsp-2\fscy160\pos(1168,436)\1a&HC8&}____
-Dialogue: 1,0:23:12.29,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an1\fad(0,0)\c&H292928&\fs50\blur1\pos(1212,510)\fsp17\1a&HC8&}謝  方
+Dialogue: 1,0:23:12.29,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an1\fad(0,0)\c&H292928&\fs50\blur1\pos(1212,510)\fsp17\1a&HC8&}谢  方
 Dialogue: 1,0:23:12.29,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an1\fad(0,0)\c&H292928&\fs50\blur1\pos(1212,464)\fsp0.5\1a&HC8&}tastySugar
 Dialogue: 1,0:23:12.29,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an1\fad(0,0)\c&H292928&\fs50\blur1\pos(1212,428)\1a&HC8&}nialv7
 Dialogue: 1,0:23:12.29,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an9\fad(0,0)\c&H292928&\fs44\blur1\pos(1168,538)\1a&HC8&}校對
