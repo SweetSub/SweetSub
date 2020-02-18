@@ -39,7 +39,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Line CN,,0,0,0,,如果在字幕中發現了錯�
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,>STAFF<
 Dialogue: 0,0:23:12.33,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an3\fad(0,0)\c&H292928&\fs44\blur1\pos(1168,426)}翻譯
 Dialogue: 0,0:23:12.33,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an3\fad(0,0)\c&H292928&\fs44\blur1\fscx110\fsp-2\fscy160\pos(1168,436)}____
-Dialogue: 0,0:23:12.33,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an1\fad(0,0)\c&H292928&\fs50\blur1\pos(1212,510)\fsp17}谢  方
+Dialogue: 0,0:23:12.33,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an1\fad(0,0)\c&H292928&\fs50\blur1\pos(1212,510)\fsp17}謝  方
 Dialogue: 0,0:23:12.33,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an1\fad(0,0)\c&H292928&\fs50\blur1\pos(1212,464)\fsp0.5}tastySugar
 Dialogue: 0,0:23:12.33,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an1\fad(0,0)\c&H292928&\fs50\blur1\pos(1212,428)}nialv7
 Dialogue: 0,0:23:12.33,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an9\fad(0,0)\c&H292928&\fs44\blur1\pos(1168,538)}校對
@@ -51,7 +51,7 @@ Dialogue: 0,0:23:12.33,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an
 Comment: 0,0:23:12.33,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an7\fad(0,0)\c&H292928&\fs50\blur1\pos(1212,660)\fsp0.5}tastySugar
 Dialogue: 1,0:23:12.29,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an3\fad(0,0)\c&H292928&\fs44\blur1\pos(1168,426)\1a&HC8&}翻譯
 Dialogue: 1,0:23:12.29,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an3\fad(0,0)\c&H292928&\fs44\blur1\fscx110\fsp-2\fscy160\pos(1168,436)\1a&HC8&}____
-Dialogue: 1,0:23:12.29,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an1\fad(0,0)\c&H292928&\fs50\blur1\pos(1212,510)\fsp17\1a&HC8&}谢  方
+Dialogue: 1,0:23:12.29,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an1\fad(0,0)\c&H292928&\fs50\blur1\pos(1212,510)\fsp17\1a&HC8&}謝  方
 Dialogue: 1,0:23:12.29,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an1\fad(0,0)\c&H292928&\fs50\blur1\pos(1212,464)\fsp0.5\1a&HC8&}tastySugar
 Dialogue: 1,0:23:12.29,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an1\fad(0,0)\c&H292928&\fs50\blur1\pos(1212,428)\1a&HC8&}nialv7
 Dialogue: 1,0:23:12.29,0:23:16.37,STAFF,,0,0,0,,{\fnSource Han Sans TC Medium\an9\fad(0,0)\c&H292928&\fs44\blur1\pos(1168,538)\1a&HC8&}校對
@@ -589,7 +589,7 @@ Dialogue: 0,0:18:57.66,0:18:59.33,Line CN,,0,0,0,,他們進 ID 了嗎
 Dialogue: 0,0:18:59.33,0:19:01.91,Line CN,,0,0,0,,是啊  進了你的 ID
 Dialogue: 0,0:19:01.91,0:19:02.75,Line CN,,0,0,0,,我的？
 Dialogue: 0,0:19:04.41,0:19:05.33,Line CN,,0,0,0,,讓他們停下
-Dialogue: 0,0:19:09.38,0:19:11.21,Line CN,,0,0,0,,立刻從 ID 裡出來
+Dialogue: 0,0:19:09.38,0:19:11.21,Line CN,,0,0,0,,立刻把人排出 ID
 Dialogue: 0,0:19:16.01,0:19:17.22,Line CN,,0,0,0,,你還好嗎
 Dialogue: 0,0:19:17.22,0:19:18.64,Line CN,,0,0,0,,還好
 Dialogue: 0,0:19:18.64,0:19:20.68,Line CN,,0,0,0,,你才是  還好嗎
@@ -654,5 +654,5 @@ Dialogue: 0,0:22:47.76,0:22:50.10,Line CN,,0,0,0,,不要緊  沒有錯的
 Dialogue: 0,0:22:52.18,0:22:54.27,Line CN,,0,0,0,,我是名偵探  所以我知道
 Dialogue: 0,0:22:54.27,0:22:58.82,Line CN,,0,0,0,,我們關於一切的判斷都是正確的
 Dialogue: 0,0:22:58.82,0:23:03.28,Line CN,,0,0,0,,這些都是為了在此地如此發展而齊聚於此的
-Dialogue: 0,0:23:04.03,0:23:05.24,Line CN,,0,0,0,,從 ID 裡出來
+Dialogue: 0,0:23:04.03,0:23:05.24,Line CN,,0,0,0,,快把人排出 ID
 Dialogue: 0,0:23:06.28,0:23:08.03,Line CN,,0,0,0,,都是陷阱！
