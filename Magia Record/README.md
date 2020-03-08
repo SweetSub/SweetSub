@@ -17,5 +17,5 @@ WEB 版字幕下载
 |  7   |           我想和你一起回家            | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Magia%20Record/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20-%2007.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Magia%20Record/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20-%2007.cht.ass) |
 |  8   |             绝对不要回复              | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Magia%20Record/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20-%2008.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Magia%20Record/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20-%2008.cht.ass) |
 |  9   |           只有我一人的世界            | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Magia%20Record/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20-%2009.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Magia%20Record/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20-%2009.cht.ass) |
-
+|  10  |               我的名字                | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Magia%20Record/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20-%2010.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Magia%20Record/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20-%2010.cht.ass) |
 
