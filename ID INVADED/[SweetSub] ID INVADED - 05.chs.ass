@@ -135,7 +135,7 @@ Dialogue: 0,0:02:15.11,0:02:18.58,OPJP - Shad,,0,0,0,,{\fad(0,200)\move(40,1050,
 Dialogue: 0,0:02:18.58,0:02:22.00,OPJP - Shad,,0,0,0,,{\fad(0,200)\move(40,1050,520,1050,0,250)\clip(1920,1000,1920,1080)\t(0,300,0.8,\clip(0,1000,1920,1080))\c&HFFFFFF&\1a&HFF&}狂った捜査線上で  ただ踊っている
 Dialogue: 0,0:02:22.00,0:02:25.17,OPJP - Shad,,0,0,0,,{\fad(0,200)\move(40,1050,520,1050,0,250)\clip(1920,1000,1920,1080)\t(0,300,0.8,\clip(0,1000,1920,1080))\c&HFFFFFF&\1a&HFF&}終わらぬハイドアンドシーク「ジキルは何処だ」
 Dialogue: 0,0:02:25.17,0:02:28.42,OPJP - Shad,,0,0,0,,{\fad(0,200)\move(40,1050,520,1050,0,250)\clip(1920,1000,1920,1080)\t(0,300,0.8,\clip(0,1000,1920,1080))\c&HFFFFFF&\1a&HFF&}完成だなんて　ずっとさせないで
-Dialogue: 0,0:02:28.42,0:02:30.88,OPJP - Shad,,0,0,0,,{\fad(0,0)\move(40,1050,520,1050,0,250)\clip(1920,1000,1920,1080)\t(0,300,0.8,\clip(0,1000,1920,1080))\c&HFFFFFF&\1a&HFF&}…「赦してよ」
+Dialogue: 0,0:02:28.42,0:02:30.88,OPJP - Shad,,0,0,0,,{\fad(0,0)\move(40,1050,520,1050,0,250)\clip(1920,1000,1920,1080)\t(0,300,0.8,\clip(0,1000,1920,1080))\c&HFFFFFF&\1a&HFF&}正解を壊した…「赦してよ」
 Dialogue: 0,0:01:31.82,0:01:34.95,OPJP - Shad,ruby,0,0,0,,{\fs30\fad(0,200)\move(-116,990,366,990,0,150)\clip(1920,950,1920,1080)\t(0,300,0.8,\clip(0,950,1920,1080))\c&HFFFFFF&\1a&HFF&}て
 Dialogue: 0,0:01:50.09,0:01:54.55,OPJP - Shad,ruby,0,0,0,,{\fs30\fad(0,200)\move(204,990,764,990,0,150)\clip(1920,950,1920,1080)\t(0,300,0.8,\clip(0,950,1920,1080))\c&HFFFFFF&\1a&HFF&}アイロニー
 Dialogue: 0,0:02:28.42,0:02:30.88,OPJP - Shad,ruby,0,0,0,,{\fs30\fad(0,0)\move(-198,990,282,990,0,150)\clip(1920,950,1920,1080)\t(0,300,0.8,\clip(0,950,1920,1080))\c&HFFFFFF&\1a&HFF&}こたえ
@@ -162,75 +162,77 @@ Dialogue: 0,0:02:15.11,0:02:18.58,OPJP,,0,0,0,,{\fad(0,200)\move(40,1054,520,105
 Dialogue: 0,0:02:18.58,0:02:22.00,OPJP,,0,0,0,,{\fad(0,200)\move(40,1054,520,1054,0,250)\clip(1920,1000,1920,1080)\t(0,300,0.8,\clip(0,1000,1920,1080))\blur5\t(100,350,\bord0\blur0)}狂った捜査線上で  ただ踊っている
 Dialogue: 0,0:02:22.00,0:02:25.17,OPJP,,0,0,0,,{\fad(0,200)\move(40,1054,520,1054,0,250)\clip(1920,1000,1920,1080)\t(0,300,0.8,\clip(0,1000,1920,1080))\blur5\t(100,350,\bord0\blur0)}終わらぬハイドアンドシーク「ジキルは何処だ」
 Dialogue: 0,0:02:25.17,0:02:28.42,OPJP,,0,0,0,,{\fad(0,200)\move(40,1054,520,1054,0,250)\clip(1920,1000,1920,1080)\t(0,300,0.8,\clip(0,1000,1920,1080))\blur5\t(100,350,\bord0\blur0)}完成だなんて　ずっとさせないで
-Dialogue: 0,0:02:28.42,0:02:30.88,OPJP,,0,0,0,,{\fad(0,0)\move(40,1054,520,1054,0,250)\clip(1920,1000,1920,1080)\t(0,300,0.8,\clip(0,1000,1920,1080))\blur5\t(100,350,\bord0\blur0)}…「赦してよ」
+Dialogue: 0,0:02:28.42,0:02:30.88,OPJP,,0,0,0,,{\fad(0,0)\move(40,1054,520,1054,0,250)\clip(1920,1000,1920,1080)\t(0,300,0.8,\clip(0,1000,1920,1080))\blur5\t(100,350,\bord0\blur0)}正解を壊した…「赦してよ」
 Dialogue: 0,0:01:31.82,0:01:34.95,OPJP,ruby,0,0,0,,{\fs30\bord1\fad(0,200)\move(-116,990,366,990,0,150)\clip(1920,950,1920,1080)\t(0,300,0.8,\clip(0,950,1920,1080))\blur5\t(100,350,\bord0\blur0)}て
 Dialogue: 0,0:01:50.09,0:01:54.55,OPJP,ruby,0,0,0,,{\fs30\bord1\fad(0,200)\move(284,990,764,990,0,150)\clip(1920,950,1920,1080)\t(0,300,0.8,\clip(0,950,1920,1080))\blur5\t(100,350,\bord0\blur0)}アイロニー
 Dialogue: 0,0:02:28.42,0:02:30.88,OPJP,ruby,0,0,0,,{\fs30\bord1\fad(0,0)\move(-198,990,282,990,0,150)\clip(1920,950,1920,1080)\t(0,300,0.8,\clip(0,950,1920,1080))\blur5\t(100,350,\bord0\blur0)}こたえ
-Comment: 0,0:24:12.89,0:24:12.93,Default,,0,0,0,,ED：MIYAVI「Other Side」
-Dialogue: 0,0:23:04.19,0:23:07.07,EDCN,,0,0,0,,{\pos(1440,30)\fad(50,0)\c&HCACCCC&\blur1}面对掩盖城市喧嚣的噪音
-Dialogue: 0,0:23:07.07,0:23:10.66,EDCN,,0,0,0,,{\pos(1440,30)\c&HCACCCC&\blur1}我选择把耳朵深深埋在风帽之中
-Dialogue: 0,0:23:10.66,0:23:12.20,EDCN,,0,0,0,,{\pos(1440,30)\c&HCACCCC&\blur1}我已不再迷茫
-Dialogue: 0,0:23:12.20,0:23:14.08,EDCN,,0,0,0,,{\pos(1440,30)\c&HCACCCC&\blur1}我已不再迷茫
-Dialogue: 0,0:23:14.08,0:23:14.95,EDCN,,0,0,0,,{\pos(1440,30)\c&HCACCCC&\blur1}Uh oh eh yo
-Dialogue: 0,0:23:14.95,0:23:17.41,EDCN,,0,0,0,,{\pos(480,30)\c&H284059&\fad(0,250)\blur1\bord1\3c&H646464&\blur2}Uh oh eh yo
-Dialogue: 0,0:23:17.83,0:23:19.29,EDCN,,0,0,0,,{\pos(480,30)\c&H284059&\fad(50,0)\blur1\bord1\3c&H646464&\blur2}人们话太多
-Dialogue: 0,0:23:19.29,0:23:20.46,EDCN,,0,0,0,,{\pos(480,30)\c&H284059&\fad(0,0)\blur1\bord1\3c&H646464&\blur2}但我不愿发一言
-Dialogue: 0,0:23:20.46,0:23:21.88,EDCN,,0,0,0,,{\pos(480,30)\c&H284059&\fad(0,0)\blur1\bord1\3c&H646464&\blur2}这和我无关
-Dialogue: 0,0:23:21.88,0:23:22.67,EDCN,,0,0,0,,{\pos(480,30)\c&H284059&\fad(0,100)\blur1\bord1\3c&H646464&\blur2}我能看出你在说谎
-Dialogue: 0,0:23:22.63,0:23:23.13,EDCN,,0,0,0,,{\pos(480,30)\c&H284059&\fad(50,50)\blur1}我能看出你在说谎
-Dialogue: 0,0:23:23.13,0:23:24.42,EDCN,,0,0,0,,{\pos(480,30)\c&H284059&\fad(0,0)\blur1}是如此明显
-Dialogue: 0,0:23:24.42,0:23:26.59,EDCN,,0,0,0,,{\pos(480,30)\c&H284059&\fad(0,50)\blur1}因此我闭上双眼
-Dialogue: 0,0:23:26.59,0:23:28.05,EDCN,,0,0,0,,{\pos(480,30)\c&H284059&\fad(50,0)\blur1}越过边缘
-Dialogue: 0,0:23:28.05,0:23:30.30,EDCN,,0,0,0,,{\pos(480,30)\c&H284059&\fad(0,100)\blur1}去到另一边
-Dialogue: 0,0:23:31.30,0:23:34.22,EDCN,,0,0,0,,{\pos(960,30)\c&H284059&\fad(250,250)\blur1\bord1\3c&H646464&\blur2\3a&H00&}出路在哪  出路在哪
-Dialogue: 0,0:23:34.22,0:23:35.81,EDCN,,0,0,0,,{\pos(960,30)\c&H284059&\fad(0,0)\blur1\bord1\3c&H646464&\blur2\3a&H00&}前往另一边的出路
-Dialogue: 0,0:23:35.81,0:23:37.81,EDCN,,0,0,0,,{\pos(960,30)\c&H284059&\fad(0,0)\blur1\bord1\3c&H646464&\blur2\3a&H00&}深深潜入夜晚
-Dialogue: 0,0:23:37.81,0:23:38.52,EDCN,,0,0,0,,{\pos(960,30)\c&H284059&\fad(0,100)\blur1\bord1\3c&H646464&\blur2\3a&H00&}张开翅膀  出路  出路
-Dialogue: 0,0:23:38.52,0:23:41.27,EDCN,,0,0,0,,{\pos(1440,20)\c&HE1DFDE&\blur1}张开翅膀  出路  出路
-Dialogue: 0,0:23:41.27,0:23:43.27,EDCN,,0,0,0,,{\pos(1440,20)\c&HE1DFDE&\blur1\fad(0,250)}抛下一切
-Dialogue: 0,0:23:43.94,0:23:45.27,EDCN,,0,0,0,,{\pos(1440,20)\c&HE1DFDE&\blur1\fad(100,50)}我在另外一边等你
-Dialogue: 0,0:23:47.36,0:23:49.99,EDCN,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,250)}我在另外一边等你
-Dialogue: 0,0:23:50.90,0:23:53.28,EDCN,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,250)}没有其他出路
-Dialogue: 0,0:23:54.03,0:23:56.53,EDCN,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,250)}我只能如此
-Dialogue: 0,0:23:56.53,0:23:58.37,EDCN,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,250)}已经无法回头
-Dialogue: 0,0:23:58.37,0:24:00.00,EDCN,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,250)}在另外一边
+Comment: 0,0:22:48.85,0:22:48.89,Default,,0,0,0,,ED：MIYAVI「Other Side」
+Dialogue: 0,0:23:04.20,0:23:06.99,EDCN,,0,0,0,,{\pos(1440,30)\fad(50,0)\c&HCACCCC&\blur1}面对掩盖城市喧嚣的噪音
+Dialogue: 0,0:23:06.99,0:23:10.54,EDCN,,0,0,0,,{\pos(1440,30)\c&HCACCCC&\blur1}我选择把耳朵深深埋在风帽之中
+Dialogue: 0,0:23:10.54,0:23:12.16,EDCN,,0,0,0,,{\pos(1440,30)\c&HCACCCC&\blur1}我已不再迷茫
+Dialogue: 0,0:23:12.16,0:23:13.96,EDCN,,0,0,0,,{\pos(1440,30)\c&HCACCCC&\blur1}我已不再迷茫
+Dialogue: 0,0:23:13.96,0:23:14.96,EDCN,,0,0,0,,{\pos(1440,30)\c&HCACCCC&\blur1}Uh oh eh yo
+Dialogue: 0,0:23:14.96,0:23:17.42,EDCN,,0,0,0,,{\pos(480,30)\c&H284059&\fad(0,250)\blur1\bord1\3c&HDBDBDB&\blur2\3a&H64&}Uh oh eh yo
+Dialogue: 0,0:23:17.83,0:23:19.25,EDCN,,0,0,0,,{\pos(480,30)\c&H284059&\fad(50,0)\blur1\bord1\3c&HDBDBDB&\blur2\3a&H64&}人们话太多
+Dialogue: 0,0:23:19.25,0:23:20.42,EDCN,,0,0,0,,{\pos(480,30)\c&H284059&\fad(0,0)\blur1\bord1\3c&HDBDBDB&\blur2\3a&H64&}但我不愿发一言
+Dialogue: 0,0:23:20.42,0:23:21.71,EDCN,,0,0,0,,{\pos(480,30)\c&H284059&\fad(0,0)\blur1\bord1\3c&HDBDBDB&\blur2\3a&H64&}这和我无关
+Dialogue: 0,0:23:21.71,0:23:22.67,EDCN,,0,0,0,,{\pos(480,30)\c&H284059&\fad(0,140)\blur1\bord1\3c&HDBDBDB&\blur2\3a&H64&}我能看出你在说谎
+Dialogue: 0,0:23:22.55,0:23:23.05,EDCN,,0,0,0,,{\pos(480,30)\c&H284059&\fad(50,50)\blur1}我能看出你在说谎
+Dialogue: 0,0:23:23.05,0:23:24.26,EDCN,,0,0,0,,{\pos(480,30)\c&H284059&\fad(0,0)\blur1}是如此明显
+Dialogue: 0,0:23:24.26,0:23:26.51,EDCN,,0,0,0,,{\pos(480,30)\c&H284059&\fad(0,100)\blur1}因此我闭上双眼
+Dialogue: 0,0:23:26.51,0:23:27.84,EDCN,,0,0,0,,{\pos(480,30)\c&H284059&\fad(100,0)\blur1}越过边缘
+Dialogue: 0,0:23:27.84,0:23:30.31,EDCN,,0,0,0,,{\pos(480,30)\c&H284059&\fad(0,100)\blur1}去到另一边
+Dialogue: 0,0:23:31.26,0:23:34.23,EDCN,,0,0,0,,{\pos(960,30)\c&H284059&\fad(250,250)\blur1\bord1\3c&HDBDBDB&\blur2\3a&H00&}在哪  出路在哪
+Dialogue: 0,0:23:34.23,0:23:35.69,EDCN,,0,0,0,,{\pos(960,30)\c&H284059&\fad(0,0)\blur1\bord1\3c&HDBDBDB&\blur2\3a&H00&}前往另一边的出路
+Dialogue: 0,0:23:35.69,0:23:37.65,EDCN,,0,0,0,,{\pos(960,30)\c&H284059&\fad(0,0)\blur1\bord1\3c&HDBDBDB&\blur2\3a&H00&}深深潜入夜晚
+Dialogue: 0,0:23:37.65,0:23:38.52,EDCN,,0,0,0,,{\pos(960,30)\c&H284059&\fad(0,100)\blur1\bord1\3c&HDBDBDB&\blur2\3a&H00&}张开翅膀
+Dialogue: 0,0:23:37.65,0:23:38.52,EDCN,,0,0,0,,{\pos(960,30)\c&H284059&\fad(0,100)\blur1\bord1\3c&HDBDBDB&\blur2\3a&H00&}张开翅膀
+Dialogue: 0,0:23:38.52,0:23:41.27,EDCN,,0,0,0,,{\pos(1440,30)\c&HE1DFDE&\blur1}出路  出路
+Dialogue: 0,0:23:41.27,0:23:43.28,EDCN,,0,0,0,,{\pos(1440,30)\c&HE1DFDE&\blur1\fad(0,250)}抛下一切
+Dialogue: 0,0:23:43.82,0:23:45.28,EDCN,,0,0,0,,{\pos(1440,30)\c&HE1DFDE&\blur1\fad(100,50)}我在另外一边等你
+Dialogue: 0,0:23:47.28,0:23:49.78,EDCN,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,250)}我在另外一边等你
+Dialogue: 0,0:23:50.78,0:23:53.29,EDCN,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,250)}没有其他出路
+Dialogue: 0,0:23:54.04,0:23:56.54,EDCN,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,250)}我只能如此
+Dialogue: 0,0:23:56.54,0:23:58.21,EDCN,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,250)}已经无法回头
+Dialogue: 0,0:23:58.21,0:24:00.00,EDCN,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,250)}在另外一边
 Dialogue: 0,0:24:01.21,0:24:03.88,EDCN,,0,0,0,,{\c&H262C2C&\blur1\pos(1440,30)\fad(250,250)}我在另外一边等你
 Dialogue: 0,0:24:04.88,0:24:08.05,EDCN,,0,0,0,,{\c&H262C2C&\blur1\pos(1440,30)\fad(250,250)}没有其他出路
 Dialogue: 0,0:24:08.05,0:24:10.51,EDCN,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,250)}我只能如此
-Dialogue: 0,0:24:10.51,0:24:12.13,EDCN,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,250)}已经无法回头
-Dialogue: 0,0:24:12.13,0:24:14.26,EDCN,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,90)}在另外一边
+Dialogue: 0,0:24:10.51,0:24:12.14,EDCN,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,250)}已经无法回头
+Dialogue: 0,0:24:12.14,0:24:14.27,EDCN,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,90)}在另外一边
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,--------------------------------------------------
-Dialogue: 0,0:23:04.19,0:23:07.07,EDJP,,0,0,0,,{\pos(1440,1050)\fad(50,0)\c&HCACCCC&\blur1}都会の雑踏をかき消すノイズ
-Dialogue: 0,0:23:07.07,0:23:10.66,EDJP,,0,0,0,,{\pos(1440,1050)\c&HCACCCC&\blur1}耳ふさぐ フードを深くかぶる choice
-Dialogue: 0,0:23:10.66,0:23:12.20,EDJP,,0,0,0,,{\pos(1440,1050)\c&HCACCCC&\blur1}もう迷わない
-Dialogue: 0,0:23:12.20,0:23:14.08,EDJP,,0,0,0,,{\pos(1440,1050)\c&HCACCCC&\blur1}もう迷わない
-Dialogue: 0,0:23:14.08,0:23:14.95,EDJP,,0,0,0,,{\pos(1440,1050)\c&HCACCCC&\blur1}Uh oh eh yo
-Dialogue: 0,0:23:14.95,0:23:17.41,EDJP,,0,0,0,,{\pos(480,1050)\c&H284059&\fad(0,250)\blur1}Uh oh eh yo
-Dialogue: 0,0:23:17.83,0:23:19.29,EDJP,,0,0,0,,{\pos(480,1050)\c&H284059&\fad(50,0)\blur1}People talk too much
-Dialogue: 0,0:23:19.29,0:23:20.46,EDJP,,0,0,0,,{\pos(480,1050)\c&H284059&\fad(0,0)\blur1}But I just shut it up
-Dialogue: 0,0:23:20.46,0:23:21.88,EDJP,,0,0,0,,{\pos(480,1050)\c&H284059&\fad(0,0)\blur1}俺には関係ない
-Dialogue: 0,0:23:21.88,0:23:23.13,EDJP,,0,0,0,,{\pos(480,1050)\c&H284059&\fad(0,0)\blur1}I can see you lie
-Dialogue: 0,0:23:23.13,0:23:24.42,EDJP,,0,0,0,,{\pos(480,1050)\c&H284059&\fad(0,0)\blur1}It's all black and white
-Dialogue: 0,0:23:24.42,0:23:26.59,EDJP,,0,0,0,,{\pos(480,1050)\c&H284059&\fad(0,50)\blur1}So I close my eyes
-Dialogue: 0,0:23:26.59,0:23:28.05,EDJP,,0,0,0,,{\pos(480,1050)\c&H284059&\fad(50,0)\blur1}Going off the edge
-Dialogue: 0,0:23:28.05,0:23:30.30,EDJP,,0,0,0,,{\pos(480,1050)\c&H284059&\fad(0,100)\blur1}To the other side
-Dialogue: 0,0:23:31.30,0:23:34.22,EDJP,,0,0,0,,{\pos(960,1050)\c&H284059&\fad(250,250)\blur1\bord1\3c&H646464&\blur2\3a&H00&}Where's a way out, way out
-Dialogue: 0,0:23:34.22,0:23:35.81,EDJP,,0,0,0,,{\pos(960,1050)\c&H284059&\fad(0,0)\blur1\bord1\3c&H646464&\blur2\3a&H00&}To the other side
-Dialogue: 0,0:23:35.81,0:23:37.81,EDJP,,0,0,0,,{\pos(960,1050)\c&H284059&\fad(0,0)\blur1\bord1\3c&H646464&\blur2\3a&H00&}Diving deep into the night
-Dialogue: 0,0:23:37.81,0:23:38.52,EDJP,,0,0,0,,{\pos(960,1050)\c&H284059&\fad(0,100)\blur1\bord1\3c&H646464&\blur2\3a&H00&}羽広げ way out, way out
-Dialogue: 0,0:23:38.52,0:23:41.27,EDJP,,0,0,0,,{\pos(1440,1060)\c&HE1DFDE&\blur1}羽広げ way out, way out
-Dialogue: 0,0:23:41.27,0:23:43.27,EDJP,,0,0,0,,{\pos(1440,1060)\c&HE1DFDE&\blur1\fad(0,250)}Leave it all behind
-Dialogue: 0,0:23:43.94,0:23:45.27,EDJP,,0,0,0,,{\pos(1440,1060)\c&HE1DFDE&\blur1\fad(100,50)}I'll see you on the other side
-Dialogue: 0,0:23:47.36,0:23:49.99,EDJP,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,250)}I'll see you on the other side
-Dialogue: 0,0:23:50.90,0:23:53.28,EDJP,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,250)}他に道はない
-Dialogue: 0,0:23:54.03,0:23:56.53,EDJP,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,250)}俺には これしかない
-Dialogue: 0,0:23:56.53,0:23:58.37,EDJP,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,250)}もう戻らない
-Dialogue: 0,0:23:58.37,0:24:00.00,EDJP,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,250)}On the other side
+Dialogue: 0,0:23:04.20,0:23:06.99,EDJP,,0,0,0,,{\pos(1440,1050)\fad(50,0)\c&HCACCCC&\blur1}都会の雑踏をかき消すノイズ
+Dialogue: 0,0:23:06.99,0:23:10.54,EDJP,,0,0,0,,{\pos(1440,1050)\c&HCACCCC&\blur1}耳ふさぐ フードを深くかぶる choice
+Dialogue: 0,0:23:10.54,0:23:12.16,EDJP,,0,0,0,,{\pos(1440,1050)\c&HCACCCC&\blur1}もう迷わない
+Dialogue: 0,0:23:12.16,0:23:13.96,EDJP,,0,0,0,,{\pos(1440,1050)\c&HCACCCC&\blur1}もう迷わない
+Dialogue: 0,0:23:13.96,0:23:14.96,EDJP,,0,0,0,,{\pos(1440,1050)\c&HCACCCC&\blur1}Uh oh eh yo
+Dialogue: 0,0:23:14.96,0:23:17.42,EDJP,,0,0,0,,{\pos(480,1050)\c&H284059&\fad(0,250)\blur1}Uh oh eh yo
+Dialogue: 0,0:23:17.83,0:23:19.25,EDJP,,0,0,0,,{\pos(480,1050)\c&H284059&\fad(50,0)\blur1}People talk too much
+Dialogue: 0,0:23:19.25,0:23:20.42,EDJP,,0,0,0,,{\pos(480,1050)\c&H284059&\fad(0,0)\blur1}But I just shut it up
+Dialogue: 0,0:23:20.42,0:23:21.71,EDJP,,0,0,0,,{\pos(480,1050)\c&H284059&\fad(0,0)\blur1}俺には関係ない
+Dialogue: 0,0:23:21.71,0:23:23.05,EDJP,,0,0,0,,{\pos(480,1050)\c&H284059&\fad(0,0)\blur1}I can see you lie
+Dialogue: 0,0:23:23.05,0:23:24.26,EDJP,,0,0,0,,{\pos(480,1050)\c&H284059&\fad(0,0)\blur1}It's all black and white
+Dialogue: 0,0:23:24.26,0:23:26.51,EDJP,,0,0,0,,{\pos(480,1050)\c&H284059&\fad(0,100)\blur1}So I close my eyes
+Dialogue: 0,0:23:26.51,0:23:27.84,EDJP,,0,0,0,,{\pos(480,1050)\c&H284059&\fad(100,0)\blur1}Going off the edge
+Dialogue: 0,0:23:27.84,0:23:30.31,EDJP,,0,0,0,,{\pos(480,1050)\c&H284059&\fad(0,100)\blur1}To the other side
+Dialogue: 0,0:23:31.26,0:23:34.23,EDJP,,0,0,0,,{\pos(960,1050)\c&H284059&\fad(250,250)\blur1\bord1\3c&HDBDBDB&\blur2\3a&H00&}Where's a way out, way out
+Dialogue: 0,0:23:34.23,0:23:35.69,EDJP,,0,0,0,,{\pos(960,1050)\c&H284059&\fad(0,0)\blur1\bord1\3c&HDBDBDB&\blur2\3a&H00&}To the other side
+Dialogue: 0,0:23:35.69,0:23:37.65,EDJP,,0,0,0,,{\pos(960,1050)\c&H284059&\fad(0,0)\blur1\bord1\3c&HDBDBDB&\blur2\3a&H00&}Diving deep into the night
+Dialogue: 0,0:23:37.65,0:23:38.52,EDJP,,0,0,0,,{\pos(960,1050)\c&H284059&\fad(0,100)\blur1\bord1\3c&HDBDBDB&\blur2\3a&H00&}羽広げ
+Dialogue: 0,0:23:37.65,0:23:38.52,EDJP,,0,0,0,,{\pos(960,1050)\c&H284059&\fad(0,100)\blur1\bord1\3c&HDBDBDB&\blur2\3a&H00&}羽広げ
+Dialogue: 0,0:23:38.52,0:23:41.27,EDJP,,0,0,0,,{\pos(1440,1050)\c&HE1DFDE&\blur1}way out, way out
+Dialogue: 0,0:23:41.27,0:23:43.28,EDJP,,0,0,0,,{\pos(1440,1050)\c&HE1DFDE&\blur1\fad(0,250)}Leave it all behind
+Dialogue: 0,0:23:43.82,0:23:45.28,EDJP,,0,0,0,,{\pos(1440,1050)\c&HE1DFDE&\blur1\fad(100,50)}I'll see you on the other side
+Dialogue: 0,0:23:47.28,0:23:49.78,EDJP,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,250)}I'll see you on the other side
+Dialogue: 0,0:23:50.78,0:23:53.29,EDJP,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,250)}他に道はない
+Dialogue: 0,0:23:54.04,0:23:56.54,EDJP,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,250)}俺には これしかない
+Dialogue: 0,0:23:56.54,0:23:58.21,EDJP,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,250)}もう戻らない
+Dialogue: 0,0:23:58.21,0:24:00.00,EDJP,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,250)}On the other side
 Dialogue: 0,0:24:01.21,0:24:03.88,EDJP,,0,0,0,,{\c&H262C2C&\blur1\pos(1440,1050)\fad(250,250)}I'll see you on the other side
 Dialogue: 0,0:24:04.88,0:24:08.05,EDJP,,0,0,0,,{\c&H262C2C&\blur1\pos(1440,1050)\fad(250,250)}他に道はない
 Dialogue: 0,0:24:08.05,0:24:10.51,EDJP,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,250)}俺には これしかない
-Dialogue: 0,0:24:10.51,0:24:12.13,EDJP,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,250)}もう戻らない
-Dialogue: 0,0:24:12.13,0:24:14.26,EDJP,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,90)}On the other side
+Dialogue: 0,0:24:10.51,0:24:12.14,EDJP,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,250)}もう戻らない
+Dialogue: 0,0:24:12.14,0:24:14.27,EDJP,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,90)}On the other side
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,>Sign<
 Dialogue: 0,0:07:52.95,0:07:52.99,Sign,,0,0,0,,{\fscy70.9\fscx70.9\an7\p1\bord0\blur0.71\c&H000000&\pos(512.5,-9.76)\1a&HC8&}m 178 524 l 178 560 390 560 390 524
 Dialogue: 0,0:07:52.99,0:07:53.03,Sign,,0,0,0,,{\fscy76.87\fscx76.87\an7\p1\bord0\blur0.77\c&H000000&\pos(275.99,-6.64)\1a&H96&}m 178 524 l 178 560 390 560 390 524
