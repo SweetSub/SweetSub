@@ -20,5 +20,3 @@ WEB 版字幕下载
 |  10  |               我的名字                | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Magia%20Record/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20-%2010.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Magia%20Record/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20-%2010.cht.ass) |
 |  11  |    约定在下午3点  地点是记忆博物馆    | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Magia%20Record/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20-%2011.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Magia%20Record/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20-%2011.cht.ass) |
 |  12  |          为什么会如此悲惨？           | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Magia%20Record/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20-%2012.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Magia%20Record/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20-%2012.cht.ass) |
-
-
