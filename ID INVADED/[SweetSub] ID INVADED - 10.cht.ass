@@ -187,9 +187,9 @@ Dialogue: 0,0:17:39.33,0:17:43.50,Sign,//INCN,0,0,0,,{\fad(500,500)\c&HF0F0F0&\b
 Dialogue: 0,0:17:43.50,0:17:53.43,Sign,//INCN,0,0,0,,{\fad(500,500)\c&HF0F0F0&\blur5\3c&HFFFFFF&\bord0\an9\pos(1845,84)\t(0,600,1,\blur1\shad2)\fs60\fnSource Han Sans TC Medium\3a&H32&\fax-0.1\fsp-1}倘若我能留在回憶中
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,>Sign<
 Dialogue: 1,0:12:11.84,0:12:14.84,Sign,,0,0,0,,{\an7\p1\bord0\blur1\c&H000000&\pos(-76,-20)}m 178 524 l 178 560 390 560 390 524
-Dialogue: 2,0:12:11.84,0:12:14.84,Sign,,0,0,0,,{\an1\fnSource Han Sans TC Normal\blur1\fs40\fsp6\bord0\c&HFBFBFD&\pos(99,618)}　檔案：10\N{\fs80\c&HFFFFFF&\fsp6}翻轉  Ⅱ
+Dialogue: 2,0:12:11.84,0:12:14.84,Sign,,0,0,0,,{\an1\fnSource Han Sans TC Normal\blur1\fs40\fsp6\bord0\c&HFBFBFD&\pos(99,618)}　檔案：10\N{\fs80\c&HFFFFFF&\fsp6}翻轉Ⅱ
 Dialogue: 0,0:23:06.82,0:23:09.83,Sign,,0,0,0,,{\an7\pos(0,0)\blur1\p1\bord0\c&H6D6E6D&}m 178 524 l 178 560 380 560 380 524
-Dialogue: 0,0:23:06.82,0:23:09.83,Sign,,0,0,0,,{\an1\pos(176,700)\fnSource Han Sans TC Normal\blur1\fs40\fsp6\bord0\c&HFFFFFF&}　檔案：10\N{\fs80\c&H606062&\fsp6}翻轉  Ⅱ\N{\fs60}美好至極的世界。
+Dialogue: 0,0:23:06.82,0:23:09.83,Sign,,0,0,0,,{\an1\pos(176,700)\fnSource Han Sans TC Normal\blur1\fs40\fsp6\bord0\c&HFFFFFF&}　檔案：10\N{\fs80\c&H606062&\fsp6}翻轉Ⅱ\N{\fs60}美好至極的世界。
 Dialogue: 1,0:13:25.45,0:13:26.41,Sign,,0,0,0,,{\an7\fs60\bord0\c&H000000&\blur1}暴行要何時結束…\N「單挑狂」犯下新的連環殺人案\N發現新的被害人遺體\N\N{\fs50}　　現已查明昨天凌晨發現的男性遺體\N是居住在東京都內的職業摔跤手藤田武\N彥（31歲）。\N　　目前警方認定他是「單挑狂」所犯\N連環殺人案的又一被害人，開展後續調\N查。
 Dialogue: 0,0:13:25.45,0:13:26.41,Sign,,0,0,0,,{\an7\fs60\bord0\c&HF4F8FA&\clip()\p1\pos(0,0)\1a&H64&}m 10 20 l 10 550 650 550 650 20
 Dialogue: 0,0:01:47.13,0:01:49.13,Sign,,0,0,0,,{\fs60\c&H000000&\3c&HFFFFFF&\an8}652 室　鳴瓢秋人先生
