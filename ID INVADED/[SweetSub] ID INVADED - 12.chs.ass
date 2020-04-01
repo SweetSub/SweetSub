@@ -3,12 +3,11 @@
 ; http://www.aegisub.org/
 Title: [SweetSub] ID: INVADED - 12
 ScriptType: v4.00+
-PlayDepth: 0
 WrapStyle: 0
-PlayResX: 1920
-PlayResY: 1080
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -330,7 +329,7 @@ Dialogue: 0,0:03:05.21,0:03:07.21,Line CN,,0,0,0,,这是怎么回事？
 Dialogue: 0,0:03:07.21,0:03:08.54,Line CN,,0,0,0,,不用担心
 Dialogue: 0,0:03:08.54,0:03:09.63,Line CN,,0,0,0,,冷静一点
 Dialogue: 0,0:03:12.13,0:03:12.96,Line CN,,0,0,0,,别开枪
-Dialogue: 0,0:03:14.13,0:03:16.63,Line CN,,0,0,0,,您想做什么？
+Dialogue: 0,0:03:14.13,0:03:16.63,Line CN,,0,0,0,,您在做什么？
 Dialogue: 0,0:03:16.63,0:03:19.35,Line CN,,0,0,0,,快逮捕他  他是 John Walker！
 Dialogue: 0,0:03:19.68,0:03:21.93,Line CN,,0,0,0,,鸣瓢秋人
 Dialogue: 0,0:03:21.93,0:03:27.35,Line CN,,0,0,0,,包括现在这件事在内  我对你的种种遭遇实感抱歉
@@ -383,7 +382,7 @@ Dialogue: 0,0:07:36.69,0:07:38.27,Line CN,,0,0,0,,你也听到了吧
 Dialogue: 0,0:07:38.27,0:07:40.86,Line CN,,0,0,0,,小蛙的事件已经被解开了
 Dialogue: 0,0:07:40.86,0:07:42.19,Line CN,,0,0,0,,之后要怎么办？
 Dialogue: 0,0:07:42.19,0:07:43.69,Line CN,,0,0,0,,你问我我也…
-Dialogue: 0,0:07:44.11,0:07:49.03,Line CN,,0,0,0,,在那里藏着的名侦探们  还请现身吧
+Dialogue: 0,0:07:44.11,0:07:49.03,Line CN,,0,0,0,,藏在那里的名侦探们  还请现身吧
 Dialogue: 0,0:07:49.03,0:07:50.32,Line CN,,0,0,0,,暴露了？
 Dialogue: 0,0:07:50.91,0:07:54.50,Line CN,,0,0,0,,简直就像预先就知道我们会登场了一样
 Dialogue: 0,0:08:02.42,0:08:03.63,Line CN,,0,0,0,,消失了
