@@ -4,12 +4,11 @@
 Comment: Processed by 繁化姬 | https://zhconvert.org
 Title: [SweetSub] ID: INVADED - 12
 ScriptType: v4.00+
-PlayDepth: 0
 WrapStyle: 0
-PlayResX: 1920
-PlayResY: 1080
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -331,7 +330,7 @@ Dialogue: 0,0:03:05.21,0:03:07.21,Line CN,,0,0,0,,這是怎麼回事？
 Dialogue: 0,0:03:07.21,0:03:08.54,Line CN,,0,0,0,,不用擔心
 Dialogue: 0,0:03:08.54,0:03:09.63,Line CN,,0,0,0,,冷靜一點
 Dialogue: 0,0:03:12.13,0:03:12.96,Line CN,,0,0,0,,別開槍
-Dialogue: 0,0:03:14.13,0:03:16.63,Line CN,,0,0,0,,您想做什麼？
+Dialogue: 0,0:03:14.13,0:03:16.63,Line CN,,0,0,0,,您在做什麼？
 Dialogue: 0,0:03:16.63,0:03:19.35,Line CN,,0,0,0,,快逮捕他  他是 John Walker！
 Dialogue: 0,0:03:19.68,0:03:21.93,Line CN,,0,0,0,,鳴瓢秋人
 Dialogue: 0,0:03:21.93,0:03:27.35,Line CN,,0,0,0,,包括現在這件事在內  我對你的種種遭遇實感抱歉
@@ -384,7 +383,7 @@ Dialogue: 0,0:07:36.69,0:07:38.27,Line CN,,0,0,0,,你也聽到了吧
 Dialogue: 0,0:07:38.27,0:07:40.86,Line CN,,0,0,0,,小蛙的事件已經被解開了
 Dialogue: 0,0:07:40.86,0:07:42.19,Line CN,,0,0,0,,之後要怎麼辦？
 Dialogue: 0,0:07:42.19,0:07:43.69,Line CN,,0,0,0,,你問我我也…
-Dialogue: 0,0:07:44.11,0:07:49.03,Line CN,,0,0,0,,在那裡藏著的名偵探們  還請現身吧
+Dialogue: 0,0:07:44.11,0:07:49.03,Line CN,,0,0,0,,藏在那裡的名偵探們  還請現身吧
 Dialogue: 0,0:07:49.03,0:07:50.32,Line CN,,0,0,0,,暴露了？
 Dialogue: 0,0:07:50.91,0:07:54.50,Line CN,,0,0,0,,簡直就像預先就知道我們會登場了一樣
 Dialogue: 0,0:08:02.42,0:08:03.63,Line CN,,0,0,0,,消失了

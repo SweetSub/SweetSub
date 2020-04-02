@@ -3,12 +3,11 @@
 ; http://www.aegisub.org/
 Title: [SweetSub] ID: INVADED - 13
 ScriptType: v4.00+
-PlayDepth: 0
 WrapStyle: 0
-PlayResX: 1920
-PlayResY: 1080
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -288,7 +287,7 @@ Dialogue: 0,0:11:57.11,0:11:58.70,Line CN,,0,0,0,,你声音太吵了
 Dialogue: 0,0:11:58.70,0:11:59.57,Line CN,,0,0,0,,不好意思
 Dialogue: 0,0:12:02.99,0:12:05.83,Line CN,,0,0,0,,不过  正因如此我才撑得住
 Dialogue: 0,0:12:29.81,0:12:30.98,Line CN,,0,0,0,,松冈
-Dialogue: 0,0:12:30.98,0:12:33.19,Line CN,,0,0,0,,嗯  我也看见了
+Dialogue: 0,0:12:30.98,0:12:33.19,Line CN,,0,0,0,,嗯  我们也看见了
 Dialogue: 0,0:12:34.73,0:12:35.99,Line CN,,0,0,0,,继续注射药品
 Dialogue: 0,0:12:45.12,0:12:46.41,Line CN,,0,0,0,,是你…
 Dialogue: 0,0:12:47.25,0:12:49.16,Line CN,,0,0,0,,飞鸟井
@@ -372,7 +371,7 @@ Dialogue: 0,0:19:25.64,0:19:26.73,Line CN,,0,0,0,,没关系
 Dialogue: 0,0:19:26.73,0:19:29.23,Line CN,,0,0,0,,趁你还有能为之流泪的人  尽情哭泣吧
 Dialogue: 0,0:19:30.27,0:19:35.24,Line CN,,0,0,0,,不… 我觉得一滴眼泪对他来说刚刚好
 Dialogue: 0,0:19:38.66,0:19:39.74,Line CN,,0,0,0,,是吗
-Dialogue: 0,0:19:40.28,0:19:44.25,Line CN,,0,0,0,,{\fad(160,0)}你会好好回家吧？
+Dialogue: 0,0:19:40.28,0:19:44.25,Line CN,,0,0,0,,{\fad(160,0)}你会回来的吧？
 Dialogue: 0,0:19:44.83,0:19:45.83,Line CN,,0,0,0,,是啊
 Dialogue: 0,0:19:47.67,0:19:49.46,Line CN,,0,0,0,,总有一天  我一定会
 Dialogue: 0,0:19:49.46,0:19:51.29,Line CN,,0,0,0,,回到真正的家里

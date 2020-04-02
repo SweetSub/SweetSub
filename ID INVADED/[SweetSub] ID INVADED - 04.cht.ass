@@ -186,12 +186,12 @@ Dialogue: 0,0:23:45.07,0:23:46.28,EDCN,,0,0,0,,{\pos(480,30)\c&H284059&\fad(0,0)
 Dialogue: 0,0:23:46.28,0:23:48.53,EDCN,,0,0,0,,{\pos(480,30)\c&H284059&\fad(0,100)\blur1}因此我閉上雙眼
 Dialogue: 0,0:23:48.53,0:23:49.87,EDCN,,0,0,0,,{\pos(480,30)\c&H284059&\fad(100,0)\blur1}越過邊緣
 Dialogue: 0,0:23:49.87,0:23:52.33,EDCN,,0,0,0,,{\pos(480,30)\c&H284059&\fad(0,100)\blur1}去到另一邊
-Dialogue: 0,0:23:53.29,0:23:56.25,EDCN,,0,0,0,,{\pos(960,30)\c&H284059&\fad(250,250)\blur1\bord1\3c&HDBDBDB&\blur2\3a&H00&}在哪  出路在哪
+Dialogue: 0,0:23:53.29,0:23:56.25,EDCN,,0,0,0,,{\pos(960,30)\c&H284059&\fad(250,250)\blur1\bord1\3c&HDBDBDB&\blur2\3a&H00&}出路在哪  在哪
 Dialogue: 0,0:23:56.25,0:23:57.71,EDCN,,0,0,0,,{\pos(960,30)\c&H284059&\fad(0,0)\blur1\bord1\3c&HDBDBDB&\blur2\3a&H00&}前往另一邊的出路
 Dialogue: 0,0:23:57.71,0:23:59.67,EDCN,,0,0,0,,{\pos(960,30)\c&H284059&\fad(0,0)\blur1\bord1\3c&HDBDBDB&\blur2\3a&H00&}深深潛入夜晚
 Dialogue: 0,0:23:59.67,0:24:00.54,EDCN,,0,0,0,,{\pos(960,30)\c&H284059&\fad(0,100)\blur1\bord1\3c&HDBDBDB&\blur2\3a&H00&}張開翅膀
 Dialogue: 0,0:23:59.67,0:24:00.54,EDCN,,0,0,0,,{\pos(960,30)\c&H284059&\fad(0,100)\blur1\bord1\3c&HDBDBDB&\blur2\3a&H00&}張開翅膀
-Dialogue: 0,0:24:00.54,0:24:03.30,EDCN,,0,0,0,,{\pos(1440,15)\c&HE1DFDE&\blur1}出路  出路
+Dialogue: 0,0:24:00.54,0:24:03.30,EDCN,,0,0,0,,{\pos(1440,15)\c&HE1DFDE&\blur1}尋找出路  出路
 Dialogue: 0,0:24:03.30,0:24:05.30,EDCN,,0,0,0,,{\pos(1440,15)\c&HE1DFDE&\blur1\fad(0,250)}拋下一切
 Dialogue: 0,0:24:05.84,0:24:07.30,EDCN,,0,0,0,,{\pos(1440,15)\c&HE1DFDE&\blur1\fad(100,50)}我在另外一邊等你
 Dialogue: 0,0:24:09.30,0:24:11.81,EDCN,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,250)}我在另外一邊等你
@@ -238,46 +238,46 @@ Dialogue: 0,0:24:30.07,0:24:32.53,EDJP,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,250)}�
 Dialogue: 0,0:24:32.53,0:24:34.16,EDJP,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,250)}もう戻らない
 Dialogue: 0,0:24:34.16,0:24:36.29,EDJP,,0,0,0,,{\c&HDEDEDE&\blur1\fad(250,90)}On the other side
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,IN：MIYAVI「Samurai 45」
-Dialogue: 0,0:14:52.20,0:14:53.49,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans Medium\3a&H32&}I'm on a mission
-Dialogue: 0,0:14:54.54,0:14:56.87,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans Medium\3a&H32&}信じるは my decision
-Dialogue: 0,0:14:58.12,0:15:00.29,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans Medium\3a&H32&}This is my moment I'ma take it
-Dialogue: 0,0:15:01.54,0:15:06.42,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans Medium\3a&H32&}一度しかないこの舞台 派手に散りたい
-Dialogue: 0,0:15:06.42,0:15:07.34,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans Medium\3a&H32&}Listen
-Dialogue: 0,0:15:08.42,0:15:10.43,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans Medium\3a&H32&}後に引けない reason
-Dialogue: 0,0:15:11.89,0:15:14.05,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans Medium\3a&H32&}It's all or nothing, till I make it
-Dialogue: 0,0:15:15.47,0:15:17.06,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans Medium\3a&H32&}逃げるくらいなら
-Dialogue: 0,0:15:17.06,0:15:20.23,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans Medium\3a&H32&}I would die like a samurai
-Dialogue: 0,0:15:20.56,0:15:23.98,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans Medium\3a&H32&}We can go, we can go like a samurai
-Dialogue: 0,0:15:23.98,0:15:27.40,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans Medium\3a&H32&}We can go, we can go like a samurai
-Dialogue: 0,0:15:27.40,0:15:30.45,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans Medium\3a&H32&}いざ 参ろう いざ 参ろう like a forty-five
-Dialogue: 0,0:15:30.99,0:15:32.24,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans Medium\3a&H32&}Oh oh oh oh
-Dialogue: 0,0:15:32.24,0:15:34.28,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans Medium\3a&H32&}Do it like a samurai
-Dialogue: 0,0:15:34.28,0:15:37.41,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans Medium\3a&H32&}We can go, we can go like a samurai
-Dialogue: 0,0:15:37.41,0:15:40.96,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans Medium\3a&H32&}We can go, we can go like a samurai
-Dialogue: 0,0:15:40.96,0:15:44.67,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans Medium\3a&H32&}いざ 参ろう いざ 参ろう like a forty-five
-Dialogue: 0,0:15:44.67,0:15:45.92,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans Medium\3a&H32&}Oh oh oh oh
-Dialogue: 0,0:15:45.92,0:15:47.84,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans Medium\3a&H32&}Do it like a samurai
-Dialogue: 0,0:15:52.93,0:15:54.76,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans Medium\3a&H32&}Do it like a samurai
-Dialogue: 0,0:14:52.20,0:14:53.49,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans TC Medium\3a&H32&}我正在執行任務
-Dialogue: 0,0:14:54.54,0:14:56.87,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans TC Medium\3a&H32&}相信的是自己的抉擇
-Dialogue: 0,0:14:58.12,0:15:00.29,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans TC Medium\3a&H32&}抓緊這屬於我的時間
-Dialogue: 0,0:15:01.54,0:15:06.42,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans TC Medium\3a&H32&}這個舞台只有一次  我想死得壯烈
-Dialogue: 0,0:15:06.42,0:15:07.34,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans TC Medium\3a&H32&}聽
-Dialogue: 0,0:15:08.42,0:15:10.43,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans TC Medium\3a&H32&}不回頭的理由
-Dialogue: 0,0:15:11.89,0:15:14.05,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans TC Medium\3a&H32&}不成功便成仁
-Dialogue: 0,0:15:15.47,0:15:17.06,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans TC Medium\3a&H32&}如果要我臨陣脫逃
-Dialogue: 0,0:15:17.06,0:15:20.23,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans TC Medium\3a&H32&}我寧可死得像個武士
-Dialogue: 0,0:15:20.56,0:15:23.98,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans TC Medium\3a&H32&}我們衝鋒  我們衝鋒  如武士一般
-Dialogue: 0,0:15:23.98,0:15:27.40,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans TC Medium\3a&H32&}我們衝鋒  我們衝鋒  如武士一般
-Dialogue: 0,0:15:27.40,0:15:30.45,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans TC Medium\3a&H32&}一起上吧  一起上吧  如 45 一般
-Dialogue: 0,0:15:30.99,0:15:32.24,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans TC Medium\3a&H32&}Oh oh oh oh
-Dialogue: 0,0:15:32.24,0:15:34.28,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans TC Medium\3a&H32&}如武士一般
-Dialogue: 0,0:15:34.28,0:15:37.41,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans TC Medium\3a&H32&}我們衝鋒  我們衝鋒  如武士一般
-Dialogue: 0,0:15:37.41,0:15:40.96,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans TC Medium\3a&H32&}我們衝鋒  我們衝鋒  如武士一般
-Dialogue: 0,0:15:40.96,0:15:44.67,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans TC Medium\3a&H32&}一起上吧  一起上吧  如 45 一般
-Dialogue: 0,0:15:44.67,0:15:45.92,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans TC Medium\3a&H32&}Oh oh oh oh
-Dialogue: 0,0:15:45.92,0:15:47.84,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans TC Medium\3a&H32&}如武士一般
-Dialogue: 0,0:15:52.93,0:15:54.76,Sign,//IN,0,0,0,,{\fad(200,200)\c&H000000&\3c&HFFFFFF&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur4)\fs60\fnSource Han Sans TC Medium\3a&H32&}如武士一般
+Dialogue: 0,0:14:52.20,0:14:53.49,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans Medium\3a&H32&}I'm on a mission
+Dialogue: 0,0:14:54.54,0:14:56.87,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans Medium\3a&H32&}信じるは my decision
+Dialogue: 0,0:14:58.12,0:15:00.29,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans Medium\3a&H32&}This is my moment I'ma take it
+Dialogue: 0,0:15:01.54,0:15:06.42,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans Medium\3a&H32&}一度しかないこの舞台 派手に散りたい
+Dialogue: 0,0:15:06.42,0:15:07.34,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans Medium\3a&H32&}Listen
+Dialogue: 0,0:15:08.42,0:15:10.43,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans Medium\3a&H32&}後に引けない reason
+Dialogue: 0,0:15:11.89,0:15:14.05,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans Medium\3a&H32&}It's all or nothing, till I make it
+Dialogue: 0,0:15:15.47,0:15:17.61,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans Medium\3a&H32&}逃げるくらいなら
+Dialogue: 0,0:15:17.61,0:15:20.23,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans Medium\3a&H32&}I would die like a samurai
+Dialogue: 0,0:15:20.56,0:15:23.98,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans Medium\3a&H32&}We can go, we can go like a samurai
+Dialogue: 0,0:15:23.98,0:15:27.40,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans Medium\3a&H32&}We can go, we can go like a samurai
+Dialogue: 0,0:15:27.40,0:15:30.45,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans Medium\3a&H32&}いざ 参ろう いざ 参ろう like a forty-five
+Dialogue: 0,0:15:30.99,0:15:32.24,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans Medium\3a&H32&}Oh oh oh oh
+Dialogue: 0,0:15:32.24,0:15:34.28,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans Medium\3a&H32&}Do it like a samurai
+Dialogue: 0,0:15:34.28,0:15:37.41,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans Medium\3a&H32&}We can go, we can go like a samurai
+Dialogue: 0,0:15:37.41,0:15:40.96,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans Medium\3a&H32&}We can go, we can go like a samurai
+Dialogue: 0,0:15:40.96,0:15:44.67,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans Medium\3a&H32&}いざ 参ろう いざ 参ろう like a forty-five
+Dialogue: 0,0:15:44.67,0:15:45.92,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans Medium\3a&H32&}Oh oh oh oh
+Dialogue: 0,0:15:45.92,0:15:47.84,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans Medium\3a&H32&}Do it like a samurai
+Dialogue: 0,0:15:52.93,0:15:54.76,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1890,30)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans Medium\3a&H32&}Do it like a samurai
+Dialogue: 0,0:14:52.20,0:14:53.49,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans TC Medium\3a&H32&}我正在執行任務
+Dialogue: 0,0:14:54.54,0:14:56.87,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans TC Medium\3a&H32&}相信的是自己的抉擇
+Dialogue: 0,0:14:58.12,0:15:00.29,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans TC Medium\3a&H32&}抓緊這屬於我的時間
+Dialogue: 0,0:15:01.54,0:15:06.42,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans TC Medium\3a&H32&}這個舞台只有一次  我想死得壯烈
+Dialogue: 0,0:15:06.42,0:15:07.34,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans TC Medium\3a&H32&}聽
+Dialogue: 0,0:15:08.42,0:15:10.43,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans TC Medium\3a&H32&}不回頭的理由
+Dialogue: 0,0:15:11.89,0:15:14.05,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans TC Medium\3a&H32&}不成功便成仁
+Dialogue: 0,0:15:15.47,0:15:17.61,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans TC Medium\3a&H32&}如果要我臨陣脫逃
+Dialogue: 0,0:15:17.61,0:15:20.23,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans TC Medium\3a&H32&}我寧可死得像個武士
+Dialogue: 0,0:15:20.56,0:15:23.98,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans TC Medium\3a&H32&}我們衝鋒  我們衝鋒  如武士一般
+Dialogue: 0,0:15:23.98,0:15:27.40,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans TC Medium\3a&H32&}我們衝鋒  我們衝鋒  如武士一般
+Dialogue: 0,0:15:27.40,0:15:30.45,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans TC Medium\3a&H32&}一起上吧  一起上吧  如 45 一般
+Dialogue: 0,0:15:30.99,0:15:32.24,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans TC Medium\3a&H32&}Oh oh oh oh
+Dialogue: 0,0:15:32.24,0:15:34.28,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans TC Medium\3a&H32&}如武士一般
+Dialogue: 0,0:15:34.28,0:15:37.41,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans TC Medium\3a&H32&}我們衝鋒  我們衝鋒  如武士一般
+Dialogue: 0,0:15:37.41,0:15:40.96,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans TC Medium\3a&H32&}我們衝鋒  我們衝鋒  如武士一般
+Dialogue: 0,0:15:40.96,0:15:44.67,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans TC Medium\3a&H32&}一起上吧  一起上吧  如 45 一般
+Dialogue: 0,0:15:44.67,0:15:45.92,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans TC Medium\3a&H32&}Oh oh oh oh
+Dialogue: 0,0:15:45.92,0:15:47.84,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans TC Medium\3a&H32&}如武士一般
+Dialogue: 0,0:15:52.93,0:15:54.76,Sign,//IN,0,0,0,,{\fad(200,200)\c&HF0F0F0&\3c&H000000&\bord0\an9\pos(1845,80)\t(0,150,\bord2\blur2)\fs60\fnSource Han Sans TC Medium\3a&H32&}如武士一般
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,>Sign<
 Dialogue: 0,0:07:48.48,0:07:51.45,Sign,,0,0,0,,{\an7\p1\bord0\blur1\c&H000000&\pos(870,18)}m 178 524 l 178 560 390 560 390 524
 Dialogue: 0,0:07:48.48,0:07:51.45,Sign,,0,0,0,,{\an1\fnSource Han Sans TC Normal\blur1\fs40\fsp6\bord0\c&HA7A7A7&\pos(1048,658)}　檔案：04\N{\fs80\c&HB1B3B1&\fsp6}延長
@@ -546,7 +546,7 @@ Dialogue: 0,0:12:09.33,0:12:12.37,Line CN,,0,0,0,,再次進入 ID 之前  讓鳴
 Dialogue: 0,0:12:12.37,0:12:16.04,Line CN,,0,0,0,,是  在此期間我們也清理一下駕駛座
 Dialogue: 0,0:12:16.04,0:12:20.67,Line CN,,0,0,0,,畢竟也不清楚鳴瓢身處的環境對酒井戶的推理有何影響
 Dialogue: 0,0:12:21.72,0:12:22.68,Line CN,,0,0,0,,拜託了
-Dialogue: 0,0:12:22.68,0:12:27.18,Line CN,,0,0,0,,{\c&HFFFFFF&\1a&H32&\3c&H000000&\3a&H32&}為什麼沒人來救我啊  為什麼啊
+Dialogue: 0,0:12:22.68,0:12:27.18,Line CN,,0,0,0,,{\c&HFFFFFF&\1a&H32&\3c&H000000&\3a&H32&}為什麼沒人來救我啊  這也太奇怪了吧
 Dialogue: 0,0:12:27.18,0:12:30.89,Line CN,,0,0,0,,我說  為什麼之前的六起掘墓人事件中
 Dialogue: 0,0:12:30.89,0:12:33.85,Line CN,,0,0,0,,沒有一次發現思念粒子呢
 Dialogue: 0,0:12:34.98,0:12:39.65,Line CN,,0,0,0,,因為還沒有發現那些被害人的埋藏地點
@@ -692,7 +692,7 @@ Dialogue: 0,0:21:30.97,0:21:33.73,Line CN,,0,0,0,,你確實是人  鳴瓢
 Dialogue: 0,0:21:33.73,0:21:35.48,Line CN,,0,0,0,,這一點我可以保證
 Dialogue: 0,0:21:35.98,0:21:37.69,Line CN,,0,0,0,,你只是脆弱罷了  作為人來說
 Dialogue: 0,0:21:39.15,0:21:40.48,Line CN,,0,0,0,,我再問一件事
-Dialogue: 0,0:21:43.44,0:21:46.32,Line CN,,0,0,0,,你還當我是你同伴嗎？
+Dialogue: 0,0:21:43.44,0:21:46.32,Line CN,,0,0,0,,你還當自己是我的同伴嗎？
 Dialogue: 0,0:21:50.74,0:21:56.71,Line CN,,0,0,0,,恐怕那將是我最後去依靠的  我理性的由來吧{おそらくそれが俺が最終的に縋る　俺の理性の端緒(?)ですよ}
 Dialogue: 0,0:22:03.51,0:22:05.59,Line CN,,0,0,0,,真是了不得的結局啊
 Dialogue: 0,0:22:05.59,0:22:08.93,Line CN,,0,0,0,,到頭來掘墓人還是逍遙法外

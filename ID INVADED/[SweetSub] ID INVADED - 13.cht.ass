@@ -4,12 +4,11 @@
 Comment: Processed by 繁化姬 | https://zhconvert.org
 Title: [SweetSub] ID: INVADED - 13
 ScriptType: v4.00+
-PlayDepth: 0
 WrapStyle: 0
-PlayResX: 1920
-PlayResY: 1080
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -65,7 +64,7 @@ Dialogue: 0,0:23:44.24,0:23:46.49,EDJP - Roll,,0,0,0,,{\fad(200,200)}And there's
 Dialogue: 0,0:23:46.49,0:23:52.29,EDJP - Roll,,0,0,0,,{\fad(200,200)}There's no stopping our souls, our love.
 Dialogue: 0,0:23:52.29,0:23:54.20,EDJP - Roll,,0,0,0,,{\fad(200,200)}Heading straight for
 Dialogue: 0,0:23:54.20,0:23:57.04,EDJP - Roll,,0,0,0,,{\fad(200,200)}Heading straight for the clouds.
-Dialogue: 0,0:23:25.84,0:23:27.89,EDCN - Roll,,0,0,0,,{\fad(200,200)}要想抓住我們就別想太多
+Dialogue: 0,0:23:25.84,0:23:27.89,EDCN - Roll,,0,0,0,,{\fad(200,200)}要想追上我們就別想太多
 Dialogue: 0,0:23:27.89,0:23:29.72,EDCN - Roll,,0,0,0,,{\fad(200,200)}別去考慮領頭的在哪裡
 Dialogue: 0,0:23:29.72,0:23:31.68,EDCN - Roll,,0,0,0,,{\fad(200,200)}若你追上我們  激昂你的熱血
 Dialogue: 0,0:23:31.68,0:23:33.60,EDCN - Roll,,0,0,0,,{\fad(200,200)}改變  不要停止  不要讓它停止
@@ -289,7 +288,7 @@ Dialogue: 0,0:11:57.11,0:11:58.70,Line CN,,0,0,0,,你聲音太吵了
 Dialogue: 0,0:11:58.70,0:11:59.57,Line CN,,0,0,0,,不好意思
 Dialogue: 0,0:12:02.99,0:12:05.83,Line CN,,0,0,0,,不過  正因如此我才撐得住
 Dialogue: 0,0:12:29.81,0:12:30.98,Line CN,,0,0,0,,松岡
-Dialogue: 0,0:12:30.98,0:12:33.19,Line CN,,0,0,0,,嗯  我也看見了
+Dialogue: 0,0:12:30.98,0:12:33.19,Line CN,,0,0,0,,嗯  我們也看見了
 Dialogue: 0,0:12:34.73,0:12:35.99,Line CN,,0,0,0,,繼續注射藥品
 Dialogue: 0,0:12:45.12,0:12:46.41,Line CN,,0,0,0,,是你…
 Dialogue: 0,0:12:47.25,0:12:49.16,Line CN,,0,0,0,,飛鳥井
@@ -373,7 +372,7 @@ Dialogue: 0,0:19:25.64,0:19:26.73,Line CN,,0,0,0,,沒關係
 Dialogue: 0,0:19:26.73,0:19:29.23,Line CN,,0,0,0,,趁你還有能為之流淚的人  盡情哭泣吧
 Dialogue: 0,0:19:30.27,0:19:35.24,Line CN,,0,0,0,,不… 我覺得一滴眼淚對他來說剛剛好
 Dialogue: 0,0:19:38.66,0:19:39.74,Line CN,,0,0,0,,是嗎
-Dialogue: 0,0:19:40.28,0:19:44.25,Line CN,,0,0,0,,{\fad(160,0)}你會好好回家吧？
+Dialogue: 0,0:19:40.28,0:19:44.25,Line CN,,0,0,0,,{\fad(160,0)}你會回來的吧？
 Dialogue: 0,0:19:44.83,0:19:45.83,Line CN,,0,0,0,,是啊
 Dialogue: 0,0:19:47.67,0:19:49.46,Line CN,,0,0,0,,總有一天  我一定會
 Dialogue: 0,0:19:49.46,0:19:51.29,Line CN,,0,0,0,,回到真正的家裡
