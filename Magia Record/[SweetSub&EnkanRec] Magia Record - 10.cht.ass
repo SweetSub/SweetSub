@@ -133,7 +133,7 @@ Dialogue: 0,0:04:10.48,0:04:12.48,Sign,,0,0,0,,{\c&HC5F9F9&\bord0\fs70\pos(960,4
 Dialogue: 0,0:04:10.48,0:04:12.48,Sign,,0,0,0,,{\c&HC5F9F9&\bord0\fs70\pos(960,630)\frx2\blur1}輸出功率  最大
 Dialogue: 0,0:04:34.25,0:04:36.88,Sign,,0,0,0,,{\c&HC5F9F9&\bord0\fs70\pos(960,438)\frx2\blur1}吸引模式  開啟
 Dialogue: 0,0:04:34.25,0:04:36.88,Sign,,0,0,0,,{\c&HC5F9F9&\bord0\fs70\pos(960,630)\frx2\blur1}輸出功率  最大
-Dialogue: 0,0:13:38.51,0:13:40.51,Sign,,0,0,0,,{\c&H77BCBA&\3c&HDAF3E3&\fs40\fsp4\pos(1228,979)\an4\frz28\fax0.35\frx18\fry6}你的回合
+Dialogue: 0,0:13:38.51,0:13:40.51,Sign,,0,0,0,,{\c&H77BCBA&\3c&HDAF3E3&\fs40\fsp4\an4\frz31\fax0.3\frx18\fry6\pos(1278,962)\bord0}你{\fax0.32}輸{\fax0.36}了
 Dialogue: 0,0:21:21.47,0:21:23.72,Sign,,0,0,0,,{\fn方正硬笔楷书_GBK\bord0\c&H0F1A21&\fax0.06\fs30\b1\an4\blur0.6\frx34\fry354\frz17.61\pos(75,812)}絕交階梯
 Dialogue: 0,0:21:21.47,0:21:23.72,Sign,,0,0,0,,{\fn方正硬笔楷书_GBK\bord0\c&H1E2215&\fax0.1\fs30\b1\an4\blur0.6\frx34\fry354\frz15\pos(765,690)}通靈神社
 Dialogue: 0,0:21:21.47,0:21:23.72,Sign,,0,0,0,,{\fn方正硬笔楷书_GBK\bord0\c&H151B19&\fs20\fax0.2\b0\an4\blur0.6\frx34\fry354\frz13.5\pos(1168,389)}孤獨的盡頭
