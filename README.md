@@ -29,7 +29,7 @@ SweetSub
 | Mirai                          | 未来的未来              | 未来のミライ                           | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Mirai) |
 | Cencoroll Connect              |                         | センコロール　コネクト                 | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Cencoroll%20Connect) |
 | Mai Mai Miracle                | 翘发千子与千年魔法      | マイマイ新子と千年の魔法               | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Mai%20Mai%20Miracle) |
-| Made in Abyss Compendium Films | 剧场版总集篇 来自深渊   | 劇場版総集編メイドインアビス           | [BD 字幕]([https://github.com/tastysugar/SweetSub/tree/master/Made%20in%20Abyss%20Compendium%20Films](https://github.com/tastysugar/SweetSub/tree/master/Made in Abyss Compendium Films)) |
+| Made in Abyss Compendium Films | 剧场版总集篇 来自深渊   | 劇場版総集編メイドインアビス           | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Made%20in%20Abyss%20Compendium%20Films) |
 | PROMARE                        | 普罗米亚                | プロメア                               | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Promare) |
 
 
