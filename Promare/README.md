@@ -7,6 +7,8 @@
 
 SIDE Galo / SIDE Lio 为特典前传动画。
 
+------
+
 使用字体：
 
 FOT-UD角ゴ_ラージ Pr6N E <FOT-UDKakugo_Large Pr6N E>
