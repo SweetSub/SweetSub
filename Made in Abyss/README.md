@@ -8,7 +8,7 @@ BD 字幕下载：
 
 [简体](https://github.com/tastysugar/SweetSub/raw/master/Made%20in%20Abyss/Made%20in%20Abyss%20chs.rar)　　　　[繁体](https://github.com/tastysugar/SweetSub/blob/master/Made%20in%20Abyss/Made%20in%20Abyss%20cht.rar)
 
-[总集篇剧场版字幕]([https://github.com/tastysugar/SweetSub/tree/master/Made%20in%20Abyss%20Compendium%20Films](https://github.com/tastysugar/SweetSub/tree/master/Made in Abyss Compendium Films))
+[总集篇剧场版字幕](https://github.com/tastysugar/SweetSub/tree/master/Made%20in%20Abyss%20Compendium%20Films)
 
 ------
 
