@@ -1,10 +1,14 @@
-![](key_visual.jpg)  
-
 来自深渊是一个充满了爱与治愈的故事。
 
 除了正片以外，还制作了特典 The Making of Made in Abyss 的字幕。
 
 其它的特典没有制作，不过在 Anitama 的访谈里基本包含了特典里的音乐制作等幕后花絮。如果感兴趣的话可以去阅读[相关文章](http://www.anitama.cn/search?keyword=%E6%9D%A5%E8%87%AA%E6%B7%B1%E6%B8%8A)。
+
+BD 字幕下载：
+
+[简体](https://github.com/tastysugar/SweetSub/raw/master/Made%20in%20Abyss/Made%20in%20Abyss%20chs.rar)　　　　[繁体](https://github.com/tastysugar/SweetSub/blob/master/Made%20in%20Abyss/Made%20in%20Abyss%20cht.rar)
+
+[总集篇剧场版字幕]([https://github.com/tastysugar/SweetSub/tree/master/Made%20in%20Abyss%20Compendium%20Films](https://github.com/tastysugar/SweetSub/tree/master/Made in Abyss Compendium Films))
 
 ------
 
@@ -35,10 +39,4 @@
 
 其中所使用到的 思源黑体 / Source Han Sans 可以在本目录下找到。
 
-
-
-BD 字幕下载：
-
-[简体](https://github.com/tastysugar/SweetSub/raw/master/Made%20in%20Abyss/Made%20in%20Abyss%20chs.rar)
-
-[繁体](https://github.com/tastysugar/SweetSub/blob/master/Made%20in%20Abyss/Made%20in%20Abyss%20cht.rar)
+![](key_visual.jpg)

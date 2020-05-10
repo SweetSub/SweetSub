@@ -4,31 +4,33 @@ SweetSub
 
 欢迎关注 SweetSub 的 [telegram 频道](https://t.me/SweetSub)
 
-### TV 动画
+### 动画剧集
 
-| 英文名                                      | 中文名           | 日文名                           | 备注                                       |
-| ---------------------------------------- | ------------- | ----------------------------- | ---------------------------------------- |
-| Flip Flappers                            | 轻拍翻转小魔女       | フリップフラッパーズ                    | 13 集正片 / [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Flip%20Flappers) |
-| Little Witch Academia (2017)             | 小魔女学园 (2017)  | リトルウィッチアカデミア (2017)           | (已坑) TV 字幕                               |
-| Made in Abyss (S1)                       | 来自深渊 (第一季)    | メイドインアビス (S1)                 | 13 集正片 + 制作纪实（[B 站](https://www.bilibili.com/video/av19676043)） / [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Made%20in%20Abyss) |
-| DARLING in the FRANXX                    | 比翼之吻          | ダーリン・イン・ザ・フランキス               | 24 集正片 + Web 预告 / [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/DARLING%20in%20the%20FRANXX) |
-| Boogiepop Phantom                        | 不吉波普不笑幻影死神    | ブギーポップは笑わない Boogiepop Phantom | 12 集 对应 R2J 版 DVD / [字幕](https://github.com/tastysugar/SweetSub/tree/master/Boogiepop%20Phantom) / B 站 [无注释版](https://www.bilibili.com/video/av45135917) [注释版](https://www.bilibili.com/video/av45179572/) |
-| Sarazanmai                               |               | さらざんまい                        | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Sarazanmai) |
-| Magia Record: Puella Magi Madoka Magica Side Story | 魔法纪录 魔法少女小圆外传 | マギアレコード 魔法少女まどか☆マギカ外伝         | [字幕](https://github.com/tastysugar/SweetSub/tree/master/Magia%20Record) |
-| ID: INVADED                              |               | イド：インヴェイデッド                   | [字幕](https://github.com/tastysugar/SweetSub/tree/master/ID%20INVADED) |
+| 英文名                                             | 中文名                    | 日文名                                   | 备注                                                         |
+| -------------------------------------------------- | ------------------------- | ---------------------------------------- | ------------------------------------------------------------ |
+| Flip Flappers                                      | 轻拍翻转小魔女            | フリップフラッパーズ                     | 13 集正片 / [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Flip%20Flappers) |
+| Little Witch Academia (2017)                       | 小魔女学园 (2017)         | リトルウィッチアカデミア (2017)          | (已坑) WEB 字幕                                              |
+| Made in Abyss (S1)                                 | 来自深渊 (第一季)         | メイドインアビス (S1)                    | 13 集正片 + 制作纪实（[B 站](https://www.bilibili.com/video/av19676043)） / [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Made%20in%20Abyss) |
+| DARLING in the FRANXX                              | 比翼之吻                  | ダーリン・イン・ザ・フランキス           | 24 集正片 + Web 预告 / [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/DARLING%20in%20the%20FRANXX) |
+| Boogiepop Phantom                                  | 不吉波普不笑幻影死神      | ブギーポップは笑わない Boogiepop Phantom | 12 集 对应 R2J 版 DVD / [字幕](https://github.com/tastysugar/SweetSub/tree/master/Boogiepop%20Phantom) / B 站 [无注释版](https://www.bilibili.com/video/av45135917) [注释版](https://www.bilibili.com/video/av45179572/) |
+| Sarazanmai                                         |                           | さらざんまい                             | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Sarazanmai) |
+| Magia Record: Puella Magi Madoka Magica Side Story | 魔法纪录 魔法少女小圆外传 | マギアレコード 魔法少女まどか☆マギカ外伝 | [WEB 版字幕](https://github.com/tastysugar/SweetSub/tree/master/Magia%20Record) |
+| ID: INVADED                                        |                           | イド：インヴェイデッド                   | [WEB 版字幕](https://github.com/tastysugar/SweetSub/tree/master/ID%20INVADED) |
 
 
 
 ### **剧场版**
-| 英文名            | 中文名                  | 日文名                                 | 备注                                                         |
-| ----------------- | ----------------------- | -------------------------------------- | ------------------------------------------------------------ |
-| Okko's Inn        | 温泉屋少掌柜            | 劇場版　若おかみは小学生!              | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Okko's%20Inn) |
-| FLCL Alternative  | 特别的她  外传          | フリクリ　オルタナ                     | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/FLCL%20Alternative) / [B 站](https://www.bilibili.com/video/av43737048) |
-| FLCL Progressive  | 特别的她  后传          | フリクリ　プログレ                     | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/FLCL%20Progressive) |
-| Modest Heros      | 小英雄 -蟹和蛋和透明人- | ちいさな英雄－カニとタマゴと透明人間－ | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Modest%20Heros) / [B 站](https://www.bilibili.com/video/av50605867) |
-| Mirai             | 未来的未来              | 未来のミライ                           | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Mirai) |
-| Cencoroll Connect |                         | センコロール　コネクト                 | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Cencoroll%20Connect) |
-| Mai Mai Miracle   | 翘发千子与千年魔法      | マイマイ新子と千年の魔法               | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Mai%20Mai%20Miracle) |
+| 英文名                         | 中文名                  | 日文名                                 | 备注                                                         |
+| ------------------------------ | ----------------------- | -------------------------------------- | ------------------------------------------------------------ |
+| Okko's Inn                     | 温泉屋少掌柜            | 劇場版　若おかみは小学生!              | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Okko's%20Inn) |
+| FLCL Alternative               | 特别的她  外传          | フリクリ　オルタナ                     | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/FLCL%20Alternative) / [B 站](https://www.bilibili.com/video/av43737048) |
+| FLCL Progressive               | 特别的她  后传          | フリクリ　プログレ                     | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/FLCL%20Progressive) |
+| Modest Heros                   | 小英雄 -蟹和蛋和透明人- | ちいさな英雄－カニとタマゴと透明人間－ | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Modest%20Heros) / [B 站](https://www.bilibili.com/video/av50605867) |
+| Mirai                          | 未来的未来              | 未来のミライ                           | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Mirai) |
+| Cencoroll Connect              |                         | センコロール　コネクト                 | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Cencoroll%20Connect) |
+| Mai Mai Miracle                | 翘发千子与千年魔法      | マイマイ新子と千年の魔法               | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Mai%20Mai%20Miracle) |
+| Made in Abyss Compendium Films | 剧场版总集篇 来自深渊   | 劇場版総集編メイドインアビス           | [BD 字幕]([https://github.com/tastysugar/SweetSub/tree/master/Made%20in%20Abyss%20Compendium%20Films](https://github.com/tastysugar/SweetSub/tree/master/Made in Abyss Compendium Films)) |
+| PROMARE                        | 普罗米亚                | プロメア                               | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Promare) |
 
 
 
