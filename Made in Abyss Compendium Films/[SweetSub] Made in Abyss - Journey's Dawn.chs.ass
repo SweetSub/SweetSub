@@ -16,9 +16,9 @@ Video File: [SweetSub&LoliHouse] Made in Abyss - Journey's Dawn [BDRip 1080p HEV
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 77
-Active Line: 78
-Video Position: 6931
+Scroll Position: 1093
+Active Line: 1100
+Video Position: 96513
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -48,7 +48,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,本字幕在遵循 Creative Com
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,即，在署名、非商业利用、不进行修改的情况下可以自由转载使用。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果是仅仅是修改时间轴匹配自己的片源的话，可以作为例外，在署名、非商业利用的情况下，可以自由转载、使用。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果在其它情况下想要转载和使用本字幕，可以通过 telegram 联系我。
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,该版本为最终版字幕 v1，不出意外不会再做修正。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,该版本为最终版字幕 v2，不出意外不会再做修正。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果在字幕中发现了错误或者有其它问题，可以使用 telegram 联系我，详细方法见动漫花园发布页。
 Dialogue: 0,0:03:55.59,0:04:01.97,SubSign,,0,0,0,,{\fad(1600,0)\blur1\an8\fs50\pos(960,35)\1c22252E\3cFFFFF7}SweetSub    翻译：Spica    后期：tastySugar  Kotachi
 Comment: 0,0:00:38.58,0:00:40.58,Default,,0,0,0,,Screen
@@ -1150,6 +1150,7 @@ Dialogue: 0,1:05:44.15,1:05:46.27,Default,,0,0,0,,不过  这个感觉...
 Dialogue: 0,1:05:46.80,1:05:48.26,Default,,0,0,0,,我的身体回想起来了
 Dialogue: 0,1:05:49.53,1:05:51.65,Default,,0,0,0,,我曾经做过这样的事
 Dialogue: 0,1:06:54.70,1:06:58.05,Default,,0,0,0,,要是刚才那个把莉可也打中了的话...
+Dialogue: 0,1:07:05.38,1:07:06.53,Default,,0,0,0,,是什么啊...
 Dialogue: 0,1:07:07.27,1:07:08.77,Default,,0,0,0,,我究竟...
 Dialogue: 0,1:07:10.44,1:07:11.61,Default,,0,0,0,,是什么啊...
 Dialogue: 0,1:07:19.03,1:07:20.87,Default,,0,0,0,,好像没受伤的样子
@@ -1219,7 +1220,7 @@ Dialogue: 0,1:10:44.73,1:10:45.87,Default,,0,0,0,,没关系的吗？
 Dialogue: 0,1:10:45.87,1:10:46.57,Default,,0,0,0,,嗯
 Dialogue: 0,1:10:46.57,1:10:50.66,Default,,0,0,0,,不过要丢的话  还是希望能在到了奈落之底以后再丢啊
 Dialogue: 0,1:10:51.29,1:10:54.08,Default,,0,0,0,,你想啊  等以后笔记被找到时
-Dialogue: 0,1:10:54.08,1:10:56.66,Default,,0,0,0,,上面只写了到这里为止的事请的话
+Dialogue: 0,1:10:54.08,1:10:56.66,Default,,0,0,0,,上面只写了到这里为止的事情的话
 Dialogue: 0,1:10:56.66,1:10:59.21,Default,,0,0,0,,那我的传奇岂不是一点都不响亮
 Dialogue: 0,1:11:01.17,1:11:05.89,Default,,0,0,0,,唉  至少让我在雷古的机能大全里加上火葬炮啊...
 Dialogue: 0,1:11:05.89,1:11:07.97,Default,,0,0,0,,唯有这个最遗憾了...
@@ -1655,7 +1656,7 @@ Dialogue: 0,1:41:34.38,1:41:37.63,Default,,0,0,0,,小莉可虽说很有胆识
 Dialogue: 0,1:41:37.63,1:41:40.74,Default,,0,0,0,,但是身体的行动还跟不上想法
 Dialogue: 0,1:41:41.97,1:41:44.14,Default,,0,0,0,,雷古少年也是
 Dialogue: 0,1:41:44.51,1:41:47.18,Default-Top,,0,0,0,,莉可  你在哪儿？
-Dialogue: 0,1:41:44.51,1:41:47.22,Default,,0,0,0,,虽说身体皮实抗造  但总是很胆小
+Dialogue: 0,1:41:44.51,1:41:49.62,Default,,0,0,0,,虽说身体皮实抗造  但总是很胆小
 Dialogue: 0,1:41:51.13,1:41:53.52,Default,,0,0,0,,做决断也很慢
 Dialogue: 0,1:41:52.15,1:41:53.52,Default-Top,,0,0,0,,快住手
 Dialogue: 0,1:41:56.11,1:41:58.65,Default,,0,0,0,,明明是个机器人偶啊
