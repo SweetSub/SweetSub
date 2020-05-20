@@ -59,12 +59,12 @@ Dialogue: 1,0:00:31.68,0:00:35.72,Credit,,0,0,0,,{\bord0\blur6\pos(148,385)\b0\1
 Dialogue: 1,0:00:31.68,0:00:35.72,Credit,,0,0,0,,{\pos(170,430)\bord0\blur6\b0\1c&H000000&\1a&HC8&\shad0}phage
 Dialogue: 1,0:00:31.68,0:00:35.72,Credit,,0,0,0,,{\pos(570,370)\bord0\blur6\b0\1c&H000000&\1a&HB4&\shad0}后期
 Dialogue: 1,0:00:31.68,0:00:35.72,Credit,,0,0,0,,{\pos(592,415)\bord0\blur6\b0\1c&H000000&\1a&HB4&\shad0}natsukage
-Dialogue: 1,0:01:26.15,0:01:29.65,Credit,,0,0,0,,{\an5\pos(480,437.5)\fad(0,30)\b0\bord0\blur6\b0\1c&H000000&\1a&HB4&\shad0}SweetSub
+Dialogue: 1,0:01:26.07,0:01:29.57,Credit,,0,0,0,,{\an5\pos(480,437.5)\fad(0,30)\b0\bord0\blur6\b0\1c&H000000&\1a&HB4&\shad0}SweetSub
 Dialogue: 0,0:00:31.68,0:00:35.68,Credit,,0,0,0,,{\bord1.2\blur1\pos(148,385)\b0}翻译·校对
 Dialogue: 0,0:00:31.68,0:00:35.68,Credit,,0,0,0,,{\pos(170,430)\bord1.2\blur1\fs56\b0}phage
 Dialogue: 0,0:00:31.68,0:00:35.68,Credit,,0,0,0,,{\bord1.2\blur1\pos(570,370)\b0}后期
 Dialogue: 0,0:00:31.68,0:00:35.68,Credit,,0,0,0,,{\bord1.2\blur1\pos(592,415)\fs56\b0}natsukage
-Dialogue: 0,0:01:26.15,0:01:29.65,Credit,,0,0,0,,{\an5\blur1\pos(480,437.5)\fsp\fad(0,30)\b0}SweetSub
+Dialogue: 0,0:01:26.07,0:01:29.57,Credit,,0,0,0,,{\an5\blur1\pos(480,437.5)\fsp\fad(0,30)\b0}SweetSub
 Comment: 0,0:22:20.99,0:22:21.03,ED_JP,,0,0,0,,·Ending: 杏子「未來世紀(秘)クラブ」·
 Dialogue: 0,0:22:20.99,0:22:26.99,ED_JP,,0,0,0,,{\pos(278,700)\fad(200,0)}この地球のはしっこで見上げる太陽
 Dialogue: 1,0:22:20.99,0:22:26.99,ED_JP,ruby,0,0,0,,{\an2\fs15\fad(200,0)\pos(125,668)}ほ
