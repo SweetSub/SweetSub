@@ -31,6 +31,7 @@ SweetSub
 | Mai Mai Miracle                | 翘发千子与千年魔法      | マイマイ新子と千年の魔法               | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Mai%20Mai%20Miracle) |
 | Made in Abyss Compendium Films | 剧场版总集篇 来自深渊   | 劇場版総集編メイドインアビス           | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Made%20in%20Abyss%20Compendium%20Films) |
 | PROMARE                        | 普罗米亚                | プロメア                               | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Promare) |
+| Children of the Sea            | 海兽的孩子              | 海獣の子供                             | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Children%20of%20the%20Sea) |
 
 
 
