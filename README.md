@@ -16,6 +16,7 @@ SweetSub
 | Sarazanmai                                         |                           | さらざんまい                             | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Sarazanmai) |
 | Magia Record: Puella Magi Madoka Magica Side Story | 魔法纪录 魔法少女小圆外传 | マギアレコード 魔法少女まどか☆マギカ外伝 | [WEB 版字幕](https://github.com/tastysugar/SweetSub/tree/master/Magia%20Record) |
 | ID: INVADED                                        |                           | イド：インヴェイデッド                   | [WEB 版字幕](https://github.com/tastysugar/SweetSub/tree/master/ID%20INVADED) |
+| Great Pretender                                    | 大欺诈师                  | グレートプリテンダー                     | [WEB 版字幕](https://github.com/tastysugar/SweetSub/tree/master/Great%20Pretender) |
 
 
 
