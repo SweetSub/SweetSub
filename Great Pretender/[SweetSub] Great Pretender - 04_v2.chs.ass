@@ -44,7 +44,7 @@ Dialogue: 1,0:20:56.40,0:20:59.36,STAFF,,0,0,0,,{\fad(350,350)\pos(1428,565)\fs5
 Dialogue: 0,0:20:56.40,0:20:59.36,STAFF,,0,0,0,,{\fad(350,350)\pos(1258,305)\fs39\fsp10\bord2\3c&H000000&\3a&H32&\blur2\c&HFAFAFA&\1a&HFF&}翻译
 Dialogue: 0,0:20:56.40,0:20:59.36,STAFF,,0,0,0,,{\fad(350,350)\pos(1428,301)\fs50\fsp27\fscx90\fscy90\bord2\3c&H000000&\1a&HFF&\3a&H50&\blur2}Yuta
 Dialogue: 0,0:20:56.40,0:20:59.36,STAFF,,0,0,0,,{\fad(350,350)\pos(1258,393)\fs39\fsp10\bord2\3c&H000000&\3a&H50&\blur2\c&HFAFAFA&\1a&HFF&}校对
-Dialogue: 0,0:20:56.40,0:20:59.36,STAFF,,0,0,0,,{\fad(350,350)\pos(1428,389)\fs50\fsp12\fscx90\fscy90\bord2\3c&H000000&\1a&HFF&\3a&H50&\blur2}Senren
+Dialogue: 0,0:20:56.40,0:20:59.36,STAFF,,0,0,0,,{\fad(350,350)\pos(1428,389)\fs50\fsp11.5\fscx90\fscy90\bord2\3c&H000000&\1a&HFF&\3a&H50&\blur2}Senren
 Dialogue: 0,0:20:56.40,0:20:59.36,STAFF,,0,0,0,,{\fad(350,350)\pos(1258,481)\fs39\fsp10\bord2\3c&H000000&\3a&H50&\blur2\c&HFAFAFA&\1a&HFF&}后期
 Dialogue: 0,0:20:56.40,0:20:59.36,STAFF,,0,0,0,,{\fad(350,350)\pos(1428,477)\fs50\fsp0\fscx87\fscy90\bord2\3c&H000000&\1a&HFF&\3a&H50&\blur2}natsukage
 Dialogue: 0,0:20:56.40,0:20:59.36,STAFF,,0,0,0,,{\fad(350,350)\pos(1328,569)\fs39\fsp0\bord2\3c&H000000&\3a&H50&\blur2\c&HFAFAFA&\1a&HFF&\an9}字幕制作
