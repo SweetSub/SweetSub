@@ -1,10 +1,12 @@
-![](https://i.loli.net/2020/01/07/NJfdlXDHg2PaVsA.png)
+BD 版字幕下载：
+
+- [简体合集](https://raw.githubusercontent.com/tastysugar/SweetSub/master/ID%20INVADED/%5BSweetSub%5D%20ID%20INVADED.chs.zip)
+
+- [繁体合集](https://raw.githubusercontent.com/tastysugar/SweetSub/master/ID%20INVADED/%5BSweetSub%5D%20ID%20INVADED.cht.zip)
 
 
 
-
-
-BD 版字幕下载
+分集下载：
 
 | 集数 |      标题       |                             简体                             |                             繁体                             |
 | :--: | :-------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -21,3 +23,7 @@ BD 版字幕下载
 |  11  |     STORMED     | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/ID%20INVADED/%5BSweetSub%5D%20ID%20INVADED%20-%2011.chs.ass) | [繁体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/ID%20INVADED/%5BSweetSub%5D%20ID%20INVADED%20-%2011.cht.ass) |
 |  12  |    CHANNELED    | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/ID%20INVADED/%5BSweetSub%5D%20ID%20INVADED%20-%2012.chs.ass) | [繁体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/ID%20INVADED/%5BSweetSub%5D%20ID%20INVADED%20-%2012.cht.ass) |
 |  13  |  CHANNELED II   | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/ID%20INVADED/%5BSweetSub%5D%20ID%20INVADED%20-%2013.chs.ass) | [繁体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/ID%20INVADED/%5BSweetSub%5D%20ID%20INVADED%20-%2013.cht.ass) |
+
+
+
+![](https://i.loli.net/2020/01/07/NJfdlXDHg2PaVsA.png)
