@@ -30,7 +30,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Text - CN,,0,0,0,,如果是僅僅是修改時�
 Comment: 0,0:00:00.00,0:00:00.00,Text - CN,,0,0,0,,如果在其它情況下想要轉載和使用本字幕，或是在字幕中發現了錯誤或者有其它問題，可以使用 telegram 聯絡我，詳細方法見動漫花園發布頁。
 Comment: 0,0:00:00.00,0:00:00.00,Text - CN,,0,0,0,,**請注意**
 Comment: 0,0:00:00.00,0:00:00.00,Text - CN,,0,0,0,,該版本為初版字幕，在合集時會有修正。
-Comment: 1,0:20:51.02,0:20:51.06,EDEN,,0,0,0,,~Staff~
+Comment: 0,0:20:51.02,0:20:51.06,STAFF,,0,0,0,,~Staff~
 Dialogue: 1,0:20:56.32,0:20:59.28,STAFF,,0,0,0,,{\fad(350,350)\fs39\fsp10\pos(1196,486)}翻譯{56／88}{EP2shift:left-62／top-66}
 Dialogue: 1,0:20:56.32,0:20:59.28,STAFF,,0,0,0,,{\fad(350,350)\pos(1366,482)\fs50\fsp21\fscx90\fscy90}Sugar{-4}
 Dialogue: 1,0:20:56.32,0:20:59.28,STAFF,,0,0,0,,{\fad(350,350)\fs39\fsp10\pos(1196,574)}校對
@@ -47,7 +47,7 @@ Dialogue: 0,0:20:56.32,0:20:59.28,STAFF,,0,0,0,,{\fad(350,350)\pos(1196,662)\fs3
 Dialogue: 0,0:20:56.32,0:20:59.28,STAFF,,0,0,0,,{\fad(350,350)\pos(1366,658)\fs50\fsp0\fscx87\fscy90\bord2\3c&H000000&\1a&HFF&\3a&H50&\blur2}natsukage
 Dialogue: 0,0:20:56.32,0:20:59.28,STAFF,,0,0,0,,{\fad(350,350)\pos(1266,750)\fs39\fsp0\bord2\3c&H000000&\3a&H50&\blur2\c&HFAFAFA&\1a&HFF&\an9}字幕製作
 Dialogue: 0,0:20:56.32,0:20:59.28,STAFF,,0,0,0,,{\fad(350,350)\pos(1366,746)\fs50\fsp1.6\fscx90\fscy90\bord2\3c&H000000&\1a&HFF&\3a&H50&\blur2}SweetSub
-Comment: 1,0:20:51.02,0:20:51.06,EDEN,,0,0,0,,~Ending~：Freddie Mercury「The Great Pretender」
+Comment: 0,0:20:51.02,0:20:51.06,EDEN,,0,0,0,,~Ending~：Freddie Mercury「The Great Pretender」
 Dialogue: 1,0:20:56.90,0:21:02.32,EDEN,,0,0,0,,{\fad(200,200)}Oh yes I'm the great pretender.
 Dialogue: 1,0:21:04.37,0:21:09.21,EDEN,,0,0,0,,{\fad(200,200)}Pretending I'm doing well.
 Dialogue: 1,0:21:10.79,0:21:17.80,EDEN,,0,0,0,,{\fad(200,0)\t(982,1316,1,\c&H96B9EC&)}My need is such I pretend too much.
@@ -71,7 +71,7 @@ Dialogue: 0,0:21:55.79,0:22:02.97,EDEN,shad,0,0,0,,{\fad(200,200)\blur2\bord2\3c
 Dialogue: 0,0:22:02.97,0:22:09.64,EDEN,shad,0,0,0,,{\fad(200,200)\blur2\bord2\3c&H000000&\3a&H32&\1a&HFF&}I'm wearing my heart like a crown.
 Dialogue: 0,0:22:09.64,0:22:17.44,EDEN,shad,0,0,0,,{\fad(200,0)\blur2\bord2\3c&H000000&\3a&H32&\1a&HFF&\t(8100,8470,0.8,\3c&HFFFFFF&)}Pretending that you're still around.
 Dialogue: 0,0:22:17.44,0:22:24.95,EDEN,shad,0,0,0,,{\fad(0,0)\blur2\bord2\3c&HFFFFFF&\3a&H32&\1a&HFF&)}Pretending that you're still around.
-Dialogue: 1,0:22:24.95,0:22:28.91,EDEN,shad,0,0,0,,{\fad(0,350)\blur2\bord2\3c&HFFFFFF&\3a&HFF&\1a&HFF&)}Pretending that you're still around.
+Dialogue: 0,0:22:24.95,0:22:28.91,EDEN,shad,0,0,0,,{\fad(0,350)\blur2\bord2\3c&HFFFFFF&\3a&HFF&\1a&HFF&)}Pretending that you're still around.
 Dialogue: 1,0:20:56.90,0:21:02.32,EDCN,,0,0,0,,{\fad(200,200)}沒錯  我是技術精湛的演員
 Dialogue: 1,0:21:04.37,0:21:09.21,EDCN,,0,0,0,,{\fad(200,200)}假裝自己過得很好
 Dialogue: 1,0:21:10.79,0:21:17.80,EDCN,,0,0,0,,{\fad(200,0)\t(982,1316,1,\c&H96B9EC&)}此即我所需  過度偽裝自己
@@ -108,7 +108,7 @@ Dialogue: 0,0:03:46.41,0:03:48.33,TopLeft,,0,0,0,,洛杉磯國際機場\N洛杉�
 Dialogue: 1,0:05:14.29,0:05:16.88,TopLeft,,0,0,0,,{\an9}原型是史蒂芬·西格爾主演的電影 On Deadly Ground\N日譯名：沈黙の要塞
 Dialogue: 1,0:05:25.85,0:05:30.31,TopLeft,,0,0,0,,電影中主角名叫拉奇 Razzie\N和金酸莓獎的俗名 Razzie Awards 相同
 Dialogue: 1,0:05:45.64,0:05:49.78,TopLeft,,0,0,0,,「暴走特急」Under Siege 2: Dark Territory\N「沈黙の戦艦」Under Siege
-Comment: 1,0:00:00.00,0:00:00.00,Text - CN,,0,0,0,,~Dialogue CN~
+Comment: 0,0:00:00.00,0:00:00.00,Text - CN,,0,0,0,,~Dialogue CN~
 Dialogue: 1,0:00:10.43,0:00:11.82,Ruby,,0,0,0,,{\pos(871.205,966)}雙層起司漢堡
 Dialogue: 1,0:00:50.78,0:00:52.96,Ruby,,0,0,0,,{\pos(730,966)}Anderson
 Dialogue: 1,0:14:07.37,0:14:10.02,Ruby,,0,0,0,,{\pos(808,966)}Gucci
@@ -456,7 +456,7 @@ Dialogue: 1,0:20:30.47,0:20:34.09,Text - CN,,0,0,0,,淋浴你隨便用  但是�
 Dialogue: 1,0:20:34.94,0:20:37.22,Text - CN,,0,0,0,,不要亂動房間裡的東西
 Dialogue: 1,0:20:43.22,0:20:44.60,Text - CN,,0,0,0,,穿這個吧
 Dialogue: 1,0:20:48.18,0:20:49.74,Text - CN,,0,0,0,,真是糟透了
-Comment: 1,0:00:00.00,0:00:00.00,Text - JP,,0,0,0,,~Dialogue JP~
+Comment: 0,0:00:00.00,0:00:00.00,Text - JP,,0,0,0,,~Dialogue JP~
 Dialogue: 0,0:00:01.77,0:00:03.98,Text - JP,,0,0,0,,おい  英語は分かるよな？
 Dialogue: 0,0:00:03.98,0:00:04.48,Text - JP,,0,0,0,,はい
 Dialogue: 0,0:00:04.95,0:00:08.26,Text - JP,,0,0,0,,ピクルスを抜いてくれ  俺のだけだ

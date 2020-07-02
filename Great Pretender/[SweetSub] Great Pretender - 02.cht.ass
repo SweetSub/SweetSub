@@ -30,7 +30,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Text - CN,,0,0,0,,如果是僅僅是修改時�
 Comment: 0,0:00:00.00,0:00:00.00,Text - CN,,0,0,0,,如果在其它情況下想要轉載和使用本字幕，或是在字幕中發現了錯誤或者有其它問題，可以使用 telegram 聯絡我，詳細方法見動漫花園發布頁。
 Comment: 0,0:00:00.00,0:00:00.00,Text - CN,,0,0,0,,**請注意**
 Comment: 0,0:00:00.00,0:00:00.00,Text - CN,,0,0,0,,該版本為初版字幕，在合集時會有修正。
-Comment: 1,0:20:51.06,0:20:51.10,EDEN,,0,0,0,,~Staff~
+Comment: 0,0:20:51.06,0:20:51.10,STAFF,,0,0,0,,~Staff~
 Dialogue: 1,0:20:56.36,0:20:59.32,STAFF,,0,0,0,,{\fad(350,350)\fs39\fsp10\pos(1196,398)}翻譯{56／88}{EP2shift:left-62／top-66}
 Dialogue: 1,0:20:56.36,0:20:59.32,STAFF,,0,0,0,,{\fad(350,350)\pos(1366,394)\fs50\fsp27\fscx90\fscy90}Yuta
 Dialogue: 1,0:20:56.36,0:20:59.32,STAFF,,0,0,0,,{\fad(350,350)\fs39\fsp10\pos(1196,486)}校對
@@ -47,7 +47,7 @@ Dialogue: 0,0:20:56.36,0:20:59.32,STAFF,,0,0,0,,{\fad(350,350)\pos(1196,574)\fs3
 Dialogue: 0,0:20:56.36,0:20:59.32,STAFF,,0,0,0,,{\fad(350,350)\pos(1366,570)\fs50\fsp0\fscx87\fscy90\bord2\3c&H000000&\1a&HFF&\3a&H50&\blur2}natsukage
 Dialogue: 0,0:20:56.36,0:20:59.32,STAFF,,0,0,0,,{\fad(350,350)\pos(1266,662)\fs39\fsp0\bord2\3c&H000000&\3a&H50&\blur2\c&HFAFAFA&\1a&HFF&\an9}字幕製作
 Dialogue: 0,0:20:56.36,0:20:59.32,STAFF,,0,0,0,,{\fad(350,350)\pos(1366,658)\fs50\fsp1.6\fscx90\fscy90\bord2\3c&H000000&\1a&HFF&\3a&H50&\blur2}SweetSub
-Comment: 1,0:20:51.06,0:20:51.10,EDEN,,0,0,0,,~Ending~：Freddie Mercury「The Great Pretender」
+Comment: 0,0:20:51.06,0:20:51.10,EDEN,,0,0,0,,~Ending~：Freddie Mercury「The Great Pretender」
 Dialogue: 1,0:20:56.95,0:21:02.37,EDEN,,0,0,0,,{\fad(200,200)}Oh yes I'm the great pretender.
 Dialogue: 1,0:21:04.41,0:21:09.25,EDEN,,0,0,0,,{\fad(200,200)}Pretending I'm doing well.
 Dialogue: 1,0:21:10.83,0:21:17.85,EDEN,,0,0,0,,{\fad(200,0)\t(982,1316,1,\c&H96B9EC&)}My need is such I pretend too much.
@@ -71,7 +71,7 @@ Dialogue: 0,0:21:55.82,0:22:03.01,EDEN,shad,0,0,0,,{\fad(200,200)\blur2\bord2\3c
 Dialogue: 0,0:22:03.01,0:22:09.70,EDEN,shad,0,0,0,,{\fad(200,200)\blur2\bord2\3c&H000000&\3a&H32&\1a&HFF&}I'm wearing my heart like a crown.
 Dialogue: 0,0:22:09.70,0:22:17.48,EDEN,shad,0,0,0,,{\fad(200,0)\blur2\bord2\3c&H000000&\3a&H32&\1a&HFF&\t(8100,8470,0.8,\3c&HFFFFFF&)}Pretending that you're still around.
 Dialogue: 0,0:22:17.48,0:22:24.99,EDEN,shad,0,0,0,,{\fad(0,0)\blur2\bord2\3c&HFFFFFF&\3a&H32&\1a&HFF&)}Pretending that you're still around.
-Dialogue: 1,0:22:24.99,0:22:28.95,EDEN,shad,0,0,0,,{\fad(0,350)\blur2\bord2\3c&HFFFFFF&\3a&HFF&\1a&HFF&)}Pretending that you're still around.
+Dialogue: 0,0:22:24.99,0:22:28.95,EDEN,shad,0,0,0,,{\fad(0,350)\blur2\bord2\3c&HFFFFFF&\3a&HFF&\1a&HFF&)}Pretending that you're still around.
 Dialogue: 1,0:20:56.95,0:21:02.37,EDCN,,0,0,0,,{\fad(200,200)}沒錯  我是技術精湛的演員
 Dialogue: 1,0:21:04.41,0:21:09.25,EDCN,,0,0,0,,{\fad(200,200)}假裝自己過得很好
 Dialogue: 1,0:21:10.83,0:21:17.85,EDCN,,0,0,0,,{\fad(200,0)\t(982,1316,1,\c&H96B9EC&)}此即我所需  過度偽裝自己
@@ -115,7 +115,7 @@ Dialogue: 0,0:13:19.15,0:13:21.48,TopLeft,,0,0,0,,{\fad(0,300)}洛杉磯高級�
 Dialogue: 1,0:13:30.57,0:13:35.44,TopLeft,,0,0,0,,{\fad(0,300)}艾爾·卡彭（Al Capone）\N他在美國 1920 年至 1933 年的禁酒時期非法提供酒精\N並與芝加哥市長和警察有互利關係並受庇護
 Dialogue: 1,0:20:18.67,0:20:22.53,TopLeft,,0,0,0,,千葉真一  日本演員
 Dialogue: 1,0:20:23.20,0:20:26.43,TopLeft,,0,0,0,,指日本演員藤岡弘\N他因出演電影「幕府大武士」實現好萊塢出道
-Comment: 1,0:00:00.00,0:00:00.00,Text - CN,,0,0,0,,~Dialogue CN~
+Comment: 0,0:00:00.00,0:00:00.00,Text - CN,,0,0,0,,~Dialogue CN~
 Dialogue: 1,0:00:01.61,0:00:03.73,Text - CN,,0,0,0,,誰來！
 Dialogue: 1,0:00:03.73,0:00:06.49,Text - CN,,0,0,0,,救救我！
 Dialogue: 1,0:00:06.91,0:00:09.77,Text - CN,,0,0,0,,不錯呀  聲音中氣十足

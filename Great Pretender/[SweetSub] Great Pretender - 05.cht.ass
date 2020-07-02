@@ -32,7 +32,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Text - CN,,0,0,0,,如果是僅僅是修改時�
 Comment: 0,0:00:00.00,0:00:00.00,Text - CN,,0,0,0,,如果在其它情況下想要轉載和使用本字幕，或是在字幕中發現了錯誤或者有其它問題，可以使用 telegram 聯絡我，詳細方法見動漫花園發布頁。
 Comment: 0,0:00:00.00,0:00:00.00,Text - CN,,0,0,0,,**請注意**
 Comment: 0,0:00:00.00,0:00:00.00,Text - CN,,0,0,0,,該版本為初版 v1 字幕，在合集時會有修正。
-Comment: 1,0:20:50.98,0:20:51.02,EDEN,,0,0,0,,~Staff~
+Comment: 0,0:20:50.98,0:20:51.02,STAFF,,0,0,0,,~Staff~
 Dialogue: 1,0:20:56.28,0:20:59.24,STAFF,,0,0,0,,{\fad(350,350)\fs39\fsp10\pos(1196,398)}翻譯{56／88}{EP2shift:left-62／top-66}
 Dialogue: 1,0:20:56.28,0:20:59.24,STAFF,,0,0,0,,{\fad(350,350)\pos(1366,394)\fs50\fsp21\fscx90\fscy90}Sugar
 Dialogue: 1,0:20:56.28,0:20:59.24,STAFF,,0,0,0,,{\fad(350,350)\fs39\fsp10\pos(1196,486)}校對
@@ -49,7 +49,7 @@ Dialogue: 0,0:20:56.28,0:20:59.24,STAFF,,0,0,0,,{\fad(350,350)\pos(1196,574)\fs3
 Dialogue: 0,0:20:56.28,0:20:59.24,STAFF,,0,0,0,,{\fad(350,350)\pos(1366,570)\fs50\fsp0\fscx87\fscy90\bord2\3c&H000000&\1a&HFF&\3a&H50&\blur2}natsukage
 Dialogue: 0,0:20:56.28,0:20:59.24,STAFF,,0,0,0,,{\fad(350,350)\pos(1266,662)\fs39\fsp0\bord2\3c&H000000&\3a&H50&\blur2\c&HFAFAFA&\1a&HFF&\an9}字幕製作
 Dialogue: 0,0:20:56.28,0:20:59.24,STAFF,,0,0,0,,{\fad(350,350)\pos(1366,658)\fs50\fsp1.6\fscx90\fscy90\bord2\3c&H000000&\1a&HFF&\3a&H50&\blur2}SweetSub
-Comment: 1,0:20:50.98,0:20:51.02,EDEN,,0,0,0,,~Ending~：Freddie Mercury「The Great Pretender」
+Comment: 0,0:20:50.98,0:20:51.02,EDEN,,0,0,0,,~Ending~：Freddie Mercury「The Great Pretender」
 Dialogue: 1,0:20:56.86,0:21:02.28,EDEN,,0,0,0,,{\fad(200,200)}Oh yes I'm the great pretender.
 Dialogue: 1,0:21:04.33,0:21:09.16,EDEN,,0,0,0,,{\fad(200,200)}Pretending I'm doing well.
 Dialogue: 1,0:21:10.75,0:21:17.76,EDEN,,0,0,0,,{\fad(200,0)\t(982,1316,1,\c&H96B9EC&)}My need is such I pretend too much.
@@ -73,7 +73,7 @@ Dialogue: 0,0:21:55.75,0:22:02.93,EDEN,shad,0,0,0,,{\fad(200,200)\blur2\bord2\3c
 Dialogue: 0,0:22:02.93,0:22:09.60,EDEN,shad,0,0,0,,{\fad(200,200)\blur2\bord2\3c&H000000&\3a&H32&\1a&HFF&}I'm wearing my heart like a crown.
 Dialogue: 0,0:22:09.60,0:22:17.40,EDEN,shad,0,0,0,,{\fad(200,0)\blur2\bord2\3c&H000000&\3a&H32&\1a&HFF&\t(8100,8470,0.8,\3c&HFFFFFF&)}Pretending that you're still around.
 Dialogue: 0,0:22:17.40,0:22:24.91,EDEN,shad,0,0,0,,{\fad(0,0)\blur2\bord2\3c&HFFFFFF&\3a&H32&\1a&HFF&)}Pretending that you're still around.
-Dialogue: 1,0:22:24.91,0:22:28.87,EDEN,shad,0,0,0,,{\fad(0,350)\blur2\bord2\3c&HFFFFFF&\3a&HFF&\1a&HFF&)}Pretending that you're still around.
+Dialogue: 0,0:22:24.91,0:22:28.87,EDEN,shad,0,0,0,,{\fad(0,350)\blur2\bord2\3c&HFFFFFF&\3a&HFF&\1a&HFF&)}Pretending that you're still around.
 Dialogue: 1,0:20:56.86,0:21:02.28,EDCN,,0,0,0,,{\fad(200,200)}沒錯  我是技術精湛的演員
 Dialogue: 1,0:21:04.33,0:21:09.16,EDCN,,0,0,0,,{\fad(200,200)}假裝自己過得很好
 Dialogue: 1,0:21:10.75,0:21:17.76,EDCN,,0,0,0,,{\fad(200,0)\t(982,1316,1,\c&H96B9EC&)}此即我所需  過度偽裝自己
@@ -110,7 +110,7 @@ Dialogue: 1,0:16:11.07,0:16:17.83,Sign,sign,0,0,0,,{\bord0.6\blur0.6\shad0\fs50\
 Dialogue: 1,0:16:11.07,0:16:17.83,Sign,sign,0,0,0,,{\bord2\blur1\shad0\fs50\an1\c&HF6EEF0&\3c&H7F3C17&\pos(131,760)}突發新聞
 Comment: 0,0:16:11.07,0:16:17.83,TopLeft,,0,0,0,,~Note~
 Dialogue: 1,0:17:10.17,0:17:12.04,TopLeft,,0,0,0,,聯邦大廈\NFBI 的辦公室
-Comment: 1,0:16:11.07,0:16:17.83,Text - CN,,0,0,0,,~Dialogue CN~
+Comment: 0,0:16:11.07,0:16:17.83,Text - CN,,0,0,0,,~Dialogue CN~
 Dialogue: 1,0:00:08.88,0:00:12.24,Text - CN,,0,0,0,,我上次在電影之外投資這麼多是什麼時候？
 Dialogue: 1,0:00:12.88,0:00:15.30,Text - CN,,0,0,0,,給前妻離婚賠償金那次？
 Dialogue: 1,0:00:16.85,0:00:19.26,Text - CN,,0,0,0,,不  這比那次便宜多了
