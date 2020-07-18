@@ -526,7 +526,7 @@ Dialogue: 0,0:03:09.85,0:03:11.46,Text - JP,French,0,0,0,,Je vous remercie, mada
 Dialogue: 0,0:03:11.46,0:03:12.98,Text - JP,French,0,0,0,,C'est mademoiselle.
 Dialogue: 0,0:03:12.98,0:03:15.44,Text - JP,,0,0,0,,いい下宿を見つけたな  エダマメ
 Dialogue: 0,0:03:15.44,0:03:18.75,Text - JP,,0,0,0,,ああ  安くて飯がうまい  最高だ
-Dialogue: 0,0:03:23.34,0:03:25.38,Text - JP,French,0,0,0,,Oh! Monsieur, qui a peint ce tableau?
+Dialogue: 0,0:03:23.34,0:03:25.38,Text - JP,French,0,0,0,,Monsieur, qui a peint ce tableau?
 Dialogue: 0,0:03:26.01,0:03:30.34,Text - JP,French,0,0,0,,Mh? Oh, un client a laissé ça quand mon père travaillait encore ici.
 Dialogue: 0,0:03:30.34,0:03:34.15,Text - JP,French,0,0,0,,Si seulement c'était un Chagall ou un Matisse, peut-être aurait-il eu de la valeur.
 Dialogue: 0,0:03:34.15,0:03:36.20,Text - JP,French,0,0,0,,Hein…? {Hein发音介于安/昂之间, 常用表疑问的语气词, 相当于huh}
