@@ -117,7 +117,7 @@ Dialogue: 1,0:23:12.70,0:23:13.12,Sign,,0,0,0,,{\an7\fs40\blur4\fad(100,100)\c&H
 Dialogue: 2,0:23:12.70,0:23:13.12,Sign,,0,0,0,,{\an7\fs40\blur1\fad(100,100)\bord0\c&H000000&\3c&HFFFFFF&\3a&H3C&\1a&H3C&\fn方正硬笔楷书_GBK}致美冬\N在14歲，我喜歡上了一個人\N可是我完全不知道該如何是好\N因為我們不是普通的女孩子\N就算我和那人可以心意相通\N或許我們終究也無法在一起\N可是\N我還是給那人寫了信\N無論如何，我都不想\N欺騙自己的這份心意{我都不想把這份心意當作從未發生}\N但是，如果我有個萬一\N是否該請妳替我將信件轉交過去呢\N收到已死之人的來信\N應該也不會開心吧\N美冬，到了那時\N妳會怎麼辦？\N14歲的八千代敬上
 Comment: 1,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Title~
 Dialogue: 0,0:22:00.05,0:22:05.05,TITLE,,0,0,0,,{\c&HD5B984&\pos(960,420)\fsp4}為什麼會如此悲慘？
-Dialogue: 0,0:22:00.05,0:22:05.05,Sign_runes,,0,0,0,,{\fs20\an5\pos(960,780)\shad0\bord0\c&HD5B984&}PUELLA MAGI MADOKA★MAGICA SIDE STORY　MAGIA RECORD EPISODE 12
+Dialogue: 0,0:22:00.05,0:22:05.05,Sign_runes,,0,0,0,,{\fs20\an5\pos(960,780)\shad0\bord0\c&HD5B984&}PUELLA MAGI MADOKA{\fnSource Han Sans TC Medium}★{\fnYokawerad}MAGICA SIDE STORY　MAGIA RECORD EPISODE 12
 Comment: 1,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Sign~
 Dialogue: 0,0:01:19.31,0:01:22.81,Sign,,0,0,0,,{\an4\bord0\fs40\pos(794,254)\c&HBBBBBB&}深月菲莉希亞
 Dialogue: 0,0:03:06.83,0:03:07.83,Sign,,0,0,0,,{\an8\fs80\bord0\shad3\fad(0,0)}正在開展體驗學習{ep11}

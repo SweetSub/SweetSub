@@ -116,7 +116,7 @@ Dialogue: 0,0:20:55.53,0:21:04.03,EDCN,,0,0,0,,{\fad(0,1400)\blur2}探寻属于�
 Dialogue: 1,0:20:41.68,0:20:42.10,Sign,,0,0,0,,{\an7\fs40\blur4\fad(100,100)\c&H000000&\3c&HFFFFFF&\3a&H3C&\1a&H3C&\fn方正硬笔楷书_GBK}致美冬\N在14岁，我喜欢上了一个人\N可是我完全不知道该如何是好\N因为我们不是普通的女孩子\N就算我和那人可以心意相通\N或许我们终究也无法在一起\N可是\N我还是给那人写了信\N无论如何，我都不想\N欺骗自己的这份心意{我都不想把这份心意当作从未发生}\N但是，如果我有个万一\N是否该请你替我将信件转交过去呢\N收到已死之人的来信\N应该也不会开心吧\N美冬，到了那时\N你会怎么办？\N14岁的八千代敬上
 Dialogue: 2,0:20:41.68,0:20:42.10,Sign,,0,0,0,,{\an7\fs40\blur1\fad(100,100)\bord0\c&H000000&\3c&HFFFFFF&\3a&H3C&\1a&H3C&\fn方正硬笔楷书_GBK}致美冬\N在14岁，我喜欢上了一个人\N可是我完全不知道该如何是好\N因为我们不是普通的女孩子\N就算我和那人可以心意相通\N或许我们终究也无法在一起\N可是\N我还是给那人写了信\N无论如何，我都不想\N欺骗自己的这份心意{我都不想把这份心意当作从未发生}\N但是，如果我有个万一\N是否该请你替我将信件转交过去呢\N收到已死之人的来信\N应该也不会开心吧\N美冬，到了那时\N你会怎么办？\N14岁的八千代敬上
 Comment: 1,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Title~
-Dialogue: 0,0:19:29.02,0:19:34.03,Sign_runes,,0,0,0,,{\fs20\an5\pos(960,780)\shad0\bord0\c&HB5C688&}PUELLA MAGI MADOKA★MAGICA SIDE STORY　MAGIA RECORD EPISODE 10
+Dialogue: 0,0:19:29.02,0:19:34.03,Sign_runes,,0,0,0,,{\fs20\an5\pos(960,780)\shad0\bord0\c&HB5C688&}PUELLA MAGI MADOKA{\fnSource Han Sans SC Medium}★{\fnYokawerad}MAGICA SIDE STORY　MAGIA RECORD EPISODE 10
 Dialogue: 0,0:19:29.02,0:19:34.03,TITLE,,0,0,0,,{\c&HB5C688&\pos(960,480)\fsp4}我的名字
 Comment: 1,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Sign_runes~
 Dialogue: 0,0:06:33.12,0:06:37.00,Sign_runes,,0,0,0,,{\fad(100,0)\blur1}TERESA

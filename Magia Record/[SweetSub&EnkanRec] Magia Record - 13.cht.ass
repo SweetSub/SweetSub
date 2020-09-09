@@ -117,7 +117,7 @@ Dialogue: 1,0:22:36.79,0:22:40.17,EDCN_ep13,,0,0,0,,{\fad(200,200)}緩緩消逝�
 Dialogue: 1,0:22:40.17,0:22:48.05,EDCN_ep13,,0,0,0,,{\fad(200,200)}讓生命之花綻放
 Comment: 1,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Title~
 Dialogue: 0,0:23:00.48,0:23:04.99,TITLE,,0,0,0,,{\c&HD5B984&\pos(960,480)\fsp4}唯一的路標
-Dialogue: 0,0:23:00.48,0:23:04.99,Sign_runes,,0,0,0,,{\fs20\an5\pos(960,780)\shad0\bord0\c&HD5B984&}PUELLA MAGI MADOKA★MAGICA SIDE STORY　MAGIA RECORD EPISODE 13
+Dialogue: 0,0:23:00.48,0:23:04.99,Sign_runes,,0,0,0,,{\fs20\an5\pos(960,780)\shad0\bord0\c&HD5B984&}PUELLA MAGI MADOKA{\fnSource Han Sans TC Medium}★{\fnYokawerad}MAGICA SIDE STORY　MAGIA RECORD EPISODE 13
 Comment: 1,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Sign_runes~
 Dialogue: 1,0:18:03.85,0:18:04.98,Sign_runes,,0,0,0,,{\blur1}CONNECT
 Comment: 1,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Sign~

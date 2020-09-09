@@ -445,7 +445,7 @@ Dialogue: 0,0:23:30.43,0:23:35.02,Sign,,0,0,0,,{\an2\bord0\shad0\fs30\fax0.24\c&
 Dialogue: 0,0:23:30.43,0:23:35.02,Default,,0,0,0,,{\an1\bord1\shad0\fs36\fax0.25\c&HBBB9B9&\3c&HFFFEFD&\pos(826,562.667)\frz30\frx358\fry0}麻煩請幫幫我
 Dialogue: 0,0:23:30.43,0:23:35.02,Default,,0,0,0,,{\an1\bord1\shad0\fs36\fax0.25\c&HBBB9B9&\3c&HFFFEFD&\frz30\frx358\fry0\pos(902,655.333)}妳是魔法少女嗎？
 Comment: 1,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Title~
-Dialogue: 0,0:21:13.50,0:21:17.01,Sign_runes,,0,0,0,,{\fs20\an5\pos(960,780)\shad0\bord0\c&H8ED5E7&}PUELLA MAGI MADOKA★MAGICA SIDE STORY　MAGIA RECORD EPISODE 7
+Dialogue: 0,0:21:13.50,0:21:17.01,Sign_runes,,0,0,0,,{\fs20\an5\pos(960,780)\shad0\bord0\c&H8ED5E7&}PUELLA MAGI MADOKA{\fnSource Han Sans TC Medium}★{\fnYokawerad}MAGICA SIDE STORY　MAGIA RECORD EPISODE 7
 Dialogue: 0,0:21:13.50,0:21:17.01,TITLE,,0,0,0,,{\c&H8ED5E7&\pos(960,480)\fsp4}我想和妳一起回家
 Dialogue: 0,0:17:48.67,0:17:50.67,Sign,,0,0,0,,{\an8\fs80\pos(960,50)\c&H080808&\blur1\4c&HFFFFFF&\shad2\bord1\3c&HC9F0FB&}再　見
 Comment: 1,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Sign_runes~

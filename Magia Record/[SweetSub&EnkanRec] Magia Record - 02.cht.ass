@@ -179,7 +179,7 @@ Dialogue: 0,0:04:25.57,0:04:31.33,Sign,,0,0,0,,{\an8\shad1\bord0\3c&H9F968E&\blu
 Dialogue: 2,0:21:56.71,0:22:00.71,Sign,,0,0,0,,{\an8\fn方正硬笔楷书_GBK\bord0\c&H000000&\3c&HA8A14C&\blur1\pos(960,360)\fsp10\fs90}秋野楓
 Dialogue: 0,0:12:13.29,0:12:14.79,Sign,,0,0,0,,{\3c&H2B1843&\c&HB9D6EC&\bord4\fs60}請稍候片刻
 Comment: 1,0:12:13.29,0:12:14.79,Default,,0,0,0,,~Title~
-Dialogue: 0,0:22:00.71,0:22:04.97,Sign_runes,,0,0,0,,{\fs20\an5\pos(960,780)\shad0\bord0\c&HBB9EEA&}PUELLA MAGI MADOKA★MAGICA SIDE STORY　MAGIA RECORD EPISODE 2
+Dialogue: 0,0:22:00.71,0:22:04.97,Sign_runes,,0,0,0,,{\fs20\an5\pos(960,780)\shad0\bord0\c&HBB9EEA&}PUELLA MAGI MADOKA{\fnSource Han Sans TC Medium}★{\fnYokawerad}MAGICA SIDE STORY　MAGIA RECORD EPISODE 2
 Dialogue: 0,0:22:00.71,0:22:04.97,TITLE,,0,0,0,,{\c&HBB9EEA&\pos(960,480)\fsp4}那就是絕交的憑證
 Comment: 1,0:22:00.71,0:22:04.97,Default,,0,0,0,,~Sign_runes~
 Comment: 0,0:04:25.57,0:04:31.33,Sign_runes,,0,0,0,,{\blur1\an9}NGC 7000

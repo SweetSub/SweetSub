@@ -122,7 +122,7 @@ Dialogue: 0,0:16:56.32,0:16:56.82,Sign,,0,0,0,,{\fn方正硬笔楷书_GBK\an8\fs
 Dialogue: 0,0:16:58.58,0:16:59.08,Sign,,0,0,0,,{\fn方正硬笔楷书_GBK\an8\fs80\pos(960,50)\c&H8C8B8B&\blur1}請治好憂的病
 Dialogue: 0,0:17:00.58,0:17:01.08,Sign,,0,0,0,,{\fn方正硬笔楷书_GBK\an8\fs80\pos(960,50)\c&H8C8B8B&\blur1}憂的病
 Comment: 1,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Title~
-Dialogue: 0,0:20:20.57,0:20:25.12,Sign_runes,,0,0,0,,{\fs20\an5\pos(960,780)\shad0\bord0\c&H799ED0&}PUELLA MAGI MADOKA★MAGICA SIDE STORY　MAGIA RECORD EPISODE 5
+Dialogue: 0,0:20:20.57,0:20:25.12,Sign_runes,,0,0,0,,{\fs20\an5\pos(960,780)\shad0\bord0\c&H799ED0&}PUELLA MAGI MADOKA{\fnSource Han Sans TC Medium}★{\fnYokawerad}MAGICA SIDE STORY　MAGIA RECORD EPISODE 5
 Dialogue: 0,0:20:20.57,0:20:25.12,TITLE,,0,0,0,,{\c&H799ED0&\pos(960,420)\fsp4}我們之間沒有容妳插足的餘地
 Comment: 1,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Sign_runes~
 Comment: 1,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Dialogue~

@@ -207,7 +207,7 @@ Dialogue: 0,0:20:07.81,0:20:09.19,Sign,,0,0,0,,{\c&HFFFFFF&\1a&HFF&\3c&H3D3D3D&\
 Comment: 1,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Sign_runes~
 Dialogue: 0,0:09:31.84,0:09:33.17,Sign_runes,,0,0,0,,{\blur1\fad(200,0)}SANA
 Comment: 1,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Title~
-Dialogue: 0,0:23:30.26,0:23:35.01,Sign_runes,,0,0,0,,{\fs20\an5\pos(960,780)\shad0\bord0\c&HB8C787&}PUELLA MAGI MADOKA★MAGICA SIDE STORY　MAGIA RECORD EPISODE 9
+Dialogue: 0,0:23:30.26,0:23:35.01,Sign_runes,,0,0,0,,{\fs20\an5\pos(960,780)\shad0\bord0\c&HB8C787&}PUELLA MAGI MADOKA{\fnSource Han Sans TC Medium}★{\fnYokawerad}MAGICA SIDE STORY　MAGIA RECORD EPISODE 9
 Dialogue: 0,0:23:30.26,0:23:35.01,TITLE,,0,0,0,,{\c&HB8C787&\pos(960,480)\fsp4}只有我一人的世界
 Comment: 1,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Dialogue~
 Dialogue: 0,0:00:04.65,0:00:07.48,Default,,0,0,0,,哎  妳聽說過透明人的傳言嗎？

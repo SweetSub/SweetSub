@@ -305,7 +305,7 @@ Dialogue: 0,0:09:14.61,0:09:18.62,Sign,,0,0,0,,{\fs40\bord0\c&H9D9A96&\pos(1514,
 Dialogue: 0,0:09:14.86,0:09:18.62,Sign,,0,0,0,,{\fs40\bord2\blur2\c&H9D9A96&\fry12\blur1\pos(1089,163)\fad(430,0)\3c&HF9F9F6&}传言原型的传说
 Dialogue: 0,0:09:14.99,0:09:18.62,Sign,,0,0,0,,{\fs40\bord2\blur2\c&H8F8D84&\blur1\fad(230,0)\3c&HF9F9F6&\pos(601,145)}水名区的「苦命鸳鸯传说」其实上有隐藏结局？
 Comment: 1,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Title~
-Dialogue: 0,0:21:59.96,0:22:04.97,Sign_runes,,0,0,0,,{\fs20\an5\pos(960,780)\shad0\bord0\c&H799ED0&}PUELLA MAGI MADOKA★MAGICA SIDE STORY　MAGIA RECORD EPISODE 4
+Dialogue: 0,0:21:59.96,0:22:04.97,Sign_runes,,0,0,0,,{\fs20\an5\pos(960,780)\shad0\bord0\c&H799ED0&}PUELLA MAGI MADOKA{\fnSource Han Sans SC Medium}★{\fnYokawerad}MAGICA SIDE STORY　MAGIA RECORD EPISODE 4
 Dialogue: 0,0:21:59.96,0:22:04.97,TITLE,,0,0,0,,{\c&H799ED0&\pos(960,480)\fsp4}并不是过去
 Comment: 1,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Sign_runes~
 Dialogue: 0,0:17:36.24,0:17:38.16,Sign_runes,,0,0,0,,{\fad(200,0)\blur1}CANDY

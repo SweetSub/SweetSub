@@ -298,7 +298,7 @@ Dialogue: 0,0:12:38.61,0:12:39.61,Sign,,0,0,0,,{\fsp-20\t(0,180,\fsp4)\c&H00FFE5
 Dialogue: 0,0:13:55.06,0:13:56.57,Sign,,0,0,0,,{\an8\fs40\pos(968,498)\blur4\3c&H161B11&\c&HFBFAFC&}八千代\N{\fs60}来电
 Comment: 0,0:19:41.54,0:19:43.79,Sign,,0,0,0,,{\an8}
 Comment: 1,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Title~
-Dialogue: 0,0:22:00.51,0:22:05.01,Sign_runes,,0,0,0,,{\fs20\an5\pos(960,780)\shad0\bord0\c&H8AD6E6&}PUELLA MAGI MADOKA★MAGICA SIDE STORY　MAGIA RECORD EPISODE 6
+Dialogue: 0,0:22:00.51,0:22:05.01,Sign_runes,,0,0,0,,{\fs20\an5\pos(960,780)\shad0\bord0\c&H8AD6E6&}PUELLA MAGI MADOKA{\fnSource Han Sans SC Medium}★{\fnYokawerad}MAGICA SIDE STORY　MAGIA RECORD EPISODE 6
 Dialogue: 0,0:22:00.51,0:22:05.01,TITLE,,0,0,0,,{\c&H8AD6E6&\pos(960,480)\fsp4}我什么都愿意做
 Comment: 1,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Sign_runes~
 Dialogue: 1,0:00:09.99,0:00:10.74,Sign_runes,,0,0,0,,{\blur1}WE HAVE THE RIGHT TO BREED

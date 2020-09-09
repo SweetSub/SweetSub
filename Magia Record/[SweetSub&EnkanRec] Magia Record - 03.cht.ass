@@ -115,8 +115,8 @@ Dialogue: 0,0:23:36.64,0:23:45.15,EDCN,,0,0,0,,{\fad(0,1400)\blur2}探尋屬於�
 Dialogue: 1,0:23:22.80,0:23:23.21,Sign,,0,0,0,,{\an7\fs40\blur4\fad(100,100)\c&H000000&\3c&HFFFFFF&\3a&H3C&\1a&H3C&\fn方正硬笔楷书_GBK}致美冬\N在14歲，我喜歡上了一個人\N可是我完全不知道該如何是好\N因為我們不是普通的女孩子\N就算我和那人可以心意相通\N或許我們終究也無法在一起\N可是\N我還是給那人寫了信\N無論如何，我都不想\N欺騙自己的這份心意{我都不想把這份心意當作從未發生}\N但是，如果我有個萬一\N是否該請妳替我將信件轉交過去呢\N收到已死之人的來信\N應該也不會開心吧\N美冬，到了那時\N妳會怎麼辦？\N14歲的八千代敬上
 Dialogue: 2,0:23:22.80,0:23:23.21,Sign,,0,0,0,,{\an7\fs40\blur1\fad(100,100)\bord0\c&H000000&\3c&HFFFFFF&\3a&H3C&\1a&H3C&\fn方正硬笔楷书_GBK}致美冬\N在14歲，我喜歡上了一個人\N可是我完全不知道該如何是好\N因為我們不是普通的女孩子\N就算我和那人可以心意相通\N或許我們終究也無法在一起\N可是\N我還是給那人寫了信\N無論如何，我都不想\N欺騙自己的這份心意{我都不想把這份心意當作從未發生}\N但是，如果我有個萬一\N是否該請妳替我將信件轉交過去呢\N收到已死之人的來信\N應該也不會開心吧\N美冬，到了那時\N妳會怎麼辦？\N14歲的八千代敬上
 Comment: 1,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Sign~
-Dialogue: 0,0:02:27.37,0:02:32.00,Sign,mobie,0,0,0,,{\fs40\bord1\blur6\pos(960,434)\3c&H000000&\3a&HF0&\c&HFFFBE6&}‌你有新郵件
-Dialogue: 0,0:02:27.37,0:02:32.00,Sign,mobie,0,0,0,,{\fs48\bord0\an1\pos(1000,510)\c&HF5E477&}桃‌子‌ ‌
+Dialogue: 0,0:02:27.37,0:02:32.00,Sign,mobie,0,0,0,,{\fs40\bord1\blur6\pos(960,434)\3c&H000000&\3a&HF0&\c&HFFFBE6&}你有新郵件
+Dialogue: 0,0:02:27.37,0:02:32.00,Sign,mobie,0,0,0,,{\fs48\bord0\an1\pos(1000,510)\c&HF5E477&}桃子
 Dialogue: 0,0:02:27.37,0:02:32.00,Sign,mobie,0,0,0,,{\fs40\bord0\an1\pos(1000,546)\c&HE2E0E0&}致伊呂波
 Dialogue: 0,0:02:27.37,0:02:32.00,Sign,,0,0,0,,{\fs40\bord1\blur6\pos(980,870)\3c&H000000&\3a&HF0&\c&HFFFBE6&}解 鎖
 Dialogue: 0,0:05:41.61,0:05:45.24,Sign,,0,0,0,,{\p1\pos(0,0)\an7\bord0\blur4}m 20 20 l 20 360 450 360 450 20
@@ -249,7 +249,7 @@ Dialogue: 0,0:22:11.43,0:22:11.48,Sign,map,0,0,0,,{\fscy100.02\bord3\fscx100.02\
 Dialogue: 0,0:22:11.48,0:22:11.52,Sign,map,0,0,0,,{\fscy100\bord3\fscx100\alpha&H00&\an8\fs40\c&HEDC3F4&\3c&H852897&\pos(993,100)}北養區方向  開往里見醫療中心\N{參考：開往寶崎方向、北養區方向、神濱西部、神濱新西區}\N
 Dialogue: 0,0:24:20.90,0:24:31.03,Sign,,0,0,0,,{\an8\3c&HFFFFFF&\blur4\shad2\3a&H64&\fs80}宿 北 服 務 區
 Comment: 1,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Title~
-Dialogue: 0,0:22:11.52,0:22:15.15,Sign_runes,,0,0,0,,{\fs20\an5\pos(960,780)\shad0\bord0\c&HBB9EEA&}PUELLA MAGI MADOKA★MAGICA SIDE STORY　MAGIA RECORD EPISODE 3
+Dialogue: 0,0:22:11.52,0:22:15.15,Sign_runes,,0,0,0,,{\fs20\an5\pos(960,780)\shad0\bord0\c&HBB9EEA&}PUELLA MAGI MADOKA{\fnSource Han Sans TC Medium}★{\fnYokawerad}MAGICA SIDE STORY　MAGIA RECORD EPISODE 3
 Dialogue: 0,0:22:11.52,0:22:15.15,TITLE,,0,0,0,,{\c&HBB9EEA&\pos(960,480)\fsp4}讓妳做我的朋友  我很抱歉
 Comment: 1,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Sign_runes~
 Dialogue: 0,0:07:16.71,0:07:18.46,Sign_runes,,0,0,0,,{\blur1}CONNECT
