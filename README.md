@@ -14,7 +14,7 @@ SweetSub
 | DARLING in the FRANXX                              | 比翼之吻                  | ダーリン・イン・ザ・フランキス           | 24 集正片 + Web 预告 / [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/DARLING%20in%20the%20FRANXX) |
 | Boogiepop Phantom                                  | 不吉波普不笑幻影死神      | ブギーポップは笑わない Boogiepop Phantom | 12 集 对应 R2J 版 DVD / [字幕](https://github.com/tastysugar/SweetSub/tree/master/Boogiepop%20Phantom) / B 站 [无注释版](https://www.bilibili.com/video/av45135917) [注释版](https://www.bilibili.com/video/av45179572/) |
 | Sarazanmai                                         |                           | さらざんまい                             | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/Sarazanmai) |
-| Magia Record: Puella Magi Madoka Magica Side Story | 魔法纪录 魔法少女小圆外传 | マギアレコード 魔法少女まどか☆マギカ外伝 | [WEB 版字幕](https://github.com/tastysugar/SweetSub/tree/master/Magia%20Record) |
+| Magia Record: Puella Magi Madoka Magica Side Story | 魔法纪录 魔法少女小圆外传 | マギアレコード 魔法少女まどか☆マギカ外伝 | [BD 版字幕](https://github.com/tastysugar/SweetSub/tree/master/Magia%20Record) |
 | ID: INVADED                                        |                           | イド：インヴェイデッド                   | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/ID%20INVADED) |
 | Great Pretender                                    | 大欺诈师                  | グレートプリテンダー                     | [WEB 版字幕](https://github.com/tastysugar/SweetSub/tree/master/Great%20Pretender) |
 
