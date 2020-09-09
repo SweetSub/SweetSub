@@ -1,10 +1,10 @@
-![](https://i.loli.net/2020/01/07/SyA6CmUgXOxnG1B.png)
+BD 字幕下载 （包含 13 集正片以及 12 集 SP - 魔法报告）
 
+- [简体合集](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Magia%20Record/%5BSweetSub%26EnkanRec%5D%20Magia%20Record.chs.zip)
 
+- [繁体合集](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Magia%20Record/%5BSweetSub%26EnkanRec%5D%20Magia%20Record.cht.zip)
 
-注意，如果使用 Funimation 源，需要把字幕延后 289 帧。
-
-WEB 版字幕下载
+分集下载
 
 | 集数 |                 标题                  |                             简体                             |                             繁体                             |
 | :--: | :-----------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -21,3 +21,6 @@ WEB 版字幕下载
 |  11  |    约定在下午3点  地点是记忆博物馆    | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Magia%20Record/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20-%2011.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Magia%20Record/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20-%2011.cht.ass) |
 |  12  |          为什么会如此悲惨？           | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Magia%20Record/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20-%2012.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Magia%20Record/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20-%2012.cht.ass) |
 |  13  |              唯一的路标               | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Magia%20Record/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20-%2013.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Magia%20Record/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20-%2013.cht.ass) |
+
+
+![](https://i.loli.net/2020/01/07/SyA6CmUgXOxnG1B.png)
