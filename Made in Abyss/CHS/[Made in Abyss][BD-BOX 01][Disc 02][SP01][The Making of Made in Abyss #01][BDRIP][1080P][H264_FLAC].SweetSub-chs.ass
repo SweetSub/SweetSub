@@ -11,15 +11,15 @@ PlayResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,思源黑体 CN Medium,85,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,1
-Style: Default-Top,思源黑体 CN Medium,72,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,30,30,30,1
-Style: Ruby,思源黑体 CN Medium,50,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,2,30,30,30,1
-Style: Default - Overlap,思源黑体 CN Medium,70,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,2,30,30,30,1
-Style: TopLeft,思源黑体 CN Medium,65,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,7,30,30,30,1
+Style: Default,思源黑体 Medium,85,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,30,30,30,1
+Style: Default-Top,思源黑体 Medium,72,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,30,30,30,1
+Style: Ruby,思源黑体 Medium,50,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,2,30,30,30,1
+Style: Default - Overlap,思源黑体 Medium,70,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,2,30,30,30,1
+Style: TopLeft,思源黑体 Medium,65,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,7,30,30,30,1
 Style: Vertical,@方正准圆_GBK,35,&H00000000,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,-90,3,0,0,5,30,30,30,1
 Style: Rect,方正准圆_GBK,50,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,30,30,30,1
 Style: Vertical - s,@方正准圆_GBK,30,&H00000000,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,-90,3,0,0,5,30,30,30,1
-Style: Staff,思源黑体 CN Medium,70,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,30,30,30,1
+Style: Staff,思源黑体 Medium,70,&H00FFFFFF,&H00000000,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,2,30,30,30,1
 Style: Caption,方正准圆_GBK,70,&H000893D7,&H00FFFFFF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,3,2,2,30,30,30,1
 
 [Events]
@@ -114,13 +114,13 @@ Dialogue: 0,0:02:20.62,0:02:26.33,Vertical,画面,0,0,0,,{\fad(388,0)\pos(131.2,
 Dialogue: 0,0:02:20.62,0:02:26.33,Vertical,画面,0,0,0,,{\fad(388,0)\pos(207.7,748.4)}{\fsp20\pos(220.5,750)}分镜
 Dialogue: 0,0:02:20.62,0:02:26.33,Vertical - s,画面,0,0,0,,{\fad(388,0)\pos(281.4,816.4)}{\fsp20\pos(291,818)}演出会议
 Dialogue: 0,0:02:20.62,0:02:26.33,Vertical - s,画面,0,0,0,,{\fad(388,0)\pos(351.9,814.8)}{\fsp20\pos(361.5,818)}作画会议
-Dialogue: 0,0:02:20.62,0:02:26.33,Vertical,画面,0,0,0,,{\fad(388,0)\pos(430.6,750)}{\fsp15\fn思源黑体 CN Medium\fs50\pos(429,750)}Layout
+Dialogue: 0,0:02:20.62,0:02:26.33,Vertical,画面,0,0,0,,{\fad(388,0)\pos(430.6,750)}{\fsp15\fn思源黑体 Medium\fs50\pos(429,750)}Layout
 Dialogue: 0,0:02:20.62,0:02:26.33,Vertical - s,画面,0,0,0,,{\fad(388,0)\pos(501.4,816.4)}{\fsp20\pos(511,818)}演出检查
 Dialogue: 0,0:02:20.62,0:02:26.33,Vertical - s,画面,0,0,0,,{\fad(388,0)\pos(572.4,816.4)}{\fsp20\pos(582,818)}监督检查
 Dialogue: 0,0:02:20.62,0:02:26.33,Vertical - s,画面,0,0,0,,{\fad(388,0)\pos(641.4,816.4)}{\fsp20\pos(651,818)}作监检查
 Dialogue: 0,0:02:20.62,0:02:26.33,Vertical - s,画面,0,0,0,,{\fad(388,0)\pos(711.9,816.4)}{\fsp18\pos(721.5,818)}总作监检查
 Dialogue: 0,0:02:20.62,0:02:26.33,Vertical,画面,0,0,0,,{\fad(388,0)\pos(786.8,646.5)}{\fsp10\pos(798,646.5)}复印
-Dialogue: 0,0:02:20.62,0:02:26.33,Vertical,画面,0,0,0,,{\fad(388,0)\pos(786.4,791.6)}{\fsp15\fn思源黑体 CN Medium\fs50\pos(788,798)}Layout
+Dialogue: 0,0:02:20.62,0:02:26.33,Vertical,画面,0,0,0,,{\fad(388,0)\pos(786.4,791.6)}{\fsp15\fn思源黑体 Medium\fs50\pos(788,798)}Layout
 Dialogue: 0,0:02:20.62,0:02:26.33,Vertical,画面,0,0,0,,{\fad(388,0)\pos(864.7,748.4)}{\fsp20\pos(877.5,750)}原画
 Dialogue: 0,0:02:20.62,0:02:26.33,Vertical - s,画面,0,0,0,,{\fad(388,0)\pos(939.9,816.4)}{\fsp20\pos(949.5,818)}演出检查
 Dialogue: 0,0:02:20.62,0:02:26.33,Vertical - s,画面,0,0,0,,{\fad(388,0)\pos(1009.4,816.4)}{\fsp20\pos(1019,818)}作监检查
