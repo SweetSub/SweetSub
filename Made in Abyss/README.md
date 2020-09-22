@@ -17,7 +17,7 @@ BD 字幕下载：
 
 简体版所使用到的字体如下：  
 
-- 思源黑体 CN Medium  
+- Source Han Sans SC Medium  
 
 - 方正隶变_GBK  
 - 方正中倩_GBK  
@@ -28,7 +28,7 @@ BD 字幕下载：
 
 繁体版所使用到的字体如下：  
 
-- Source Han Sans TW Medium  
+- Source Han Sans TC Medium  
 
 - 方正隶变_GBK  
 - 方正中倩_GBK  
