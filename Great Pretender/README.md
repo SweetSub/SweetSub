@@ -15,7 +15,7 @@
 |  13  | Case3_3 伦敦雪 | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Great%20Pretender/%5BSweetSub%5D%20Great%20Pretender%20-%2013.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Great%20Pretender/%5BSweetSub%5D%20Great%20Pretender%20-%2013.cht.ass) |
 |  14  | Case3_4 伦敦雪 | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Great%20Pretender/%5BSweetSub%5D%20Great%20Pretender%20-%2014.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Great%20Pretender/%5BSweetSub%5D%20Great%20Pretender%20-%2014.cht.ass) |
 |  15  | Case4_1 远东魔法师 | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Great%20Pretender/%5BSweetSub%5D%20Great%20Pretender%20-%2015.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Great%20Pretender/%5BSweetSub%5D%20Great%20Pretender%20-%2015.cht.ass) |
-|  16  | Case4_2 远东魔法师 | | |
+|  16  | Case4_2 远东魔法师 | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Great%20Pretender/%5BSweetSub%5D%20Great%20Pretender%20-%2016.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Great%20Pretender/%5BSweetSub%5D%20Great%20Pretender%20-%2016.cht.ass) |
 |  17  | Case4_3 远东魔法师 | | |
 |  18  | Case4_4 远东魔法师 | | |
 |  19  | Case4_5 远东魔法师 | | |
