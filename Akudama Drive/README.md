@@ -5,6 +5,7 @@
 | 集数 |         标题         |                             简体                             |                             繁体                             |
 | :--: | :------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |  1   | SE7EN  | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Akudama%20Drive/%5BSweetSub%5D%20Akudama%20Drive%20-%2001.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Akudama%20Drive/%5BSweetSub%5D%20Akudama%20Drive%20-%2001.cht.ass) |
+| 2 | RESERVOIR DOGS | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Akudama%20Drive/%5BSweetSub%5D%20Akudama%20Drive%20-%2002.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Akudama%20Drive/%5BSweetSub%5D%20Akudama%20Drive%20-%2002.cht.ass) |
 
 
 
