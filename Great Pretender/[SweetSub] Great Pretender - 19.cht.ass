@@ -101,17 +101,17 @@ Dialogue: 0,0:22:24.95,0:22:28.91,EDCN,shad,0,0,0,,{\fad(0,350)\blur2\bord2\3c&H
 Comment: 0,0:00:00.00,0:00:00.00,Ruby,,0,0,0,,~Title~
 Dialogue: 0,0:01:44.00,0:01:49.01,Sign,,0,0,0,,{\an1\frz3\c&H2A0184&\3c&H2A0184&\bord1\pos(476,139)}遠{\frz2}東{\frz3\fsp-1}魔{\frz2}法{\frz3}師
 Comment: 0,0:00:00.00,0:00:00.00,Ruby,,0,0,0,,~Ruby~
-Dialogue: 1,0:02:43.72,0:02:45.10,Ruby,,0,0,0,,{\pos(1043,966)}Confidence Men
+Dialogue: 1,0:02:43.72,0:02:45.10,Ruby,,0,0,0,,{\pos(1043,966)}Confidence Man
 Dialogue: 1,0:11:04.15,0:11:07.70,Ruby,,0,0,0,,{\pos(988,966)}Port Jackson
 Dialogue: 1,0:08:56.02,0:08:58.31,Ruby,,0,0,0,,{\pos(1015,966)}Don Vittorio
 Dialogue: 1,0:06:14.32,0:06:17.78,Ruby,,0,0,0,,{\pos(572,966)}Fabiana
 Dialogue: 1,0:05:25.02,0:05:28.93,Ruby,,0,0,0,,{\pos(1334,966)}Confidence Game
 Dialogue: 1,0:04:47.94,0:04:50.31,Ruby,,0,0,0,,{\pos(1303,966)}Ozaki
 Dialogue: 1,0:04:47.94,0:04:50.31,Ruby,,0,0,0,,{\pos(614,966)}Oz
-Dialogue: 1,0:04:19.53,0:04:24.37,Ruby,,0,0,0,,{\pos(1294,966)}Samurai Confidence Men
+Dialogue: 1,0:04:19.53,0:04:24.37,Ruby,,0,0,0,,{\pos(1294,966)}Samurai Confidence Man
 Dialogue: 1,0:04:04.82,0:04:08.77,Ruby,,0,0,0,,{\pos(1036,966)}Confidence Lady
 Dialogue: 1,0:04:04.82,0:04:08.77,Ruby,,0,0,0,,{\pos(1276,966)}Dorothy
-Dialogue: 1,0:04:13.53,0:04:15.29,Ruby,,0,0,0,,{\pos(1046,966)}Confidence Women
+Dialogue: 1,0:04:13.53,0:04:15.29,Ruby,,0,0,0,,{\pos(1046,966)}Confidence Woman
 Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,~Sign~
 Dialogue: 0,0:14:17.25,0:14:22.17,Sign,sign,0,0,0,,{\fad(1000,500)\pos(1804,910)\an3\fnFOT-CinemaCN\b1\c&HF0F0F0&\bord3.5}芬蘭
 Dialogue: 0,0:05:44.36,0:05:49.24,Sign,sign,0,0,0,,{\fad(500,500)\pos(1804,910)\an3\fnFOT-CinemaCN\b1\c&HF0F0F0&\bord3.5}巴西  聖保羅州  卡雅馬爾
@@ -262,7 +262,7 @@ Dialogue: 1,0:08:07.50,0:08:08.84,Text - CN,,0,0,0,,饒了我吧
 Dialogue: 1,0:08:08.84,0:08:10.97,Text - CN - top,,0,0,0,,你是哪裡的聖保羅？
 Dialogue: 1,0:08:17.56,0:08:20.48,Text - CN,,0,0,0,,可惡！怎麼老是急於求成導致射偏！
 Dialogue: 1,0:08:21.11,0:08:22.69,Text - CN,,0,0,0,,你剛剛說什麼？
-Dialogue: 1,0:08:22.69,0:08:25.61,Text - CN,,0,0,0,,就是  有些老闆打算把我們的俱樂部賣了
+Dialogue: 1,0:08:22.69,0:08:25.61,Text - CN,,0,0,0,,就是  老闆一派打算把我們的俱樂部賣了
 Dialogue: 1,0:08:25.61,0:08:28.56,Text - CN,,0,0,0,,賣給誰不好偏偏要賣給亞洲人
 Dialogue: 1,0:08:28.56,0:08:30.45,Text - CN,,0,0,0,,又是他們嗎
 Dialogue: 1,0:08:30.45,0:08:33.26,Text - CN,,0,0,0,,在他們自己國家認真搞聯賽不好嗎
