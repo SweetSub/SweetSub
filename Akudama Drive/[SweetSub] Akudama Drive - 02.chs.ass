@@ -20,6 +20,8 @@ Style: Text - CN - top,Source Han Sans SC Medium,80,&H00F0F0F0,&H000000FF,&H0000
 Style: Text - JP - top,Source Han Sans Medium,50,&H00F0F0F0,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,20,20,75,1
 Style: EDJP,FOT-Nan Std L,60,&H00F0F0F0,&H000000FF,&H00F0F0F0,&H00000000,0,0,0,0,100,100,0,0,1,0.4,0,2,30,30,30,1
 Style: EDCN,几何极简圆体,50,&H00F0F0F0,&H000000FF,&H00F0F0F0,&H00000000,0,0,0,0,90,110,6,0,1,0.4,0,8,30,30,30,1
+Style: OPCN,Source Han Sans SC Heavy,80,&H00F0F0F0,&H000000FF,&H00F0F0F0,&H00000000,0,0,0,0,100,100,0,0,1,0,2,8,30,30,30,1
+Style: OPJP,Source Han Sans Heavy,80,&H00F0F0F0,&H000000FF,&H00F0F0F0,&H00000000,0,0,0,0,100,100,0,0,1,0,2,2,30,30,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -149,6 +151,154 @@ Dialogue: 2,0:20:50.90,0:20:52.65,Sign,Sign,0,0,0,,{\fad(100,0)\fsp4\fax-0.3\bor
 Dialogue: 1,0:20:50.90,0:20:52.65,Sign,Sign,0,0,0,,{\fad(100,0)\fsp4\fax-0.3\bord8\3c&H91D3FF&\1a&HFF&\pos(416,822)}关西  废弃工厂
 Dialogue: 0,0:20:50.90,0:20:52.65,Sign,Sign,0,0,0,,{\fad(100,0)\fsp4\fax-0.3\bord8\3c&H91D3FF&\1a&HFF&\blur20\3a&H96&\pos(416,822)}关西  废弃工厂
 Dialogue: 0,0:21:23.85,0:21:31.23,TopLeft,,0,0,0,,{\bord0\shad0\blur3}今天也朝气蓬勃地努力工作吧
+Comment: 0,0:00:46.03,0:00:46.07,OPJP,,0,0,0,,▚Opening JP▞
+Dialogue: 0,0:00:46.53,0:00:47.03,OPJP,,0,0,0,,{\pos(92,774)\an7\c&H5D7FF3&}パキパキなキメラ　女神にキス
+Dialogue: 0,0:00:47.03,0:00:47.53,OPJP,,0,0,0,,{\pos(92,774)\an7\c&HF9FA62&}パキパキなキメラ　女神にキス
+Dialogue: 0,0:00:47.53,0:00:48.03,OPJP,,0,0,0,,{\pos(92,774)\an7\c&HDA3D9B&}パキパキなキメラ　女神にキス
+Dialogue: 0,0:00:48.03,0:00:48.49,OPJP,,0,0,0,,{\pos(92,774)\an7\c&HE8DAE5&}パキパキなキメラ　女神にキス
+Dialogue: 0,0:00:48.49,0:00:48.99,OPJP,,0,0,0,,{\pos(92,774)\an7\c&H656582&}Steal the world (Kill'em all!)
+Dialogue: 0,0:00:48.99,0:00:49.65,OPJP,,0,0,0,,{\pos(92,774)\an7\c&H2000B4&}Steal the world (Kill'em all!)
+Dialogue: 0,0:00:49.65,0:00:51.07,OPJP,,0,0,0,,{\pos(960,1020)}神殺し　psyber punk
+Dialogue: 0,0:00:51.07,0:00:51.57,OPJP,,0,0,0,,{\pos(92,774)\an7\c&HE6A815&}パキパキなキメラ女神にキス
+Dialogue: 0,0:00:51.57,0:00:52.07,OPJP,,0,0,0,,{\pos(92,774)\an7\c&H4A4DDB&}パキパキなキメラ女神にキス
+Dialogue: 0,0:00:52.07,0:00:52.53,OPJP,,0,0,0,,{\pos(92,774)\an7\c&HBE51ED&}パキパキなキメラ女神にキス
+Dialogue: 0,0:00:52.53,0:00:53.03,OPJP,,0,0,0,,{\pos(92,774)\an7\c&HF9CFF3&}パキパキなキメラ女神にキス
+Dialogue: 0,0:00:53.03,0:00:53.53,OPJP,,0,0,0,,{\pos(92,774)\an7\c&H49E053&}正しい正義　喧しい
+Dialogue: 0,0:00:53.53,0:00:53.99,OPJP,,0,0,0,,{\pos(92,774)\an7\c&HE2E4FF&}正しい正義　喧しい
+Dialogue: 0,0:00:53.99,0:00:54.49,OPJP,,0,0,0,,{\pos(92,774)\an7\c&HE1DACB&}正しい正義　喧しい
+Dialogue: 0,0:00:54.49,0:00:55.08,OPJP,,0,0,0,,{\pos(92,774)\an7\c&HF8E3E6&}正しい正義　喧しい
+Dialogue: 0,0:00:55.08,0:00:57.95,OPJP,,0,0,0,,I don't give a damn
+Dialogue: 0,0:01:03.92,0:01:05.21,OPJP,,0,0,0,,{\fad(150,0)}まじ知ったこっちゃない
+Dialogue: 0,0:01:05.21,0:01:05.67,OPJP,,0,0,0,,{\c&HCF88DF&}まじ知ったこっちゃない
+Dialogue: 0,0:01:05.67,0:01:06.09,OPJP,,0,0,0,,I don't give a damn
+Dialogue: 0,0:01:06.09,0:01:06.59,OPJP,,0,0,0,,{\c&HC653CD&}I don't give a damn
+Dialogue: 0,0:01:06.59,0:01:07.09,OPJP,,0,0,0,,サイバー　ハイブリッド　ギャング (AYA AYA AYA)
+Dialogue: 0,0:01:07.09,0:01:07.63,OPJP,,0,0,0,,{\c&H7558CF&}サイバー　ハイブリッド　ギャング (AYA AYA AYA)
+Dialogue: 0,0:01:07.63,0:01:09.42,OPJP,,0,0,0,,サイバー　ハイブリッド　ギャング (AYA AYA AYA)
+Dialogue: 0,0:01:09.42,0:01:09.84,OPJP,,0,0,0,,全部がギャグ　笑う為サバイブ
+Dialogue: 0,0:01:09.84,0:01:10.30,OPJP,,0,0,0,,{\c&HDD8E01&}全部がギャグ　笑う為サバイブ
+Dialogue: 0,0:01:10.30,0:01:10.80,OPJP,,0,0,0,,全部がギャグ　笑う為サバイブ
+Dialogue: 0,0:01:10.80,0:01:11.38,OPJP,,0,0,0,,{\c&HDFA2EE&}全部がギャグ　笑う為サバイブ
+Dialogue: 0,0:01:11.38,0:01:11.80,OPJP,,0,0,0,,桃源郷ダンス　片っ端から霆落とす
+Dialogue: 0,0:01:11.80,0:01:12.30,OPJP,,0,0,0,,{\c&H64DBF9&}桃源郷ダンス　片っ端から霆落とす
+Dialogue: 0,0:01:12.30,0:01:12.72,OPJP,,0,0,0,,桃源郷ダンス　片っ端から霆落とす
+Dialogue: 0,0:01:12.72,0:01:13.26,OPJP,,0,0,0,,{\c&HE5B5D5&}桃源郷ダンス　片っ端から霆落とす
+Dialogue: 0,0:01:13.26,0:01:13.97,OPJP,,0,0,0,,桃源郷ダンス　片っ端から霆落とす
+Dialogue: 0,0:01:13.97,0:01:15.18,OPJP,,0,0,0,,{\c&HF8CCD9&}桃源郷ダンス　片っ端から霆落とす
+Dialogue: 0,0:01:16.10,0:01:18.56,OPJP,,0,0,0,,(片っ端から霆落とす)
+Dialogue: 0,0:01:18.56,0:01:19.14,OPJP,,0,0,0,,{\pos(602,1050)}steal the world
+Dialogue: 0,0:01:19.14,0:01:20.14,OPJP,,0,0,0,,{\pos(602,1050)}get the universe
+Dialogue: 0,0:01:20.14,0:01:22.06,OPJP,,0,0,0,,{\pos(602,1050)}kickout　世界破壊言語解体
+Dialogue: 0,0:01:22.06,0:01:23.19,OPJP,,0,0,0,,(I don't give a damn!)
+Dialogue: 0,0:01:23.19,0:01:25.52,OPJP,,0,0,0,,oh kiss me oh kiss me
+Dialogue: 0,0:01:25.52,0:01:27.73,OPJP,,0,0,0,,kiss me oh demon
+Dialogue: 0,0:01:27.73,0:01:29.94,OPJP,,0,0,0,,{\pos(90,480)\an1}kiss me oh kiss me
+Dialogue: 0,0:01:29.94,0:01:31.03,OPJP,,0,0,0,,{\pos(1440,1050)}steal the world
+Dialogue: 0,0:01:31.03,0:01:32.32,OPJP,,0,0,0,,{\pos(1440,1050)}get the universe
+Dialogue: 0,0:01:32.32,0:01:34.66,OPJP,,0,0,0,,kiss me oh kiss me
+Dialogue: 0,0:01:34.66,0:01:36.91,OPJP,,0,0,0,,kiss me oh demon
+Dialogue: 0,0:01:36.91,0:01:39.25,OPJP,,0,0,0,,kiss me oh kiss me
+Dialogue: 0,0:01:39.25,0:01:40.41,OPJP,,0,0,0,,steal the world
+Dialogue: 0,0:01:40.41,0:01:41.33,OPJP,,0,0,0,,fallin' down
+Dialogue: 0,0:01:41.33,0:01:41.96,OPJP,,0,0,0,,まじ知ったこっちゃない
+Dialogue: 0,0:01:41.96,0:01:42.58,OPJP,,0,0,0,,{\c&HFFD9FE&}まじ知ったこっちゃない
+Dialogue: 0,0:01:42.58,0:01:43.21,OPJP,,0,0,0,,{\c&H6DE1FC&}I don't give a damn
+Dialogue: 0,0:01:43.21,0:01:43.83,OPJP,,0,0,0,,{\c&HFEFEB7&}サイバー　ハイブリッド　ギャング (AYA AYA AYA)
+Dialogue: 0,0:01:43.83,0:01:44.42,OPJP,,0,0,0,,{\c&HF0C1FD&}サイバー　ハイブリッド　ギャング (AYA AYA AYA)
+Dialogue: 0,0:01:44.42,0:01:46.17,OPJP,,0,0,0,,サイバー　ハイブリッド　ギャング (AYA AYA AYA)
+Dialogue: 0,0:01:46.17,0:01:46.71,OPJP,,0,0,0,,{\c&HF0E377&}全部がギャグ　笑う為サバイブ
+Dialogue: 0,0:01:46.71,0:01:47.21,OPJP,,0,0,0,,{\c&HBC6977&}全部がギャグ　笑う為サバイブ
+Dialogue: 0,0:01:47.21,0:01:47.71,OPJP,,0,0,0,,{\c&H7BDFB6&}全部がギャグ　笑う為サバイブ
+Dialogue: 0,0:01:47.71,0:01:48.21,OPJP,,0,0,0,,{\c&HA7ABAB&}全部がギャグ　笑う為サバイブ
+Dialogue: 0,0:01:48.21,0:01:48.76,OPJP,,0,0,0,,桃源郷ダンス　片っ端から霆落とす
+Dialogue: 0,0:01:48.76,0:01:50.80,OPJP,,0,0,0,,{\c&H71F0FE&}桃源郷ダンス　片っ端から霆落とす
+Dialogue: 0,0:01:50.80,0:01:53.01,OPJP,,0,0,0,,{\pos(1440,1050)}oh kiss me oh kiss me
+Dialogue: 0,0:01:53.01,0:01:55.30,OPJP,,0,0,0,,{\pos(960,840)}kiss me oh demon
+Dialogue: 0,0:01:55.30,0:01:57.60,OPJP,,0,0,0,,kiss me oh kiss me
+Dialogue: 0,0:01:57.60,0:01:58.47,OPJP,,0,0,0,,steal the world
+Dialogue: 0,0:01:58.47,0:01:59.93,OPJP,,0,0,0,,get the universe
+Dialogue: 0,0:01:59.97,0:02:00.02,OPJP,,0,0,0,,{\an1\pos(190,760)\clip(0,319,366,760)\c&H253EFB&}kiss me oh kiss me
+Dialogue: 0,0:02:00.02,0:02:02.14,OPJP,,0,0,0,,{\an1\pos(190,760)\c&H253EFB&}kiss me oh kiss me
+Dialogue: 0,0:02:02.14,0:02:04.52,OPJP,,0,0,0,,kiss me oh demon
+Dialogue: 0,0:02:04.52,0:02:06.86,OPJP,,0,0,0,,kiss me oh kiss me
+Dialogue: 1,0:02:06.86,0:02:07.98,OPJP,,0,0,0,,{\k28}{\shad0\2c&H0000FF&\2a&HFF&}steal {\k25}the {\k60}world
+Dialogue: 0,0:02:06.86,0:02:07.98,OPJP,,0,0,0,,{\k28}{\shad0\pos(962,1052)\2c&H0000FF&\2a&HFF&\c&H000000&}steal {\k25}the {\k60}world
+Dialogue: 1,0:02:07.98,0:02:09.53,OPJP,,0,0,0,,{\k28}{\shad0\2c&H0000FF&\2a&HFF&}I {\k25}just {\k55}fallin' {\k46}down
+Dialogue: 0,0:02:07.98,0:02:09.53,OPJP,,0,0,0,,{\k28}{\shad0\pos(962,1052)\2c&H0000FF&\2a&HFF&\c&H000000&}I {\k25}just {\k55}fallin' {\k46}down
+Comment: 0,0:00:46.03,0:00:46.07,OPCN,,0,0,0,,▚Opening CN▞
+Dialogue: 0,0:00:46.53,0:00:47.03,OPCN,,0,0,0,,{\pos(1206,260)\an3\c&H5D7FF3&}喷火怪物  亲吻女神
+Dialogue: 0,0:00:47.03,0:00:47.53,OPCN,,0,0,0,,{\pos(1206,260)\an3\c&HF9FA62&}喷火怪物  亲吻女神
+Dialogue: 0,0:00:47.53,0:00:48.03,OPCN,,0,0,0,,{\pos(1206,260)\an3\c&HDA3D9B&}喷火怪物  亲吻女神
+Dialogue: 0,0:00:48.03,0:00:48.49,OPCN,,0,0,0,,{\pos(1206,260)\an3\c&HE8DAE5&}喷火怪物  亲吻女神
+Dialogue: 0,0:00:48.49,0:00:48.99,OPCN,,0,0,0,,{\pos(1206,260)\an3\c&H656582&}Steal the world (Kill'em all!)
+Dialogue: 0,0:00:48.99,0:00:49.65,OPCN,,0,0,0,,{\pos(1206,260)\an3\c&H2000B4&}Steal the world (Kill'em all!)
+Dialogue: 0,0:00:49.65,0:00:51.07,OPCN,,0,0,0,,{\pos(960,60)}弑神  psyber punk
+Dialogue: 0,0:00:51.07,0:00:51.57,OPCN,,0,0,0,,{\pos(1206,260)\an3\c&HE6A815&}喷火怪物  亲吻女神
+Dialogue: 0,0:00:51.57,0:00:52.07,OPCN,,0,0,0,,{\pos(1206,260)\an3\c&H4A4DDB&}喷火怪物  亲吻女神
+Dialogue: 0,0:00:52.07,0:00:52.53,OPCN,,0,0,0,,{\pos(1206,260)\an3\c&HBE51ED&}喷火怪物  亲吻女神
+Dialogue: 0,0:00:52.53,0:00:53.03,OPCN,,0,0,0,,{\pos(1206,260)\an3\c&HF9CFF3&}喷火怪物  亲吻女神
+Dialogue: 0,0:00:53.03,0:00:53.53,OPCN,,0,0,0,,{\pos(1206,260)\an3\c&H49E053&}是非对错  烦死个人
+Dialogue: 0,0:00:53.53,0:00:53.99,OPCN,,0,0,0,,{\pos(1206,260)\an3\c&HE2E4FF&}是非对错  烦死个人
+Dialogue: 0,0:00:53.99,0:00:54.49,OPCN,,0,0,0,,{\pos(1206,260)\an3\c&HE1DACB&}是非对错  烦死个人
+Dialogue: 0,0:00:54.49,0:00:55.08,OPCN,,0,0,0,,{\pos(1206,260)\an3\c&HF8E3E6&}是非对错  烦死个人
+Dialogue: 0,0:00:55.08,0:00:57.95,OPCN,,0,0,0,,I don't give a damn
+Dialogue: 0,0:01:03.92,0:01:05.21,OPCN,,0,0,0,,{\fad(150,0)}我才不管呢
+Dialogue: 0,0:01:05.21,0:01:05.67,OPCN,,0,0,0,,{\c&HCF88DF&}我才不管呢
+Dialogue: 0,0:01:05.67,0:01:06.09,OPCN,,0,0,0,,I don't give a damn
+Dialogue: 0,0:01:06.09,0:01:06.59,OPCN,,0,0,0,,{\c&HC653CD&}I don't give a damn
+Dialogue: 0,0:01:06.59,0:01:07.09,OPCN,,0,0,0,,赛博混色帮
+Dialogue: 0,0:01:07.09,0:01:07.63,OPCN,,0,0,0,,{\c&H7558CF&}赛博混色帮
+Dialogue: 0,0:01:07.63,0:01:09.42,OPCN,,0,0,0,,赛博混色帮
+Dialogue: 0,0:01:09.42,0:01:09.84,OPCN,,0,0,0,,恶搞一切  为笑求生
+Dialogue: 0,0:01:09.84,0:01:10.30,OPCN,,0,0,0,,{\c&HDD8E01&}恶搞一切  为笑求生
+Dialogue: 0,0:01:10.30,0:01:10.80,OPCN,,0,0,0,,恶搞一切  为笑求生
+Dialogue: 0,0:01:10.80,0:01:11.38,OPCN,,0,0,0,,{\c&HDFA2EE&}恶搞一切  为笑求生
+Dialogue: 0,0:01:11.38,0:01:11.80,OPCN,,0,0,0,,舞动桃源乡  遍地惊雷
+Dialogue: 0,0:01:11.80,0:01:12.30,OPCN,,0,0,0,,{\c&H64DBF9&}舞动桃源乡  遍地惊雷
+Dialogue: 0,0:01:12.30,0:01:12.72,OPCN,,0,0,0,,舞动桃源乡  遍地惊雷
+Dialogue: 0,0:01:12.72,0:01:13.26,OPCN,,0,0,0,,{\c&HE5B5D5&}舞动桃源乡  遍地惊雷
+Dialogue: 0,0:01:13.26,0:01:13.97,OPCN,,0,0,0,,舞动桃源乡  遍地惊雷
+Dialogue: 0,0:01:13.97,0:01:15.18,OPCN,,0,0,0,,{\c&HF8CCD9&}舞动桃源乡  遍地惊雷
+Dialogue: 0,0:01:16.10,0:01:18.56,OPCN,,0,0,0,,(遍地惊雷)
+Dialogue: 0,0:01:18.56,0:01:19.14,OPCN,,0,0,0,,{\pos(602,30)}steal the world
+Dialogue: 0,0:01:19.14,0:01:20.14,OPCN,,0,0,0,,{\pos(602,30)}get the universe
+Dialogue: 0,0:01:20.14,0:01:22.06,OPCN,,0,0,0,,{\pos(602,30)}kickout  世界毁灭语言崩坏
+Dialogue: 0,0:01:22.06,0:01:23.19,OPCN,,0,0,0,,(I don't give a damn!)
+Dialogue: 0,0:01:23.19,0:01:25.52,OPCN,,0,0,0,,oh kiss me oh kiss me
+Dialogue: 0,0:01:25.52,0:01:27.73,OPCN,,0,0,0,,kiss me oh demon
+Dialogue: 0,0:01:27.73,0:01:29.94,OPCN,,0,0,0,,{\pos(1826,0)\an9}kiss me oh kiss me
+Dialogue: 0,0:01:29.94,0:01:31.03,OPCN,,0,0,0,,{\pos(1440,30)}steal the world
+Dialogue: 0,0:01:31.03,0:01:32.32,OPCN,,0,0,0,,{\pos(1440,30)}get the universe
+Dialogue: 0,0:01:32.32,0:01:34.66,OPCN,,0,0,0,,kiss me oh kiss me
+Dialogue: 0,0:01:34.66,0:01:36.91,OPCN,,0,0,0,,kiss me oh demon
+Dialogue: 0,0:01:36.91,0:01:39.25,OPCN,,0,0,0,,kiss me oh kiss me
+Dialogue: 0,0:01:39.25,0:01:40.41,OPCN,,0,0,0,,steal the world
+Dialogue: 0,0:01:40.41,0:01:41.33,OPCN,,0,0,0,,fallin' down
+Dialogue: 0,0:01:41.33,0:01:41.96,OPCN,,0,0,0,,我才不管呢
+Dialogue: 0,0:01:41.96,0:01:42.58,OPCN,,0,0,0,,{\c&HFFD9FE&}我才不管呢
+Dialogue: 0,0:01:42.58,0:01:43.21,OPCN,,0,0,0,,{\c&H6DE1FC&}I don't give a damn
+Dialogue: 0,0:01:43.21,0:01:43.83,OPCN,,0,0,0,,{\c&HFEFEB7&}赛博混色帮
+Dialogue: 0,0:01:43.83,0:01:44.42,OPCN,,0,0,0,,{\c&HF0C1FD&}赛博混色帮
+Dialogue: 0,0:01:44.42,0:01:46.17,OPCN,,0,0,0,,赛博混色帮
+Dialogue: 0,0:01:46.17,0:01:46.71,OPCN,,0,0,0,,{\c&HF0E377&}恶搞一切  为笑求生
+Dialogue: 0,0:01:46.71,0:01:47.21,OPCN,,0,0,0,,{\c&HBC6977&}恶搞一切  为笑求生
+Dialogue: 0,0:01:47.21,0:01:47.71,OPCN,,0,0,0,,{\c&H7BDFB6&}恶搞一切  为笑求生
+Dialogue: 0,0:01:47.71,0:01:48.21,OPCN,,0,0,0,,{\c&HA7ABAB&}恶搞一切  为笑求生
+Dialogue: 0,0:01:48.21,0:01:48.76,OPCN,,0,0,0,,舞动桃源乡  遍地惊雷
+Dialogue: 0,0:01:48.76,0:01:50.80,OPCN,,0,0,0,,{\c&H71F0FE&}舞动桃源乡  遍地惊雷
+Dialogue: 0,0:01:50.80,0:01:53.01,OPCN,,0,0,0,,{\pos(480,30)}oh kiss me oh kiss me
+Dialogue: 0,0:01:53.01,0:01:55.30,OPCN,,0,0,0,,{\pos(960,236)}kiss me oh demon
+Dialogue: 0,0:01:55.30,0:01:57.60,OPCN,,0,0,0,,kiss me oh kiss me
+Dialogue: 0,0:01:57.60,0:01:58.47,OPCN,,0,0,0,,steal the world
+Dialogue: 0,0:01:58.47,0:01:59.93,OPCN,,0,0,0,,get the universe
+Dialogue: 0,0:02:00.10,0:02:00.14,OPCN,,0,0,0,,{\an9\pos(1726,314)\c&H253EFB&\clip(1186.667,288,1532.444,451.556)}kiss me oh kiss me
+Dialogue: 0,0:02:00.14,0:02:02.14,OPCN,,0,0,0,,{\an9\pos(1726,314)\c&H253EFB&}kiss me oh kiss me
+Dialogue: 0,0:02:02.14,0:02:04.52,OPCN,,0,0,0,,kiss me oh demon
+Dialogue: 0,0:02:04.52,0:02:06.86,OPCN,,0,0,0,,kiss me oh kiss me
+Dialogue: 1,0:02:06.86,0:02:07.98,OPCN,,0,0,0,,{\k28}{\shad0\2c&H0000FF&\2a&HFF&}steal {\k25}the {\k60}world
+Dialogue: 0,0:02:06.86,0:02:07.98,OPCN,,0,0,0,,{\k28}{\shad0\pos(962,32)\2c&H0000FF&\2a&HFF&\c&H000000&}steal {\k25}the {\k60}world
+Dialogue: 1,0:02:07.98,0:02:09.53,OPCN,,0,0,0,,{\k28}{\shad0\2c&H0000FF&\2a&HFF&}I {\k25}just {\k55}fallin' {\k46}down
+Dialogue: 0,0:02:07.98,0:02:09.53,OPCN,,0,0,0,,{\k28}{\shad0\pos(962,32)\2c&H0000FF&\2a&HFF&\c&H000000&}I {\k25}just {\k55}fallin' {\k46}down
 Comment: 0,0:21:54.96,0:21:55.00,EDJP,,0,0,0,,▚Ending JP▞
 Dialogue: 3,0:22:15.73,0:22:17.61,EDJP,,0,0,0,,Let go　好きにいろ
 Dialogue: 3,0:22:17.61,0:22:19.86,EDJP,,0,0,0,,今日のスケジュールまずは決定
