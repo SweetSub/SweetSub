@@ -167,8 +167,8 @@ Dialogue: 0,0:00:23.50,0:00:24.00,OPCN,,0,0,0,,{\pos(1206,260)\an3\c&H5D7FF3&}�
 Dialogue: 0,0:00:24.00,0:00:24.50,OPCN,,0,0,0,,{\pos(1206,260)\an3\c&HF9FA62&}噴火怪物  親吻女神
 Dialogue: 0,0:00:24.50,0:00:25.00,OPCN,,0,0,0,,{\pos(1206,260)\an3\c&HDA3D9B&}噴火怪物  親吻女神
 Dialogue: 0,0:00:25.00,0:00:25.46,OPCN,,0,0,0,,{\pos(1206,260)\an3\c&HE8DAE5&}噴火怪物  親吻女神
-Dialogue: 0,0:00:25.46,0:00:25.96,OPCN,,0,0,0,,{\pos(1206,260)\an3\c&H656582&}Steal the world (kill'em all!)
-Dialogue: 0,0:00:25.96,0:00:26.63,OPCN,,0,0,0,,{\pos(1206,260)\an3\c&H2000B4&}Steal the world (kill'em all!)
+Dialogue: 0,0:00:25.46,0:00:25.96,OPCN,,0,0,0,,{\pos(1206,260)\an3\c&H656582&}Steal the world (Kill'em all!)
+Dialogue: 0,0:00:25.96,0:00:26.63,OPCN,,0,0,0,,{\pos(1206,260)\an3\c&H2000B4&}Steal the world (Kill'em all!)
 Dialogue: 0,0:00:26.63,0:00:28.05,OPCN,,0,0,0,,{\pos(960,60)}弒神  psyber punk
 Dialogue: 0,0:00:28.05,0:00:28.55,OPCN,,0,0,0,,{\pos(1206,260)\an3\c&HE6A815&}噴火怪物  親吻女神
 Dialogue: 0,0:00:28.55,0:00:29.05,OPCN,,0,0,0,,{\pos(1206,260)\an3\c&H4A4DDB&}噴火怪物  親吻女神
