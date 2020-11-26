@@ -8,5 +8,6 @@
 | 2 | RESERVOIR DOGS | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Akudama%20Drive/%5BSweetSub%5D%20Akudama%20Drive%20-%2002.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Akudama%20Drive/%5BSweetSub%5D%20Akudama%20Drive%20-%2002.cht.ass) |
 | 3 | MISSION: IMPOSSIBLE  | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Akudama%20Drive/%5BSweetSub%5D%20Akudama%20Drive%20-%2003.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Akudama%20Drive/%5BSweetSub%5D%20Akudama%20Drive%20-%2003.cht.ass) |
 | 4 | SPEED  | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Akudama%20Drive/%5BSweetSub%5D%20Akudama%20Drive%20-%2004.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Akudama%20Drive/%5BSweetSub%5D%20Akudama%20Drive%20-%2004.cht.ass) |
+| 5 | DEAD MAN WALKING  | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Akudama%20Drive/%5BSweetSub%5D%20Akudama%20Drive%20-%2005.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Akudama%20Drive/%5BSweetSub%5D%20Akudama%20Drive%20-%2005.cht.ass) |
 
 ![](https://i.loli.net/2020/10/14/EsPikfJGArOUT7p.png)
