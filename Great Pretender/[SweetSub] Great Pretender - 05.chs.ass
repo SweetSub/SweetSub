@@ -7,7 +7,7 @@ PlayResX: 1920
 PlayResY: 1080
 ScriptType: v4.00+
 YCbCr Matrix: TV.709
-Title: [SweetSub] Great Predender - 05
+Title: [SweetSub] GREAT PRETENDER - 05
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,7 +40,7 @@ Dialogue: 1,0:20:56.28,0:20:59.24,STAFF,,0,0,0,,{\fad(350,350)\fs39\fsp10\pos(11
 Dialogue: 1,0:20:56.28,0:20:59.24,STAFF,,0,0,0,,{\fad(350,350)\pos(1366,570)\fs50\fsp0\fscx87\fscy90}natsukage
 Dialogue: 1,0:20:56.28,0:20:59.24,STAFF,,0,0,0,,{\fad(350,350)\fs39\fsp0\pos(1266,662)\an9}字幕制作
 Dialogue: 1,0:20:56.28,0:20:59.24,STAFF,,0,0,0,,{\fad(350,350)\pos(1366,658)\fs50\fsp1.6\fscx90\fscy90}SweetSub
-Dialogue: 0,0:20:56.28,0:20:59.24,STAFF,,0,0,0,,{\fad(350,350)\pos(1196,398)\fs39\fsp10\bord2\3c&H000000&\3a&H32&\blur2\c&HFAFAFA&\1a&HFF&}翻译
+Dialogue: 0,0:20:56.28,0:20:59.24,STAFF,,0,0,0,,{\fad(350,350)\pos(1196,398)\fs39\fsp10\bord2\3c&H000000&\3a&H50&\blur2\c&HFAFAFA&\1a&HFF&}翻译
 Dialogue: 0,0:20:56.28,0:20:59.24,STAFF,,0,0,0,,{\fad(350,350)\pos(1366,394)\fs50\fsp21\fscx90\fscy90\bord2\3c&H000000&\1a&HFF&\3a&H50&\blur2}Sugar
 Dialogue: 0,0:20:56.28,0:20:59.24,STAFF,,0,0,0,,{\fad(350,350)\pos(1196,486)\fs39\fsp10\bord2\3c&H000000&\3a&H50&\blur2\c&HFAFAFA&\1a&HFF&}校对
 Dialogue: 0,0:20:56.28,0:20:59.24,STAFF,,0,0,0,,{\fad(350,350)\pos(1366,482)\fs50\fsp11.5\fscx90\fscy90\bord2\3c&H000000&\1a&HFF&\3a&H50&\blur2}Senren
