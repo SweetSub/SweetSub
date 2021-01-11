@@ -18,6 +18,7 @@ SweetSub
 | ID: INVADED                                        |                           | イド：インヴェイデッド                   | [BD 字幕](https://github.com/tastysugar/SweetSub/tree/master/ID%20INVADED) |
 | Great Pretender                                    | 大欺诈师                  | グレートプリテンダー                     | [WEB 版字幕](https://github.com/tastysugar/SweetSub/tree/master/Great%20Pretender) |
 | Akudama Drive                                      | 恶棍 DRIVE                | アクダマドライブ                         | [WEB 版字幕](https://github.com/tastysugar/SweetSub/tree/master/Akudama%20Drive) （暂停中） |
+| Horimiya                                           | 堀与宫村                  | ホリミヤ                                 | [WEB 版字幕](https://github.com/tastysugar/SweetSub/tree/master/Horimiya) |
 
 
 
