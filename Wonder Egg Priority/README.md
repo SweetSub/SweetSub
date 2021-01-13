@@ -2,7 +2,7 @@
 
 | 集数 |    标题    |                             简体                             |                             繁体                             |
 | :--: | :--------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  1   | 孩子的领地 | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Horimiya/%5BSweetSub%5D%20Wonder%20Egg%20Priority%20-%2001.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Horimiya/%5BSweetSub%5D%20Wonder%20Egg%20Priority%20-%2001.cht.ass) |
+|  1   | 孩子的领地 | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Wonder%20Egg%20Priority/%5BSweetSub%5D%20Wonder%20Egg%20Priority%20-%2001.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Wonder%20Egg%20Priority/%5BSweetSub%5D%20Wonder%20Egg%20Priority%20-%2001.cht.ass) |
 |  2   |            |                                                              |                                                              |
 |  3   |            |                                                              |                                                              |
 |  4   |            |                                                              |                                                              |
