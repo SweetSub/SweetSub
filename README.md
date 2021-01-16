@@ -20,6 +20,7 @@ SweetSub
 | Akudama Drive                                      | 恶棍 DRIVE                | アクダマドライブ                         | [WEB 版字幕](https://github.com/tastysugar/SweetSub/tree/master/Akudama%20Drive) （暂停中） |
 | Horimiya                                           | 堀与宫村                  | ホリミヤ                                 | [WEB 版字幕](https://github.com/tastysugar/SweetSub/tree/master/Horimiya) |
 | Wonder Egg Priority                                | 奇蛋物语                  | ワンダーエッグ・プライオリティ           | [WEB 版字幕](https://github.com/tastysugar/SweetSub/tree/master/Wonder%20Egg%20Priority) |
+| WIXOSS DIVA(A)LIVE                                 |                           |                                          | [WEB 版字幕](https://github.com/tastysugar/SweetSub/tree/master/WIXOSS) |
 
 
 
