@@ -3,8 +3,8 @@
 | 集数 |        标题        |                             简体                             |                             繁体                             |
 | :--: | :----------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |  1   | 我们要来了  顶点！ | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/WIXOSS/%5BSweetSub%5D%20WIXOSS%20DIVA(A)LIVE%20-%2001.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/WIXOSS/%5BSweetSub%5D%20WIXOSS%20DIVA(A)LIVE%20-%2001.cht.ass) |
-|  2   |                    |                                                              |                                                              |
-|  3   |                    |                                                              |                                                              |
+|  2   |  才没有什么极限！  | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/WIXOSS/%5BSweetSub%5D%20WIXOSS%20DIVA(A)LIVE%20-%2002.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/WIXOSS/%5BSweetSub%5D%20WIXOSS%20DIVA(A)LIVE%20-%2002.cht.ass) |
+|  3   |    我不想输喵！    | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/WIXOSS/%5BSweetSub%5D%20WIXOSS%20DIVA(A)LIVE%20-%2003.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/WIXOSS/%5BSweetSub%5D%20WIXOSS%20DIVA(A)LIVE%20-%2003.cht.ass) |
 |  4   |                    |                                                              |                                                              |
 |  5   |                    |                                                              |                                                              |
 |  6   |                    |                                                              |                                                              |
