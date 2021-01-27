@@ -4,7 +4,7 @@
 | :--: | :----------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |  1   |  孩子的领地  | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Wonder%20Egg%20Priority/%5BSweetSub%5D%20Wonder%20Egg%20Priority%20-%2001.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Wonder%20Egg%20Priority/%5BSweetSub%5D%20Wonder%20Egg%20Priority%20-%2001.cht.ass) |
 |  2   | 做朋友的条件 | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Wonder%20Egg%20Priority/%5BSweetSub%5D%20Wonder%20Egg%20Priority%20-%2002.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Wonder%20Egg%20Priority/%5BSweetSub%5D%20Wonder%20Egg%20Priority%20-%2002.cht.ass) |
-|  3   |              |                                                              |                                                              |
+|  3   | 赤裸裸的小刀 | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Wonder%20Egg%20Priority/%5BSweetSub%5D%20Wonder%20Egg%20Priority%20-%2003.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Wonder%20Egg%20Priority/%5BSweetSub%5D%20Wonder%20Egg%20Priority%20-%2003.cht.ass) |
 |  4   |              |                                                              |                                                              |
 |  5   |              |                                                              |                                                              |
 |  6   |              |                                                              |                                                              |
