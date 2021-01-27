@@ -4,7 +4,7 @@
 | :--: | :----------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |  1   |   缘起琐碎之事。   | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2001.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2001.cht.ass) |
 |  2   | 面孔不仅只有一副。 | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2002.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2002.cht.ass) |
-|  3   |                    |                                                              |                                                              |
+|  3   |   所以，没关系。   | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2003.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2003.cht.ass) |
 |  4   |                    |                                                              |                                                              |
 |  5   |                    |                                                              |                                                              |
 |  6   |                    |                                                              |                                                              |
