@@ -32,55 +32,6 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果是仅仅是修改时间�
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果在其它情况下想要转载和使用本字幕，或是在字幕中发现了错误或者有其它问题，可以使用 telegram 联系我，详细方法见 telegram 频道。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,该版本为初版字幕，在合集时会有修正。
-Comment: 0,0:00:00.00,0:00:00.00,Scr,,0,0,0,,Credit
-Dialogue: 0,0:22:22.66,0:22:26.16,Scr,,0,0,0,,{\bord0\c&H333333&\fnSource Han Sans SC Heavy\fscx85\fs60\pos(960,820)}◾◼ 翻译：tastySugar    后期：natsukage    字幕制作：SweetSub ◼◾
-Dialogue: 0,0:22:22.66,0:22:26.16,Scr,,0,0,0,,{\bord0\c&H333333&\fnSource Han Sans SC Heavy\fscx85\fs60\pos(960,880)}◾◼ 特别协作：WIXOSS 翻译组 ◼◾
-Comment: 0,0:00:00.00,0:00:00.00,Scr,,0,0,0,,Title
-Dialogue: 0,0:22:22.57,0:22:26.16,Scr,,0,0,0,,{\bord0\c&H333333&\fnSource Han Sans SC Heavy\fscx85\fs100\pos(960,660)\clip(0,665,1920,712)}我不想输喵！
-Dialogue: 0,0:22:22.66,0:22:26.16,Scr,,0,0,0,,{\bord0\c&H333333&\fnSource Han Sans SC Heavy\fscx85\fs100\pos(960,660)\clip(0,716,1920,765)}我不想输喵！
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Ruby~
-Dialogue: 0,0:17:55.72,0:17:57.97,Ruby,,0,0,0,,{\pos(1114,990)}理由
-Dialogue: 0,0:18:05.73,0:18:08.03,Ruby,,0,0,0,,{\pos(1185,990)}圣歌
-Dialogue: 0,0:05:57.25,0:05:59.63,Ruby,,0,0,0,,{\pos(1164,990)}每分钟节奏数
-Dialogue: 0,0:05:23.18,0:05:26.35,Ruby,,0,0,0,,{\fsp10\pos(1210,990)}绝对零度
-Dialogue: 0,0:13:48.14,0:13:51.10,Ruby,,0,0,0,,{\pos(1366,990)}Mirage
-Dialogue: 0,0:19:17.22,0:19:19.01,Ruby,,0,0,0,,{\pos(1030,990)}圣歌
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Sign~
-Dialogue: 0,0:21:11.25,0:21:13.29,Scr,,0,0,0,,{\3c&H245557&\fad(250,0)\fs60}Mika P
-Comment: 0,0:00:00.00,0:00:00.00,Scr,,0,0,0,,
-Dialogue: 1,0:09:34.93,0:09:36.76,TopLeft,,0,0,0,,{\c&H000000&\bord0\blur0.4\clip()}梦限少女 Mika  她的制作人手腕\N{\fs50}发掘顶级 DIVA 的伯乐之眼
-Dialogue: 0,0:09:34.93,0:09:36.76,TopLeft,,0,0,0,,{\c&HF6F6F6&\p1\pos(0,0)\an7\bord0\blur2}m 20 30 l 20 150 620 150 620 30
-Comment: 0,0:00:00.00,0:00:00.00,Scr,,0,0,0,,
-Dialogue: 1,0:09:41.52,0:09:44.02,TopLeft,,0,0,0,,{\c&H000000&\bord0\blur0.4\clip()}人气急速上升  探求 {\u1}No Limit{\u0} 的秘密
-Dialogue: 0,0:09:41.52,0:09:44.02,TopLeft,,0,0,0,,{\c&HF6F6F6&\p1\pos(0,0)\an7\bord0\blur2}m 20 30 l 20 100 700 100 700 30
-Comment: 0,0:00:00.00,0:00:00.00,Scr,,0,0,0,,
-Dialogue: 0,0:00:44.57,0:00:44.61,Scr,,0,0,0,,{\fad(0,0)\an2\bord4\pos(960,720)\c&HFEFF63&\clip(1112,0,1920,1080)}K{\c&HB085FB&}yu{\c&HFF9EB6&}ru K{\c&HB085FB&}yu{\c&HFFFD78&}ru{\c&HF79BB6&}n
-Dialogue: 0,0:00:44.61,0:00:44.65,Scr,,0,0,0,,{\fad(0,0)\an2\bord4\pos(960,720)\c&HFEFF63&\clip(1036,0,1920,1080)}K{\c&HB085FB&}yu{\c&HFF9EB6&}ru K{\c&HB085FB&}yu{\c&HFFFD78&}ru{\c&HF79BB6&}n
-Dialogue: 0,0:00:44.65,0:00:44.69,Scr,,0,0,0,,{\fad(0,0)\an2\bord4\pos(960,720)\c&HFEFF63&\clip(960,0,1920,1080)}K{\c&HB085FB&}yu{\c&HFF9EB6&}ru K{\c&HB085FB&}yu{\c&HFFFD78&}ru{\c&HF79BB6&}n
-Dialogue: 0,0:00:44.69,0:00:44.73,Scr,,0,0,0,,{\fad(0,0)\an2\bord4\pos(960,720)\c&HFEFF63&\clip(884,0,1920,1080)}K{\c&HB085FB&}yu{\c&HFF9EB6&}ru K{\c&HB085FB&}yu{\c&HFFFD78&}ru{\c&HF79BB6&}n
-Dialogue: 0,0:00:44.73,0:00:44.77,Scr,,0,0,0,,{\fad(0,0)\an2\bord4\pos(960,720)\c&HFEFF63&\clip(808,0,1920,1080)}K{\c&HB085FB&}yu{\c&HFF9EB6&}ru K{\c&HB085FB&}yu{\c&HFFFD78&}ru{\c&HF79BB6&}n
-Dialogue: 0,0:00:44.77,0:00:48.19,Scr,,0,0,0,,{\fad(0,0)\an2\bord4\pos(960,720)\c&HFEFF63&}K{\c&HB085FB&}yu{\c&HFF9EB6&}ru K{\c&HB085FB&}yu{\c&HFFFD78&}ru{\c&HF79BB6&}n
-Comment: 0,0:00:00.00,0:00:00.00,Scr,,0,0,0,,
-Dialogue: 0,0:00:04.78,0:00:04.82,Scr,,0,0,0,,{\fad(0,0)\an3\pos(790,840)\c&H0099E5&\bord3\3c&HF0F0F0&\clip(m 739 770 l 769 836 877 832 881 765)}Saba
-Dialogue: 0,0:00:04.82,0:00:04.86,Scr,,0,0,0,,{\fad(0,0)\an3\pos(790,840)\c&H0099E5&\bord3\3c&HF0F0F0&\clip(m 663 771 l 694 834 884 837 882 759)}Saba
-Dialogue: 0,0:00:04.86,0:00:08.70,Scr,,0,0,0,,{\fad(0,100)\an3\pos(790,840)\c&H0099E5&\bord3\3c&HF0F0F0&}Saba
-Dialogue: 0,0:00:18.12,0:00:21.71,Scr,,0,0,0,,{\fad(250,0)\fs60\c&HBDB8B7&\3c&H39211C&\pos(580,130)}Deus Ex Machina
-Comment: 0,0:00:00.00,0:00:00.00,Scr,,0,0,0,,
-Dialogue: 0,0:00:22.59,0:00:22.63,Scr,,0,0,0,,{\fad(0,0)\an2\pos(960,880)\c&H0099E5&\bord3\3c&HF0F0F0&\clip(m 1088 822 l 1114 878 1261 878 1226 729)}Deus Ex Machina
-Dialogue: 0,0:00:22.63,0:00:22.67,Scr,,0,0,0,,{\fad(0,0)\an2\pos(960,880)\c&H0099E5&\bord3\3c&HF0F0F0&\clip(m 962 825 l 989 882 1341 878 1332 708 832 708 953 837)}Deus Ex Machina
-Dialogue: 0,0:00:22.67,0:00:22.71,Scr,,0,0,0,,{\fad(0,0)\an2\pos(960,880)\c&H0099E5&\bord3\3c&HF0F0F0&\clip(m 834 820 l 859 873 1347 880 1357 747)}Deus Ex Machina
-Dialogue: 0,0:00:22.71,0:00:25.05,Scr,,0,0,0,,{\fad(0,0)\an2\pos(960,880)\c&H0099E5&\bord3\3c&HF0F0F0&\clip()}Deus Ex Machina
-Dialogue: 0,0:00:25.05,0:00:26.71,Scr,,0,0,0,,{\fs40\bord2\an1\pos(254,830)\3c&HD3A305&}Deus Ex Machina
-Dialogue: 0,0:00:26.71,0:00:28.38,Scr,,0,0,0,,{\fs40\bord2\an1\pos(254,830)\3c&HBA06D4&}Deus Ex Machina
-Dialogue: 0,0:00:28.38,0:00:30.05,Scr,,0,0,0,,{\fs40\bord2\an1\pos(254,830)\3c&HD406BF&}Deus Ex Machina
-Dialogue: 0,0:00:25.05,0:00:26.71,Scr,,0,0,0,,{\fs50\bord2\an1\3c&HDCD6C9&\c&HD3A305&\pos(665,980)}Deus
-Dialogue: 0,0:00:26.71,0:00:28.38,Scr,,0,0,0,,{\fs50\bord2\an1\3c&HDCD6C9&\c&HBA06D4&\pos(665,980)}Ex
-Dialogue: 0,0:00:28.38,0:00:30.05,Scr,,0,0,0,,{\fs50\bord2\an1\3c&HDCD6C9&\c&HD406BF&\pos(665,980)}Machina
-Comment: 0,0:00:00.00,0:00:00.00,Scr,,0,0,0,,
-Dialogue: 0,0:23:35.02,0:23:40.02,Scr,,0,0,0,,{\an1\bord4\c&HE6E5E5&\blur6\fnSource Han Sans SC Heavy\fs100\pos(100,883)\3c&HFB441D&}请期待下一段主歌喵！
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Note~
-Dialogue: 0,0:06:11.52,0:06:13.06,TopLeft,,0,0,0,,平和不明白 ディスり 的意思，搞错成 すり（盗窃）了
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Dialogue~
 Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,我不想输喵
 Dialogue: 0,0:00:03.90,0:00:07.53,Default,,0,0,0,,你好啊？各位 WIXOSS 玩得开心吗？
 Dialogue: 0,0:00:07.53,0:00:13.74,Default,,0,0,0,,本周在 WIXOSS LAND 里  DIVA 们展开了激烈的对战
@@ -478,3 +429,51 @@ Dialogue: 0,0:22:02.84,0:22:04.72,Default,,0,0,0,,真…真的啊
 Dialogue: 0,0:22:04.97,0:22:06.18,Default,,0,0,0,,Mika P…
 Dialogue: 0,0:22:06.18,0:22:13.27,Default,,0,0,0,,你没忘记… 你没忘记喵们啊
 Dialogue: 0,0:22:14.19,0:22:16.52,Default,,0,0,0,,小喵…
+Comment: 0,0:00:00.00,0:00:00.00,Scr,,0,0,0,,
+Dialogue: 0,0:22:22.66,0:22:26.16,Scr,,0,0,0,,{\bord0\c&H333333&\fnSource Han Sans SC Heavy\fscx85\fs60\pos(960,820)}◾◼ 翻译：tastySugar    后期：natsukage    字幕制作：SweetSub ◼◾
+Dialogue: 0,0:22:22.66,0:22:26.16,Scr,,0,0,0,,{\bord0\c&H333333&\fnSource Han Sans SC Heavy\fscx85\fs60\pos(960,880)}◾◼ 特别协作：WIXOSS 翻译组 ◼◾
+Comment: 0,0:00:00.00,0:00:00.00,Scr,,0,0,0,,
+Dialogue: 0,0:22:22.57,0:22:26.16,Scr,,0,0,0,,{\bord0\c&H333333&\fnSource Han Sans SC Heavy\fscx85\fs100\pos(960,660)\clip(0,665,1920,712)}我不想输喵！
+Dialogue: 0,0:22:22.66,0:22:26.16,Scr,,0,0,0,,{\bord0\c&H333333&\fnSource Han Sans SC Heavy\fscx85\fs100\pos(960,660)\clip(0,716,1920,765)}我不想输喵！
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
+Dialogue: 0,0:17:55.72,0:17:57.97,Ruby,,0,0,0,,{\pos(1114,990)}理由
+Dialogue: 0,0:18:05.73,0:18:08.03,Ruby,,0,0,0,,{\pos(1185,990)}圣歌
+Dialogue: 0,0:05:57.25,0:05:59.63,Ruby,,0,0,0,,{\pos(1164,990)}每分钟节奏数
+Dialogue: 0,0:05:23.18,0:05:26.35,Ruby,,0,0,0,,{\fsp10\pos(1210,990)}绝对零度
+Dialogue: 0,0:13:48.14,0:13:51.10,Ruby,,0,0,0,,{\pos(1366,990)}Mirage
+Dialogue: 0,0:19:17.22,0:19:19.01,Ruby,,0,0,0,,{\pos(1030,990)}圣歌
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
+Dialogue: 0,0:21:11.25,0:21:13.29,Scr,,0,0,0,,{\3c&H245557&\fad(250,0)\fs60}Mika P
+Comment: 0,0:00:00.00,0:00:00.00,Scr,,0,0,0,,
+Dialogue: 1,0:09:34.93,0:09:36.76,TopLeft,,0,0,0,,{\c&H000000&\bord0\blur0.4\clip()}梦限少女 Mika  她的制作人手腕\N{\fs50}发掘顶级 DIVA 的伯乐之眼
+Dialogue: 0,0:09:34.93,0:09:36.76,TopLeft,,0,0,0,,{\c&HF6F6F6&\p1\pos(0,0)\an7\bord0\blur2}m 20 30 l 20 150 620 150 620 30
+Comment: 0,0:00:00.00,0:00:00.00,Scr,,0,0,0,,
+Dialogue: 1,0:09:41.52,0:09:44.02,TopLeft,,0,0,0,,{\c&H000000&\bord0\blur0.4\clip()}人气急速上升  探求 {\u1}No Limit{\u0} 的秘密
+Dialogue: 0,0:09:41.52,0:09:44.02,TopLeft,,0,0,0,,{\c&HF6F6F6&\p1\pos(0,0)\an7\bord0\blur2}m 20 30 l 20 100 700 100 700 30
+Comment: 0,0:00:00.00,0:00:00.00,Scr,,0,0,0,,
+Dialogue: 0,0:00:44.57,0:00:44.61,Scr,,0,0,0,,{\fad(0,0)\an2\bord4\pos(960,720)\c&HFEFF63&\clip(1112,0,1920,1080)}K{\c&HB085FB&}yu{\c&HFF9EB6&}ru K{\c&HB085FB&}yu{\c&HFFFD78&}ru{\c&HF79BB6&}n
+Dialogue: 0,0:00:44.61,0:00:44.65,Scr,,0,0,0,,{\fad(0,0)\an2\bord4\pos(960,720)\c&HFEFF63&\clip(1036,0,1920,1080)}K{\c&HB085FB&}yu{\c&HFF9EB6&}ru K{\c&HB085FB&}yu{\c&HFFFD78&}ru{\c&HF79BB6&}n
+Dialogue: 0,0:00:44.65,0:00:44.69,Scr,,0,0,0,,{\fad(0,0)\an2\bord4\pos(960,720)\c&HFEFF63&\clip(960,0,1920,1080)}K{\c&HB085FB&}yu{\c&HFF9EB6&}ru K{\c&HB085FB&}yu{\c&HFFFD78&}ru{\c&HF79BB6&}n
+Dialogue: 0,0:00:44.69,0:00:44.73,Scr,,0,0,0,,{\fad(0,0)\an2\bord4\pos(960,720)\c&HFEFF63&\clip(884,0,1920,1080)}K{\c&HB085FB&}yu{\c&HFF9EB6&}ru K{\c&HB085FB&}yu{\c&HFFFD78&}ru{\c&HF79BB6&}n
+Dialogue: 0,0:00:44.73,0:00:44.77,Scr,,0,0,0,,{\fad(0,0)\an2\bord4\pos(960,720)\c&HFEFF63&\clip(808,0,1920,1080)}K{\c&HB085FB&}yu{\c&HFF9EB6&}ru K{\c&HB085FB&}yu{\c&HFFFD78&}ru{\c&HF79BB6&}n
+Dialogue: 0,0:00:44.77,0:00:48.19,Scr,,0,0,0,,{\fad(0,0)\an2\bord4\pos(960,720)\c&HFEFF63&}K{\c&HB085FB&}yu{\c&HFF9EB6&}ru K{\c&HB085FB&}yu{\c&HFFFD78&}ru{\c&HF79BB6&}n
+Comment: 0,0:00:00.00,0:00:00.00,Scr,,0,0,0,,
+Dialogue: 0,0:00:04.78,0:00:04.82,Scr,,0,0,0,,{\fad(0,0)\an3\pos(790,840)\c&H0099E5&\bord3\3c&HF0F0F0&\clip(m 739 770 l 769 836 877 832 881 765)}Saba
+Dialogue: 0,0:00:04.82,0:00:04.86,Scr,,0,0,0,,{\fad(0,0)\an3\pos(790,840)\c&H0099E5&\bord3\3c&HF0F0F0&\clip(m 663 771 l 694 834 884 837 882 759)}Saba
+Dialogue: 0,0:00:04.86,0:00:08.70,Scr,,0,0,0,,{\fad(0,100)\an3\pos(790,840)\c&H0099E5&\bord3\3c&HF0F0F0&}Saba
+Dialogue: 0,0:00:18.12,0:00:21.71,Scr,,0,0,0,,{\fad(250,0)\fs60\c&HBDB8B7&\3c&H39211C&\pos(580,130)}Deus Ex Machina
+Comment: 0,0:00:00.00,0:00:00.00,Scr,,0,0,0,,
+Dialogue: 0,0:00:22.59,0:00:22.63,Scr,,0,0,0,,{\fad(0,0)\an2\pos(960,880)\c&H0099E5&\bord3\3c&HF0F0F0&\clip(m 1088 822 l 1114 878 1261 878 1226 729)}Deus Ex Machina
+Dialogue: 0,0:00:22.63,0:00:22.67,Scr,,0,0,0,,{\fad(0,0)\an2\pos(960,880)\c&H0099E5&\bord3\3c&HF0F0F0&\clip(m 962 825 l 989 882 1341 878 1332 708 832 708 953 837)}Deus Ex Machina
+Dialogue: 0,0:00:22.67,0:00:22.71,Scr,,0,0,0,,{\fad(0,0)\an2\pos(960,880)\c&H0099E5&\bord3\3c&HF0F0F0&\clip(m 834 820 l 859 873 1347 880 1357 747)}Deus Ex Machina
+Dialogue: 0,0:00:22.71,0:00:25.05,Scr,,0,0,0,,{\fad(0,0)\an2\pos(960,880)\c&H0099E5&\bord3\3c&HF0F0F0&\clip()}Deus Ex Machina
+Dialogue: 0,0:00:25.05,0:00:26.71,Scr,,0,0,0,,{\fs40\bord2\an1\pos(254,830)\3c&HD3A305&}Deus Ex Machina
+Dialogue: 0,0:00:26.71,0:00:28.38,Scr,,0,0,0,,{\fs40\bord2\an1\pos(254,830)\3c&HBA06D4&}Deus Ex Machina
+Dialogue: 0,0:00:28.38,0:00:30.05,Scr,,0,0,0,,{\fs40\bord2\an1\pos(254,830)\3c&HD406BF&}Deus Ex Machina
+Dialogue: 0,0:00:25.05,0:00:26.71,Scr,,0,0,0,,{\fs50\bord2\an1\3c&HDCD6C9&\c&HD3A305&\pos(665,980)}Deus
+Dialogue: 0,0:00:26.71,0:00:28.38,Scr,,0,0,0,,{\fs50\bord2\an1\3c&HDCD6C9&\c&HBA06D4&\pos(665,980)}Ex
+Dialogue: 0,0:00:28.38,0:00:30.05,Scr,,0,0,0,,{\fs50\bord2\an1\3c&HDCD6C9&\c&HD406BF&\pos(665,980)}Machina
+Comment: 0,0:00:00.00,0:00:00.00,Scr,,0,0,0,,
+Dialogue: 0,0:23:35.02,0:23:40.02,Scr,,0,0,0,,{\an1\bord4\c&HE6E5E5&\blur6\fnSource Han Sans SC Heavy\fs100\pos(100,883)\3c&HFB441D&}请期待下一段主歌喵！
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
+Dialogue: 0,0:06:11.52,0:06:13.06,TopLeft,,0,0,0,,平和不明白 ディスり 的意思，搞错成 すり（盗窃）了
