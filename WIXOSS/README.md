@@ -6,7 +6,7 @@
 |  2   |  才没有什么极限！  | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/WIXOSS/%5BSweetSub%5D%20WIXOSS%20DIVA(A)LIVE%20-%2002.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/WIXOSS/%5BSweetSub%5D%20WIXOSS%20DIVA(A)LIVE%20-%2002.cht.ass) |
 |  3   |    我不想输喵！    | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/WIXOSS/%5BSweetSub%5D%20WIXOSS%20DIVA(A)LIVE%20-%2003.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/WIXOSS/%5BSweetSub%5D%20WIXOSS%20DIVA(A)LIVE%20-%2003.cht.ass) |
 |  4   |       对不起       | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/WIXOSS/%5BSweetSub%5D%20WIXOSS%20DIVA(A)LIVE%20-%2004.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/WIXOSS/%5BSweetSub%5D%20WIXOSS%20DIVA(A)LIVE%20-%2004.cht.ass) |
-|  5   |                    |                                                              |                                                              |
+|  5   |  我已经不害怕了！  | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/WIXOSS/%5BSweetSub%5D%20WIXOSS%20DIVA(A)LIVE%20-%2005.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub/master/WIXOSS/%5BSweetSub%5D%20WIXOSS%20DIVA(A)LIVE%20-%2005.cht.ass) |
 |  6   |                    |                                                              |                                                              |
 |  7   |                    |                                                              |                                                              |
 |  8   |                    |                                                              |                                                              |
