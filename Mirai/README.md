@@ -16,6 +16,6 @@
 
 源ノ角ゴシック Medium \<Source Han Sans Medium\>
 
-切黑边（1920x1036）  [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Mirai/%5BSweetSub%5D%20Mirai%20no%20Mirai%20%5B1920x1036%5D.chs.ass)  [繁体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Mirai/%5BSweetSub%5D%20Mirai%20no%20Mirai%20%5B1920x1036%5D.cht.ass)
+切黑边（1920x1036）  [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Mirai/%5BSweetSub%5D%20Mirai%20no%20Mirai%20%5B1920x1036%5D.chs.ass)  [繁体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Mirai/%5BSweetSub%5D%20Mirai%20no%20Mirai%20%5B1920x1036%5D.cht.ass)
 
-有黑边（1920x1080）  [简体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Mirai/%5BSweetSub%5D%20Mirai%20no%20Mirai%20%5B1920x1080%5D.chs.ass)  [繁体](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Mirai/%5BSweetSub%5D%20Mirai%20no%20Mirai%20%5B1920x1080%5D.cht.ass)
+有黑边（1920x1080）  [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Mirai/%5BSweetSub%5D%20Mirai%20no%20Mirai%20%5B1920x1080%5D.chs.ass)  [繁体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Mirai/%5BSweetSub%5D%20Mirai%20no%20Mirai%20%5B1920x1080%5D.cht.ass)

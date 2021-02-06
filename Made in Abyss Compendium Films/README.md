@@ -1,10 +1,10 @@
 | 剧场版 BD 字幕下载 |                                                              |                                                              |
 | ------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 启程之拂晓         | [简体字幕](https://github.com/tastysugar/SweetSub/raw/master/Made%20in%20Abyss%20Compendium%20Films/%5BSweetSub%5D%20Made%20in%20Abyss%20-%20Journey's%20Dawn.chs.ass) | [繁体字幕](https://github.com/tastysugar/SweetSub/raw/master/Made%20in%20Abyss%20Compendium%20Films/%5BSweetSub%5D%20Made%20in%20Abyss%20-%20Journey's%20Dawn.chs.ass) |
-| 漂泊之黄昏         | [简体字幕](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Made%20in%20Abyss%20Compendium%20Films/%5BSweetSub%5D%20Made%20in%20Abyss%20-%20Wandering%20Twilight.chs.ass) | [繁体字幕](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Made%20in%20Abyss%20Compendium%20Films/%5BSweetSub%5D%20Made%20in%20Abyss%20-%20Wandering%20Twilight.chs.ass) |
-| 合集下载           | [简体字幕](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Made%20in%20Abyss%20Compendium%20Films/%5BSweetSub%5D%20Made%20in%20Abyss%20Compendium%20Films.chs.zip) | [繁体字幕](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Made%20in%20Abyss%20Compendium%20Films/%5BSweetSub%5D%20Made%20in%20Abyss%20Compendium%20Films.cht.zip) |
+| 启程之拂晓         | [简体字幕](https://github.com/tastysugar/SweetSub-source/raw/master/Made%20in%20Abyss%20Compendium%20Films/%5BSweetSub%5D%20Made%20in%20Abyss%20-%20Journey's%20Dawn.chs.ass) | [繁体字幕](https://github.com/tastysugar/SweetSub-source/raw/master/Made%20in%20Abyss%20Compendium%20Films/%5BSweetSub%5D%20Made%20in%20Abyss%20-%20Journey's%20Dawn.chs.ass) |
+| 漂泊之黄昏         | [简体字幕](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Made%20in%20Abyss%20Compendium%20Films/%5BSweetSub%5D%20Made%20in%20Abyss%20-%20Wandering%20Twilight.chs.ass) | [繁体字幕](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Made%20in%20Abyss%20Compendium%20Films/%5BSweetSub%5D%20Made%20in%20Abyss%20-%20Wandering%20Twilight.chs.ass) |
+| 合集下载           | [简体字幕](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Made%20in%20Abyss%20Compendium%20Films/%5BSweetSub%5D%20Made%20in%20Abyss%20Compendium%20Films.chs.zip) | [繁体字幕](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Made%20in%20Abyss%20Compendium%20Films/%5BSweetSub%5D%20Made%20in%20Abyss%20Compendium%20Films.cht.zip) |
 
-[点此下载《来自深渊》剧集 BD 版字幕](https://github.com/tastysugar/SweetSub/tree/master/Made%20in%20Abyss)
+[点此下载《来自深渊》剧集 BD 版字幕](https://github.com/tastysugar/SweetSub-source/tree/master/Made%20in%20Abyss)
 
 ------
 

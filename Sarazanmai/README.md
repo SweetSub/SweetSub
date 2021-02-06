@@ -8,20 +8,20 @@
 
 | 集数   | 标题                      | 简体中文 | 繁體中文 |
 | ----- | ------------------------ | ------- | ------- |
-| 第一皿 | 「想要相连可又 想要掩饰」   | [简体中文](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/01.zhs.ass) | [繁體中文](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/01.zht.ass) 
-| 第二皿 | 「想要相连可又 想要抢夺」   | [简体中文](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/02.zhs.ass) | [繁體中文](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/02.zht.ass) 
-| 第三皿 | 「想要相连可又 得不到回报」  | [简体中文](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/03.zhs.ass) | [繁體中文](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/03.zht.ass) 
-| 第四皿 | 「想要相连可又 不在我的身边」 | [简体中文](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/04.zhs.ass) | [繁體中文](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/04.zht.ass) 
-| 第五皿 | 「想要相连可又 得不到原谅」  | [简体中文](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/05.zhs.ass) | [繁體中文](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/05.zht.ass) 
-| 第六皿 | 「想要相连所以 不会轻言放弃」 | [简体中文](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/06.zhs.ass) | [繁體中文](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/06.zht.ass) 
-| 第七皿 | 「想要相连可又 想要去背叛」  | [简体中文](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/07.zhs.ass) | [繁體中文](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/07.zht.ass) 
-| 第八皿 | 「想要相连可又 无法再度相见」 | [简体中文](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/08.zhs.ass) | [繁體中文](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/08.zht.ass) 
-| 第九皿 | 「想要相连却已 无法传达到」 | [简体中文](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/09.zhs.ass) | [繁體中文](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/09.zht.ass) 
-| 第十皿 | 「想要相连却已 无法与你连系」 | [简体中文](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/10.zhs.ass) | [繁體中文](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/10.zht.ass) 
-| 第十一皿 | 「想要相连所以 Sarazanmai」 | [简体中文](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/11.zhs.ass) | [繁體中文](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/11.zht.ass) 
-| 合集 |  | [简体中文](https://github.com/tastysugar/SweetSub/raw/master/Sarazanmai/%5BSweetSub%5D%20Sarazanmai.zhs.rar) | [繁體中文](https://github.com/tastysugar/SweetSub/raw/master/Sarazanmai/%5BSweetSub%5D%20Sarazanmai.zht.rar) 
+| 第一皿 | 「想要相连可又 想要掩饰」   | [简体中文](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Sarazanmai/01.zhs.ass) | [繁體中文](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Sarazanmai/01.zht.ass) 
+| 第二皿 | 「想要相连可又 想要抢夺」   | [简体中文](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Sarazanmai/02.zhs.ass) | [繁體中文](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Sarazanmai/02.zht.ass) 
+| 第三皿 | 「想要相连可又 得不到回报」  | [简体中文](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Sarazanmai/03.zhs.ass) | [繁體中文](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Sarazanmai/03.zht.ass) 
+| 第四皿 | 「想要相连可又 不在我的身边」 | [简体中文](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Sarazanmai/04.zhs.ass) | [繁體中文](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Sarazanmai/04.zht.ass) 
+| 第五皿 | 「想要相连可又 得不到原谅」  | [简体中文](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Sarazanmai/05.zhs.ass) | [繁體中文](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Sarazanmai/05.zht.ass) 
+| 第六皿 | 「想要相连所以 不会轻言放弃」 | [简体中文](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Sarazanmai/06.zhs.ass) | [繁體中文](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Sarazanmai/06.zht.ass) 
+| 第七皿 | 「想要相连可又 想要去背叛」  | [简体中文](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Sarazanmai/07.zhs.ass) | [繁體中文](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Sarazanmai/07.zht.ass) 
+| 第八皿 | 「想要相连可又 无法再度相见」 | [简体中文](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Sarazanmai/08.zhs.ass) | [繁體中文](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Sarazanmai/08.zht.ass) 
+| 第九皿 | 「想要相连却已 无法传达到」 | [简体中文](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Sarazanmai/09.zhs.ass) | [繁體中文](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Sarazanmai/09.zht.ass) 
+| 第十皿 | 「想要相连却已 无法与你连系」 | [简体中文](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Sarazanmai/10.zhs.ass) | [繁體中文](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Sarazanmai/10.zht.ass) 
+| 第十一皿 | 「想要相连所以 Sarazanmai」 | [简体中文](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Sarazanmai/11.zhs.ass) | [繁體中文](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Sarazanmai/11.zht.ass) 
+| 合集 |  | [简体中文](https://github.com/tastysugar/SweetSub-source/raw/master/Sarazanmai/%5BSweetSub%5D%20Sarazanmai.zhs.rar) | [繁體中文](https://github.com/tastysugar/SweetSub-source/raw/master/Sarazanmai/%5BSweetSub%5D%20Sarazanmai.zht.rar) 
 
-[对应 TV 时间轴的字幕下载](https://raw.githubusercontent.com/tastysugar/SweetSub/master/Sarazanmai/%5BSweetSub%5D%20Sarazanmai%20TV%20%E7%89%88%E5%AD%97%E5%B9%95.rar)
+[对应 TV 时间轴的字幕下载](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Sarazanmai/%5BSweetSub%5D%20Sarazanmai%20TV%20%E7%89%88%E5%AD%97%E5%B9%95.rar)
 
 如果无法解压，请使用 winrar 5.0 以上版本或 bandizip 解压。
 
