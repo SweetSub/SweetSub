@@ -47,7 +47,7 @@ Dialogue: 0,0:02:07.23,0:02:11.90,Credit,,0,0,0,,{\fsp20\pos(960,160)}SweetSub
 Dialogue: 0,0:02:07.23,0:02:11.90,Credit,,0,0,0,,{\pos(960,880)}翻譯：{\fsp4}tastySugar{\fsp10}     後期：{\fsp4}natsukage
 Comment: 0,0:00:00.00,0:00:00.00,Title,,0,0,0,,~Title~
 Dialogue: 0,0:03:32.44,0:03:37.41,Title,,0,0,0,,{\fs64\pos(1119,510)\1a&HFF&\t(0,500,0.85,\1a&H00&)\c&HFBFDFC&}第 4 集  {\fs78}   Colorful Girls
-Dialogue: 0,0:22:44.97,0:22:49.97,Next,,0,0,0,,{\pos(960,720)\shad0.5\c&H2988FF&\4c&H000000&\4a&H64&}吹笛的少女
+Dialogue: 0,0:22:44.97,0:22:49.97,Next,,0,0,0,,{\pos(960,720)\shad0.5\c&H2988FF&\4c&H000000&\4a&H64&}吹哨的少女
 Comment: 0,0:00:00.00,0:00:00.00,Title,,0,0,0,,~Sign~
 Dialogue: 0,0:15:22.44,0:15:25.24,TopLeft,,0,0,0,,{\an7\c&H38AADC&}返程空車\N{\c&H3240EF&}列車即將到站
 Dialogue: 0,0:10:18.26,0:10:20.56,TopLeft,,0,0,0,,{\an7\c&H38AADC&}返程空車\N{\c&H3240EF&}列車即將到站
