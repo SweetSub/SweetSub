@@ -8,9 +8,9 @@
 |  4   | 每个人，都会喜欢上某个人。 | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2004.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2004.cht.ass) |
 |  5   |    那是，无法言说的事。    | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2005.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2005.cht.ass) |
 |  6   |   毕竟，今年的夏天很热。   | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2006.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2006.cht.ass) |
-|  7   |    我旁有你，你旁有我。    |                                                              |                                                              |
-|  8   |                            |                                                              |                                                              |
-|  9   |                            |                                                              |                                                              |
+|  7   |    我旁有你，你旁有我。    | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2007.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2007.cht.ass) |
+|  8   | 披上伪装，才能看见的事物。 | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2008.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2008.cht.ass) |
+|  9   |    很难，但并非不可能。    |                                                              |                                                              |
 |  10  |                            |                                                              |                                                              |
 |  11  |                            |                                                              |                                                              |
 |  12  |                            |                                                              |                                                              |
