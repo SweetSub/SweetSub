@@ -46,7 +46,7 @@ Dialogue: 0,0:01:50.21,0:01:54.89,Credit,,0,0,0,,{\fsp20\pos(960,160)}SweetSub
 Dialogue: 0,0:01:50.21,0:01:54.89,Credit,,0,0,0,,{\pos(960,880)}翻译：{\fsp4}tastySugar{\fsp10}     后期：{\fsp4}natsukage
 Comment: 0,0:00:00.00,0:00:00.00,Title,,0,0,0,,~Title~
 Dialogue: 0,0:03:20.72,0:03:22.68,Title,,0,0,0,,{\fs64\pos(1249,510)\fad(0,0)}第 7 集  {\fs78}   十四岁的放学后
-Dialogue: 0,0:22:44.97,0:22:49.93,Next,,0,0,0,,{\pos(960,720)\shad0\c&HAEF61C&\4c&H000000&\4a&H64&}开朗的朋友计划
+Dialogue: 0,0:22:44.97,0:22:49.93,Next,,0,0,0,,{\pos(960,720)\shad0\c&HAEF61C&\4c&H000000&\4a&H64&}明快的朋友计划
 Comment: 0,0:00:00.00,0:00:00.00,Title,,0,0,0,,~Sign~
 Dialogue: 0,0:00:22.63,0:00:23.13,Scr,,0,0,0,,{\an7\fs90\3c&HB9B3EC&\c&H845F46&\fnSource Han Sans SC\fad(0,0)\pos(952,210)}嗯，晚安
 Dialogue: 0,0:00:23.12,0:00:23.16,Scr,,0,0,0,,{\alpha&H00&\an7\fs90\3c&HB9B3EC&\c&H845F46&\fnSource Han Sans SC\pos(952,210)}嗯，晚安
