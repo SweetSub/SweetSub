@@ -10,8 +10,8 @@
 |  6   |   毕竟，今年的夏天很热。   | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2006.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2006.cht.ass) |
 |  7   |    我旁有你，你旁有我。    | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2007.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2007.cht.ass) |
 |  8   | 披上伪装，才能看见的事物。 | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2008.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2008.cht.ass) |
-|  9   |    很难，但并非不可能。    |                                                              |                                                              |
-|  10  |                            |                                                              |                                                              |
+|  9   |    很难，但并非不可能。    | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2009.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2009.cht.ass) |
+|  10  |     待到积雪消融之时。     |                                                              |                                                              |
 |  11  |                            |                                                              |                                                              |
 |  12  |                            |                                                              |                                                              |
 |  13  |                            |                                                              |                                                              |
