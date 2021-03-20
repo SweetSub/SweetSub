@@ -11,8 +11,8 @@
 |  7   |     我们是同伴！     | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/WIXOSS/%5BSweetSub%5D%20WIXOSS%20DIVA(A)LIVE%20-%2007.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/WIXOSS/%5BSweetSub%5D%20WIXOSS%20DIVA(A)LIVE%20-%2007.cht.ass) |
 |  8   | Let's Kyuru Kyurun☆  | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/WIXOSS/%5BSweetSub%5D%20WIXOSS%20DIVA(A)LIVE%20-%2008.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/WIXOSS/%5BSweetSub%5D%20WIXOSS%20DIVA(A)LIVE%20-%2008.cht.ass) |
 |  9   |  这真是命中注定的！  | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/WIXOSS/%5BSweetSub%5D%20WIXOSS%20DIVA(A)LIVE%20-%2009.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/WIXOSS/%5BSweetSub%5D%20WIXOSS%20DIVA(A)LIVE%20-%2009.cht.ass) |
-|  10  |                      |                                                              |                                                              |
-|  11  |                      |                                                              |                                                              |
+|  10  |      不要逃避！      | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/WIXOSS/%5BSweetSub%5D%20WIXOSS%20DIVA(A)LIVE%20-%2010.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/WIXOSS/%5BSweetSub%5D%20WIXOSS%20DIVA(A)LIVE%20-%2010.cht.ass) |
+|  11  |   我已经到极限了…    | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/WIXOSS/%5BSweetSub%5D%20WIXOSS%20DIVA(A)LIVE%20-%2011.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/WIXOSS/%5BSweetSub%5D%20WIXOSS%20DIVA(A)LIVE%20-%2010.cht.ass) |
 |  12  |                      |                                                              |                                                              |
 |  13  |                      |                                                              |                                                              |
 
