@@ -1,6 +1,6 @@
-[简体字幕](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Umibe%20no%20Etranger/[SweetSub] Umibe no Etranger.chs&jap.zip)
+[简体字幕](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Umibe%20no%20Etranger/[SweetSub]%20Umibe%20no%20Etranger.chs&jap.zip)
 
-[繁体字幕](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Umibe%20no%20Etranger/[SweetSub] Umibe no Etranger.cht&jap.zip)
+[繁体字幕](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Umibe%20no%20Etranger/[SweetSub]%20Umibe%20no%20Etranger.cht&jap.zip)
 
 
 
