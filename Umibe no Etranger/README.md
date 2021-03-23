@@ -1,7 +1,24 @@
-|               | 简体                                                         | 繁体                                                         |
-| ------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 先行版（WEB） | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Umibe%20no%20Etranger/%E5%85%88%E8%A1%8C%E7%89%88/%5BSweetSub%5D%20Umibe%20no%20Etranger.chs.ass) | [繁体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Umibe%20no%20Etranger/%E5%85%88%E8%A1%8C%E7%89%88/%5BSweetSub%5D%20Umibe%20no%20Etranger.cht.ass) |
-| BD            |                                                              |                                                              |
+|      | 简体                                                         | 繁体                                                         |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| BD   | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Umibe%20no%20Etranger/[SweetSub] Umibe no Etranger.chs&jap.zip) | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Umibe%20no%20Etranger/[SweetSub] Umibe no Etranger.cht&jap.zip) |
 
-![](https://i.loli.net/2021/02/26/F4mBhnSkr7HNUVo.jpg)
+所用字体：
+
+ＤＦてがき角W4 \<DFTegakiKaku-W4>
+华康竹风体W4 \<DFChu SC2 W4>
+思源宋体 \<Source Han Serif SC>
+思源宋体 Medium \<Source Han Serif SC Medium>
+思源宋体 SemiBold \<Source Han Serif SC SemiBold>
+思源宋體 \<Source Han Serif TC>
+思源宋體 Medium \<Source Han Serif TC Medium>
+思源宋體 SemiBold \<Source Han Serif TC SemiBold>
+思源黑体 \<Source Han Sans SC>
+思源黑体 Medium \<Source Han Sans SC Medium>
+思源黑體 \<Source Han Sans TC>
+思源黑體 Medium \<Source Han Sans TC Medium>
+源ノ角ゴシック Medium \<Source Han Sans Medium>
+
+
+
+![](https://i.loli.net/2021/03/23/f8XJMHGpONu5bKc.jpg)
 
