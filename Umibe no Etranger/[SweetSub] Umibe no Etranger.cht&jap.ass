@@ -24,6 +24,13 @@ Style: TopLeft,Source Han Sans TC Medium,60,&H00F0F0F0,&H000000FF,&H00000000,&H0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,本字幕由 SweetSub 製作
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,本字幕在遵循 Creative Common BY-NC-ND 4.0 規則的情況下可以自由轉載、使用。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,即，在署名、非商業利用、不進行修改的情況下可以自由轉載使用。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果是僅僅是修改時間軸匹配自己的片源的話，可以作為例外，在署名、非商業利用的情況下，可以自由轉載、使用。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果在其它情況下想要轉載和使用本字幕，可以通過 telegram 聯繫我。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,該版本是 BD 最終版字幕。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果在字幕中發現了錯誤或者有其它問題，可以使用 telegram 聯繫我，詳細方法見 SweetSub 的 telegram 頻道。
 Comment: 0,0:00:00.00,0:00:00.00,Staff,,0,0,0,,▶Staff◀
 Dialogue: 0,0:58:24.78,0:58:33.45,Staff,,0,0,0,,{\fad(500,500)\pos(1200,1050)}{\fs45}翻譯 / 後期\N\N校　對\N\N片　源\N\N特別感謝\N字幕製作{\alpha&HFF&\fs80}SweetSub{\alpha&H00&}
 Dialogue: 0,0:58:24.78,0:58:33.45,Staff,,0,0,0,,{\fad(500,500)\pos(1400,1050)}{\fs45}natsukage \N\NtastySugar、Xiefang\N\N吊車尾的探索士\N\N接力付出過的每一位\N{\alpha&HFF&\fs80}SweetSub{\alpha&H00&}
