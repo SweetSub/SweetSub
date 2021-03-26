@@ -14,6 +14,6 @@
 
 字幕下载：
 
-简体  [无注释](https://github.com/tastysugar/SweetSub-source/raw/master/Boogiepop%20Phantom/Boogiepop%20Phantom%20chs.zip)  [注释版](https://github.com/tastysugar/SweetSub-source/raw/master/Boogiepop%20Phantom/Boogiepop%20Phantom%20chs_annotated.zip)
+简体  [无注释](https://github.com/tastysugar/SweetSub-source/raw/master/Boogiepop%20Phantom/%5BSweetSub%5D%20Boogiepop%20Phantom.chs.zip)  [注释版](https://github.com/tastysugar/SweetSub-source/raw/master/Boogiepop%20Phantom/%5BSweetSub%5D%20Boogiepop%20Phantom.chs_annotated.zip)
 
-繁体  [无注释](https://github.com/tastysugar/SweetSub-source/raw/master/Boogiepop%20Phantom/Boogiepop%20Phantom%20cht.zip)  [注释版](https://github.com/tastysugar/SweetSub-source/raw/master/Boogiepop%20Phantom/Boogiepop%20Phantom%20cht_annotated.zip)
+繁体  [无注释](https://github.com/tastysugar/SweetSub-source/raw/master/Boogiepop%20Phantom/%5BSweetSub%5D%20Boogiepop%20Phantom.cht.zip)  [注释版](https://github.com/tastysugar/SweetSub-source/raw/master/Boogiepop%20Phantom/%5BSweetSub%5D%20Boogiepop%20Phantom.cht_annotated.zip)
