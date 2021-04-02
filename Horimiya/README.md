@@ -12,9 +12,9 @@
 |  8   | 披上伪装，才能看见的事物。 | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2008.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2008.cht.ass) |
 |  9   |    很难，但并非不可能。    | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2009.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2009.cht.ass) |
 |  10  |     待到积雪消融之时。     | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2010.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2010.cht.ass) |
-|  11  |    嘴上厌恶，心存隐情。    |                                                              |                                                              |
-|  12  |                            |                                                              |                                                              |
-|  13  |                            |                                                              |                                                              |
+|  11  |    嘴上厌恶，心存隐情。    | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2011.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2011.cht.ass) |
+|  12  |    从前如此，往后依旧。    | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2012.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2012.cht.ass) |
+|  13  |    多想，赠你这片晴空。    |                                                              |                                                              |
 
 注：Funimation 源需要平移字幕 288 帧或 12 秒。
 
