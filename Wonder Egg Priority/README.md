@@ -13,7 +13,7 @@
 |  9   | 不为人知的故事  | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Wonder%20Egg%20Priority/%5BSweetSub%5D%20Wonder%20Egg%20Priority%20-%2009.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Wonder%20Egg%20Priority/%5BSweetSub%5D%20Wonder%20Egg%20Priority%20-%2009.cht.ass) |
 |  10  |      告白       | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Wonder%20Egg%20Priority/%5BSweetSub%5D%20Wonder%20Egg%20Priority%20-%2010.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Wonder%20Egg%20Priority/%5BSweetSub%5D%20Wonder%20Egg%20Priority%20-%2010.cht.ass) |
 |  11  |    含苞待放     | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Wonder%20Egg%20Priority/%5BSweetSub%5D%20Wonder%20Egg%20Priority%20-%2011.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Wonder%20Egg%20Priority/%5BSweetSub%5D%20Wonder%20Egg%20Priority%20-%2011.cht.ass) |
-|  12  |                 |                                                              |                                                              |
+|  12  |   不败的战士    | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Wonder%20Egg%20Priority/%5BSweetSub%5D%20Wonder%20Egg%20Priority%20-%2012.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Wonder%20Egg%20Priority/%5BSweetSub%5D%20Wonder%20Egg%20Priority%20-%2012.cht.ass) |
 
 注：Funimation 源需要平移字幕 288 帧或 12 秒。
 
