@@ -2,8 +2,8 @@
 
 | 集数 |       标题       |                             简体                             |                             繁体                             |
 | :--: | :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  1   | 一无所有的女孩子 | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Super%20Cub/%5BSweetSub%5D%20Super%20Cub%20-%2001.chs.ass) | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Super%20Cub/%5BSweetSub%5D%20Super%20Cub%20-%2001.cht.ass) |
-|      |                  |                                                              |                                                              |
+|  1   | 一无所有的女孩子 | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Super%20Cub/%5BSweetSub%5D%20Super%20Cub%20-%2001.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Super%20Cub/%5BSweetSub%5D%20Super%20Cub%20-%2001.cht.ass) |
+|  2   |       礼子       | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Super%20Cub/%5BSweetSub%5D%20Super%20Cub%20-%2002.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Super%20Cub/%5BSweetSub%5D%20Super%20Cub%20-%2002.cht.ass) |
 |      |                  |                                                              |                                                              |
 |      |                  |                                                              |                                                              |
 |      |                  |                                                              |                                                              |
