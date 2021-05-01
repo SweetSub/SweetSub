@@ -3,8 +3,8 @@
 | 集数 |           标题           |                             简体                             |                             繁体                             |
 | :--: | :----------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |  1   | 只对你闪耀的暗黑星  其 1 | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Bishounen%20Tanteidan/%5BSweetSub%5D%20Bishounen%20Tanteidan%20-%2001.chs.ass) | [繁体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Bishounen%20Tanteidan/%5BSweetSub%5D%20Bishounen%20Tanteidan%20-%2001.cht.ass) |
-|      |                          |                                                              |                                                              |
-|      |                          |                                                              |                                                              |
+|  2   | 只对你闪耀的暗黑星  其 2 | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Bishounen%20Tanteidan/%5BSweetSub%5D%20Bishounen%20Tanteidan%20-%2002.chs.ass) | [繁体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Bishounen%20Tanteidan/%5BSweetSub%5D%20Bishounen%20Tanteidan%20-%2002.cht.ass) |
+|  3   | 只对你闪耀的暗黑星  其 3 | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Bishounen%20Tanteidan/%5BSweetSub%5D%20Bishounen%20Tanteidan%20-%2003.chs.ass) | [繁体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Bishounen%20Tanteidan/%5BSweetSub%5D%20Bishounen%20Tanteidan%20-%2003.cht.ass) |
 |      |                          |                                                              |                                                              |
 |      |                          |                                                              |                                                              |
 |      |                          |                                                              |                                                              |
