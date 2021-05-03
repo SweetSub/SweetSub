@@ -15,6 +15,8 @@
 |  11  |   我已经到极限了…    | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/WIXOSS/%5BSweetSub%5D%20WIXOSS%20DIVA(A)LIVE%20-%2011.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/WIXOSS/%5BSweetSub%5D%20WIXOSS%20DIVA(A)LIVE%20-%2011.cht.ass) |
 |  12  |      No Limit!       | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/WIXOSS/%5BSweetSub%5D%20WIXOSS%20DIVA(A)LIVE%20-%2012.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/WIXOSS/%5BSweetSub%5D%20WIXOSS%20DIVA(A)LIVE%20-%2012.cht.ass) |
 
+打包下载：
 
+WEB（1-13） [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/WIXOSS/%5BSweetSub%5D%20WIXOSS%20DIVA(A)LIVE%20%5B01-12%5D.chs.zip)  [繁体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/WIXOSS/%5BSweetSub%5D%20WIXOSS%20DIVA(A)LIVE%20%5B01-12%5D.cht.zip)
 
 ![](https://i.loli.net/2021/01/17/YH95qAPcVr3Noe7.jpg)
