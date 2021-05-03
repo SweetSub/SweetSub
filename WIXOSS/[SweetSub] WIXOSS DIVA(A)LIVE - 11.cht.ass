@@ -32,7 +32,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,即，在署名、非商業利�
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果是僅僅是修改時間軸匹配 BD 以外的片源的話，可以作為例外，在署名、非商業利用的情況下，可以自由轉載、使用。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果在其它情況下想要轉載和使用本字幕，或是在字幕中發現了錯誤或者有其它問題，可以使用 telegram 聯繫我，詳細方法見 telegram 頻道。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,該版本為初版字幕，在合集時會有修正。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,該版本為合集字幕，在出 BD 前應該不會再修改。
 Dialogue: 0,0:00:13.03,0:00:16.87,Default,,0,0,0,,我們能贏不是因為實力強
 Dialogue: 0,0:00:16.87,0:00:20.95,Default,,0,0,0,,獲勝所需要的東西只有一個  那就是…
 Dialogue: 0,0:00:29.59,0:00:30.51,Default,,0,0,0,,好了
@@ -46,7 +46,7 @@ Dialogue: 0,0:00:52.60,0:00:54.53,Default,,0,0,0,,{\u1}Deus Ex Machina{\u0}
 Dialogue: 0,0:00:54.53,0:00:58.66,Default,,0,0,0,,把對她們的挑戰權開放給低段位的 DIVA
 Dialogue: 0,0:00:58.66,0:01:02.16,Default,,0,0,0,,無論勝敗  都是一段很好的經驗
 Dialogue: 0,0:01:02.66,0:01:06.12,Default,,0,0,0,,如果這就一蹶不振  那就說明她們到此為止了
-Dialogue: 0,0:01:06.92,0:01:11.13,Default,,0,0,0,,你不覺得 WIXOSSLAND 是時候該迎來變革了嗎？
+Dialogue: 0,0:01:06.92,0:01:11.13,Default,,0,0,0,,你不覺得 WIXOSS LAND 是時候該迎來變革了嗎？
 Dialogue: 0,0:02:49.81,0:02:52.06,Default,,0,0,0,,Take a Chance Diva？
 Dialogue: 0,0:02:52.48,0:02:54.36,Default,,0,0,0,,說是給各段位領先的 DIVA
 Dialogue: 0,0:02:54.36,0:02:58.78,Default,,0,0,0,,一個與 {\u1}Deus Ex Machina{\u0} 對戰的機會
@@ -94,7 +94,7 @@ Dialogue: 0,0:04:39.34,0:04:43.59,Default,,0,0,0,,無論多少次  我們都贏�
 Dialogue: 0,0:04:43.59,0:04:45.64,Default,,0,0,0,,那繼續下去還有什麼意義…
 Dialogue: 0,0:04:45.64,0:04:46.51,Default,,0,0,0,,平和！
 Dialogue: 0,0:04:47.14,0:04:49.18,Default,,0,0,0,,你這話是認真的嗎？
-Dialogue: 0,0:04:49.18,0:04:51.31,Default,,0,0,0,,畢竟  我們沒能贏啊
+Dialogue: 0,0:04:49.18,0:04:51.31,Default,,0,0,0,,要知道我們之前就沒贏過啊
 Dialogue: 0,0:04:51.31,0:04:55.44,Default,,0,0,0,,那麼努力  對戰了那麼多次  卻連一次都沒贏過
 Dialogue: 0,0:04:55.90,0:04:56.94,Default,,0,0,0,,無論是我的攻擊
 Dialogue: 0,0:04:56.94,0:04:58.52,Default,,0,0,0,,昭乃的卡組
@@ -116,7 +116,7 @@ Dialogue: 0,0:05:51.78,0:05:54.33,Default,,0,0,0,,{\u1}Diagram{\u0} 不戰而勝
 Dialogue: 0,0:05:54.33,0:05:56.79,Default,,0,0,0,,恭喜！
 Dialogue: 0,0:05:56.79,0:05:59.46,Default,,0,0,0,,怎…怎麼回事？
 Dialogue: 0,0:05:59.46,0:06:01.59,Default,,0,0,0,,缺席  是發生了什麼事嗎？
-Dialogue: 0,0:06:01.59,0:06:03.80,Default,,0,0,0,,解釋一下啊  鯖魚味噌
+Dialogue: 0,0:06:01.59,0:06:03.80,Default,,0,0,0,,解釋一下啊  鯖魚味增
 Dialogue: 0,0:06:03.80,0:06:05.17,Default,,0,0,0,,我是 Saba
 Dialogue: 0,0:06:05.17,0:06:07.80,Default,,0,0,0,,你問我我也不知道啊
 Dialogue: 0,0:06:08.59,0:06:10.89,Default,,0,0,0,,Rei 竟然會放棄比賽…
@@ -184,7 +184,7 @@ Dialogue: 0,0:10:35.99,0:10:38.70,Default,,0,0,0,,那讓我來考考你吧
 Dialogue: 0,0:10:39.78,0:10:42.91,Default,,0,0,0,,這卡組最上面是什麼卡？
 Dialogue: 0,0:10:43.70,0:10:46.41,Default,,0,0,0,,這種事  我怎麼可能知道
 Dialogue: 0,0:10:46.41,0:10:48.91,Default,,0,0,0,,沒錯  你沒辦法知道
-Dialogue: 0,0:10:48.91,0:10:52.42,Default,,0,0,0,,如果這樣洗牌  那就根本沒辦法猜中了吧
+Dialogue: 0,0:10:48.91,0:10:52.42,Default,,0,0,0,,如果像這樣洗了牌  那就根本沒辦法猜中了吧
 Dialogue: 0,0:10:52.42,0:10:55.67,Default,,0,0,0,,對戰也是這樣的
 Dialogue: 0,0:10:57.59,0:11:00.05,Default,,0,0,0,,DIVA 對戰沒有絕對
 Dialogue: 0,0:11:00.05,0:11:04.22,Default,,0,0,0,,未來是怎樣  你在抽卡前都沒辦法知道
@@ -232,7 +232,7 @@ Dialogue: 0,0:13:50.22,0:13:54.02,Default,,0,0,0,,{\u1}Deus Ex Machina{\u0} 的�
 Dialogue: 0,0:13:56.56,0:13:58.48,Default,,0,0,0,,那什麼啊  真遜
 Dialogue: 0,0:13:58.48,0:14:01.32,Default,,0,0,0,,C 段根本不可能贏得了頂尖選手
 Dialogue: 0,0:14:01.32,0:14:03.65,Default,,0,0,0,,還這麼認真  傻不傻啊
-Dialogue: 0,0:14:08.99,0:14:13.37,Default,,0,0,0,,在本次比賽中 {\u1}Deus Ex Machina{\u0} 也游刃有餘
+Dialogue: 0,0:14:08.99,0:14:12.87,Default,,0,0,0,,在本次比賽中 {\u1}Deus Ex Machina{\u0} 也游刃有餘
 Dialogue: 0,0:14:13.37,0:14:18.50,Default,,0,0,0,,對手{\u1}宇宙的起源{\u0}成功堅持到了現在  但究竟鹿死誰手呢？
 Dialogue: 0,0:14:18.50,0:14:21.13,Default,,0,0,0,,魔法  然後發動啟動效果
 Dialogue: 0,0:14:29.68,0:14:32.18,Default,,0,0,0,,怎麼會  我們的 SIGNI
@@ -284,7 +284,7 @@ Dialogue: 0,0:17:10.88,0:17:12.38,Default,,0,0,0,,我們還能繼續戰鬥
 Dialogue: 0,0:17:12.38,0:17:15.76,Default,,0,0,0,,直到最後都不會屈服  不會退讓  不會灰心
 Dialogue: 0,0:17:15.76,0:17:17.59,Default,,0,0,0,,我們和你同在  MC！
 Dialogue: 0,0:17:17.89,0:17:20.06,Default,,0,0,0,,OK  一起上吧
-Dialogue: 0,0:17:20.06,0:17:21.89,Default,,0,0,0,,我的隊友們{マイメン}
+Dialogue: 0,0:17:20.06,0:17:21.89,Default,,0,0,0,,我的隊友們{マイメン}！
 Dialogue: 0,0:17:21.89,0:17:23.24,Default,,0,0,0,,為什麼？
 Dialogue: 0,0:17:23.24,0:17:26.94,Default,,0,0,0,,明明 162 次對戰一次都沒有贏
 Dialogue: 0,0:17:26.94,0:17:28.86,Default,,0,0,0,,為什麼還能這麼努力？
@@ -310,7 +310,7 @@ Dialogue: 0,0:18:30.25,0:18:32.21,Default,,0,0,0,,並肩戰鬥！
 Dialogue: 0,0:18:32.21,0:18:36.59,Default,,0,0,0,,和你的隊友  還有前來助威的 Selector 一起
 Dialogue: 0,0:18:36.92,0:18:39.09,Default,,0,0,0,,團結就是力量
 Dialogue: 0,0:18:39.09,0:18:42.43,Default,,0,0,0,,不存在極限  你可以去到任何地方
-Dialogue: 0,0:18:44.89,0:18:49.48,Default,,0,0,0,,這裡是 WIXOSSLAND  大家願望交錯之地
+Dialogue: 0,0:18:44.89,0:18:49.48,Default,,0,0,0,,這裡是 WIXOSS LAND  大家願望交錯之地
 Dialogue: 0,0:18:50.06,0:18:52.78,Default,,0,0,0,,如果你想要變得更強
 Dialogue: 0,0:18:52.78,0:18:55.78,Default,,0,0,0,,那我們就在頂點等著你們！
 Dialogue: 0,0:19:01.20,0:19:02.28,Default,,0,0,0,,我忘記了…
@@ -352,7 +352,7 @@ Dialogue: 0,0:20:57.98,0:20:58.86,Default,,0,0,0,,嗯！
 Dialogue: 0,0:21:06.03,0:21:07.28,Default,,0,0,0,,平和？
 Dialogue: 0,0:21:08.83,0:21:11.08,Default,,0,0,0,,我想要戰鬥！
 Dialogue: 0,0:21:11.75,0:21:18.34,Default,,0,0,0,,和昭乃  和令  還有前來助威的 Selector 們一起
-Dialogue: 0,0:21:18.34,0:21:21.42,Default,,0,0,0,,不是能不能贏的問題  而是我想要贏
+Dialogue: 0,0:21:18.34,0:21:21.42,Default,,0,0,0,,重點不是能不能贏  而是我想要贏
 Dialogue: 0,0:21:21.42,0:21:22.92,Default,,0,0,0,,我不想輸！
 Dialogue: 0,0:21:22.92,0:21:27.05,Default,,0,0,0,,所以  昭乃  令…
 Dialogue: 0,0:21:27.05,0:21:30.56,Default,,0,0,0,,我想…  我想…
@@ -365,81 +365,81 @@ Dialogue: 0,0:00:58.66,0:01:02.16,Scr,,0,0,0,,{\fs36\c&H6D706F&\bord0\shad0\fax-
 Dialogue: 0,0:11:55.81,0:11:57.02,Scr,,0,0,0,,{\bord0\shad0\frz332.2\blur1.5\pos(1190,510)}小喵
 Dialogue: 0,0:12:07.28,0:12:12.50,Scr,,0,0,0,,{\bord0\shad0\frz332.2\blur1.5\pos(1190,510)}小喵
 Comment: 0,0:13:45.68,0:13:47.68,Scr,,0,0,0,,Motion
-Dialogue: 0,0:13:47.68,0:13:47.72,Scr,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.71,358.29)}Deus Ex Machina
-Dialogue: 0,0:13:47.72,0:13:47.76,Scr,,0,0,0,,{=4}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.71,387.18)}Deus Ex Machina
-Dialogue: 0,0:13:47.76,0:13:47.80,Scr,,0,0,0,,{=4}{\fscx99.99\fscy99.99\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.72,415.04)}Deus Ex Machina
-Dialogue: 0,0:13:47.80,0:13:47.84,Scr,,0,0,0,,{=4}{\fscx99.99\fscy99.99\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.72,441.83)}Deus Ex Machina
-Dialogue: 0,0:13:47.84,0:13:47.89,Scr,,0,0,0,,{=4}{\fscx99.99\fscy99.99\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.72,467.42)}Deus Ex Machina
-Dialogue: 0,0:13:47.89,0:13:47.93,Scr,,0,0,0,,{=4}{\fscx99.99\fscy99.99\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.72,491.78)}Deus Ex Machina
-Dialogue: 0,0:13:47.93,0:13:47.97,Scr,,0,0,0,,{=4}{\fscx99.99\fscy99.99\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.73,514.99)}Deus Ex Machina
-Dialogue: 0,0:13:47.97,0:13:48.01,Scr,,0,0,0,,{=4}{\fscx99.99\fscy99.99\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.73,536.79)}Deus Ex Machina
-Dialogue: 0,0:13:48.01,0:13:48.05,Scr,,0,0,0,,{=4}{\fscx99.99\fscy99.99\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.74,557.27)}Deus Ex Machina
-Dialogue: 0,0:13:48.05,0:13:48.09,Scr,,0,0,0,,{=4}{\fscx99.99\fscy99.99\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.74,576.3)}Deus Ex Machina
-Dialogue: 0,0:13:48.09,0:13:48.14,Scr,,0,0,0,,{=4}{\fscx99.98\fscy99.98\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.74,593.96)}Deus Ex Machina
-Dialogue: 0,0:13:48.14,0:13:48.18,Scr,,0,0,0,,{=4}{\fscx99.99\fscy99.99\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.73,610.19)}Deus Ex Machina
-Dialogue: 0,0:13:48.18,0:13:48.22,Scr,,0,0,0,,{=4}{\fscx99.98\fscy99.98\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.73,624.95)}Deus Ex Machina
-Dialogue: 0,0:13:48.22,0:13:48.26,Scr,,0,0,0,,{=4}{\fscx99.98\fscy99.98\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.74,638.26)}Deus Ex Machina
-Dialogue: 0,0:13:48.26,0:13:48.30,Scr,,0,0,0,,{=4}{\fscx99.98\fscy99.98\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.74,650.25)}Deus Ex Machina
-Dialogue: 0,0:13:48.30,0:13:48.34,Scr,,0,0,0,,{=4}{\fscx99.98\fscy99.98\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.74,660.76)}Deus Ex Machina
-Dialogue: 0,0:13:48.34,0:13:48.39,Scr,,0,0,0,,{=4}{\fscx99.98\fscy99.98\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.75,670.07)}Deus Ex Machina
-Dialogue: 0,0:13:48.39,0:13:48.43,Scr,,0,0,0,,{=4}{\fscx99.98\fscy99.98\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.75,678.07)}Deus Ex Machina
-Dialogue: 0,0:13:48.43,0:13:48.47,Scr,,0,0,0,,{=4}{\fscx99.98\fscy99.98\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.74,684.87)}Deus Ex Machina
-Dialogue: 0,0:13:48.47,0:13:48.51,Scr,,0,0,0,,{=4}{\fscx99.98\fscy99.98\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.74,690.66)}Deus Ex Machina
-Dialogue: 0,0:13:48.51,0:13:48.55,Scr,,0,0,0,,{=4}{\fscx99.98\fscy99.98\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.74,695.43)}Deus Ex Machina
-Dialogue: 0,0:13:48.55,0:13:48.59,Scr,,0,0,0,,{=4}{\fscx99.98\fscy99.98\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.74,699.29)}Deus Ex Machina
-Dialogue: 0,0:13:48.59,0:13:48.64,Scr,,0,0,0,,{=4}{\fscx99.98\fscy99.98\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.75,702.41)}Deus Ex Machina
-Dialogue: 0,0:13:48.64,0:13:48.68,Scr,,0,0,0,,{=4}{\fscx99.97\fscy99.97\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.75,704.8)}Deus Ex Machina
-Dialogue: 0,0:13:48.68,0:13:48.72,Scr,,0,0,0,,{=4}{\fscx99.97\fscy99.97\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.75,706.57)}Deus Ex Machina
-Dialogue: 0,0:13:48.72,0:13:48.76,Scr,,0,0,0,,{=4}{\fscx99.97\fscy99.97\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.75,707.82)}Deus Ex Machina
-Dialogue: 0,0:13:48.76,0:13:48.80,Scr,,0,0,0,,{=4}{\fscx99.97\fscy99.97\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.75,708.79)}Deus Ex Machina
-Dialogue: 0,0:13:48.80,0:13:48.84,Scr,,0,0,0,,{=4}{\fscx99.97\fscy99.97\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.75,709.37)}Deus Ex Machina
-Dialogue: 0,0:13:48.84,0:13:48.89,Scr,,0,0,0,,{=4}{\fscx99.98\fscy99.98\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.75,709.72)}Deus Ex Machina
-Dialogue: 0,0:13:48.89,0:13:49.09,Scr,,0,0,0,,{=4}{\fscx99.98\fscy99.98\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.74,709.88)}Deus Ex Machina
-Dialogue: 0,0:13:49.09,0:13:49.14,Scr,,0,0,0,,{=4}{\fscx99.99\fscy99.99\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.74,709.88)}Deus Ex Machina
-Dialogue: 0,0:13:49.14,0:13:49.30,Scr,,0,0,0,,{=4}{\fscx99.99\fscy99.99\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.74,709.87)}Deus Ex Machina
-Dialogue: 0,0:13:49.30,0:13:49.39,Scr,,0,0,0,,{=4}{\fscx99.99\fscy99.99\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.74,709.86)}Deus Ex Machina
-Dialogue: 0,0:13:49.39,0:13:49.47,Scr,,0,0,0,,{=4}{\fscx99.99\fscy99.99\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.73,709.86)}Deus Ex Machina
+Dialogue: 0,0:13:47.68,0:13:47.72,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.71,358.29)}Deus Ex Machina
+Dialogue: 0,0:13:47.72,0:13:47.76,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.71,387.18)}Deus Ex Machina
+Dialogue: 0,0:13:47.76,0:13:47.80,Scr,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.72,415.04)}Deus Ex Machina
+Dialogue: 0,0:13:47.80,0:13:47.84,Scr,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.72,441.83)}Deus Ex Machina
+Dialogue: 0,0:13:47.84,0:13:47.89,Scr,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.72,467.42)}Deus Ex Machina
+Dialogue: 0,0:13:47.89,0:13:47.93,Scr,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.72,491.78)}Deus Ex Machina
+Dialogue: 0,0:13:47.93,0:13:47.97,Scr,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.73,514.99)}Deus Ex Machina
+Dialogue: 0,0:13:47.97,0:13:48.01,Scr,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.73,536.79)}Deus Ex Machina
+Dialogue: 0,0:13:48.01,0:13:48.05,Scr,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.74,557.27)}Deus Ex Machina
+Dialogue: 0,0:13:48.05,0:13:48.09,Scr,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.74,576.3)}Deus Ex Machina
+Dialogue: 0,0:13:48.09,0:13:48.14,Scr,,0,0,0,,{\fscx99.98\fscy99.98\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.74,593.96)}Deus Ex Machina
+Dialogue: 0,0:13:48.14,0:13:48.18,Scr,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.73,610.19)}Deus Ex Machina
+Dialogue: 0,0:13:48.18,0:13:48.22,Scr,,0,0,0,,{\fscx99.98\fscy99.98\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.73,624.95)}Deus Ex Machina
+Dialogue: 0,0:13:48.22,0:13:48.26,Scr,,0,0,0,,{\fscx99.98\fscy99.98\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.74,638.26)}Deus Ex Machina
+Dialogue: 0,0:13:48.26,0:13:48.30,Scr,,0,0,0,,{\fscx99.98\fscy99.98\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.74,650.25)}Deus Ex Machina
+Dialogue: 0,0:13:48.30,0:13:48.34,Scr,,0,0,0,,{\fscx99.98\fscy99.98\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.74,660.76)}Deus Ex Machina
+Dialogue: 0,0:13:48.34,0:13:48.39,Scr,,0,0,0,,{\fscx99.98\fscy99.98\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.75,670.07)}Deus Ex Machina
+Dialogue: 0,0:13:48.39,0:13:48.43,Scr,,0,0,0,,{\fscx99.98\fscy99.98\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.75,678.07)}Deus Ex Machina
+Dialogue: 0,0:13:48.43,0:13:48.47,Scr,,0,0,0,,{\fscx99.98\fscy99.98\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.74,684.87)}Deus Ex Machina
+Dialogue: 0,0:13:48.47,0:13:48.51,Scr,,0,0,0,,{\fscx99.98\fscy99.98\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.74,690.66)}Deus Ex Machina
+Dialogue: 0,0:13:48.51,0:13:48.55,Scr,,0,0,0,,{\fscx99.98\fscy99.98\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.74,695.43)}Deus Ex Machina
+Dialogue: 0,0:13:48.55,0:13:48.59,Scr,,0,0,0,,{\fscx99.98\fscy99.98\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.74,699.29)}Deus Ex Machina
+Dialogue: 0,0:13:48.59,0:13:48.64,Scr,,0,0,0,,{\fscx99.98\fscy99.98\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.75,702.41)}Deus Ex Machina
+Dialogue: 0,0:13:48.64,0:13:48.68,Scr,,0,0,0,,{\fscx99.97\fscy99.97\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.75,704.8)}Deus Ex Machina
+Dialogue: 0,0:13:48.68,0:13:48.72,Scr,,0,0,0,,{\fscx99.97\fscy99.97\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.75,706.57)}Deus Ex Machina
+Dialogue: 0,0:13:48.72,0:13:48.76,Scr,,0,0,0,,{\fscx99.97\fscy99.97\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.75,707.82)}Deus Ex Machina
+Dialogue: 0,0:13:48.76,0:13:48.80,Scr,,0,0,0,,{\fscx99.97\fscy99.97\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.75,708.79)}Deus Ex Machina
+Dialogue: 0,0:13:48.80,0:13:48.84,Scr,,0,0,0,,{\fscx99.97\fscy99.97\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.75,709.37)}Deus Ex Machina
+Dialogue: 0,0:13:48.84,0:13:48.89,Scr,,0,0,0,,{\fscx99.98\fscy99.98\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.75,709.72)}Deus Ex Machina
+Dialogue: 0,0:13:48.89,0:13:49.09,Scr,,0,0,0,,{\fscx99.98\fscy99.98\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.74,709.88)}Deus Ex Machina
+Dialogue: 0,0:13:49.09,0:13:49.14,Scr,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.74,709.88)}Deus Ex Machina
+Dialogue: 0,0:13:49.14,0:13:49.30,Scr,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.74,709.87)}Deus Ex Machina
+Dialogue: 0,0:13:49.30,0:13:49.39,Scr,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.74,709.86)}Deus Ex Machina
+Dialogue: 0,0:13:49.39,0:13:49.47,Scr,,0,0,0,,{\fscx99.99\fscy99.99\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(847.73,709.86)}Deus Ex Machina
 Comment: 0,0:14:47.74,0:14:48.32,Scr,,0,0,0,,Motion
-Dialogue: 0,0:14:48.32,0:14:48.36,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,612.29)}Deus Ex Machina
-Dialogue: 0,0:14:48.36,0:14:48.40,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,614.36)}Deus Ex Machina
-Dialogue: 0,0:14:48.40,0:14:48.45,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,616.5)}Deus Ex Machina
-Dialogue: 0,0:14:48.45,0:14:48.49,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.72,618.67)}Deus Ex Machina
-Dialogue: 0,0:14:48.49,0:14:48.53,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,620.86)}Deus Ex Machina
-Dialogue: 0,0:14:48.53,0:14:48.57,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,622.98)}Deus Ex Machina
-Dialogue: 0,0:14:48.57,0:14:48.61,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,625.07)}Deus Ex Machina
-Dialogue: 0,0:14:48.61,0:14:48.65,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,627.21)}Deus Ex Machina
-Dialogue: 0,0:14:48.65,0:14:48.70,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.72,629.42)}Deus Ex Machina
-Dialogue: 0,0:14:48.70,0:14:48.74,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,631.58)}Deus Ex Machina
-Dialogue: 0,0:14:48.74,0:14:48.78,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,633.66)}Deus Ex Machina
-Dialogue: 0,0:14:48.78,0:14:48.82,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,635.78)}Deus Ex Machina
-Dialogue: 0,0:14:48.82,0:14:48.86,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,637.91)}Deus Ex Machina
-Dialogue: 0,0:14:48.86,0:14:48.90,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,640.14)}Deus Ex Machina
-Dialogue: 0,0:14:48.90,0:14:48.95,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,642.27)}Deus Ex Machina
-Dialogue: 0,0:14:48.95,0:14:48.99,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,644.36)}Deus Ex Machina
-Dialogue: 0,0:14:48.99,0:14:49.03,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,646.45)}Deus Ex Machina
-Dialogue: 0,0:14:49.03,0:14:49.07,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,648.65)}Deus Ex Machina
-Dialogue: 0,0:14:49.07,0:14:49.11,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,650.85)}Deus Ex Machina
-Dialogue: 0,0:14:49.11,0:14:49.15,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,652.94)}Deus Ex Machina
-Dialogue: 0,0:14:49.15,0:14:49.20,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,655.04)}Deus Ex Machina
-Dialogue: 0,0:14:49.20,0:14:49.24,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,657.16)}Deus Ex Machina
-Dialogue: 0,0:14:49.24,0:14:49.28,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,659.38)}Deus Ex Machina
-Dialogue: 0,0:14:49.28,0:14:49.32,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,661.54)}Deus Ex Machina
-Dialogue: 0,0:14:49.32,0:14:49.36,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,663.63)}Deus Ex Machina
-Dialogue: 0,0:14:49.36,0:14:49.40,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,665.73)}Deus Ex Machina
-Dialogue: 0,0:14:49.40,0:14:49.45,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,667.9)}Deus Ex Machina
-Dialogue: 0,0:14:49.45,0:14:49.49,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,670.11)}Deus Ex Machina
-Dialogue: 0,0:14:49.49,0:14:49.53,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,672.21)}Deus Ex Machina
-Dialogue: 0,0:14:49.53,0:14:49.57,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,674.31)}Deus Ex Machina
-Dialogue: 0,0:14:49.57,0:14:49.61,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,676.41)}Deus Ex Machina
-Dialogue: 0,0:14:49.61,0:14:49.66,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,678.62)}Deus Ex Machina
-Dialogue: 0,0:14:49.66,0:14:49.70,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,680.82)}Deus Ex Machina
-Dialogue: 0,0:14:49.70,0:14:49.74,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,682.89)}Deus Ex Machina
-Dialogue: 0,0:14:49.74,0:14:49.78,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,685.03)}Deus Ex Machina
-Dialogue: 0,0:14:49.78,0:14:49.82,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.69,687.15)}Deus Ex Machina
-Dialogue: 0,0:14:49.82,0:14:49.86,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,689.33)}Deus Ex Machina
-Dialogue: 0,0:14:49.86,0:14:49.91,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,691.52)}Deus Ex Machina
-Dialogue: 0,0:14:49.91,0:14:49.95,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,693.59)}Deus Ex Machina
-Dialogue: 0,0:14:49.95,0:14:49.99,Scr,,0,0,0,,{=3}{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.69,695.7)}Deus Ex Machina
+Dialogue: 0,0:14:48.32,0:14:48.36,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,612.29)}Deus Ex Machina
+Dialogue: 0,0:14:48.36,0:14:48.40,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,614.36)}Deus Ex Machina
+Dialogue: 0,0:14:48.40,0:14:48.45,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,616.5)}Deus Ex Machina
+Dialogue: 0,0:14:48.45,0:14:48.49,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.72,618.67)}Deus Ex Machina
+Dialogue: 0,0:14:48.49,0:14:48.53,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,620.86)}Deus Ex Machina
+Dialogue: 0,0:14:48.53,0:14:48.57,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,622.98)}Deus Ex Machina
+Dialogue: 0,0:14:48.57,0:14:48.61,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,625.07)}Deus Ex Machina
+Dialogue: 0,0:14:48.61,0:14:48.65,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,627.21)}Deus Ex Machina
+Dialogue: 0,0:14:48.65,0:14:48.70,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.72,629.42)}Deus Ex Machina
+Dialogue: 0,0:14:48.70,0:14:48.74,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,631.58)}Deus Ex Machina
+Dialogue: 0,0:14:48.74,0:14:48.78,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,633.66)}Deus Ex Machina
+Dialogue: 0,0:14:48.78,0:14:48.82,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,635.78)}Deus Ex Machina
+Dialogue: 0,0:14:48.82,0:14:48.86,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,637.91)}Deus Ex Machina
+Dialogue: 0,0:14:48.86,0:14:48.90,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,640.14)}Deus Ex Machina
+Dialogue: 0,0:14:48.90,0:14:48.95,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,642.27)}Deus Ex Machina
+Dialogue: 0,0:14:48.95,0:14:48.99,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,644.36)}Deus Ex Machina
+Dialogue: 0,0:14:48.99,0:14:49.03,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,646.45)}Deus Ex Machina
+Dialogue: 0,0:14:49.03,0:14:49.07,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,648.65)}Deus Ex Machina
+Dialogue: 0,0:14:49.07,0:14:49.11,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,650.85)}Deus Ex Machina
+Dialogue: 0,0:14:49.11,0:14:49.15,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,652.94)}Deus Ex Machina
+Dialogue: 0,0:14:49.15,0:14:49.20,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,655.04)}Deus Ex Machina
+Dialogue: 0,0:14:49.20,0:14:49.24,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,657.16)}Deus Ex Machina
+Dialogue: 0,0:14:49.24,0:14:49.28,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,659.38)}Deus Ex Machina
+Dialogue: 0,0:14:49.28,0:14:49.32,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,661.54)}Deus Ex Machina
+Dialogue: 0,0:14:49.32,0:14:49.36,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,663.63)}Deus Ex Machina
+Dialogue: 0,0:14:49.36,0:14:49.40,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,665.73)}Deus Ex Machina
+Dialogue: 0,0:14:49.40,0:14:49.45,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,667.9)}Deus Ex Machina
+Dialogue: 0,0:14:49.45,0:14:49.49,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.71,670.11)}Deus Ex Machina
+Dialogue: 0,0:14:49.49,0:14:49.53,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,672.21)}Deus Ex Machina
+Dialogue: 0,0:14:49.53,0:14:49.57,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,674.31)}Deus Ex Machina
+Dialogue: 0,0:14:49.57,0:14:49.61,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,676.41)}Deus Ex Machina
+Dialogue: 0,0:14:49.61,0:14:49.66,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,678.62)}Deus Ex Machina
+Dialogue: 0,0:14:49.66,0:14:49.70,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,680.82)}Deus Ex Machina
+Dialogue: 0,0:14:49.70,0:14:49.74,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,682.89)}Deus Ex Machina
+Dialogue: 0,0:14:49.74,0:14:49.78,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,685.03)}Deus Ex Machina
+Dialogue: 0,0:14:49.78,0:14:49.82,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.69,687.15)}Deus Ex Machina
+Dialogue: 0,0:14:49.82,0:14:49.86,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,689.33)}Deus Ex Machina
+Dialogue: 0,0:14:49.86,0:14:49.91,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,691.52)}Deus Ex Machina
+Dialogue: 0,0:14:49.91,0:14:49.95,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.7,693.59)}Deus Ex Machina
+Dialogue: 0,0:14:49.95,0:14:49.99,Scr,,0,0,0,,{\fscx100\fscy100\alpha&H00&\fs100\fnSource Han Sans TC Heavy\c&HE5E4E7&\bord0\shad0\an5\frx355\fry355\frz12.4\fax0.15\pos(845.69,695.7)}Deus Ex Machina
 Dialogue: 0,0:21:55.46,0:21:58.63,Scr,,0,0,0,,{\bord0\fs48\fnSource Han Sans TC Heavy\c&HD5B9FF&\shad0\fax0.1\frz39.72\move(768,306,768,474)\an2}報名結束通知
 Comment: 0,0:00:00.00,0:00:00.00,Scr,,0,0,0,,Title
 Dialogue: 0,0:22:01.46,0:22:05.01,Scr,,0,0,0,,{\bord0\c&H333333&\fnSource Han Sans TC Heavy\fscx85\fs100\pos(960,660)\clip(0,665,1920,712)}我已經到極限了{\fsp0.1}…
@@ -449,7 +449,3 @@ Dialogue: 0,0:22:01.55,0:22:05.01,Scr,,0,0,0,,{\bord0\c&H333333&\fscx85\fs60\pos
 Dialogue: 0,0:22:01.55,0:22:05.01,Scr,,0,0,0,,{\bord0\c&H333333&\fscx85\fs60\pos(960,880)\fnSource Han Sans TC Heavy}— 特別協作：WIXOSS 翻譯組 —
 Comment: 0,0:00:00.00,0:00:00.00,Scr,,0,0,0,,End Cut
 Dialogue: 0,0:23:35.06,0:23:40.06,Scr,,0,0,0,,{\an1\bord4\c&HE6E5E5&\blur6\fscy110\fnSource Han Sans TC Heavy\fs140\pos(100,920)\3c&HFB441D&}下週{\fsp0.1}…{\fsp} Open！
-
-[Aegisub Extradata]
-Data: 3,a-mo,e{"uuid"#3A"e11dcd2c-b395-471a-89e0-320f1bff25c7"#2C"originalText"#3A"{\\fs100\\fnSource Han Sans TC Heavy\\c&HE5E4E7&\\bord0\\shad0\\an5\\frx355\\fry355\\frz12.4\\fax0.15\\pos(845.714#2C612.286)}Deus Ex Machina"}
-Data: 4,a-mo,e{"uuid"#3A"6d6b3cc6-55d0-4057-a366-9bd5fc050072"#2C"originalText"#3A"{\\fs100\\fnSource Han Sans TC Heavy\\c&HE5E4E7&\\bord0\\shad0\\an5\\frx355\\fry355\\frz12.4\\fax0.15\\pos(847.714#2C358.286)}Deus Ex Machina"}
