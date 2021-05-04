@@ -16,6 +16,12 @@
 |  12  |    从前如此，往后依旧。    | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2012.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2012.cht.ass) |
 |  13  |    多想，赠你这片晴空。    | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2013.chs.ass) | [繁體](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2013.cht.ass) |
 
+
+
+WEB 版字幕打包下载
+
+[简体 ](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya.chs.zip)		[繁体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya.cht.zip)
+
 注：Funimation 源需要平移字幕 288 帧或 12 秒。
 
 ![](https://i.loli.net/2021/01/10/lMXJ46gYQUpKrOP.png)
