@@ -411,8 +411,8 @@ Dialogue: 0,0:21:47.82,0:21:49.16,Default,,0,0,0,,那是什么？
 Dialogue: 0,0:21:55.46,0:21:56.83,Default,,0,0,0,,一  二
 Dialogue: 0,0:21:57.25,0:21:58.71,Default,,0,0,0,,{\u1}No Limit{\u0}！
 Comment: 0,0:21:58.71,0:22:00.71,Scr,,0,0,0,,
-Dialogue: 0,0:22:01.55,0:22:05.05,Scr,,0,0,0,,{\bord0\c&H333333&\fnSource Han Sans SC Heavy\fscx85\fs60\pos(960,820)}◾◼ 翻译：tastySugar    字幕制作：SweetSub ◼◾
-Dialogue: 0,0:22:01.55,0:22:05.05,Scr,,0,0,0,,{\bord0\c&H333333&\fnSource Han Sans SC Heavy\fscx85\fs60\pos(960,880)}◾◼ 特别协作：WIXOSS 翻译组 ◼◾
+Dialogue: 0,0:22:01.55,0:22:05.05,Scr,,0,0,0,,{\bord0\c&H333333&\fnSource Han Sans SC Heavy\fscx85\fs60\pos(960,820)}— 翻译：tastySugar    字幕制作：SweetSub —
+Dialogue: 0,0:22:01.55,0:22:05.05,Scr,,0,0,0,,{\bord0\c&H333333&\fnSource Han Sans SC Heavy\fscx85\fs60\pos(960,880)}— 特别协作：WIXOSS 翻译组 —
 Comment: 0,0:22:05.05,0:22:07.05,Scr,,0,0,0,,
 Dialogue: 0,0:22:01.47,0:22:05.05,Scr,,0,0,0,,{\bord0\c&H333333&\fnSource Han Sans SC Heavy\fscx85\fs100\pos(960,660)\clip(0,665,1920,712)}才没有什么极限！
 Dialogue: 0,0:22:01.55,0:22:05.05,Scr,,0,0,0,,{\bord0\c&H333333&\fnSource Han Sans SC Heavy\fscx85\fs100\pos(960,660)\clip(0,716,1920,765)}才没有什么极限！
