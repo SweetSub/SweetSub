@@ -18,6 +18,6 @@
 
 源ノ角ゴシック JP Medium \<Source Han Sans JP Medium\>
 
-[简体字幕](https://github.com/tastysugar/SweetSub-source/raw/master/Okko's%20Inn/%5BSweetSub%5D%20Okko's%20Inn%20%5BBDRip%201080P%20HEVC-10bit%20FLAC%5D.chs.ass)
+[简体字幕](https://github.com/SweetSub/SweetSub-source/raw/master/Okko's%20Inn/%5BSweetSub%5D%20Okko's%20Inn%20%5BBDRip%201080P%20HEVC-10bit%20FLAC%5D.chs.ass)
 
-[繁体字幕](https://github.com/tastysugar/SweetSub-source/raw/master/Okko's%20Inn/%5BSweetSub%5D%20Okko's%20Inn%20%5BBDRip%201080P%20HEVC-10bit%20FLAC%5D.cht.ass)
+[繁体字幕](https://github.com/SweetSub/SweetSub-source/raw/master/Okko's%20Inn/%5BSweetSub%5D%20Okko's%20Inn%20%5BBDRip%201080P%20HEVC-10bit%20FLAC%5D.cht.ass)

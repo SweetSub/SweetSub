@@ -2,8 +2,8 @@
 
 | 源分辨率               |                                                              |                                                              |
 | ---------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1920x816 （切黑边）    | [简体字幕](https://github.com/tastysugar/SweetSub-source/raw/master/Children%20of%20the%20Sea/%5BSweetSub%5D%20Children%20of%20the%20Sea.chs.ass) | [繁体字幕](https://github.com/tastysugar/SweetSub-source/raw/master/Children%20of%20the%20Sea/%5BSweetSub%5D%20Children%20of%20the%20Sea.cht.ass) |
-| 1920x1080 （未切黑边） | [简体字幕](https://github.com/tastysugar/SweetSub-source/raw/master/Children%20of%20the%20Sea/%5BSweetSub%5D%20Children%20of%20the%20Sea.uncropped.chs.ass) | [繁体字幕](https://github.com/tastysugar/SweetSub-source/raw/master/Children%20of%20the%20Sea/%5BSweetSub%5D%20Children%20of%20the%20Sea.uncropped.cht.ass) |
+| 1920x816 （切黑边）    | [简体字幕](https://github.com/SweetSub/SweetSub-source/raw/master/Children%20of%20the%20Sea/%5BSweetSub%5D%20Children%20of%20the%20Sea.chs.ass) | [繁体字幕](https://github.com/SweetSub/SweetSub-source/raw/master/Children%20of%20the%20Sea/%5BSweetSub%5D%20Children%20of%20the%20Sea.cht.ass) |
+| 1920x1080 （未切黑边） | [简体字幕](https://github.com/SweetSub/SweetSub-source/raw/master/Children%20of%20the%20Sea/%5BSweetSub%5D%20Children%20of%20the%20Sea.uncropped.chs.ass) | [繁体字幕](https://github.com/SweetSub/SweetSub-source/raw/master/Children%20of%20the%20Sea/%5BSweetSub%5D%20Children%20of%20the%20Sea.uncropped.cht.ass) |
 
 
 

@@ -12,9 +12,9 @@
 
 字幕下载：
 
-[简体](https://github.com/tastysugar/SweetSub-source/raw/master/FLCL%20Progressive/%5BSweetSub%5D%20FLCL%20Progressive.chs.ass)
+[简体](https://github.com/SweetSub/SweetSub-source/raw/master/FLCL%20Progressive/%5BSweetSub%5D%20FLCL%20Progressive.chs.ass)
 
-[繁体](https://github.com/tastysugar/SweetSub-source/raw/master/FLCL%20Progressive/%5BSweetSub%5D%20FLCL%20Progressive.cht.ass)
+[繁体](https://github.com/SweetSub/SweetSub-source/raw/master/FLCL%20Progressive/%5BSweetSub%5D%20FLCL%20Progressive.cht.ass)
 
 
 

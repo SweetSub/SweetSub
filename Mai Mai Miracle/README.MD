@@ -16,6 +16,6 @@
 
 BD 字幕下载：
 
-[简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Mai%20Mai%20Miracle/%5BSweetSub%5D%20Mai%20Mai%20Miracle.chs.ass)
+[简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Mai%20Mai%20Miracle/%5BSweetSub%5D%20Mai%20Mai%20Miracle.chs.ass)
 
-[繁体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Mai%20Mai%20Miracle/%5BSweetSub%5D%20Mai%20Mai%20Miracle.cht.ass)
+[繁体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Mai%20Mai%20Miracle/%5BSweetSub%5D%20Mai%20Mai%20Miracle.cht.ass)

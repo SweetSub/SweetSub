@@ -1,9 +1,9 @@
 | 字幕下载          | 日语配音                                                     | 英语配音 |
 | ----------------- | ------------------------------------------------------------ | -------- |
-| Promare           | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Promare/%5BSweetSub%5D%20Promare.chs.ass)  [繁体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Promare/%5BSweetSub%5D%20Promare.cht.ass) | -        |
-| Promare SIDE Galo | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Promare/%5BSweetSub%5D%20Promare%20SIDE%20Galo.chs.ass)  [繁体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Promare/%5BSweetSub%5D%20Promare%20SIDE%20Galo.cht.ass) | -        |
-| Promare SIDE Lio  | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Promare/%5BSweetSub%5D%20Promare%20SIDE%20Lio.chs.ass)  [繁体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Promare/%5BSweetSub%5D%20Promare%20SIDE%20Lio.cht.ass) | -        |
-| 合集              | [简体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Promare/%5BSweetSub%5D%20Promare.chs.zip)  [繁体](https://raw.githubusercontent.com/tastysugar/SweetSub-source/master/Promare/%5BSweetSub%5D%20Promare.cht.zip) | -        |
+| Promare           | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Promare/%5BSweetSub%5D%20Promare.chs.ass)  [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Promare/%5BSweetSub%5D%20Promare.cht.ass) | -        |
+| Promare SIDE Galo | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Promare/%5BSweetSub%5D%20Promare%20SIDE%20Galo.chs.ass)  [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Promare/%5BSweetSub%5D%20Promare%20SIDE%20Galo.cht.ass) | -        |
+| Promare SIDE Lio  | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Promare/%5BSweetSub%5D%20Promare%20SIDE%20Lio.chs.ass)  [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Promare/%5BSweetSub%5D%20Promare%20SIDE%20Lio.cht.ass) | -        |
+| 合集              | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Promare/%5BSweetSub%5D%20Promare.chs.zip)  [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Promare/%5BSweetSub%5D%20Promare.cht.zip) | -        |
 
 SIDE Galo / SIDE Lio 为特典前传动画。
 

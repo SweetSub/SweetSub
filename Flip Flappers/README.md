@@ -12,6 +12,6 @@
 
 BD 字幕下载：
 
-[简体](https://github.com/tastysugar/SweetSub-source/raw/master/Flip%20Flappers/Flip%20Flappers%20chs.rar)
+[简体](https://github.com/SweetSub/SweetSub-source/raw/master/Flip%20Flappers/Flip%20Flappers%20chs.rar)
 
-[繁体](https://github.com/tastysugar/SweetSub-source/raw/master/Flip%20Flappers/Flip%20Flappers%20cht.rar)
+[繁体](https://github.com/SweetSub/SweetSub-source/raw/master/Flip%20Flappers/Flip%20Flappers%20cht.rar)
