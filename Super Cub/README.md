@@ -10,8 +10,8 @@
 |  6   |          我的小狼          | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Super%20Cub/%5BSweetSub%5D%20Super%20Cub%20-%2006.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Super%20Cub/%5BSweetSub%5D%20Super%20Cub%20-%2006.cht.ass) |
 |  7   | 如夏日澄空般  天蓝色的少女 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Super%20Cub/%5BSweetSub%5D%20Super%20Cub%20-%2007.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Super%20Cub/%5BSweetSub%5D%20Super%20Cub%20-%2007.cht.ass) |
 |  8   |          椎的处所          | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Super%20Cub/%5BSweetSub%5D%20Super%20Cub%20-%2008.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Super%20Cub/%5BSweetSub%5D%20Super%20Cub%20-%2008.cht.ass) |
-|  9   |          寒冰之中          |                                                              |                                                              |
-|      |                            |                                                              |                                                              |
+|  9   |          寒冰之中          | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Super%20Cub/%5BSweetSub%5D%20Super%20Cub%20-%2009.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Super%20Cub/%5BSweetSub%5D%20Super%20Cub%20-%2009.cht.ass) |
+|  10  |             雪             |                                                              |                                                              |
 |      |                            |                                                              |                                                              |
 |      |                            |                                                              |                                                              |
 
