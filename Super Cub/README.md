@@ -13,7 +13,7 @@
 |  9   |          寒冰之中          | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Super%20Cub/%5BSweetSub%5D%20Super%20Cub%20-%2009.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Super%20Cub/%5BSweetSub%5D%20Super%20Cub%20-%2009.cht.ass) |
 |  10  |             雪             | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Super%20Cub/%5BSweetSub%5D%20Super%20Cub%20-%2010.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Super%20Cub/%5BSweetSub%5D%20Super%20Cub%20-%2010.cht.ass) |
 |  11  |            远春            | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Super%20Cub/%5BSweetSub%5D%20Super%20Cub%20-%2011.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Super%20Cub/%5BSweetSub%5D%20Super%20Cub%20-%2011.cht.ass) |
-|  12  |          超级小狼          |                                                              |                                                              |
+|  12  |          超级小狼          | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Super%20Cub/%5BSweetSub%5D%20Super%20Cub%20-%2012.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Super%20Cub/%5BSweetSub%5D%20Super%20Cub%20-%2012.cht.ass) |
 
 注：Funimation 源需要平移字幕 240 帧或 10 秒。
 
