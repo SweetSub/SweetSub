@@ -4,6 +4,8 @@ Funimation 源第一集需要平移 289 帧（12秒），第二集起需要平�
 
 第四集音轨需要提前 0.2 秒
 
+第七集音轨需要提前 0.15 秒
+
 | 集数 |                      标题                      |                             简体                             |                             繁体                             |
 | :--: | :--------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |  1   | 我觉得  只要大家齐心协力  我们就能当好魔法少女 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Magia%20Record%20S2/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20S2%20-%2001.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Magia%20Record%20S2/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20S2%20-%2001.cht.ass) |
@@ -12,7 +14,7 @@ Funimation 源第一集需要平移 289 帧（12秒），第二集起需要平�
 |  4   |             你难道就这样接受了吗？             | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Magia%20Record%20S2/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20S2%20-%2004.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Magia%20Record%20S2/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20S2%20-%2004.cht.ass) |
 |  5   |               不会再原谅任何人了               | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Magia%20Record%20S2/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20S2%20-%2005.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Magia%20Record%20S2/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20S2%20-%2005.cht.ass) |
 |  6   |              这是只有我能做到的事              | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Magia%20Record%20S2/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20S2%20-%2006.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Magia%20Record%20S2/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20S2%20-%2006.cht.ass) |
-|  7   |                                                |                                                              |                                                              |
+|  7   |                你根本就不了解我                | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Magia%20Record%20S2/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20S2%20-%2007.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Magia%20Record%20S2/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20S2%20-%2007.cht.ass) |
 |  8   |                                                |                                                              |                                                              |
 
 
