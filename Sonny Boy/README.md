@@ -1,6 +1,6 @@
 
 
-![](https://i.loli.net/2021/06/19/QPOSIpThke8gYwB.png)
+![](https://p.sda1.dev/2/31e20189a422198da2d1741f221f553e/Sonny_Boy_poster.png)
 
 
 
@@ -10,7 +10,7 @@
 
 - ##### **WEB 版字幕打包下载**
 
-  [简体 ](https://github.com/SweetSub/SweetSub-source/blob/master/Sonny%20Boy/%5BXKsub%26SweetSub%5D%20Sonny%20Boy%20-%20WebRip%20Subtitle.chs.zip)		[繁体](https://github.com/SweetSub/SweetSub-source/blob/master/Sonny%20Boy/%5BXKsub%26SweetSub%5D%20Sonny%20Boy%20-%20WebRip%20Subtitle.cht.zip)
+  [简体 ](https://github.com/SweetSub/SweetSub-source/blob/master/Sonny%20Boy/%5BXKsub%26SweetSub%5D%20Sonny%20Boy%20-%20WebRip%20Subtitle.chs.zip)　/　[繁體](https://github.com/SweetSub/SweetSub-source/blob/master/Sonny%20Boy/%5BXKsub%26SweetSub%5D%20Sonny%20Boy%20-%20WebRip%20Subtitle.cht.zip)
   
   
   
@@ -40,7 +40,7 @@
 
 - ##### **特别内容**
 
-  | ![https://www.bilibili.com/video/BV1ZP4y1H7XY/](https://i.loli.net/2021/10/14/8fC5VyWbcP3gSG7.png) | ![https://www.bilibili.com/video/BV1av411E71D/](https://i.loli.net/2021/10/14/2Yvy8IBfDQ6jnL3.png) |
+  | ![](https://p.sda1.dev/2/527439ac56db4d20b151471fee22eab2/01.png) | ![](https://p.sda1.dev/2/b32c4c307ee74c5159a96cf66b0b36f4/02.png) |
   | ------------------------------------------------------------ | ------------------------------------------------------------ |
   | [长PV](https://www.bilibili.com/video/BV1ZP4y1H7XY/) (*需在看完第六话后观看) | [主题曲：银杏BOYZ「少年少女」MV](https://www.bilibili.com/video/BV1av411E71D/) |
 
