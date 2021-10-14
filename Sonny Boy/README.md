@@ -40,7 +40,7 @@
 
 - ##### **特别内容**
 
-  | ![](https://i.loli.net/2021/10/14/8fC5VyWbcP3gSG7.png)       | ![](https://i.loli.net/2021/10/14/2Yvy8IBfDQ6jnL3.png)       |
+  | ![https://www.bilibili.com/video/BV1ZP4y1H7XY/](https://i.loli.net/2021/10/14/8fC5VyWbcP3gSG7.png) | ![https://www.bilibili.com/video/BV1av411E71D/](https://i.loli.net/2021/10/14/2Yvy8IBfDQ6jnL3.png) |
   | ------------------------------------------------------------ | ------------------------------------------------------------ |
   | [长PV](https://www.bilibili.com/video/BV1ZP4y1H7XY/) (*需在看完第六话后观看) | [主题曲：银杏BOYZ「少年少女」MV](https://www.bilibili.com/video/BV1av411E71D/) |
 
