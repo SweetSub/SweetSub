@@ -6,15 +6,15 @@
 
 ------
 
+​	
 
-
-- **WEB 版字幕打包下载**
+- ##### **WEB 版字幕打包下载**
 
   [简体 ](https://github.com/SweetSub/SweetSub-source/blob/master/Sonny%20Boy/%5BXKsub%26SweetSub%5D%20Sonny%20Boy%20-%20WebRip%20Subtitle.chs.zip)		[繁体](https://github.com/SweetSub/SweetSub-source/blob/master/Sonny%20Boy/%5BXKsub%26SweetSub%5D%20Sonny%20Boy%20-%20WebRip%20Subtitle.cht.zip)
-
-
-
-- **分集下载**
+  
+  
+  
+- ##### **分集下载**
 
 
 | 集数 |             标题             |                           简体字幕                           |                           繁体字幕                           |
@@ -36,9 +36,9 @@
 
 > *Funimation 源需要平移字幕 288 帧（12 秒）或 168 帧（7 秒）。
 
+​	
 
-
-- **特别内容**
+- ##### **特别内容**
 
   | ![](https://i.loli.net/2021/10/14/8fC5VyWbcP3gSG7.png)       | ![](https://i.loli.net/2021/10/14/2Yvy8IBfDQ6jnL3.png)       |
   | ------------------------------------------------------------ | ------------------------------------------------------------ |
