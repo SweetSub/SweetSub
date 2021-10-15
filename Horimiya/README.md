@@ -1,4 +1,19 @@
-分集下载
+![](https://p.sda1.dev/2/634a236071ba28da42a9fc47d9526bf2/Horimiya_poster_merge.png)
+
+
+
+------
+
+​	
+
+- ##### **BD 版字幕打包下载**
+
+  [简体 ](https://github.com/SweetSub/SweetSub-source/blob/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%20BDRip%20Subtitles.chs.zip)　/　[繁體](https://github.com/SweetSub/SweetSub-source/blob/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%20BDRip%20Subtitles.cht.zip)
+  
+  ​	
+  
+- ##### **分集下载**
+
 
 | 集数 |            标题            |                             简体                             |                             繁体                             |
 | :--: | :------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -16,12 +31,15 @@
 |  12  |    从前如此，往后依旧。    | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2012.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2012.cht.ass) |
 |  13  |    多想，赠你这片晴空。    | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2013.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya%20-%2013.cht.ass) |
 
+​	
 
+- ##### **特别内容**
 
-WEB 版字幕打包下载
+  | ![](https://p.sda1.dev/2/d18968a3af6387849480405915f2e719/01.png) | ![](https://p.sda1.dev/2/75976c3177cb0edd600556e09a7fcb81/02.png) |
+  | ------------------------------------------------------------ | ------------------------------------------------------------ |
+  | [Web 预告合集](https://www.bilibili.com/medialist/play/3951826?from=space&business=space_series&business_id=422189) | [OP主题曲：神山羊「色香水」MV](https://www.bilibili.com/video/BV1to4y1d7Ku) |
 
-[简体 ](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya.chs.zip)		[繁体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Horimiya/%5BSweetSub%5D%20Horimiya.cht.zip)
+  
 
-注：Funimation 源需要平移字幕 288 帧或 12 秒。
+  
 
-![](https://i.loli.net/2021/01/10/lMXJ46gYQUpKrOP.png)
