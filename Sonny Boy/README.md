@@ -10,7 +10,7 @@
 
 - ##### **WEB 版字幕打包下载**
 
-  [简体 ](https://github.com/SweetSub/SweetSub-source/blob/master/Sonny%20Boy/%5BXKsub%26SweetSub%5D%20Sonny%20Boy%20-%20WebRip%20Subtitle.chs.zip)　/　[繁體](https://github.com/SweetSub/SweetSub-source/blob/master/Sonny%20Boy/%5BXKsub%26SweetSub%5D%20Sonny%20Boy%20-%20WebRip%20Subtitle.cht.zip)
+  [简体 ](https://github.com/SweetSub/SweetSub-source/blob/master/Sonny%20Boy/%5BXKsub%26SweetSub%5D%20Sonny%20Boy%20-%20WebRip%20Subtitles.chs.zip)　/　[繁體](https://github.com/SweetSub/SweetSub-source/blob/master/Sonny%20Boy/%5BXKsub%26SweetSub%5D%20Sonny%20Boy%20-%20WebRip%20Subtitles.cht.zip)
   
   
   
