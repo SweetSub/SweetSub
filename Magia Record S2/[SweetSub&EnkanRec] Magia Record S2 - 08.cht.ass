@@ -145,8 +145,8 @@ Dialogue: 1,0:22:04.01,0:22:05.35,Sign,,0,0,0,,{\an5\frz270\fn@FZYaSong-R-GBK\b1
 Dialogue: 1,0:22:05.47,0:22:06.89,Sign,,0,0,0,,{\an5\frz270\fn@FZYaSong-R-GBK\b1\fs80\fsp4\pos(968,390)}離別
 Dialogue: 1,0:22:07.01,0:22:08.77,Sign,,0,0,0,,{\an5\frz270\fn@FZYaSong-R-GBK\b1\fs80\fsp4\pos(968,445)}就要拉開帷幕
 Dialogue: 0,0:22:04.01,0:22:08.77,Sign_runes,,0,0,0,,{\an2\b1\fs70\fsp4\fscx60\pos(960,786)\c&H4B4B4B&}This is a story of failure
-Comment: 0,0:05:47.74,0:05:54.21,Sign,,0,0,0,,{=1}{\fscy100\t(18,6441,\fscy100)\bord3\t(18,6441,\bord3)\fscx100\t(18,6441,\fscx100)\an8\move(2046.69,139,480,139,18,6441)\fs40\c&HB1B6BA&\3c&HFFFEFF&}生啤 來一杯嗎？
-Comment: 0,0:05:47.74,0:05:54.21,Sign,,0,0,0,,{=0}{\fscy100\t(18,6441,\fscy100)\bord3\t(18,6441,\bord3)\fscx100\t(18,6441,\fscx100)\move(2224.69,491,658,491,18,6441)\an3\fs50\c&HDEFBFE&\3c&HFFFFFF&}生榨{ts: 不是現榨，塞吧}
+Comment: 0,0:05:47.74,0:05:54.21,Sign,,0,0,0,,{\fscy100\t(18,6441,\fscy100)\bord3\t(18,6441,\bord3)\fscx100\t(18,6441,\fscx100)\an8\move(2046.69,139,480,139,18,6441)\fs40\c&HB1B6BA&\3c&HFFFEFF&}生啤 來一杯嗎？
+Comment: 0,0:05:47.74,0:05:54.21,Sign,,0,0,0,,{\fscy100\t(18,6441,\fscy100)\bord3\t(18,6441,\bord3)\fscx100\t(18,6441,\fscx100)\move(2224.69,491,658,491,18,6441)\an3\fs50\c&HDEFBFE&\3c&HFFFFFF&}生榨{ts: 不是現榨，塞吧}
 Dialogue: 0,0:08:26.99,0:08:29.49,Sign,,0,0,0,,{\an7\fs60\c&H174256&\bord2\3c&HF0FFFF&\3a&H64&\blur4\pos(182,484)\fax0.\frz9.689}今日反省\N\N今天也很努力！\N明天要更加努力！
 Dialogue: 0,0:08:38.62,0:08:39.75,Sign,,0,0,0,,{\pos(936,622)\frz6.449\fsp6\c&H779496&\bord0\blur1}我很強
 Dialogue: 0,0:08:39.75,0:08:40.50,Sign,,0,0,0,,{\fsp6\c&H398EBD&\bord0\blur1\pos(686,504)\an8\frz352.8}總是充滿活力！
@@ -431,7 +431,3 @@ Dialogue: 0,0:21:36.36,0:21:37.28,Default,,0,0,0,,怎麼回事？
 Dialogue: 0,0:21:37.28,0:21:38.82,Default,,0,0,0,,這是要做什麼？
 Dialogue: 0,0:21:39.28,0:21:42.74,Default,,0,0,0,,我來告訴妳們真相吧
 Dialogue: 0,0:21:42.74,0:21:47.49,Default,,0,0,0,,至今為止的  所有的真相
-
-[Aegisub Extradata]
-Data: 0,a-mo,e{"uuid"#3A"888b3bdb-acb6-4398-8051-f4d9b84e0a8f"#2C"originalText"#3A"{\\pos(658#2C491)\\an3\\fs50\\c&HDEFBFE&\\3c&HFFFFFF&}#E7#8E#B0#E6#A6#A8"}
-Data: 1,a-mo,u?S*V>7FE)DIC-W2D/45W.TAN.D=U-SUU9D-U,4AS-75N-D!X.'1T942D-G5Z)CQC<X*J:WFO97R5:8BU)DIC?VR=97YY8&RQ<X-I.$AQ,$%T/3F=8':T.$"=8'-G3%)R1D:#13:=8$.D*EB'2E:&2E9G@??5H_76J#$GH;8EO)$GH;`FE*@PP*]C@1
