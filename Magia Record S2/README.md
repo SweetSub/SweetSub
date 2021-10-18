@@ -1,6 +1,6 @@
 
 
-Funimation 源第一集需要平移 289 帧（12秒），第二集起需要平移 169 帧（7秒）
+合集换用 Crunchyroll 源
 
 第四集音轨需要提前 0.2 秒
 
@@ -16,6 +16,7 @@ Funimation 源第一集需要平移 289 帧（12秒），第二集起需要平�
 |  6   |              这是只有我能做到的事              | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Magia%20Record%20S2/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20S2%20-%2006.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Magia%20Record%20S2/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20S2%20-%2006.cht.ass) |
 |  7   |                你根本就不了解我                | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Magia%20Record%20S2/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20S2%20-%2007.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Magia%20Record%20S2/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20S2%20-%2007.cht.ass) |
 |  8   |                 你根本就不强吧                 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Magia%20Record%20S2/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20S2%20-%2008.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Magia%20Record%20S2/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20S2%20-%2008.cht.ass) |
+| 合集 |                                                | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Magia%20Record%20S2/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20S2.chs.zip) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Magia%20Record%20S2/%5BSweetSub%26EnkanRec%5D%20Magia%20Record%20S2.cht.zip) |
 
 
 ![](https://i.loli.net/2021/08/01/4Xevx52sG3EfQYy.jpg)
