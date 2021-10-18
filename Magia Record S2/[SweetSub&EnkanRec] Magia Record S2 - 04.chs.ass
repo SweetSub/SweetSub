@@ -153,7 +153,7 @@ Dialogue: 0,0:12:05.08,0:12:05.83,Sign,,0,0,0,,{\an1\bord0\fs70\blur1\c&HFFFFFF&
 Dialogue: 0,0:12:05.83,0:12:05.87,Sign,out3,0,0,0,,{\an1\bord0\fs70\c&HFFFFFF&\pos(358,406)\blur0}麻美学姐你现在在哪？我已经从沙耶香那里听说了
 Dialogue: 0,0:12:05.87,0:12:05.91,Sign,out3,0,0,0,,{\an1\bord0\fs70\c&HFFFFFF&\pos(358,443.28)\blur10}麻美学姐你现在在哪？我已经从沙耶香那里听说了
 Dialogue: 0,0:12:05.91,0:12:05.96,Sign,out3,0,0,0,,{\an1\bord0\fs70\c&HFFFFFF&\pos(358,547.63)\blur10}麻美学姐你现在在哪？我已经从沙耶香那里听说了
-Dialogue: 0,0:12:05.96,0:12:07.46,Sign,,0,0,0,,{\an1\bord0\fs90\blur1\c&H50A6C1&\pos(86,376)}无论发生什么事  我都会救你们的
+Dialogue: 0,0:12:05.96,0:12:07.46,Sign,,0,0,0,,{\an1\bord0\fs90\blur1\c&H50A6C1&\pos(86,376)}不管发生什么事  我一定会拯救你们
 Dialogue: 0,0:12:10.33,0:12:10.79,Sign,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\fsp4\fs75\fad(100,100)}快来加入！ Magius
 Dialogue: 0,0:12:10.79,0:12:11.54,Sign,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\fsp4\fs75\fad(100,100)}正在等待你的加入
 Dialogue: 0,0:12:11.54,0:12:12.29,Sign,,0,0,0,,{\c&H000000&\3c&HFFFFFF&\fsp4\fs75\fad(100,100)}成为羽翼
