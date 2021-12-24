@@ -10,10 +10,10 @@
 |  06  |       精神崩溃可不得了       | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Blue%20Period/%5BSweetSub%5D%20Blue%20Period%20-%2006.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Blue%20Period/%5BSweetSub%5D%20Blue%20Period%20-%2006.cht.ass) |
 |  07  |           初试开始           | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Blue%20Period/%5BSweetSub%5D%20Blue%20Period%20-%2007.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Blue%20Period/%5BSweetSub%5D%20Blue%20Period%20-%2007.cht.ass) |
 |  08  |           脑汁四溅           | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Blue%20Period/%5BSweetSub%5D%20Blue%20Period%20-%2009.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Blue%20Period/%5BSweetSub%5D%20Blue%20Period%20-%2008.cht.ass) |
-|  09  |           彷徨小刀           |                             简体                             |                             繁體                             |
-|      |                              |                                                              |                                                              |
-|      |                              |                                                              |                                                              |
-|      |                              |                                                              |                                                              |
+|  09  |           彷徨小刀           | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Blue%20Period/%5BSweetSub%5D%20Blue%20Period%20-%2009.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Blue%20Period/%5BSweetSub%5D%20Blue%20Period%20-%2009.cht.ass) |
+|  10  |        我们身上的蓝色        | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Blue%20Period/%5BSweetSub%5D%20Blue%20Period%20-%2010.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Blue%20Period/%5BSweetSub%5D%20Blue%20Period%20-%2010.cht.ass) |
+|  11  |           复试开始           | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Blue%20Period/%5BSweetSub%5D%20Blue%20Period%20-%2011.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Blue%20Period/%5BSweetSub%5D%20Blue%20Period%20-%2011.cht.ass) |
+|  12  |      不再无色透明的自己      | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Blue%20Period/%5BSweetSub%5D%20Blue%20Period%20-%2012.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Blue%20Period/%5BSweetSub%5D%20Blue%20Period%20-%2012.cht.ass) |
 
 
 
