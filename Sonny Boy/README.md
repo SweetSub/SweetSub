@@ -8,9 +8,9 @@
 
 ​	
 
-- ##### **WEB 版字幕打包下载**
+- ##### **BD 版字幕打包下载**
 
-  [简体 ](https://github.com/SweetSub/SweetSub-source/blob/master/Sonny%20Boy/%5BXKsub%26SweetSub%5D%20Sonny%20Boy%20-%20WebRip%20Subtitles.chs.zip)　/　[繁體](https://github.com/SweetSub/SweetSub-source/blob/master/Sonny%20Boy/%5BXKsub%26SweetSub%5D%20Sonny%20Boy%20-%20WebRip%20Subtitles.cht.zip)
+  [简体 ](https://github.com/SweetSub/SweetSub-source/raw/master/Sonny%20Boy/%5BXKsub%26SweetSub%5D%20Sonny%20Boy%20-%20BDRip%20Subtitles.chs.zip)　/　[繁體](https://github.com/SweetSub/SweetSub-source/raw/master/Sonny%20Boy/%5BXKsub%26SweetSub%5D%20Sonny%20Boy%20-%20BDRip%20Subtitles.cht.zip)
   
   
   
@@ -34,11 +34,14 @@
 
 
 
-> *Funimation 源需要平移字幕 288 帧（12 秒）或 168 帧（7 秒）。
-
-​	
-
-- ##### **特别内容**
+- ##### **特别内容**（字幕下载）
+  | **长PV**                           | **[简体](https://github.com/SweetSub/SweetSub-source/blob/master/Sonny%20Boy/Bonus/%5BXKsub%26SweetSub%5D%20Sonny%20Boy%20-%20Long%20PV.chs.ass)** | **[繁體](https://github.com/SweetSub/SweetSub-source/blob/master/Sonny%20Boy/Bonus/%5BXKsub%26SweetSub%5D%20Sonny%20Boy%20-%20Long%20PV.cht.ass)** |
+  | ---------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+  | **主题曲：银杏BOYZ「少年少女」MV** | **[简体](https://github.com/SweetSub/SweetSub-source/blob/master/Sonny%20Boy/Bonus/%5BXKsub%26SweetSub%5D%20Sonny%20Boy%20-%20MV.chs.ass)** | **[繁體](https://github.com/SweetSub/SweetSub-source/blob/master/Sonny%20Boy/Bonus/%5BXKsub%26SweetSub%5D%20Sonny%20Boy%20-%20MV.cht.ass)** |
+  
+  
+  
+- ##### **特别内容**（在线版）
 
   | ![](https://p.sda1.dev/2/527439ac56db4d20b151471fee22eab2/01.png) | ![](https://p.sda1.dev/2/b32c4c307ee74c5159a96cf66b0b36f4/02.png) |
   | ------------------------------------------------------------ | ------------------------------------------------------------ |
