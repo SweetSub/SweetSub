@@ -3,7 +3,7 @@
 | 集数 |      标题      |                             简体                             |                             繁体                             |
 | :--: | :------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |  1   | 来自太空的使者 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/The%20Orbital%20Children/[SweetSub]%20The%20Orbital%20Children%20-%2001.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/The%20Orbital%20Children/[SweetSub]%20The%20Orbital%20Children%20-%2001.chs.ass) |
-|  2   |                |                                                              |                                                              |
+|  2   |     雾与暗     | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/The%20Orbital%20Children/[SweetSub]%20The%20Orbital%20Children%20-%2002.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/The%20Orbital%20Children/[SweetSub]%20The%20Orbital%20Children%20-%2002.chs.ass) |
 |  3   |                |                                                              |                                                              |
 |  4   |                |                                                              |                                                              |
 |  5   |                |                                                              |                                                              |
