@@ -359,29 +359,29 @@ Dialogue: 0,0:15:28.16,0:15:28.20,Sign,,0,0,0,,{\fscy100.16\an3\fs40\frz27\bord0
 Dialogue: 0,0:15:28.20,0:15:28.24,Sign,,0,0,0,,{\fscy100.06\an3\fs40\frz27\bord0\c&H83888A&\blur0.6\fax0.15\pos(1227.78,587.76)\fscx90.06}這裡是{\c&H5897E9&} B 柱區
 Dialogue: 0,0:15:28.24,0:15:28.28,Sign,,0,0,0,,{\fscy100.03\an3\fs40\frz27\bord0\c&H83888A&\blur0.6\fax0.15\pos(1227.3,587.93)\fscx90.02}這裡是{\c&H5897E9&} B 柱區
 Dialogue: 0,0:15:28.28,0:15:28.32,Sign,,0,0,0,,{\fscy100\an3\fs40\frz27\bord0\c&H83888A&\blur0.6\fax0.15\pos(1227,588)\fscx90}這裡是{\c&H5897E9&} B 柱區
-Dialogue: 0,0:15:27.36,0:15:27.41,Sign,,0,0,0,,{\fscy135.7\an7\fs40\frz29我\bord0\c&H5897E9&\blur0.81\fax0.15\fscx122.13\pos(1396.41,863.97)}火星樓層
-Dialogue: 0,0:15:27.41,0:15:27.45,Sign,,0,0,0,,{\fscy130.44\an7\fs40\frz29我\bord0\c&H5897E9&\blur0.78\fax0.15\fscx117.39\pos(1350.4,862.52)}火星樓層
-Dialogue: 0,0:15:27.45,0:15:27.49,Sign,,0,0,0,,{\fscy125.58\an7\fs40\frz29我\bord0\c&H5897E9&\blur0.75\fax0.15\fscx113.03\pos(1307.97,861.15)}火星樓層
-Dialogue: 0,0:15:27.49,0:15:27.53,Sign,,0,0,0,,{\fscy121.17\an7\fs40\frz29我\bord0\c&H5897E9&\blur0.73\fax0.15\fscx109.05\pos(1269.34,859.89)}火星樓層
-Dialogue: 0,0:15:27.53,0:15:27.57,Sign,,0,0,0,,{\fscy117.24\an7\fs40\frz29我\bord0\c&H5897E9&\blur0.7\fax0.15\fscx105.52\pos(1234.97,858.85)}火星樓層
-Dialogue: 0,0:15:27.57,0:15:27.61,Sign,,0,0,0,,{\fscy113.82\an7\fs40\frz29我\bord0\c&H5897E9&\blur0.68\fax0.15\fscx102.44\pos(1205.04,857.86)}火星樓層
-Dialogue: 0,0:15:27.61,0:15:27.66,Sign,,0,0,0,,{\fscy110.93\an7\fs40\frz29我\bord0\c&H5897E9&\blur0.67\fax0.15\fscx99.84\pos(1179.74,857.1)}火星樓層
-Dialogue: 0,0:15:27.66,0:15:27.70,Sign,,0,0,0,,{\fscy108.55\an7\fs40\frz29我\bord0\c&H5897E9&\blur0.65\fax0.15\fscx97.7\pos(1158.93,856.41)}火星樓層
-Dialogue: 0,0:15:27.70,0:15:27.74,Sign,,0,0,0,,{\fscy106.64\an7\fs40\frz29我\bord0\c&H5897E9&\blur0.64\fax0.15\fscx95.98\pos(1142.21,855.85)}火星樓層
-Dialogue: 0,0:15:27.74,0:15:27.78,Sign,,0,0,0,,{\fscy105.13\an7\fs40\frz29我\bord0\c&H5897E9&\blur0.63\fax0.15\fscx94.62\pos(1128.98,855.45)}火星樓層
-Dialogue: 0,0:15:27.78,0:15:27.82,Sign,,0,0,0,,{\fscy103.94\an7\fs40\frz29我\bord0\c&H5897E9&\blur0.62\fax0.15\fscx93.55\pos(1118.58,855.06)}火星樓層
-Dialogue: 0,0:15:27.82,0:15:27.87,Sign,,0,0,0,,{\fscy103\an7\fs40\frz29我\bord0\c&H5897E9&\blur0.62\fax0.15\fscx92.7\pos(1110.41,854.8)}火星樓層
-Dialogue: 0,0:15:27.87,0:15:27.91,Sign,,0,0,0,,{\fscy102.29\an7\fs40\frz29我\bord0\c&H5897E9&\blur0.61\fax0.15\fscx92.06\pos(1104.09,854.64)}火星樓層
-Dialogue: 0,0:15:27.91,0:15:27.95,Sign,,0,0,0,,{\fscy101.7\an7\fs40\frz29我\bord0\c&H5897E9&\blur0.61\fax0.15\fscx91.53\pos(1099.04,854.43)}火星樓層
-Dialogue: 0,0:15:27.95,0:15:27.99,Sign,,0,0,0,,{\fscy101.25\an7\fs40\frz29我\bord0\c&H5897E9&\blur0.61\fax0.15\fscx91.12\pos(1095.11,854.28)}火星樓層
-Dialogue: 0,0:15:27.99,0:15:28.03,Sign,,0,0,0,,{\fscy100.91\an7\fs40\frz29我\bord0\c&H5897E9&\blur0.61\fax0.15\fscx90.82\pos(1092.07,854.22)}火星樓層
-Dialogue: 0,0:15:28.03,0:15:28.07,Sign,,0,0,0,,{\fscy100.64\an7\fs40\frz29我\bord0\c&H5897E9&\blur0.6\fax0.15\fscx90.58\pos(1089.7,854.17)}火星樓層
-Dialogue: 0,0:15:28.07,0:15:28.12,Sign,,0,0,0,,{\fscy100.43\an7\fs40\frz29我\bord0\c&H5897E9&\blur0.6\fax0.15\fscx90.39\pos(1087.86,854.09)}火星樓層
-Dialogue: 0,0:15:28.12,0:15:28.16,Sign,,0,0,0,,{\fscy100.28\an7\fs40\frz29我\bord0\c&H5897E9&\blur0.6\fax0.15\fscx90.25\pos(1086.48,854.1)}火星樓層
-Dialogue: 0,0:15:28.16,0:15:28.20,Sign,,0,0,0,,{\fscy100.16\an7\fs40\frz29我\bord0\c&H5897E9&\blur0.6\fax0.15\fscx90.14\pos(1085.43,854.01)}火星樓層
-Dialogue: 0,0:15:28.20,0:15:28.24,Sign,,0,0,0,,{\fscy100.06\an7\fs40\frz29我\bord0\c&H5897E9&\blur0.6\fax0.15\fscx90.06\pos(1084.69,853.93)}火星樓層
-Dialogue: 0,0:15:28.24,0:15:28.28,Sign,,0,0,0,,{\fscy100.03\an7\fs40\frz29我\bord0\c&H5897E9&\blur0.6\fax0.15\fscx90.02\pos(1084.26,854)}火星樓層
-Dialogue: 0,0:15:28.28,0:15:28.32,Sign,,0,0,0,,{\fscy100\an7\fs40\frz29我\bord0\c&H5897E9&\blur0.6\fax0.15\fscx90\pos(1084,854)}火星樓層
+Dialogue: 0,0:15:27.36,0:15:27.41,Sign,,0,0,0,,{\fscy135.7\an7\fs40\frz29\bord0\c&H5897E9&\blur0.81\fax0.15\fscx122.13\pos(1396.41,863.97)}火星樓層
+Dialogue: 0,0:15:27.41,0:15:27.45,Sign,,0,0,0,,{\fscy130.44\an7\fs40\frz29\bord0\c&H5897E9&\blur0.78\fax0.15\fscx117.39\pos(1350.4,862.52)}火星樓層
+Dialogue: 0,0:15:27.45,0:15:27.49,Sign,,0,0,0,,{\fscy125.58\an7\fs40\frz29\bord0\c&H5897E9&\blur0.75\fax0.15\fscx113.03\pos(1307.97,861.15)}火星樓層
+Dialogue: 0,0:15:27.49,0:15:27.53,Sign,,0,0,0,,{\fscy121.17\an7\fs40\frz29\bord0\c&H5897E9&\blur0.73\fax0.15\fscx109.05\pos(1269.34,859.89)}火星樓層
+Dialogue: 0,0:15:27.53,0:15:27.57,Sign,,0,0,0,,{\fscy117.24\an7\fs40\frz29\bord0\c&H5897E9&\blur0.7\fax0.15\fscx105.52\pos(1234.97,858.85)}火星樓層
+Dialogue: 0,0:15:27.57,0:15:27.61,Sign,,0,0,0,,{\fscy113.82\an7\fs40\frz29\bord0\c&H5897E9&\blur0.68\fax0.15\fscx102.44\pos(1205.04,857.86)}火星樓層
+Dialogue: 0,0:15:27.61,0:15:27.66,Sign,,0,0,0,,{\fscy110.93\an7\fs40\frz29\bord0\c&H5897E9&\blur0.67\fax0.15\fscx99.84\pos(1179.74,857.1)}火星樓層
+Dialogue: 0,0:15:27.66,0:15:27.70,Sign,,0,0,0,,{\fscy108.55\an7\fs40\frz29\bord0\c&H5897E9&\blur0.65\fax0.15\fscx97.7\pos(1158.93,856.41)}火星樓層
+Dialogue: 0,0:15:27.70,0:15:27.74,Sign,,0,0,0,,{\fscy106.64\an7\fs40\frz29\bord0\c&H5897E9&\blur0.64\fax0.15\fscx95.98\pos(1142.21,855.85)}火星樓層
+Dialogue: 0,0:15:27.74,0:15:27.78,Sign,,0,0,0,,{\fscy105.13\an7\fs40\frz29\bord0\c&H5897E9&\blur0.63\fax0.15\fscx94.62\pos(1128.98,855.45)}火星樓層
+Dialogue: 0,0:15:27.78,0:15:27.82,Sign,,0,0,0,,{\fscy103.94\an7\fs40\frz29\bord0\c&H5897E9&\blur0.62\fax0.15\fscx93.55\pos(1118.58,855.06)}火星樓層
+Dialogue: 0,0:15:27.82,0:15:27.87,Sign,,0,0,0,,{\fscy103\an7\fs40\frz29\bord0\c&H5897E9&\blur0.62\fax0.15\fscx92.7\pos(1110.41,854.8)}火星樓層
+Dialogue: 0,0:15:27.87,0:15:27.91,Sign,,0,0,0,,{\fscy102.29\an7\fs40\frz29\bord0\c&H5897E9&\blur0.61\fax0.15\fscx92.06\pos(1104.09,854.64)}火星樓層
+Dialogue: 0,0:15:27.91,0:15:27.95,Sign,,0,0,0,,{\fscy101.7\an7\fs40\frz29\bord0\c&H5897E9&\blur0.61\fax0.15\fscx91.53\pos(1099.04,854.43)}火星樓層
+Dialogue: 0,0:15:27.95,0:15:27.99,Sign,,0,0,0,,{\fscy101.25\an7\fs40\frz29\bord0\c&H5897E9&\blur0.61\fax0.15\fscx91.12\pos(1095.11,854.28)}火星樓層
+Dialogue: 0,0:15:27.99,0:15:28.03,Sign,,0,0,0,,{\fscy100.91\an7\fs40\frz29\bord0\c&H5897E9&\blur0.61\fax0.15\fscx90.82\pos(1092.07,854.22)}火星樓層
+Dialogue: 0,0:15:28.03,0:15:28.07,Sign,,0,0,0,,{\fscy100.64\an7\fs40\frz29\bord0\c&H5897E9&\blur0.6\fax0.15\fscx90.58\pos(1089.7,854.17)}火星樓層
+Dialogue: 0,0:15:28.07,0:15:28.12,Sign,,0,0,0,,{\fscy100.43\an7\fs40\frz29\bord0\c&H5897E9&\blur0.6\fax0.15\fscx90.39\pos(1087.86,854.09)}火星樓層
+Dialogue: 0,0:15:28.12,0:15:28.16,Sign,,0,0,0,,{\fscy100.28\an7\fs40\frz29\bord0\c&H5897E9&\blur0.6\fax0.15\fscx90.25\pos(1086.48,854.1)}火星樓層
+Dialogue: 0,0:15:28.16,0:15:28.20,Sign,,0,0,0,,{\fscy100.16\an7\fs40\frz29\bord0\c&H5897E9&\blur0.6\fax0.15\fscx90.14\pos(1085.43,854.01)}火星樓層
+Dialogue: 0,0:15:28.20,0:15:28.24,Sign,,0,0,0,,{\fscy100.06\an7\fs40\frz29\bord0\c&H5897E9&\blur0.6\fax0.15\fscx90.06\pos(1084.69,853.93)}火星樓層
+Dialogue: 0,0:15:28.24,0:15:28.28,Sign,,0,0,0,,{\fscy100.03\an7\fs40\frz29\bord0\c&H5897E9&\blur0.6\fax0.15\fscx90.02\pos(1084.26,854)}火星樓層
+Dialogue: 0,0:15:28.28,0:15:28.32,Sign,,0,0,0,,{\fscy100\an7\fs40\frz29\bord0\c&H5897E9&\blur0.6\fax0.15\fscx90\pos(1084,854)}火星樓層
 Dialogue: 0,0:15:28.32,0:15:34.00,Sign,,0,0,0,,{\an3\fs40\frz19\frx6\bord0\c&H83888A&\pos(697,26)\blur0.6\fax0.2}安心  當前位置
 Dialogue: 0,0:15:28.32,0:15:34.00,Sign,,0,0,0,,{\an3\fs40\frz21\bord0\c&H83888A&\blur0.6\fax0.23\pos(505,234)\fry10}整體圖
 Dialogue: 0,0:15:28.32,0:15:34.00,Sign,,0,0,0,,{\an3\fs40\frz21\bord0\c&H83888A&\blur0.6\fax0.23\frx-10\fry10\pos(1020,35)}B 柱區
@@ -389,7 +389,7 @@ Dialogue: 0,0:15:28.32,0:15:28.62,Sign,,0,0,0,,{\an3\fs40\frz27\bord0\c&H83888A&
 Dialogue: 0,0:15:28.74,0:15:28.99,Sign,,0,0,0,,{\an3\fs40\frz27\bord0\c&H83888A&\blur0.6\fax0.15\pos(1227,588)\fscx90}這裡是{\c&H5897E9&} B 柱區
 Dialogue: 0,0:15:28.99,0:15:29.12,Sign,,0,0,0,,{\an3\fs40\frz27\bord0\c&H83888A&\blur0.6\fax0.15\pos(1227,588)\fscx90\iclip(m 1209 551 l 1203 577 1209 578 1219 575 1229 558)}這裡是{\c&H5897E9&} B 柱區
 Dialogue: 0,0:15:29.12,0:15:34.00,Sign,,0,0,0,,{\an3\fs40\frz27\bord0\c&H83888A&\blur0.6\fax0.15\pos(1227,588)\fscx90}這裡是{\c&H5897E9&} B 柱區
-Dialogue: 0,0:15:28.32,0:15:28.74,Sign,,0,0,0,,{\an7\fs40\frz29我\bord0\c&H5897E9&\blur0.6\fax0.15\fscx90\pos(1084,854)}火星樓層
+Dialogue: 0,0:15:28.32,0:15:28.74,Sign,,0,0,0,,{\an7\fs40\frz29\bord0\c&H5897E9&\blur0.6\fax0.15\fscx90\pos(1084,854)}火星樓層
 Dialogue: 0,0:15:41.00,0:15:43.51,Sign,,0,0,0,,{\an3\bord0\fs50\move(930,342.14,930,20,24,2485)\frz12.14\fax-0.18\c&H1C1EE7&\fry2.5}前往 C 柱區的通道已被封鎖
 Dialogue: 0,0:15:41.00,0:15:43.51,Sign,,0,0,0,,{\an3\bord0\fs50\frz5\fax-0.08\frx-2\c&H7B828C&\move(982,1098.14,982,776,24,2485)}請由此查閱交通訊息
 Dialogue: 0,0:15:53.97,0:15:56.44,Sign,,0,0,0,,{\an8\c&HF0F0F0&\bord8\3c&HFFFFFF&\3a&H64&\fad(0,400)}認證  所有商品均被買下
