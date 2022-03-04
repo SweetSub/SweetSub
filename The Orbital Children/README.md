@@ -20,8 +20,8 @@ SweetSub 未標明有「繁化」的作品，均由[繁化姬](https://zhconvert
 
 | 集数 | 标题 | 简体 | 繁体 |
 | :-: | :-: | :-: | :-: |
-| 前篇 | 来自太空的使者 / 雾与暗 / Lunatic Seven | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/The%20Orbital%20Children/%5BSweetSub%5D%20The%20Orbital%20Children%20-%20Movie%2001.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/The%20Orbital%20Children/%5BSweetSub%5D%20The%20Orbital%20Children%20-%20Movie%2001.cht.ass) |
-| 后篇 | Seven 的图纹 / 终结的故事 / 起始的故事 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/The%20Orbital%20Children/%5BSweetSub%5D%20The%20Orbital%20Children%20-%20Movie%2002.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/The%20Orbital%20Children/%5BSweetSub%5D%20The%20Orbital%20Children%20-%20Movie%2002.cht.ass) |
+| 前篇 | 来自太空的使者 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/The%20Orbital%20Children/%5BSweetSub%5D%20The%20Orbital%20Children%20-%20Movie%2001.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/The%20Orbital%20Children/%5BSweetSub%5D%20The%20Orbital%20Children%20-%20Movie%2001.cht.ass) |
+| 后篇 | 起始的故事 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/The%20Orbital%20Children/%5BSweetSub%5D%20The%20Orbital%20Children%20-%20Movie%2002.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/The%20Orbital%20Children/%5BSweetSub%5D%20The%20Orbital%20Children%20-%20Movie%2002.cht.ass) |
 | 合集 |   | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/The%20Orbital%20Children/%5BSweetSub%5D%20The%20Orbital%20Children%20-%20BDRip%20Subtitles.chs.zip) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/The%20Orbital%20Children/%5BSweetSub%5D%20The%20Orbital%20Children%20-%20BDRip%20Subtitles.cht.zip) |
 
 &NewLine;
