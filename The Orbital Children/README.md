@@ -8,12 +8,14 @@ BD 原盘也是剧场版编排，3 集连播，评论音轨也是 3 集连在一
 
 是的，没错，在日本电影院看本片的观众每场会看到 3 次 ED。
 
-我们注意到很多压制者都将原盘切成分集版制作，出于方便观众们的考虑，我们会同时在 [GitHub](https://github.com/SweetSub/SweetSub-source/tree/master/The%20Orbital%20Children#BDRip 分集版字幕下载) 中提供分集版的外挂字幕。
+我们注意到很多压制者都将原盘切成分集版制作，出于方便观众们的考虑，我们会同时在 [GitHub](https://github.com/SweetSub/SweetSub-source/tree/master/The%20Orbital%20Children#BDRip%20分集版字幕下载) 中提供分集版的外挂字幕。
 
 SweetSub 未標明有「繁化」的作品，均由[繁化姬](https://zhconvert.org/)自動台灣化處理，未經過人工檢查。本片中出現了大量的技術名詞，因此可能會有錯誤和紕漏，SweetSub 無法保證繁體用詞的準確性。所以，我們建議兩者都能看懂的觀眾優先觀看簡體字幕。
 
 如果發現繁體字幕有問題可以在 GitHub 提交 issue 或者 pull request。
 
+&NewLine;
+&NewLine;
 * BDRip 版字幕下载
 
 | 集数 | 标题 | 简体 | 繁体 |
@@ -22,6 +24,8 @@ SweetSub 未標明有「繁化」的作品，均由[繁化姬](https://zhconvert
 | 后篇 | Seven 的图纹 / 终结的故事 / 起始的故事 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/The%20Orbital%20Children/%5BSweetSub%5D%20The%20Orbital%20Children%20-%20Movie%2002.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/The%20Orbital%20Children/%5BSweetSub%5D%20The%20Orbital%20Children%20-%20Movie%2002.cht.ass) |
 | 合集 |   | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/The%20Orbital%20Children/%5BSweetSub%5D%20The%20Orbital%20Children%20-%20BDRip%20Subtitles.chs.zip) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/The%20Orbital%20Children/%5BSweetSub%5D%20The%20Orbital%20Children%20-%20BDRip%20Subtitles.cht.zip) |
 
+&NewLine;
+&NewLine;
 * BDRip 分集版字幕下载
 
 | 集数 | 标题 | 简体 | 繁体 |
@@ -34,6 +38,8 @@ SweetSub 未標明有「繁化」的作品，均由[繁化姬](https://zhconvert
 | 06 | 起始的故事 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/The%20Orbital%20Children/BDRip%20(Episode%20ver.)/%5BSweetSub%5D%20The%20Orbital%20Children%20-%2006.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/The%20Orbital%20Children/BDRip%20(Episode%20ver.)/%5BSweetSub%5D%20The%20Orbital%20Children%20-%2006.cht.ass) |
 | 合集 |   | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/The%20Orbital%20Children/BDRip%20(Episode%20ver.)/%5BSweetSub%5D%20The%20Orbital%20Children%20-%20BDRip%20(Episode%20ver.)%20Subtitles.chs.zip) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/The%20Orbital%20Children/BDRip%20(Episode%20ver.)/%5BSweetSub%5D%20The%20Orbital%20Children%20-%20BDRip%20(Episode%20ver.)%20Subtitles.cht.zip) |
 
+&NewLine;
+&NewLine;
 * 所需字体
 
 |简体   | 繁体|
