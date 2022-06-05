@@ -2,8 +2,8 @@
 
 |                | 简体                                                         | 繁体                                                         |
 | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 全屏幕字       | [点击下载](https://raw.githubusercontent.com/SweetSub/SweetSub/Archive/master/Penguin%20Highway/%5BSweetSub&VCB-Studio%5D%20Penguin%20Highway%20%5BMa10p_1080p%5D%5Bx265_flac%5D.chs.ass) | [点击下载](https://raw.githubusercontent.com/SweetSub/SweetSub/Archive/master/Penguin%20Highway/%5BSweetSub&VCB-Studio%5D%20Penguin%20Highway%20%5BMa10p_1080p%5D%5Bx265_flac%5D.cht.ass) |
-| 最低限度屏幕字 | [点击下载](https://raw.githubusercontent.com/SweetSub/SweetSub/Archive/master/Penguin%20Highway/%5BSweetSub&VCB-Studio%5D%20Penguin%20Highway%20%5BMa10p_1080p%5D%5Bx265_flac%5D.chs_min_caption.ass) | [点击下载](https://raw.githubusercontent.com/SweetSub/SweetSub/Archive/master/Penguin%20Highway/%5BSweetSub&VCB-Studio%5D%20Penguin%20Highway%20%5BMa10p_1080p%5D%5Bx265_flac%5D.cht_min_caption.ass) |
+| 全屏幕字       | [点击下载](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Penguin%20Highway/%5BSweetSub&VCB-Studio%5D%20Penguin%20Highway%20%5BMa10p_1080p%5D%5Bx265_flac%5D.chs.ass) | [点击下载](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Penguin%20Highway/%5BSweetSub&VCB-Studio%5D%20Penguin%20Highway%20%5BMa10p_1080p%5D%5Bx265_flac%5D.cht.ass) |
+| 最低限度屏幕字 | [点击下载](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Penguin%20Highway/%5BSweetSub&VCB-Studio%5D%20Penguin%20Highway%20%5BMa10p_1080p%5D%5Bx265_flac%5D.chs_min_caption.ass) | [点击下载](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Penguin%20Highway/%5BSweetSub&VCB-Studio%5D%20Penguin%20Highway%20%5BMa10p_1080p%5D%5Bx265_flac%5D.cht_min_caption.ass) |
 
 字幕对应切黑边版的 BDRip （1920x872）
 

@@ -2,7 +2,7 @@
 
 | 集数 |        标题        |                             简体                             |                             繁体                             |
 | :--: | :----------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  1   | 吸血少女  热血躁动 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/Archive/master/VLADLOVE/%5BSweetSub%5D%20VLADLOVE%20-%2001.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/Archive/master/VLADLOVE/%5BSweetSub%5D%20VLADLOVE%20-%2001.cht.ass) |
+|  1   | 吸血少女  热血躁动 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/VLADLOVE/%5BSweetSub%5D%20VLADLOVE%20-%2001.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/VLADLOVE/%5BSweetSub%5D%20VLADLOVE%20-%2001.cht.ass) |
 |  2   |                    |                                                              |                                                              |
 |  3   |                    |                                                              |                                                              |
 |  4   |                    |                                                              |                                                              |
