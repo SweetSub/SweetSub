@@ -6,7 +6,7 @@
 
 BD 字幕下载：
 
-[简体](https://github.com/SweetSub/SweetSub/Archive/raw/master/Made%20in%20Abyss/Made%20in%20Abyss%20chs.zip)　　　　[繁体](https://github.com/SweetSub/SweetSub/Archive/blob/master/Made%20in%20Abyss/Made%20in%20Abyss%20cht.zip)
+[简体](https://github.com/SweetSub/SweetSub/raw/master/Archive/Made%20in%20Abyss/Made%20in%20Abyss%20chs.zip)　　　　[繁体](https://github.com/SweetSub/SweetSub/Archive/blob/master/Made%20in%20Abyss/Made%20in%20Abyss%20cht.zip)
 
 [总集篇剧场版字幕](https://github.com/SweetSub/SweetSub/Archive/tree/master/Made%20in%20Abyss%20Compendium%20Films)
 

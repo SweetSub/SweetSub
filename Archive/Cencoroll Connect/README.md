@@ -10,6 +10,6 @@ Cencoroll Connect 包含了前作 Cencoroll。
 
 源ノ角ゴシック Medium \<Source Han Sans Medium>
 
-[简体](https://github.com/SweetSub/SweetSub/Archive/raw/master/Cencoroll%20Connect/[SweetSub]%20Cencoroll%20Connect.chs.ass)
+[简体](https://github.com/SweetSub/SweetSub/raw/master/Archive/Cencoroll%20Connect/[SweetSub]%20Cencoroll%20Connect.chs.ass)
 
-[繁体](https://github.com/SweetSub/SweetSub/Archive/raw/master/Cencoroll%20Connect/[SweetSub]%20Cencoroll%20Connect.cht.ass)
+[繁体](https://github.com/SweetSub/SweetSub/raw/master/Archive/Cencoroll%20Connect/[SweetSub]%20Cencoroll%20Connect.cht.ass)

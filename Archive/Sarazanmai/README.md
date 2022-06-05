@@ -19,7 +19,7 @@
 | 第九皿 | 「想要相连却已 无法传达到」 | [简体中文](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Sarazanmai/09.zhs.ass) | [繁體中文](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Sarazanmai/09.zht.ass) 
 | 第十皿 | 「想要相连却已 无法与你连系」 | [简体中文](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Sarazanmai/10.zhs.ass) | [繁體中文](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Sarazanmai/10.zht.ass) 
 | 第十一皿 | 「想要相连所以 Sarazanmai」 | [简体中文](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Sarazanmai/11.zhs.ass) | [繁體中文](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Sarazanmai/11.zht.ass) 
-| 合集 |  | [简体中文](https://github.com/SweetSub/SweetSub/Archive/raw/master/Sarazanmai/%5BSweetSub%5D%20Sarazanmai.zhs.rar) | [繁體中文](https://github.com/SweetSub/SweetSub/Archive/raw/master/Sarazanmai/%5BSweetSub%5D%20Sarazanmai.zht.rar) 
+| 合集 |  | [简体中文](https://github.com/SweetSub/SweetSub/raw/master/Archive/Sarazanmai/%5BSweetSub%5D%20Sarazanmai.zhs.rar) | [繁體中文](https://github.com/SweetSub/SweetSub/raw/master/Archive/Sarazanmai/%5BSweetSub%5D%20Sarazanmai.zht.rar) 
 
 [对应 TV 时间轴的字幕下载](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Sarazanmai/%5BSweetSub%5D%20Sarazanmai%20TV%20%E7%89%88%E5%AD%97%E5%B9%95.rar)
 

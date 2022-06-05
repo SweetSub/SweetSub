@@ -10,7 +10,7 @@
 
 - ##### **BD 版字幕打包下载**
 
-  [简体 ](https://github.com/SweetSub/SweetSub/Archive/raw/master/Sonny%20Boy/%5BXKsub%26SweetSub%5D%20Sonny%20Boy%20-%20BDRip%20Subtitles.chs.zip)　/　[繁體](https://github.com/SweetSub/SweetSub/Archive/raw/master/Sonny%20Boy/%5BXKsub%26SweetSub%5D%20Sonny%20Boy%20-%20BDRip%20Subtitles.cht.zip)
+  [简体 ](https://github.com/SweetSub/SweetSub/raw/master/Archive/Sonny%20Boy/%5BXKsub%26SweetSub%5D%20Sonny%20Boy%20-%20BDRip%20Subtitles.chs.zip)　/　[繁體](https://github.com/SweetSub/SweetSub/raw/master/Archive/Sonny%20Boy/%5BXKsub%26SweetSub%5D%20Sonny%20Boy%20-%20BDRip%20Subtitles.cht.zip)
   
   
   

@@ -16,9 +16,9 @@
 
 字幕下载：
 
-[简体](https://github.com/SweetSub/SweetSub/Archive/raw/master/FLCL%20Alternative/%5BSweetSub%5D%20FLCL%20Alternative.chs.ass)
+[简体](https://github.com/SweetSub/SweetSub/raw/master/Archive/FLCL%20Alternative/%5BSweetSub%5D%20FLCL%20Alternative.chs.ass)
 
-[繁体](https://github.com/SweetSub/SweetSub/Archive/raw/master/FLCL%20Alternative/%5BSweetSub%5D%20FLCL%20Alternative.cht.ass)
+[繁体](https://github.com/SweetSub/SweetSub/raw/master/Archive/FLCL%20Alternative/%5BSweetSub%5D%20FLCL%20Alternative.cht.ass)
 
 
 
