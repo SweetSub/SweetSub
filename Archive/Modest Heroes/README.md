@@ -14,4 +14,4 @@ A-OTF 秀英丸ゴシック Std B \<A-OTF Shuei MaruGo Std B\>
 
 源ノ角ゴシック Medium \<Source Han Sans Medium\>
 
-未切黑边  [简体](https://github.com/SweetSub/SweetSub-source/raw/master/Modest%20Heros/%5BSweetSub%5D%20Modest%20Heros%20%5B1920x1080%5D.chs.ass)  [繁体](https://github.com/SweetSub/SweetSub-source/raw/master/Modest%20Heros/%5BSweetSub%5D%20Modest%20Heros%20%5B1920x1080%5D.cht.ass)
+未切黑边  [简体](https://github.com/SweetSub/SweetSub/Archive/raw/master/Modest%20Heros/%5BSweetSub%5D%20Modest%20Heros%20%5B1920x1080%5D.chs.ass)  [繁体](https://github.com/SweetSub/SweetSub/Archive/raw/master/Modest%20Heros/%5BSweetSub%5D%20Modest%20Heros%20%5B1920x1080%5D.cht.ass)

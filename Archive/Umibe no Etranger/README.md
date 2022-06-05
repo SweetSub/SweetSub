@@ -1,6 +1,6 @@
-[简体字幕](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Umibe%20no%20Etranger/[SweetSub]%20Umibe%20no%20Etranger.chs&jap.zip)
+[简体字幕](https://raw.githubusercontent.com/SweetSub/SweetSub/Archive/master/Umibe%20no%20Etranger/[SweetSub]%20Umibe%20no%20Etranger.chs&jap.zip)
 
-[繁体字幕](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Umibe%20no%20Etranger/[SweetSub]%20Umibe%20no%20Etranger.cht&jap.zip)
+[繁体字幕](https://raw.githubusercontent.com/SweetSub/SweetSub/Archive/master/Umibe%20no%20Etranger/[SweetSub]%20Umibe%20no%20Etranger.cht&jap.zip)
 
 
 

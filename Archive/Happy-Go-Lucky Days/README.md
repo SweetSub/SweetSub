@@ -1,8 +1,8 @@
 
 
-[简体双语字幕下载](https://github.com/SweetSub/SweetSub-source/raw/master/Happy-Go-Lucky%20Days/%5BSweetSub%5D%20Happy-Go-Lucky%20Days.chs.ass)
+[简体双语字幕下载](https://github.com/SweetSub/SweetSub/Archive/raw/master/Happy-Go-Lucky%20Days/%5BSweetSub%5D%20Happy-Go-Lucky%20Days.chs.ass)
 
-[繁體雙語字幕下載](https://github.com/SweetSub/SweetSub-source/raw/master/Happy-Go-Lucky%20Days/%5BSweetSub%5D%20Happy-Go-Lucky%20Days.cht.ass)
+[繁體雙語字幕下載](https://github.com/SweetSub/SweetSub/Archive/raw/master/Happy-Go-Lucky%20Days/%5BSweetSub%5D%20Happy-Go-Lucky%20Days.cht.ass)
 
 使用字体：
 

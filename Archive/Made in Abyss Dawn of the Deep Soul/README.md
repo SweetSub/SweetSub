@@ -1,6 +1,6 @@
-[简体字幕](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Made%20in%20Abyss%20Dawn%20of%20the%20Deep%20Soul/%5BSweetSub%5D%20Made%20in%20Abyss%20-%20Dawn%20of%20the%20Deep%20Soul.chs.zip)
+[简体字幕](https://raw.githubusercontent.com/SweetSub/SweetSub/Archive/master/Made%20in%20Abyss%20Dawn%20of%20the%20Deep%20Soul/%5BSweetSub%5D%20Made%20in%20Abyss%20-%20Dawn%20of%20the%20Deep%20Soul.chs.zip)
 
-[繁体字幕](https://raw.githubusercontent.com/SweetSub/SweetSub-source/master/Made%20in%20Abyss%20Dawn%20of%20the%20Deep%20Soul/%5BSweetSub%5D%20Made%20in%20Abyss%20-%20Dawn%20of%20the%20Deep%20Soul.cht.zip)
+[繁体字幕](https://raw.githubusercontent.com/SweetSub/SweetSub/Archive/master/Made%20in%20Abyss%20Dawn%20of%20the%20Deep%20Soul/%5BSweetSub%5D%20Made%20in%20Abyss%20-%20Dawn%20of%20the%20Deep%20Soul.cht.zip)
 
 
 
