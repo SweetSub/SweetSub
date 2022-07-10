@@ -2,7 +2,7 @@
 
 | 集数 |        标题        |                             简体                             |                             繁体                             |
 | :--: | :----------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  1   | 雨宫夕日与蜥蜴骑士 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Hoshi no Samidare/%5BSweetSub%5D%20Hoshi%20no%20Samidare%20-%2001.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Hoshi no Samidare/%5BSweetSub%5D%20Hoshi%20no%20Samidare%20-%2001.cht.ass) |
+|  1   | 雨宫夕日与蜥蜴骑士 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Hoshi%20no%20Samidare/%5BSweetSub%5D%20Hoshi%20no%20Samidare%20-%2001.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Hoshi%20no%20Samidare/%5BSweetSub%5D%20Hoshi%20no%20Samidare%20-%2001.cht.ass) |
 |      |                    |                                                              |                                                              |
 |      |                    |                                                              |                                                              |
 |      |                    |                                                              |                                                              |
