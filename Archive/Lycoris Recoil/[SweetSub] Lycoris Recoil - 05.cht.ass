@@ -3,12 +3,6 @@
 ; http://www.aegisub.org/
 Comment: Processed by 繁化姬 | https://zhconvert.org
 Title: [SweetSub] Lycoris Recoil - 05
-Original Translation: 
-Original Editing: 
-Original Timing: 
-Synch Point: 
-Script Updated By: 
-Update Details: 
 ScriptType: v4.00+
 PlayResX: 1920
 PlayResY: 1080
@@ -203,7 +197,7 @@ Dialogue: 0,0:02:10.90,0:02:12.97,Default,,0,0,0,,這次不由山茱萸你來說
 Dialogue: 0,0:02:12.97,0:02:15.73,Default,,0,0,0,,雖說我已經讀過內容了
 Dialogue: 0,0:02:13.90,0:02:14.98,Top,,0,0,0,,首先…
 Dialogue: 0,0:02:14.98,0:02:20.07,Top,,0,0,0,,喂喂  那邊  不准交頭接耳
-Dialogue: 0,0:02:15.73,0:02:17.78,Default,,0,0,0,,這次她額外起勁…
+Dialogue: 0,0:02:15.73,0:02:17.78,Default,,0,0,0,,這次她格外起勁…
 Dialogue: 0,0:02:20.07,0:02:21.82,Default,,0,0,0,,還有那邊的松鼠
 Dialogue: 0,0:02:21.82,0:02:23.12,Default,,0,0,0,,你是不是在打遊戲？
 Dialogue: 0,0:02:23.12,0:02:24.24,Default,,0,0,0,,我在聽
