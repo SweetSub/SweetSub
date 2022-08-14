@@ -8,6 +8,7 @@
 |  4   |     不寻则无获     | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Lycoris%20Recoil%2F%5BSweetSub%5D%20Lycoris%20Recoil%20-%2004.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Lycoris%20Recoil%2F%5BSweetSub%5D%20Lycoris%20Recoil%20-%2004.cht.ass) |
 |  5   | 截至目前，一切都好 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Lycoris%20Recoil%2F%5BSweetSub%5D%20Lycoris%20Recoil%20-%2005.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Lycoris%20Recoil%2F%5BSweetSub%5D%20Lycoris%20Recoil%20-%2005.cht.ass) |
 |  6   | 相异相吸 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Lycoris%20Recoil%2F%5BSweetSub%5D%20Lycoris%20Recoil%20-%2006.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Lycoris%20Recoil%2F%5BSweetSub%5D%20Lycoris%20Recoil%20-%2006.cht.ass) |
+| 7 | 时间会告诉答案 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Lycoris%20Recoil%2F%5BSweetSub%5D%20Lycoris%20Recoil%20-%2007.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Lycoris%20Recoil%2F%5BSweetSub%5D%20Lycoris%20Recoil%20-%2007.cht.ass) |
 
 
 ![](https://p.sda1.dev/6/ca02f4d7ee2a3ae8095d789cbb238f47/LycorisRecoil02-2.jpg)
