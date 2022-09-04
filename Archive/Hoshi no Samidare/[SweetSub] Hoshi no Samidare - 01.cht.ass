@@ -510,9 +510,9 @@ Dialogue: 1,0:11:36.34,0:11:37.93,Text - CN,,0,0,0,,廢話
 Dialogue: 1,0:11:37.93,0:11:40.14,Text - CN,,0,0,0,,一對一是贏不了的
 Dialogue: 1,0:11:40.14,0:11:44.06,Text - CN,,0,0,0,,騎士之中能單槍匹馬跟它們交戰的
 Dialogue: 1,0:11:44.06,0:11:49.49,Text - CN,Ruby,0,0,0,,也就黑龍  神鳥  以及靈馬這三個而已
-Dialogue: 1,0:11:44.06,0:11:49.49,Ruby,Ruby,0,0,0,,{\pos(688,966)\fscx80}Invincible
-Dialogue: 1,0:11:44.06,0:11:49.49,Ruby,Ruby,0,0,0,,{\pos(820,966)\fscx80}Hræsvelgr
-Dialogue: 1,0:11:44.06,0:11:49.49,Ruby,Ruby,0,0,0,,{\pos(1068,966)\fscx80}Unicorn
+Dialogue: 1,0:11:44.06,0:11:49.49,Ruby,Ruby,0,0,0,,{\pos(688,965)\fscx80}Invincible
+Dialogue: 1,0:11:44.06,0:11:49.49,Ruby,Ruby,0,0,0,,{\pos(820,965)\fscx80}Hræsvelgr
+Dialogue: 1,0:11:44.06,0:11:49.49,Ruby,Ruby,0,0,0,,{\pos(1068,965)\fscx80}Unicorn
 Dialogue: 1,0:11:49.49,0:11:50.90,Text - CN,,0,0,0,,你不是其中之一嗎
 Dialogue: 1,0:11:51.61,0:11:54.78,Text - CN,,0,0,0,,如你所見  我是隻普通的蜥蜴
 Dialogue: 1,0:11:54.78,0:11:56.11,Text - CN,,0,0,0,,虧你這樣…
