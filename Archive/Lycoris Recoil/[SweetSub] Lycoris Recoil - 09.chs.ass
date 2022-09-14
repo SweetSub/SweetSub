@@ -117,28 +117,97 @@ Dialogue: 0,0:18:06.21,0:18:07.04,Sign,,0,0,0,,{\an4\fs70\bord10\blur20\c&HD8866
 Dialogue: 0,0:18:06.21,0:18:07.04,Sign,,0,0,0,,{\an4\fs70\fscx110\fscy100\fax-0.24\fay0.150\bord0.9\blur1\1a&H20&\1c&H7E3722&\3c&H7E3722&\pos(1089.49,287.8)}游玩手册
 Dialogue: 0,0:18:06.21,0:18:07.04,Sign,,0,0,0,,{\an4\fs41\fscx110\fscy100\fax-0.24\fay0.150\bord0.6\blur0.8\1a&H20&\1c&H1C161F&\3c&H1C161F&\pos(1090.52,352.57)}休假计划表
 Dialogue: 0,0:18:05.83,0:18:07.04,Sign,,0,0,0,,{\an4\fs70\bord5\blur10\c&HC9C9E7&\p1\3c&HC9C9E7&\pos(-3.97,33.28)}m 1139.73 429.13 l 1131.69 464.05 1399.68 502.09 1408.95 467.05
-Dialogue: 0,0:18:05.83,0:18:07.04,Sign,,0,0,0,,{\an4\fs33\fscx110\fscy100\fax-0.24\fay0.150\bord0.5\blur0.4\1a&H20&\1c&H232433&\3c&H232433&\pos(1172.84,450.91)}编者　井之上玉簪
+Dialogue: 0,0:18:05.83,0:18:07.04,Sign,,0,0,0,,{\an4\fs33\fscx110\fscy100\fax-0.24\fay0.150\bord0.5\blur4\1a&H20&\c&H232433&\3c&H232433&\pos(1172.84,450.91)\alpha&HE0&}编者　井之上玉簪
+Dialogue: 1,0:18:05.83,0:18:07.04,Sign,,0,0,0,,{\an4\fs33\fscx110\fscy100\fax-0.24\fay0.150\bord0.5\blur0.4\1a&H20&\c&H232433&\3c&H232433&\pos(1172.84,450.91)}编者　井之上玉簪
+Dialogue: 0,0:18:05.83,0:18:07.04,Sign,,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\bord5\blur10\c&HC3C2E1&\3c&HC3C2E1&}m 930.67 504.09 l 922.85 535.26 1007.1 547.92 1014.14 516.67
+Dialogue: 0,0:18:05.83,0:18:07.04,Sign,,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\bord5\blur10\c&HC4C3E1&\3c&HC4C3E1&}m 914.22 561.56 l 906.3 593.25 966.37 602.32 973.49 569.93
+Dialogue: 0,0:18:05.83,0:18:07.04,Sign,,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\bord5\blur10\c&HC0BFDF&\3c&HC0BFDF&}m 897.94 621.86 l 888.03 656.69 1004.46 672.91 1014.58 639.02
+Dialogue: 0,0:18:05.83,0:18:07.04,Sign,,0,0,0,,{\an7\pos(0,0)\fscx100\fscy100\p1\bord5\blur10\c&HBEBDDC&\3c&HBEBDDC&}m 882.61 685.25 l 874.18 718.13 934.34 726.15 941.95 693.27
+Dialogue: 0,0:18:05.83,0:18:07.04,Sign,,0,0,0,,{\an4\fs33\fscx110\fscy100\fax-0.24\fay0.150\bord0.5\blur4\1a&H20&\c&H232433&\3c&H232433&\pos(934.91,519.32)\alpha&HE0&}目录
+Dialogue: 1,0:18:05.83,0:18:07.04,Sign,,0,0,0,,{\an4\fs33\fscx110\fscy100\fax-0.24\fay0.150\bord0.5\blur0.4\1a&H20&\c&H232433&\3c&H232433&\pos(934.91,519.32)}目录
+Dialogue: 0,0:18:05.83,0:18:07.04,Sign,,0,0,0,,{\an4\fs33\fscx110\fscy100\fax-0.24\fay0.150\bord0.5\blur4\1a&H20&\c&H232433&\3c&H232433&\pos(919.06,577.85)\alpha&HE0&}目的
+Dialogue: 1,0:18:05.83,0:18:07.04,Sign,,0,0,0,,{\an4\fs33\fscx110\fscy100\fax-0.24\fay0.150\bord0.5\blur0.4\1a&H20&\c&H232433&\3c&H232433&\pos(919.06,577.85)}目的
+Dialogue: 0,0:18:05.83,0:18:07.04,Sign,,0,0,0,,{\an4\fs33\fscx110\fscy100\fax-0.24\fay0.150\bord0.5\blur4\1a&H20&\c&H232433&\3c&H232433&\pos(903.66,639.46)\alpha&HE0&}观光路线
+Dialogue: 1,0:18:05.83,0:18:07.04,Sign,,0,0,0,,{\an4\fs33\fscx110\fscy100\fax-0.24\fay0.150\bord0.5\blur0.4\1a&H20&\c&H232433&\3c&H232433&\pos(903.66,639.46)}观光路线
+Dialogue: 0,0:18:05.83,0:18:07.04,Sign,,0,0,0,,{\an4\fs33\fscx110\fscy100\fax-0.24\fay0.150\bord0.5\blur4\1a&H20&\c&H232433&\3c&H232433&\pos(886.49,702.84)\alpha&HE0&}三餐
+Dialogue: 1,0:18:05.83,0:18:07.04,Sign,,0,0,0,,{\an4\fs33\fscx110\fscy100\fax-0.24\fay0.150\bord0.5\blur0.4\1a&H20&\c&H232433&\3c&H232433&\pos(886.49,702.84)}三餐
 Dialogue: 0,0:18:07.04,0:18:08.73,Sign,,0,0,0,,{\an4\fs70\bord10\blur20\c&HD88669&\p1\3c&HD88669&\pos(15.57,139.18)}m 621.33 242.67 l 1512 402.67 1546.67 272 665.33 112
 Dialogue: 0,0:18:07.04,0:18:08.73,Sign,,0,0,0,,{\an4\fs70\bord5\blur10\c&HD88669&\p1\3c&HD88669&\pos(-0.57,111.18)}m 689.14 366.86 l 1387.43 493.71 1410.29 406.86 715.43 277.71
-Dialogue: 0,0:18:07.04,0:18:08.73,Sign,,0,0,0,,{\an4\fs145\fscx110\fscy100\fax-0.24\fay0.197\bord1.2\blur0.7\1c&H7E3722&\3c&H7E3722&\pos(902.19,214.11)}游玩手册
-Dialogue: 0,0:18:07.04,0:18:08.73,Sign,,0,0,0,,{\an4\fs92\fscx110\fscy100\fax-0.24\fay0.197\bord1\blur0.3\1c&H1C161F&\3c&H1C161F&\pos(885.62,350.11)}休假计划表
+Dialogue: 0,0:18:07.04,0:18:08.73,Sign,,0,0,0,,{\an4\fs145\fscx110\fscy100\fax-0.24\fay0.197\bord1.2\blur6\c&H7E3722&\3c&H7E3722&\pos(902.19,214.11)\alpha&HC0&}游玩手册
+Dialogue: 1,0:18:07.04,0:18:08.73,Sign,,0,0,0,,{\an4\fs145\fscx110\fscy100\fax-0.24\fay0.197\bord1.2\blur0.7\c&H7E3722&\3c&H7E3722&\pos(902.19,214.11)}游玩手册
+Dialogue: 0,0:18:07.04,0:18:08.73,Sign,,0,0,0,,{\an4\fs92\fscx110\fscy100\fax-0.24\fay0.197\bord1\blur6\c&H1C161F&\3c&H1C161F&\pos(885.62,350.11)\alpha&HC0&}休假计划表
+Dialogue: 1,0:18:07.04,0:18:08.73,Sign,,0,0,0,,{\an4\fs92\fscx110\fscy100\fax-0.24\fay0.197\bord1\blur0.3\c&H1C161F&\3c&H1C161F&\pos(885.62,350.11)}休假计划表
 Dialogue: 0,0:18:07.04,0:18:08.73,Sign,,0,0,0,,{\an4\fs70\bord5\blur10\c&HC8C8E5&\p1\pos(-2.64,84.51)\3c&HC8C8E5&}m 976 592 l 1589 701 1604 635 994 526
-Dialogue: 0,0:18:07.04,0:18:08.73,Sign,,0,0,0,,{\an4\fs70\fscx110\fscy100\fax-0.24\fay0.197\bord0.3\blur0.5\1c&H1D1F2C&\3c&H1D1F2C&\pos(1074.69,571.18)}编者　井之上玉簪
+Dialogue: 0,0:18:07.04,0:18:08.73,Sign,,0,0,0,,{\an4\fs70\fscx110\fscy100\fax-0.24\fay0.197\bord0.3\blur6\c&H1D1F2C&\3c&H1D1F2C&\pos(1074.69,571.18)\alpha&HC0&}编者　井之上玉簪
+Dialogue: 1,0:18:07.04,0:18:08.73,Sign,,0,0,0,,{\an4\fs70\fscx110\fscy100\fax-0.24\fay0.197\bord0.3\blur0.5\c&H1D1F2C&\3c&H1D1F2C&\pos(1074.69,571.18)}编者　井之上玉簪
 Dialogue: 0,0:18:07.04,0:18:08.73,Sign,,0,0,0,,{\an4\fs70\bord5\blur10\c&HC5C4E4&\p1\3c&HC5C4E4&\pos(10.69,116.51)}m 446.67 854.67 l 641.33 889.33 698.67 688 505.33 654.67
-Dialogue: 0,0:18:07.04,0:18:08.73,Sign,,0,0,0,,{\an4\fs74\fscx110\fscy100\fax-0.24\fay0.197\bord0.3\blur0.5\1c&H1D1F2C&\3c&H1D1F2C&\pos(510.29,692.45)}目录
-Dialogue: 0,0:18:07.04,0:18:08.73,Sign,,0,0,0,,{\an4\fs74\fscx110\fscy100\fax-0.24\fay0.197\bord0.3\blur1.2\1a&H00&\3a&H20&\1c&H1D1F2C&\3c&H1D1F2C&\pos(474.29,817.85)}目的
+Dialogue: 0,0:18:07.04,0:18:08.73,Sign,,0,0,0,,{\an4\fs74\fscx110\fscy100\fax-0.24\fay0.197\bord0.3\blur6\c&H1D1F2C&\3c&H1D1F2C&\pos(510.29,692.45)\alpha&HC0&}目录
+Dialogue: 1,0:18:07.04,0:18:08.73,Sign,,0,0,0,,{\an4\fs74\fscx110\fscy100\fax-0.24\fay0.197\bord0.3\blur0.5\c&H1D1F2C&\3c&H1D1F2C&\pos(510.29,692.45)}目录
+Dialogue: 0,0:18:07.04,0:18:08.73,Sign,,0,0,0,,{\an4\fs74\fscx110\fscy100\fax-0.24\fay0.197\bord0.3\blur6\1a&H00&\3a&HC0&\c&H1D1F2C&\3c&H1D1F2C&\pos(474.29,817.85)\alpha&HC0&}目的
+Dialogue: 1,0:18:07.04,0:18:08.73,Sign,,0,0,0,,{\an4\fs74\fscx110\fscy100\fax-0.24\fay0.197\bord0.3\blur1.2\1a&H00&\3a&H20&\c&H1D1F2C&\3c&H1D1F2C&\pos(474.29,817.85)}目的
 Dialogue: 0,0:18:07.04,0:18:08.73,Sign,,0,0,0,,{\an4\fs70\bord5\blur10\c&HC1BDE0&\p1\3c&HC1BDE0&\pos(3.89,62.51)}m 424 915.43 l 403.43 986.29 662.86 1037.71 685.71 964.57
-Dialogue: 0,0:18:07.04,0:18:08.73,Sign,,0,0,0,,{\an4\fs74\fscx110\fscy100\fax-0.24\fay0.197\bord0.3\blur1.8\1a&H08&\3a&H40&\1c&H1D1F2C&\3c&H1D1F2C&\pos(437.49,952.25)}观光路线
-Dialogue: 0,0:19:06.37,0:19:09.83,Sign,,0,0,0,,{\an4\fs50\fscx102\fscy100\fax0.15\bord2.6\blur0.8\3a&H30&\fay-0.176\move(1112.38,670.12,1009.45,587.56)}因维护水槽，今日闭馆一天。
-Dialogue: 0,0:19:06.37,0:19:09.83,Sign,,0,0,0,,{\an4\fs50\fscx102\fscy100\fax0.15\bord2.6\blur0.8\3a&H30&\fay-0.176\move(1121.7,716.9,1018.77,634.34)}详情请参见官网上的通告。
-Dialogue: 0,0:19:06.37,0:19:09.83,Sign,,0,0,0,,{\an4\fs50\fscx102\fscy100\fax0.15\bord2.6\blur0.8\3a&H30&\fay-0.176\move(1131.02,763.68,1028.09,681.12)}给各位前来游玩的顾客带来诸多不便，
-Dialogue: 0,0:19:06.37,0:19:09.83,Sign,,0,0,0,,{\an4\fs50\fscx102\fscy100\fax0.15\bord2.6\blur0.8\3a&H30&\fay-0.176\move(1140.34,810.46,1037.41,727.9)}我们深感歉意，同时对您的理解与支
-Dialogue: 0,0:19:06.37,0:19:09.83,Sign,,0,0,0,,{\an4\fs50\fscx102\fscy100\fax0.15\bord2.6\blur0.8\3a&H30&\fay-0.176\move(1149.66,857.24,1046.73,774.68)}持致以最崇高的敬意和感谢。
-Dialogue: 0,0:19:06.37,0:19:09.83,Sign,,0,0,0,,{\an5\bord7.5\blur15\1c&H2E2EAF&\3c&H2E2EAF&\p1\move(743.18,198.91,640.25,116.35)}m 201.2 405 l 231.87 606.27 1658.68 387.82 1624.33 207.41
-Dialogue: 0,0:19:06.37,0:19:09.83,Sign,,0,0,0,,{\an5\fs225\fscx102\fscy100\fax0.15\bord2.6\blur0.8\3a&H30&\fay-0.153\1c&HCDCCCF&\3c&HCDCCCF&\move(921.41,476.16,818.48,393.6)}临时闭馆的通告
+Dialogue: 0,0:18:07.04,0:18:08.73,Sign,,0,0,0,,{\an4\fs74\fscx110\fscy100\fax-0.24\fay0.197\bord0.3\blur6\1a&H08&\3a&HC0&\c&H1D1F2C&\3c&H1D1F2C&\pos(437.49,952.25)\alpha&HC0&}观光路线
+Dialogue: 1,0:18:07.04,0:18:08.73,Sign,,0,0,0,,{\an4\fs74\fscx110\fscy100\fax-0.24\fay0.197\bord0.3\blur2.5\1a&H08&\3a&H40&\c&H1D1F2C&\3c&H1D1F2C&\pos(437.49,952.25)}观光路线
+Dialogue: 0,0:19:06.37,0:19:09.83,Sign,,0,0,0,,{\alpha&H10&\an4\fs75\fscx102\fscy100\fax0.15\bord1\blur0.5\3a&H30&\fay-0.153\3c&HCDCCCF&\c&HCDCCCF&\move(1084.53,541.32,981.53,459.32)}临时闭馆的通告
+Dialogue: 1,0:19:06.37,0:19:09.83,Sign,,0,0,0,,{\alpha&H10&\an4\fs75\fscx102\fscy100\fax0.15\bord0\blur0.5\3a&H30&\fay-0.153\c&HCDCCCF&\4a&HFF&\move(1084.53,541.32,981.53,459.32)}临时闭馆的通告
+Dialogue: 0,0:19:06.37,0:19:09.83,Sign,,0,0,0,,{\an4\fs50\fscx102\fscy100\fax0.15\bord2\blur0.4\3a&H30&\fay-0.176\move(1112.38,670.12,1009.45,587.56)\3c&H0D0C0B&\c&H0D0C0B&}因维护水槽，今日闭馆一天。{switch}
+Dialogue: 1,0:19:06.37,0:19:09.83,Sign,,0,0,0,,{\an4\fs50\fscx102\fscy100\fax0.15\bord0\blur0.4\3a&H30&\fay-0.176\move(1112.38,670.12,1009.45,587.56)\4a&HFF&}因维护水槽，今日闭馆一天。{switch}
+Dialogue: 0,0:19:06.37,0:19:09.83,Sign,,0,0,0,,{\an4\fs50\fscx102\fscy100\fax0.15\bord2\blur0.4\3a&H30&\fay-0.176\move(1121.7,716.9,1018.77,634.34)\3c&H0D0C0B&\c&H0D0C0B&}详情请参见官网上的通告。{switch}
+Dialogue: 1,0:19:06.37,0:19:09.83,Sign,,0,0,0,,{\an4\fs50\fscx102\fscy100\fax0.15\bord0\blur0.4\3a&H30&\fay-0.176\move(1121.7,716.9,1018.77,634.34)\4a&HFF&}详情请参见官网上的通告。{switch}
+Dialogue: 0,0:19:06.37,0:19:09.83,Sign,,0,0,0,,{\an4\fs50\fscx102\fscy100\fax0.15\bord2\blur0.4\3a&H30&\fay-0.176\move(1131.02,763.68,1028.09,681.12)\3c&H0D0C0B&\c&H0D0C0B&}给各位前来游玩的顾客带来诸多不便，{switch}
+Dialogue: 1,0:19:06.37,0:19:09.83,Sign,,0,0,0,,{\an4\fs50\fscx102\fscy100\fax0.15\bord0\blur0.4\3a&H30&\fay-0.176\move(1131.02,763.68,1028.09,681.12)\4a&HFF&}给各位前来游玩的顾客带来诸多不便，{switch}
+Dialogue: 0,0:19:06.37,0:19:09.83,Sign,,0,0,0,,{\an4\fs50\fscx102\fscy100\fax0.15\bord2\blur0.4\3a&H30&\fay-0.176\move(1140.34,810.46,1037.41,727.9)\3c&H0D0C0B&\c&H0D0C0B&}我们深感歉意，同时对您的理解与支{switch}
+Dialogue: 1,0:19:06.37,0:19:09.83,Sign,,0,0,0,,{\an4\fs50\fscx102\fscy100\fax0.15\bord0\blur0.4\3a&H30&\fay-0.176\move(1140.34,810.46,1037.41,727.9)\4a&HFF&}我们深感歉意，同时对您的理解与支{switch}
+Dialogue: 0,0:19:06.37,0:19:09.83,Sign,,0,0,0,,{\an4\fs50\fscx102\fscy100\fax0.15\bord2\blur0.4\3a&H30&\fay-0.176\move(1149.66,857.24,1046.73,774.68)\3c&H0D0C0B&\c&H0D0C0B&}持致以最崇高的敬意和感谢。{switch}
+Dialogue: 1,0:19:06.37,0:19:09.83,Sign,,0,0,0,,{\an4\fs50\fscx102\fscy100\fax0.15\bord0\blur0.4\3a&H30&\fay-0.176\move(1149.66,857.24,1046.73,774.68)\4a&HFF&}持致以最崇高的敬意和感谢。{switch}
 Dialogue: 0,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\an5\bord0\p1\pos(451,199.21)\1c&HE1E6E7&}m 415 390 l 415 390 415 390 503 253.11 842.67 336.89 1272.89 464.89 1200.89 640.89 769.78 494.22
 Dialogue: 0,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\an5\bord0\p1\1c&HDEE2E4&\pos(137.76,84.78)}m 426.18 397.09 l 513.6 250.33 685.09 295.27 500.36 416.73
-Dialogue: 0,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\an5\fs174\bord2\fax-0.49\fay0.360\fscx130\fscy100\1c&H282A34&\3c&H282A34&\pos(705.4,322.41)}保密
+Dialogue: 1,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H262731&\pos(705.4,322.41)\4a&HFF&\3c&H262731&\alpha&HC0&}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2B2C35&\pos(705.4,322.41)\4a&HFF&\3c&H2B2C35&\clip(471,278,479,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2B2C35&\pos(705.4,322.41)\4a&HFF&\3c&H2B2C35&\clip(479,278,487,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2B2C35&\pos(705.4,322.41)\4a&HFF&\3c&H2B2C35&\clip(487,278,495,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2B2C35&\pos(705.4,322.41)\4a&HFF&\3c&H2B2C35&\clip(495,278,503,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2B2C35&\pos(705.4,322.41)\4a&HFF&\3c&H2B2C35&\clip(503,278,511,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2B2C35&\pos(705.4,322.41)\4a&HFF&\3c&H2B2C35&\clip(511,278,519,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2B2C36&\pos(705.4,322.41)\4a&HFF&\3c&H2B2C36&\clip(519,278,527,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2B2C36&\pos(705.4,322.41)\4a&HFF&\3c&H2B2C36&\clip(527,278,535,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2B2C36&\pos(705.4,322.41)\4a&HFF&\3c&H2B2C36&\clip(535,278,543,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2B2C36&\pos(705.4,322.41)\4a&HFF&\3c&H2B2C36&\clip(543,278,551,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2B2C36&\pos(705.4,322.41)\4a&HFF&\3c&H2B2C36&\clip(551,278,559,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2C2D36&\pos(705.4,322.41)\4a&HFF&\3c&H2C2D36&\clip(559,278,567,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2C2D36&\pos(705.4,322.41)\4a&HFF&\3c&H2C2D36&\clip(567,278,575,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2C2D36&\pos(705.4,322.41)\4a&HFF&\3c&H2C2D36&\clip(575,278,583,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2C2D36&\pos(705.4,322.41)\4a&HFF&\3c&H2C2D36&\clip(583,278,591,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2C2D36&\pos(705.4,322.41)\4a&HFF&\3c&H2C2D36&\clip(591,278,599,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2C2D36&\pos(705.4,322.41)\4a&HFF&\3c&H2C2D36&\clip(599,278,607,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2C2D37&\pos(705.4,322.41)\4a&HFF&\3c&H2C2D37&\clip(607,278,615,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2C2D37&\pos(705.4,322.41)\4a&HFF&\3c&H2C2D37&\clip(615,278,623,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2C2D37&\pos(705.4,322.41)\4a&HFF&\3c&H2C2D37&\clip(623,278,631,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2C2D37&\pos(705.4,322.41)\4a&HFF&\3c&H2C2D37&\clip(631,278,639,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2C2D37&\pos(705.4,322.41)\4a&HFF&\3c&H2C2D37&\clip(639,278,647,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2C2D37&\pos(705.4,322.41)\4a&HFF&\3c&H2C2D37&\clip(647,278,655,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2C2D37&\pos(705.4,322.41)\4a&HFF&\3c&H2C2D37&\clip(655,278,663,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2C2D37&\pos(705.4,322.41)\4a&HFF&\3c&H2C2D37&\clip(663,278,671,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2C2D37&\pos(705.4,322.41)\4a&HFF&\3c&H2C2D37&\clip(671,278,679,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2C2D37&\pos(705.4,322.41)\4a&HFF&\3c&H2C2D37&\clip(679,278,687,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2C2D37&\pos(705.4,322.41)\4a&HFF&\3c&H2C2D37&\clip(687,278,695,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2C2D38&\pos(705.4,322.41)\4a&HFF&\3c&H2C2D38&\clip(695,278,703,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2C2D38&\pos(705.4,322.41)\4a&HFF&\3c&H2C2D38&\clip(703,278,711,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2C2D38&\pos(705.4,322.41)\4a&HFF&\3c&H2C2D38&\clip(711,278,719,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2C2D38&\pos(705.4,322.41)\4a&HFF&\3c&H2C2D38&\clip(719,278,727,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2C2D38&\pos(705.4,322.41)\4a&HFF&\3c&H2C2D38&\clip(727,278,735,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2D2E38&\pos(705.4,322.41)\4a&HFF&\3c&H2D2E38&\clip(735,278,743,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2D2E38&\pos(705.4,322.41)\4a&HFF&\3c&H2D2E38&\clip(743,278,751,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2D2E38&\pos(705.4,322.41)\4a&HFF&\3c&H2D2E38&\clip(751,278,759,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2D2E38&\pos(705.4,322.41)\4a&HFF&\3c&H2D2E38&\clip(759,278,767,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2D2E38&\pos(705.4,322.41)\4a&HFF&\3c&H2D2E38&\clip(767,278,775,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2D2E38&\pos(705.4,322.41)\4a&HFF&\3c&H2D2E38&\clip(775,278,783,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2D2E39&\pos(705.4,322.41)\4a&HFF&\3c&H2D2E39&\clip(783,278,791,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2D2E39&\pos(705.4,322.41)\4a&HFF&\3c&H2D2E39&\clip(791,278,799,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2D2E39&\pos(705.4,322.41)\4a&HFF&\3c&H2D2E39&\clip(799,278,807,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2D2E39&\pos(705.4,322.41)\4a&HFF&\3c&H2D2E39&\clip(807,278,815,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2D2E39&\pos(705.4,322.41)\4a&HFF&\3c&H2D2E39&\clip(815,278,823,474)}保密
+Dialogue: 2,0:19:37.57,0:19:40.03,Sign,,0,0,0,,{\blur0.6\an5\fs174\bord1.6\fax-0.49\fay0.360\fscx130\fscy100\c&H2D2E39&\pos(705.4,322.41)\4a&HFF&\3c&H2D2E39&\clip(823,278,831,474)}保密
 Dialogue: 0,0:23:30.93,0:23:32.14,Sign,,0,0,0,,{\an4\fs145\fscx104\fscy100\fax0.407\fay-0.246\bord0.3\blur3\3a&40&\c&H9ECADD&\3c&H9ECADD&\pos(1083.89,332.16)}真司
 Dialogue: 0,0:23:30.93,0:23:32.14,Sign,,0,0,0,,{\an4\fs65\fscx104\fscy100\fax0.407\fay-0.246\bord0.3\blur3\3a&40&\c&H9ECADD&\3c&H9ECADD&\pos(1170.07,462.69)}无法接通
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Dialogue~
