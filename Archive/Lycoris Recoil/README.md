@@ -13,5 +13,6 @@
 | 9 | 木已成舟 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Lycoris%20Recoil%2F%5BSweetSub%5D%20Lycoris%20Recoil%20-%2009.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Lycoris%20Recoil%2F%5BSweetSub%5D%20Lycoris%20Recoil%20-%2009.cht.ass) |
 | 10 | 以怨报怨 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Lycoris%20Recoil%2F%5BSweetSub%5D%20Lycoris%20Recoil%20-%2010.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Lycoris%20Recoil%2F%5BSweetSub%5D%20Lycoris%20Recoil%20-%2010.cht.ass) |
 | 11 | 尖峰对决 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Lycoris%20Recoil%2F%5BSweetSub%5D%20Lycoris%20Recoil%20-%2011.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Lycoris%20Recoil%2F%5BSweetSub%5D%20Lycoris%20Recoil%20-%2011.cht.ass) |
+| 12 | 天性对教养 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Lycoris%20Recoil%2F%5BSweetSub%5D%20Lycoris%20Recoil%20-%2012.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Lycoris%20Recoil%2F%5BSweetSub%5D%20Lycoris%20Recoil%20-%2012.cht.ass) |
 
 ![](https://p.sda1.dev/6/18d6fe23166e9fac52adfe2ef50758f2/LycorisRecoil02-3.jpg)
