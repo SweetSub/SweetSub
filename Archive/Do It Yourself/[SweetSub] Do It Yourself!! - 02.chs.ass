@@ -124,16 +124,16 @@ Dialogue: 0,0:01:04.67,0:01:07.09,OP - JP,j06,0,0,0,,{\blur0}その時から　�
 Dialogue: 0,0:01:04.67,0:01:07.09,OP - CN,z06,0,0,0,,{\blur0}从那时候起  就没有变过
 Dialogue: 0,0:01:07.09,0:01:09.34,OP - JP,j07,0,0,0,,{\blur0}欲しい物があれば
 Dialogue: 0,0:01:07.09,0:01:09.34,OP - CN,z07,0,0,0,,{\blur0}有想要的东西
-Dialogue: 0,0:01:09.34,0:01:09.88,OP - JP,j08,0,0,34,,{\fnHYQiHei-75S\fs57\blur0}Yes!
-Dialogue: 0,0:01:09.34,0:01:09.88,OP - CN,z08,0,0,0,,{\bord4.4\blur0}Yes!
+Dialogue: 0,0:01:09.34,0:01:09.88,OP - JP,j08,0,0,34,,{\fnHYQiHei-80S\fs57\blur0}Yes!
+Dialogue: 0,0:01:09.34,0:01:09.88,OP - CN,z08,0,0,0,,{\fnHYQiHei-80S\bord4.4\blur0}Yes!
 Dialogue: 0,0:01:09.88,0:01:10.68,OP - JP,j09,0,0,0,,{\blur0}この手で
 Dialogue: 0,0:01:09.88,0:01:10.68,OP - CN,z09,0,0,0,,{\blur0}就用双手
-Dialogue: 0,0:01:10.68,0:01:11.21,OP - JP,j10,0,0,34,,{\fnHYQiHei-75S\fs57\blur0}Yes!
-Dialogue: 0,0:01:10.68,0:01:11.21,OP - CN,z10,0,0,0,,{\bord4.4\blur0}Yes!
+Dialogue: 0,0:01:10.68,0:01:11.21,OP - JP,j10,0,0,34,,{\fnHYQiHei-80S\fs57\blur0}Yes!
+Dialogue: 0,0:01:10.68,0:01:11.21,OP - CN,z10,0,0,0,,{\fnHYQiHei-80S\bord4.4\blur0}Yes!
 Dialogue: 0,0:01:11.21,0:01:11.93,OP - JP,j11,0,0,0,,{\blur0}今すぐ
 Dialogue: 0,0:01:11.21,0:01:11.93,OP - CN,z11,0,0,0,,{\blur0}立刻
-Dialogue: 0,0:01:11.93,0:01:14.01,OP - JP,j12,0,0,34,,{\fnHYQiHei-75S\fs57\fad(0,300)\blur0}I Do It Myself!
-Dialogue: 0,0:01:11.93,0:01:14.01,OP - CN,z12,0,0,0,,{\fad(0,300)\bord4.4\blur0}I Do It Myself!
+Dialogue: 0,0:01:11.93,0:01:14.01,OP - JP,j12,0,0,34,,{\fnHYQiHei-80S\fs57\fad(0,300)\blur0}I Do It Myself!
+Dialogue: 0,0:01:11.93,0:01:14.01,OP - CN,z12,0,0,0,,{\fnHYQiHei-80S\fad(0,300)\bord4.4\blur0}I Do It Myself!
 Dialogue: 0,0:01:14.43,0:01:19.35,OP - JP,j13,0,144,10,,{\an3\bord3.5\c&H242C3A&\3c&HFAFDFF&\fnA-OTF Shin Go Pr6N DB\fs60\blur0}ありふれた毎日にアイデア
 Dialogue: 0,0:01:14.43,0:01:19.35,OP - CN,z13,125,0,25,,{\bord3.5\an7\c&H242C3A&\3c&HFAFDFF&\fnHYQiHei-75S\fs50\blur0}用新点子给平凡生活增色
 Dialogue: 0,0:01:19.35,0:01:22.65,OP - JP,j14,0,144,10,,{\an3\bord3.5\c&H242C3A&\3c&HFAFDFF&\fnA-OTF Shin Go Pr6N DB\fs60\blur0}ちょっぴり万能感
