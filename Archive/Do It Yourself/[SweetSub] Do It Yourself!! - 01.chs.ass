@@ -1564,6 +1564,9 @@ Dialogue: 0,0:04:08.22,0:04:08.26,Sign,Sign,0,0,0,/.,{\fscy100\frz0\fscx100\pos(
 Dialogue: 0,0:04:08.26,0:04:08.39,Sign,Sign,0,0,0,/.,{\fscy100\frz0\fscx100\pos(0,0)\an7\p1\bord0\c&HEFEFEF&}m 816 664 l 816 730 1256 730 1256 664
 Dialogue: 0,0:04:08.39,0:04:08.43,Sign,Sign,0,0,0,/.,{\fscy100\frz0\fscx100\pos(-0.01,0)\an7\p1\bord0\c&HEFEFEF&}m 816 664 l 816 730 1256 730 1256 664
 Dialogue: 0,0:04:08.43,0:04:08.47,Sign,Sign,0,0,0,/.,{\fscy100\frz0\fscx100\pos(0,0)\an7\p1\bord0\c&HEFEFEF&}m 816 664 l 816 730 1256 730 1256 664
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Note~
+Dialogue: 0,0:02:19.99,0:02:35.51,Note,,0,0,0,,{\fad(500,1500)\an7\pos(0,0)\fscx100\fscy100\p1\c&HF0F0F0&\blur2\alpha&H40&}m 20 30 l 550 30 550 160 20 160
+Dialogue: 1,0:02:19.99,0:02:35.51,Note,,0,0,0,,{\fad(500,1500)}※出自『罗密欧与朱丽叶』\N{\alpha&HFF&}※{\alpha}译文采用{\u1}朱生豪{\u0}译本
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Dialogue CN~
 Dialogue: 9,0:00:54.66,0:00:57.62,Text - CN,,0,0,0,,喂  醒醒！快起床了！
 Dialogue: 9,0:01:00.29,0:01:03.54,Text - CN,,0,0,0,,你有收到通知吧？结果如何？
@@ -1589,10 +1592,11 @@ Dialogue: 9,0:01:57.56,0:02:01.31,Text - CN,,0,0,0,,你肯定又在考试时做�
 Dialogue: 9,0:02:01.31,0:02:03.85,Text - CN,,0,0,0,,你在生什么气啊？{\u1}布丁{\u0}…
 Dialogue: 9,0:02:05.94,0:02:07.02,Text - CN,,0,0,0,,笨蛋{\u1}小己{\u0}！
 Dialogue: 9,0:02:13.57,0:02:16.24,Text - CN,,0,0,0,,天气真好啊！
-Dialogue: 9,0:02:19.99,0:02:25.50,Text - CN,,0,1000,0,,名称算什么？我们称玫瑰作玫瑰
-Dialogue: 9,0:02:26.08,0:02:28.00,Text - CN,,0,0,0,,即使换了名
-Dialogue: 9,0:02:28.00,0:02:30.55,Text - CN,,0,0,0,,不也有同样的香味？
-Dialogue: 9,0:02:30.55,0:02:35.51,Text - CN,,0,0,0,,{\fad(0,1500)\u1}罗密欧{\u0}若换了名
+Dialogue: 9,0:02:19.99,0:02:22.12,Text - CN,,0,1000,0,,姓名本来是没有意义的
+Dialogue: 9,0:02:22.12,0:02:25.50,Text - CN,,0,1000,0,,我们叫做玫瑰的这一种花
+Dialogue: 9,0:02:26.08,0:02:28.00,Text - CN,,0,0,0,,要是换了个名字
+Dialogue: 9,0:02:28.00,0:02:30.55,Text - CN,,0,0,0,,它的香味还是同样的芬芳
+Dialogue: 9,0:02:30.55,0:02:35.51,Text - CN,,0,0,0,,{\fad(0,1500)\u1}罗密欧{\u0}要是换了别的名字
 Dialogue: 9,0:02:37.89,0:02:39.26,Text - CN,,0,0,0,,那朵云彩
 Dialogue: 9,0:02:39.89,0:02:45.27,Text - CN,,0,0,0,,要是能躺在上面午睡  肯定会非常舒服…
 Dialogue: 9,0:02:48.73,0:02:50.53,Text - CN,,0,0,0,,好了  今天就上到这里
@@ -1931,7 +1935,8 @@ Dialogue: 8,0:01:57.56,0:02:01.31,Text - JP,,0,0,0,,どうせまた試験中に�
 Dialogue: 8,0:02:01.31,0:02:03.85,Text - JP,,0,0,0,,なに怒ってるの？ぷりん…
 Dialogue: 8,0:02:05.94,0:02:07.02,Text - JP,,0,0,0,,バカせるふ！
 Dialogue: 8,0:02:13.57,0:02:16.24,Text - JP,,0,0,0,,いいお天気だな～！
-Dialogue: 8,0:02:19.99,0:02:25.50,Text - JP,,0,1000,0,,What's in a name? That which we call a rose.
+Dialogue: 8,0:02:19.99,0:02:22.12,Text - JP,,0,1000,0,,What's in a name?
+Dialogue: 8,0:02:22.12,0:02:25.50,Text - JP,,0,1000,0,,That which we call a rose.
 Dialogue: 8,0:02:26.08,0:02:28.00,Text - JP,,0,0,0,,By any other word
 Dialogue: 8,0:02:28.00,0:02:30.55,Text - JP,,0,0,0,,would smell as sweet.
 Dialogue: 8,0:02:30.55,0:02:35.51,Text - JP,,0,0,0,,{\fad(0,1500)}So Romeo would, were he not Romeo called.
