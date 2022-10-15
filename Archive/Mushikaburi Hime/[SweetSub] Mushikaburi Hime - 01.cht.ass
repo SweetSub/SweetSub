@@ -49,16 +49,9 @@ Dialogue: 0,0:23:36.73,0:23:40.98,Credit,,0,0,0,,{\fad(500,0)\blur2\pos(1402,626
 Dialogue: 0,0:23:36.73,0:23:40.98,Credit,,0,0,0,,{\fad(500,0)\blur2\pos(1434,628)\an1\fs32\fsp0}SweetSub
 Dialogue: 0,0:23:36.73,0:23:40.98,Credit,,0,0,0,,{\fad(500,0)\blur2\pos(1402,700)\an3\fs26\fsp0}翻譯·後期
 Dialogue: 0,0:23:36.73,0:23:40.98,Credit,,0,0,0,,{\fad(500,0)\blur2\pos(1434,702)\an1\fs32\fsp0}natsukage
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Title~
-Dialogue: 1,0:02:13.03,0:02:18.99,Title,,0,0,0,,{\fad(450,450)\pos(1432,940)\3c&H000000&\3a&H32&}名義上的未婚妻
-Dialogue: 0,0:02:13.03,0:02:18.99,Title,,0,0,0,,{\fad(450,450)\pos(1432,940)\3c&HFFFFFF&\blur6}名義上的未婚妻
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Sign~
-Dialogue: 0,0:02:58.95,0:03:01.29,Sign,,0,0,0,,{\fn方正粗雅宋_GBK\fad(250,0)\fs60\blur0.6\pos(356,186)\c&H373B3D&\bord0}書蟲公主
-Dialogue: 0,0:05:18.09,0:05:22.09,Sign,,0,0,0,,{\an3\fn方正粗雅宋_GBK\fs60\bord0\c&HE0E0E0&\blur6\3c&HFFFFFF&\fax-0.1}「伯恩斯坦家族的血脈裡流淌著活字」
-Dialogue: 1,0:05:18.09,0:05:22.09,Sign,,0,0,0,,{\an3\fn方正粗雅宋_GBK\fs60\bord0\c&HE0E0E0&\blur16\t(0,350,1,\blur0)\fax-0.1}「伯恩斯坦家族的血脈裡流淌著活字」
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,~OP~
+Comment: 0,0:00:42.02,0:00:42.06,Default,,0,0,0,,~OP~
 Dialogue: 0,0:00:51.61,0:00:57.95,OPJP,,0,0,0,,{\c&HEFACF9&\3c&HEFACF9&\blur8\t(0,400,2,\c&HFFFFFF&\3c&HFFFFFF&)\t(400,750,1.5,\c&H3F6A88&\blur2)\fad(200,600)}新しい風が揺らすカーテンの向こう側
-Dialogue: 1,0:00:57.95,0:01:04.00,OPJP,,0,0,0,,{\c&HEFACF9&\3c&HEFACF9&\blur8\t(0,400,2,\c&HFFFFFF&\3c&HFFFFFF&)\t(400,750,1.5,\c&H3F6A88&\blur2)\fad(200,600)}見たことのないぐらい眩しい空
+Dialogue: 0,0:00:57.95,0:01:04.00,OPJP,,0,0,0,,{\c&HEFACF9&\3c&HEFACF9&\blur8\t(0,400,2,\c&HFFFFFF&\3c&HFFFFFF&)\t(400,750,1.5,\c&H3F6A88&\blur2)\fad(200,600)}見たことのないぐらい眩しい空
 Dialogue: 0,0:01:05.71,0:01:13.70,OPJP,,0,0,0,,{\c&HEFACF9&\3c&HEFACF9&\blur8\t(0,400,2,\c&HFFFFFF&\3c&HFFFFFF&)\t(400,750,1.5,\c&H3F6A88&\blur2)\fad(200,600)}初めて読む物語　手にした時のように　不思議だね
 Dialogue: 0,0:01:13.70,0:01:18.68,OPJP,,0,0,0,,{\c&HEFACF9&\3c&HEFACF9&\blur8\t(0,400,2,\c&HFFFFFF&\3c&HFFFFFF&)\t(400,750,1.5,\c&H3F6A88&\blur2)\fad(200,600)}ドキドキして　目が離せない
 Dialogue: 0,0:01:19.13,0:01:26.19,OPJP,,0,0,0,,{\c&HEFACF9&\3c&HEFACF9&\blur8\t(0,400,2,\c&HFFFFFF&\3c&HFFFFFF&)\t(400,750,1.5,\c&H3F6A88&\blur2)\fad(200,600)}いつの間にか心は　未来へと走り出した
@@ -83,7 +76,7 @@ Dialogue: 0,0:01:43.79,0:01:50.67,OPCN,,0,0,0,,{\c&HEFACF9&\3c&HEFACF9&\blur8\t(
 Dialogue: 0,0:01:51.59,0:01:55.49,OPCN,,0,0,0,,{\c&HEFACF9&\3c&HEFACF9&\blur8\t(0,400,2,\c&HFFFFFF&\3c&HFFFFFF&)\t(400,750,1.5,\c&H3F6A88&\blur2)\fad(200,600)}若是選擇  不加修飾的坦率言語
 Dialogue: 0,0:01:55.49,0:01:59.86,OPCN,,0,0,0,,{\c&HEFACF9&\3c&HEFACF9&\blur8\t(0,400,2,\c&HFFFFFF&\3c&HFFFFFF&)\t(400,750,1.5,\c&H3F6A88&\blur2)\fad(200,600)}我們彼此  就會更近一步吧
 Dialogue: 0,0:01:59.86,0:02:07.69,OPCN,,0,0,0,,{\c&HEFACF9&\3c&HEFACF9&\blur8\t(0,400,2,\c&HFFFFFF&\3c&HFFFFFF&)\t(400,750,1.5,\c&H3F6A88&\blur2)\fad(200,600)}如今在此  還只是序幕
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,~ED~
+Comment: 0,0:22:10.98,0:22:11.02,Default,,0,0,0,,~ED~
 Dialogue: 0,0:22:11.83,0:22:17.15,EDJP,,0,0,0,,{\fad(400,400)\blur2}あなたに贈り物、革表紙
 Dialogue: 0,0:22:17.15,0:22:22.51,EDJP,,0,0,0,,{\fad(400,400)\blur2}きっと誰より似合うから
 Dialogue: 0,0:22:22.51,0:22:27.13,EDJP,,0,0,0,,{\fad(400,400)\blur2}嬉しい時いつもの照れたような
@@ -110,6 +103,13 @@ Dialogue: 0,0:23:03.71,0:23:11.90,EDCN,,0,0,0,,{\fad(400,400)\blur2}以及就此
 Dialogue: 0,0:23:17.50,0:23:20.00,EDCN,,0,0,0,,{\fad(400,400)\blur2}兩個影子
 Dialogue: 0,0:23:20.00,0:23:22.85,EDCN,,0,0,0,,{\fad(400,400)\blur2}搖晃著  搖晃著
 Dialogue: 0,0:23:22.85,0:23:31.35,EDCN,,0,0,0,,{\fad(400,400)\blur2}融為一個
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Title~
+Dialogue: 1,0:02:13.03,0:02:18.99,Title,,0,0,0,,{\fad(450,450)\pos(1432,940)\3c&H000000&\3a&H4B&\c&HFFFFFF&\1a&HFF&}名義上的未婚妻
+Dialogue: 0,0:02:13.03,0:02:18.99,Title,,0,0,0,,{\fad(450,450)\pos(1432,940)\3c&HFFFFFF&\blur6}名義上的未婚妻
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Sign~
+Dialogue: 0,0:02:58.95,0:03:01.29,Sign,,0,0,0,,{\fn方正粗雅宋_GBK\fad(250,0)\fs60\blur0.6\pos(356,186)\c&H373B3D&\bord0}書蟲公主
+Dialogue: 0,0:05:18.09,0:05:22.09,Sign,,0,0,0,,{\an3\fn方正粗雅宋_GBK\fs60\bord0\c&HE0E0E0&\blur6\3c&HFFFFFF&\fax-0.1}「伯恩斯坦家族的血脈裡流淌著活字」
+Dialogue: 1,0:05:18.09,0:05:22.09,Sign,,0,0,0,,{\an3\fn方正粗雅宋_GBK\fs60\bord0\c&HE0E0E0&\blur16\t(0,350,1,\blur0)\fax-0.1}「伯恩斯坦家族的血脈裡流淌著活字」
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Dialogue CN~
 Dialogue: 1,0:00:35.27,0:00:37.52,Text - CN,,0,0,0,,啊  終於…
 Dialogue: 1,0:00:38.71,0:00:42.02,Text - CN,,0,0,0,,這一刻來臨了
