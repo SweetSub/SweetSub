@@ -125,24 +125,24 @@ Dialogue: 0,0:01:04.67,0:01:07.09,OP - JP,j06,0,0,0,,{\blur0}その時から　�
 Dialogue: 0,0:01:04.67,0:01:07.09,OP - CN,z06,0,0,0,,{\blur0}從那時候起  就沒有變過
 Dialogue: 0,0:01:07.09,0:01:09.34,OP - JP,j07,0,0,0,,{\blur0}欲しい物があれば
 Dialogue: 0,0:01:07.09,0:01:09.34,OP - CN,z07,0,0,0,,{\blur0}有想要的東西
-Dialogue: 0,0:01:09.34,0:01:09.88,OP - JP,j08,0,0,34,,{\fnHYQiHei-80S\fs57\blur0}Yes!
-Dialogue: 0,0:01:09.34,0:01:09.88,OP - CN,z08,0,0,0,,{\fnHYQiHei-80S\bord4.4\blur0}Yes!
-Dialogue: 0,0:01:09.88,0:01:10.68,OP - JP,j09,0,0,0,,{\blur0}この手で
-Dialogue: 0,0:01:09.88,0:01:10.68,OP - CN,z09,0,0,0,,{\blur0}就用雙手
-Dialogue: 0,0:01:10.68,0:01:11.21,OP - JP,j10,0,0,34,,{\fnHYQiHei-80S\fs57\blur0}Yes!
-Dialogue: 0,0:01:10.68,0:01:11.21,OP - CN,z10,0,0,0,,{\fnHYQiHei-80S\bord4.4\blur0}Yes!
-Dialogue: 0,0:01:11.21,0:01:11.93,OP - JP,j11,0,0,0,,{\blur0}今すぐ
-Dialogue: 0,0:01:11.21,0:01:11.93,OP - CN,z11,0,0,0,,{\blur0}立刻
-Dialogue: 0,0:01:11.93,0:01:14.01,OP - JP,j12,0,0,34,,{\fnHYQiHei-80S\fs57\fad(0,300)\blur0}I Do It Myself!
-Dialogue: 0,0:01:11.93,0:01:14.01,OP - CN,z12,0,0,0,,{\fnHYQiHei-80S\fad(0,300)\bord4.4\blur0}I Do It Myself!
-Dialogue: 0,0:01:14.43,0:01:19.35,OP - JP,j13,0,144,10,,{\an3\bord3.5\c&H242C3A&\3c&HFAFDFF&\fnA-OTF Shin Go Pr6N DB\fs60\blur0}ありふれた毎日にアイデア
-Dialogue: 0,0:01:14.43,0:01:19.35,OP - CN,z13,125,0,25,,{\bord3.5\an7\c&H242C3A&\3c&HFAFDFF&\fnHYQiHei-75S\fs50\blur0}用新點子給平凡生活增色
-Dialogue: 0,0:01:19.35,0:01:22.65,OP - JP,j14,0,144,10,,{\an3\bord3.5\c&H242C3A&\3c&HFAFDFF&\fnA-OTF Shin Go Pr6N DB\fs60\blur0}ちょっぴり万能感
-Dialogue: 0,0:01:19.35,0:01:22.65,OP - CN,z14,125,0,25,,{\bord3.5\an7\c&H242C3A&\3c&HFAFDFF&\fnHYQiHei-75S\fs50\blur0}總感覺自己有些無所不能
-Dialogue: 0,0:01:22.65,0:01:29.90,OP - JP,j15,0,144,10,,{\an3\bord3.5\c&H242C3A&\3c&HFAFDFF&\fnA-OTF Shin Go Pr6N DB\fs60\blur0}歌う鼻歌外れても　笑い飛ばして
-Dialogue: 0,0:01:22.65,0:01:29.90,OP - CN,z15,125,0,25,,{\bord3.5\an7\c&H242C3A&\3c&HFAFDFF&\fnHYQiHei-75S\fs50\blur0}就算哼的歌走調  也付之一笑
-Dialogue: 0,0:01:29.90,0:01:35.33,OP - JP,j16,0,144,10,,{\fad(0,400)\an3\bord3.5\c&H242C3A&\3c&HFAFDFF&\fnA-OTF Shin Go Pr6N DB\fs60\blur0}明日をもっと自由に　作るのさ
-Dialogue: 0,0:01:29.90,0:01:35.33,OP - CN,z16,125,0,25,,{\fad(0,400)\bord3.5\an7\c&H242C3A&\3c&HFAFDFF&\fnHYQiHei-75S\fs50\blur0}更加自由自在地  去開創未來
+Dialogue: 0,0:01:09.34,0:01:10.68,OP - JP,j08,0,0,34,,{\fnHYQiHei-80S\fs57\blur0}Yes!　この手で
+Dialogue: 0,0:01:09.34,0:01:10.68,OP - CN,z08,0,0,0,,{\fnHYQiHei-80S\bord4.4\blur0}Yes!  就用雙手
+Comment: 0,0:01:09.88,0:01:10.68,OP - JP,j09,0,0,0,,{\blur0}この手で
+Comment: 0,0:01:09.88,0:01:10.68,OP - CN,z09,0,0,0,,{\blur0}就用雙手
+Dialogue: 0,0:01:10.68,0:01:11.93,OP - JP,j10,0,0,34,,{\fnHYQiHei-80S\fs57\blur0}Yes!　今すぐ
+Dialogue: 0,0:01:10.68,0:01:11.93,OP - CN,z10,0,0,0,,{\fnHYQiHei-80S\bord4.4\blur0}Yes!  立刻
+Comment: 0,0:01:11.21,0:01:11.93,OP - JP,j11,0,0,0,,{\blur0}今すぐ
+Comment: 0,0:01:11.21,0:01:11.93,OP - CN,z11,0,0,0,,{\blur0}立刻
+Dialogue: 0,0:01:11.93,0:01:14.14,OP - JP,j12,0,0,34,,{\fnHYQiHei-80S\fs57\fad(0,300)\blur0}I Do It Myself!
+Dialogue: 0,0:01:11.93,0:01:14.14,OP - CN,z12,0,0,0,,{\fnHYQiHei-80S\fad(0,300)\bord4.4\blur0}I Do It Myself!
+Dialogue: 0,0:01:14.43,0:01:19.35,OP - JP,j13,0,144,13,,{\an3\bord3.5\c&H242C3A&\3c&HFAFDFF&\fnA-OTF Shin Go Pr6N DB\fs60\blur0}ありふれた毎日にアイデア
+Dialogue: 0,0:01:14.43,0:01:19.35,OP - CN,z13,124,0,22,,{\bord3.5\an7\c&H242C3A&\3c&HFAFDFF&\fnHYQiHei-75S\fs50\blur0}用新點子給平凡生活增色
+Dialogue: 0,0:01:19.35,0:01:22.65,OP - JP,j14,0,144,13,,{\an3\bord3.5\c&H242C3A&\3c&HFAFDFF&\fnA-OTF Shin Go Pr6N DB\fs60\blur0}ちょっぴり万能感
+Dialogue: 0,0:01:19.35,0:01:22.65,OP - CN,z14,124,0,22,,{\bord3.5\an7\c&H242C3A&\3c&HFAFDFF&\fnHYQiHei-75S\fs50\blur0}總感覺自己有些無所不能
+Dialogue: 0,0:01:22.65,0:01:29.90,OP - JP,j15,0,144,13,,{\an3\bord3.5\c&H242C3A&\3c&HFAFDFF&\fnA-OTF Shin Go Pr6N DB\fs60\blur0}歌う鼻歌外れても　笑い飛ばして
+Dialogue: 0,0:01:22.65,0:01:29.90,OP - CN,z15,124,0,22,,{\bord3.5\an7\c&H242C3A&\3c&HFAFDFF&\fnHYQiHei-75S\fs50\blur0}就算哼的歌走調  也付之一笑
+Dialogue: 0,0:01:29.90,0:01:35.33,OP - JP,j16,0,144,13,,{\fad(0,400)\an3\bord3.5\c&H242C3A&\3c&HFAFDFF&\fnA-OTF Shin Go Pr6N DB\fs60\blur0}明日をもっと自由に　作るのさ
+Dialogue: 0,0:01:29.90,0:01:35.33,OP - CN,z16,124,0,22,,{\fad(0,400)\bord3.5\an7\c&H242C3A&\3c&HFAFDFF&\fnHYQiHei-75S\fs50\blur0}更加自由自在地  去開創未來
 Comment: 0,0:00:00.00,0:00:00.00,ED - JP,,0,0,0,,{\fad(250,600)}~ED~
 Dialogue: 0,0:22:15.32,0:22:19.74,ED - JP,j01,0,0,0,,{\fad(600,600)\blur0.5\c&HFFFEFB&\1a&HFF&\t(555,600,\1a&H00&)\t(3820,3865,\1a&HFF&)}夕間暮れに
 Dialogue: 1,0:22:15.32,0:22:19.74,ED - JP,j01,0,0,0,,{\bord0\fad(600,600)\blur0.5\4a&HFF&}夕間暮れに
@@ -158,12 +158,12 @@ Dialogue: 0,0:22:24.99,0:22:33.67,ED - CN,z03,0,0,0,,{\fad(600,600)\blur0.5\c&HF
 Dialogue: 1,0:22:24.99,0:22:33.67,ED - CN,z03,0,0,0,,{\bord0\fad(600,600)\blur0.5\4a&HFF&}輕撫我有些焦急的內心
 Dialogue: 0,0:22:34.46,0:22:39.24,ED - JP,j05,0,0,0,,{\fad(600,600)\blur0.5\c&HFFFEFB&\1a&HFF&\t(555,600,\1a&H00&)\t(4180,4225,\1a&HFF&)\pos(1810,967.89)}心配してくれて
 Dialogue: 1,0:22:34.46,0:22:39.24,ED - JP,j05,0,0,0,,{\bord0\fad(600,600)\blur0.5\4a&HFF&\pos(1810,967.89)}心配してくれて
-Dialogue: 1,0:22:35.19,0:22:39.24,ED - JP,j06,0,0,0,,{\fad(400,600)\blur0.5\4a&HFF&\c&HFFFEFB&\1a&HFF&\t(555,600,\1a&H00&)\t(3510,3555,\1a&HFF&)}楽しいは全部君がくれて
-Dialogue: 2,0:22:35.19,0:22:39.24,ED - JP,j06,0,0,0,,{\fad(400,600)\bord0\blur0.5\4a&HFF&\4a&HFF&}楽しいは全部君がくれて
+Dialogue: 1,0:22:35.08,0:22:39.24,ED - JP,j06,0,0,0,,{\fad(600,600)\blur0.5\4a&HFF&\c&HFFFEFB&\1a&HFF&\t(555,600,\1a&H00&)\t(3510,3555,\1a&HFF&)}楽しいは全部君がくれて
+Dialogue: 2,0:22:35.08,0:22:39.24,ED - JP,j06,0,0,0,,{\fad(600,600)\bord0\blur0.5\4a&HFF&\4a&HFF&}楽しいは全部君がくれて
 Dialogue: 0,0:22:34.46,0:22:39.24,ED - CN,z05,0,0,0,,{\fad(600,600)\blur0.5\c&HFBFEFF&\1a&HFF&\t(555,600,\1a&H00&)\t(4180,4225,\1a&HFF&)}你一直都為我費心勞神
 Dialogue: 1,0:22:34.46,0:22:39.24,ED - CN,z05,0,0,0,,{\bord0\fad(600,600)\blur0.5\4a&HFF&}你一直都為我費心勞神
-Dialogue: 0,0:22:35.19,0:22:39.24,ED - CN,z06,0,0,0,,{\fad(400,600)\blur0.5\pos(110,112.11)\c&HFBFEFF&\1a&HFF&\t(555,600,\1a&H00&)\t(3510,3555,\1a&HFF&)}你一直都為我帶來歡樂
-Dialogue: 1,0:22:35.19,0:22:39.24,ED - CN,z06,0,0,0,,{\fad(400,600)\bord0\blur0.5\pos(110,112.11)\4a&HFF&}你一直都為我帶來歡樂
+Dialogue: 0,0:22:35.08,0:22:39.24,ED - CN,z06,0,0,0,,{\fad(600,600)\blur0.5\pos(110,112.11)\c&HFBFEFF&\1a&HFF&\t(555,600,\1a&H00&)\t(3510,3555,\1a&HFF&)}你一直都為我帶來歡樂
+Dialogue: 1,0:22:35.08,0:22:39.24,ED - CN,z06,0,0,0,,{\fad(600,600)\bord0\blur0.5\pos(110,112.11)\4a&HFF&}你一直都為我帶來歡樂
 Dialogue: 0,0:22:39.34,0:22:43.05,ED - JP,j07,0,0,0,,{\fad(250,600)\blur0.5\c&HFFFEFB&\1a&HFF&\t(205,250,\1a&H00&)\t(3110,3155,\1a&HFF&)}いつもありがとう
 Dialogue: 1,0:22:39.34,0:22:43.05,ED - JP,j07,0,0,0,,{\bord0\fad(250,600)\blur0.5\4a&HFF&}いつもありがとう
 Dialogue: 0,0:22:39.34,0:22:43.05,ED - CN,z07,0,0,0,,{\fad(250,600)\blur0.5\c&HFBFEFF&\1a&HFF&\t(205,250,\1a&H00&)\t(3110,3155,\1a&HFF&)}真的很謝謝你
