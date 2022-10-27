@@ -7,4 +7,4 @@
 | Step 3 | 「DIY，为什么会突然来访？」 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Do%20It%20Yourself/%5BSweetSub%5D%20Do%20It%20Yourself!!%20-%2003.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Do%20It%20Yourself/%5BSweetSub%5D%20Do%20It%20Yourself!!%20-%2003.cht.ass) |
 | Step 4 | 「DIY，无论什么地方都能改造得舒适」 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Do%20It%20Yourself/%5BSweetSub%5D%20Do%20It%20Yourself!!%20-%2004.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Do%20It%20Yourself/%5BSweetSub%5D%20Do%20It%20Yourself!!%20-%2004.cht.ass) |
 
-![](https://p.sda1.dev/7/340ae7da90f3848ce34cb0cd685d9d33/DIY.jpg)
+![](https://p.sda1.dev/7/040742c4ffc2140632ed9cb2aad849a5/DIY.jpg)
