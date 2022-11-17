@@ -1565,6 +1565,39 @@ Dialogue: 0,0:04:08.22,0:04:08.26,Sign,Sign,0,0,0,/.,{\fscy100\frz0\fscx100\pos(
 Dialogue: 0,0:04:08.26,0:04:08.39,Sign,Sign,0,0,0,/.,{\fscy100\frz0\fscx100\pos(0,0)\an7\p1\bord0\c&HEFEFEF&}m 816 664 l 816 730 1256 730 1256 664
 Dialogue: 0,0:04:08.39,0:04:08.43,Sign,Sign,0,0,0,/.,{\fscy100\frz0\fscx100\pos(-0.01,0)\an7\p1\bord0\c&HEFEFEF&}m 816 664 l 816 730 1256 730 1256 664
 Dialogue: 0,0:04:08.43,0:04:08.47,Sign,Sign,0,0,0,/.,{\fscy100\frz0\fscx100\pos(0,0)\an7\p1\bord0\c&HEFEFEF&}m 816 664 l 816 730 1256 730 1256 664
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,~OP~{0:22:05.033}
+Dialogue: 0,0:22:20.04,0:22:25.58,Sign,j01,80,80,13,,{\fad(500,0)\blur0\an3\bord3.68\c&H242C3A&\3c&HFAFDFF&\fnA-OTF Shin Go Pr6N DB\fs59.4}弾むような頭から手のひら
+Dialogue: 0,0:22:20.04,0:22:25.58,Sign,z01,80,80,18,,{\fad(500,0)\blur0\bord3.68\an7\c&H242C3A&\3c&HFAFDFF&\fnHYQiHei-75S\fs49.5}从兴致勃勃的大脑到指尖
+Dialogue: 0,0:22:25.58,0:22:30.39,Sign,j02,80,80,13,,{\blur0\an3\bord3.68\c&H242C3A&\3c&HFAFDFF&\fnA-OTF Shin Go Pr6N DB\fs59.4}とんかちなリズム刻んでさ
+Dialogue: 0,0:22:25.58,0:22:30.39,Sign,z02,80,80,18,,{\blur0\bord3.68\an7\c&H242C3A&\3c&HFAFDFF&\fnHYQiHei-75S\fs49.5}都铭记着锤子敲出的节拍
+Dialogue: 0,0:22:30.39,0:22:35.69,Sign,j03,80,80,13,,{\blur0\an3\bord3.68\c&H242C3A&\3c&HFAFDFF&\fnA-OTF Shin Go Pr6N DB\fs59.4}当たり前が少しずれてたって
+Dialogue: 0,0:22:30.39,0:22:35.69,Sign,z03,80,80,18,,{\blur0\bord3.68\an7\c&H242C3A&\3c&HFAFDFF&\fnHYQiHei-75S\fs49.5}不小心留下瑕疵也没关系
+Dialogue: 0,0:22:35.69,0:22:40.65,Sign,j04,80,80,13,,{\blur0\an3\bord3.68\c&H242C3A&\3c&HFAFDFF&\fnA-OTF Shin Go Pr6N DB\fs59.4}おんなじじゃないから楽しいんじゃん？
+Dialogue: 0,0:22:35.69,0:22:40.65,Sign,z04,80,80,18,,{\blur0\bord3.68\an7\c&H242C3A&\3c&HFAFDFF&\fnHYQiHei-75S\fs49.5}别具风味不也挺有趣的吗？
+Dialogue: 0,0:22:40.65,0:22:43.34,Sign,j05,80,80,13,,{\blur0\an3\bord3.68\c&H242C3A&\3c&HFAFDFF&\fnA-OTF Shin Go Pr6N DB\fs59.4}旧石器時代　大先輩
+Dialogue: 0,0:22:40.65,0:22:43.34,Sign,z05,80,80,18,,{\blur0\bord3.68\an7\c&H242C3A&\3c&HFAFDFF&\fnHYQiHei-75S\fs49.5}旧石器时代  大前辈
+Dialogue: 0,0:22:43.34,0:22:45.75,Sign,j06,80,80,13,,{\blur0\an3\bord3.68\c&H242C3A&\3c&HFAFDFF&\fnA-OTF Shin Go Pr6N DB\fs59.4}その時から　変わんない
+Dialogue: 0,0:22:43.34,0:22:45.75,Sign,z06,80,80,18,,{\blur0\bord3.68\an7\c&H242C3A&\3c&HFAFDFF&\fnHYQiHei-75S\fs49.5}从那时候起  就没有变过
+Dialogue: 0,0:22:45.75,0:22:48.21,Sign,j07,80,80,13,,{\blur0\an3\bord3.68\c&H242C3A&\3c&HFAFDFF&\fnA-OTF Shin Go Pr6N DB\fs59.4}欲しいものが　あれば
+Dialogue: 0,0:22:45.75,0:22:48.21,Sign,z07,80,80,18,,{\blur0\bord3.68\an7\c&H242C3A&\3c&HFAFDFF&\fnHYQiHei-75S\fs49.5}有想要的东西
+Dialogue: 0,0:22:48.21,0:22:49.50,Sign,j08,80,80,13,,{\fnHYQiHei-75S\fs49.5\blur0\an3\bord3.68\c&H242C3A&\3c&HFAFDFF&}Yes! {\fnA-OTF Shin Go Pr6N DB\fs59.4}この手で
+Dialogue: 0,0:22:48.21,0:22:49.50,Sign,z08,80,80,18,,{\fnHYQiHei-75S\bord3.68\blur0\an7\c&H242C3A&\3c&HFAFDFF&\fs49.5}Yes! 就用双手
+Comment: 0,0:22:48.89,0:22:49.69,Sign,j09,80,80,13,,{\blur0\an3\bord3.68\c&H242C3A&\3c&HFAFDFF&\fnA-OTF Shin Go Pr6N DB\fs59.4}_
+Comment: 0,0:22:48.89,0:22:49.69,Sign,z09,80,80,18,,{\blur0\bord3.68\an7\c&H242C3A&\3c&HFAFDFF&\fnHYQiHei-75S\fs49.5}_
+Dialogue: 0,0:22:49.50,0:22:50.75,Sign,j10,80,80,13,,{\fnHYQiHei-75S\fs49.5\blur0\an3\bord3.68\c&H242C3A&\3c&HFAFDFF&}Yes! {\fnA-OTF Shin Go Pr6N DB\fs59.4}今すぐ
+Dialogue: 0,0:22:49.50,0:22:50.75,Sign,z10,80,80,18,,{\fnHYQiHei-75S\bord3.68\blur0\an7\c&H242C3A&\3c&HFAFDFF&\fs49.5}Yes! 立刻
+Comment: 0,0:22:50.22,0:22:50.94,Sign,j11,80,80,13,,{\blur0\an3\bord3.68\c&H242C3A&\3c&HFAFDFF&\fnA-OTF Shin Go Pr6N DB\fs59.4}_
+Comment: 0,0:22:50.22,0:22:50.94,Sign,z11,80,80,18,,{\blur0\bord3.68\an7\c&H242C3A&\3c&HFAFDFF&\fnHYQiHei-75S\fs49.5}_
+Dialogue: 0,0:22:50.75,0:22:53.15,Sign,j12,80,80,14,,{\fnHYQiHei-75S\fs49.5\blur0\an3\bord3.68\c&H242C3A&\3c&HFAFDFF&}I do it myself!
+Dialogue: 0,0:22:50.75,0:22:53.15,Sign,z12,80,80,18,,{\fnHYQiHei-75S\bord3.68\blur0\an7\c&H242C3A&\3c&HFAFDFF&\fs49.5}I do it myself!
+Dialogue: 0,0:22:53.15,0:22:58.36,Sign,j13,80,80,13,,{\an3\bord3.68\c&H242C3A&\3c&HFAFDFF&\fnA-OTF Shin Go Pr6N DB\fs59.4\blur0}ありふれた毎日にアイデア
+Dialogue: 0,0:22:53.15,0:22:58.36,Sign,z13,80,80,18,,{\bord3.68\an7\c&H242C3A&\3c&HFAFDFF&\fnHYQiHei-75S\fs49.5\blur0}用新点子给平凡生活增色
+Dialogue: 0,0:22:58.36,0:23:01.66,Sign,j14,80,80,13,,{\an3\bord3.68\c&H242C3A&\3c&HFAFDFF&\fnA-OTF Shin Go Pr6N DB\fs59.4\blur0}ちょっぴり万能感
+Dialogue: 0,0:22:58.36,0:23:01.66,Sign,z14,80,80,18,,{\bord3.68\an7\c&H242C3A&\3c&HFAFDFF&\fnHYQiHei-75S\fs49.5\blur0}让人有一点点全能感
+Dialogue: 0,0:23:01.66,0:23:08.37,Sign,j15,80,80,13,,{\an3\bord3.68\c&H242C3A&\3c&HFAFDFF&\fnA-OTF Shin Go Pr6N DB\fs59.4\blur0}歌う鼻歌はずれても笑い飛ばして
+Dialogue: 0,0:23:01.66,0:23:08.37,Sign,z15,80,80,18,,{\bord3.68\an7\c&H242C3A&\3c&HFAFDFF&\fnHYQiHei-75S\fs49.5\blur0}就算哼歌走调也付之一笑
+Dialogue: 0,0:23:08.37,0:23:14.14,Sign,j16,80,80,13,,{\fad(0,450)\an3\bord3.68\c&H242C3A&\3c&HFAFDFF&\fnA-OTF Shin Go Pr6N DB\fs59.4\blur0}明日をもっと自由に作るのさ
+Dialogue: 0,0:23:08.37,0:23:14.14,Sign,z16,80,80,18,,{\fad(0,450)\bord3.68\an7\c&H242C3A&\3c&HFAFDFF&\fnHYQiHei-75S\fs49.5\blur0}更自由地去开创未来
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Note~
 Dialogue: 0,0:02:19.99,0:02:35.51,Note,,0,0,0,,{\fad(500,1500)\an7\pos(0,0)\fscx100\fscy100\p1\c&HF0F0F0&\blur2\alpha&H40&}m 20 30 l 550 30 550 160 20 160
 Dialogue: 1,0:02:19.99,0:02:35.51,Note,,0,0,0,,{\fad(500,1500)}※出自『罗密欧与朱丽叶』\N{\alpha&HFF&}※{\alpha}译文采用{\u1}朱生豪{\u0}译本
