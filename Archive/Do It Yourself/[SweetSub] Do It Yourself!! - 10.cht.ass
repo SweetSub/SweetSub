@@ -304,7 +304,7 @@ Dialogue: 0,0:13:49.10,0:13:51.60,Sign,Sign,0,0,0,/,{\alpha&H40&\bord0\an5\1c&H8
 Dialogue: 0,0:13:49.10,0:13:51.60,Sign,Sign,0,0,0,/,{\bord0\an5\fs65\c&H7ADCE7&\pos(316.25,150.57)}三條香辛料研究所\N今天的咖哩
 Dialogue: 0,0:13:49.10,0:13:51.60,Sign,Sign,0,0,0,/,{\bord0\an4\fs62\c&H7ADCE7&\pos(124.19,337.89)}A {\c&HE9F5F6&}壓制大豆配蔬菜幹\N{\c&H7ADCE7}B {\c&HE9F5F6&}辣醬雞肉\N{\c&H7ADCE7}C {\c&HE9F5F6&}Rasam 酸辣湯
 Dialogue: 0,0:14:13.96,0:14:16.96,Sign,Sign,0,0,0,/,{\alpha&H60&\an5\bord0\shad0\blur1\pos(1268.23,852.76)\fax-0.802528\fay0.0000\fscx54.64\fscy37.93\frz63.0144\frx3.1669\fry4.6898\org(1255.07,864.14)\c&H814F39&\p1}m 0 0 l 290 0 290 110 0 110
-Dialogue: 1,0:14:13.96,0:14:16.96,Sign,Sign,0,0,0,/,{\alpha&H30&\bord0\c&H53332D&\fs70\fn@HYQiHei-70S\fax-0.802676\fay0.0000\fscx55.13\fscy38.00\frz63.1963\frx3.1562\fry4.6678\org(1240.15,871.52)\pos(1255.63,858.22)}忍者精髓
+Dialogue: 1,0:14:13.96,0:14:16.96,Sign,Sign,0,0,0,/,{\alpha&H30&\bord0\c&H53332D&\fs70\fn@HYQiHei-75S\fax-0.802676\fay0.0000\fscx55.13\fscy38.00\frz63.1963\frx3.1562\fry4.6678\org(1240.15,871.52)\pos(1255.63,858.22)}忍者精髓
 Comment: 0,0:16:17.75,0:16:22.25,Sign,Sign,0,0,0,/,DIY 社財產\N不要扔!!
 Dialogue: 0,0:16:22.25,0:16:22.29,Sign,Sign,0,0,0,/,{\alpha&H60&\an4\bord2\shad0\blur0.8\p1\fscx300\fscy165\3c&H454B50&\c&H454B50&\1a&HFF&\pos(529.51,139.22)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:16:22.29,0:16:22.33,Sign,Sign,0,0,0,/,{\alpha&H60&\an4\bord2\shad0\blur0.8\p1\fscx300\fscy165\3c&H454B50&\c&H454B50&\1a&HFF&\pos(538.65,139.18)}m 0 0 l 100 0 100 100 0 100
