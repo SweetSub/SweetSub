@@ -4,8 +4,8 @@
 | :--: | :--: | :--: | :--: |
 | 1 | 真寻与禁忌的身体 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Oniichan%20ha%20Oshimai/%5BSweetSub%5D%20Oniichan%20ha%20Oshimai!%20-%2001.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Oniichan%20ha%20Oshimai/%5BSweetSub%5D%20Oniichan%20ha%20Oshimai!%20-%2001.cht.ass) |
 | 2 | 真寻与女孩子的那几天 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Oniichan%20ha%20Oshimai/%5BSweetSub%5D%20Oniichan%20ha%20Oshimai!%20-%2002.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Oniichan%20ha%20Oshimai/%5BSweetSub%5D%20Oniichan%20ha%20Oshimai!%20-%2002.cht.ass) |
-| 3 |  |  |  |
-| 4 |  |  |  |
+| 3 | 真寻与和未知的遭遇 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Oniichan%20ha%20Oshimai/%5BSweetSub%5D%20Oniichan%20ha%20Oshimai!%20-%2003.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Oniichan%20ha%20Oshimai/%5BSweetSub%5D%20Oniichan%20ha%20Oshimai!%20-%2002.cht.ass) |
+| 4 | 真寻与新的朋友 |  |  |
 | 5 |  |  |  |
 | 6 |  |  |  |
 | 7 |  |  |  |
