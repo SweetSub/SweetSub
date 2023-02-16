@@ -266,7 +266,7 @@ Dialogue: 0,0:08:03.13,0:08:05.59,Sign,Sign,0,0,0,,{\bord0\c&H4F3E4D&\fnSource H
 Dialogue: 0,0:08:27.45,0:08:30.36,Sign,Sign,0,0,0,,{\fnSource Han Sans TC Light\bord0\fs60\c&H000000&\frz342.9\pos(831.11,82.78)\fax-0.4}Lost Quest 9 攻略筆記！
 Dialogue: 0,0:10:59.10,0:11:02.10,Sign,Sign,0,0,0,,{\fnSource Han Sans TC Light\bord0\fs40\c&H000000&\fax-0.4\fad(1000,0)\pos(1252.45,77.44)\frz345.3}Lost Quest 9 攻略筆記！
 Dialogue: 0,0:13:42.09,0:13:46.10,Sign,Sign,0,0,0,,{\fnFZBitmap_GBK_11X12\fs30\bord0\move(1110,836,452,835,0,600)\clip(0,720.89,961.78,1080)}真尋  的  等級  提升了
-Dialogue: 0,0:13:50.10,0:13:53.48,Sign,Sign,0,0,0,,{\pos(932.44,601)\frz3.855\c&HCFD6D5&\3c&HB4B4BB&\bord2}料理實操教室
+Dialogue: 0,0:13:50.10,0:13:53.48,Sign,Sign,0,0,0,,{\pos(932.44,601)\frz3.855\c&HCFD6D5&\3c&HB4B4BB&\bord2\fax-0.08}料理實操教室
 Comment: 0,0:14:29.89,0:14:34.31,Sign,Sign,0,0,0,,常見烘培點心食譜{LC：會被字幕擋住，算了不做了（}
 Comment: 0,0:00:00.02,0:00:00.02,Default,,0,0,0,,~Dialogue CN~
 Dialogue: 9,0:00:04.69,0:00:05.44,Text - CN,,0,0,0,,全…
