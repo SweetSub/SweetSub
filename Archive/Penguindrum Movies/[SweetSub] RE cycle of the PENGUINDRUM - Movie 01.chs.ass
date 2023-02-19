@@ -10,14 +10,15 @@ PlayResX: 1920
 PlayResY: 1080
 
 [Aegisub Project Garbage]
-Audio File: D:/[SweetSub] REcycle of the Penguindrum - Movie 01 [WebRip 1080p HEVC-10bit AAC].mkv
-Video File: D:/[SweetSub] REcycle of the Penguindrum - Movie 01 [WebRip 1080p HEVC-10bit AAC].mkv
+Audio File: D:/00006.m2ts [31FCA9E1].mkv
+Video File: D:/00006.m2ts [31FCA9E1].mkv
+Keyframes File: C:/Users/natsu/Downloads/64Gram Desktop/00006.m2ts [31FCA9E1].mkv.kf.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.250000
-Scroll Position: 24
-Active Line: 29
-Video Position: 170497
+Video Zoom Percent: 0.375000
+Scroll Position: 326
+Active Line: 333
+Video Position: 73397
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -55,7 +56,8 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果在其它情况下想要�
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,该版本为 Web 版字幕。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,﹝Credit﹞
-Dialogue: 0,2:03:50.15,2:03:57.41,Sign,Credit,0,0,0,,{\an2\bord0\shad0\fsp2\fs50\pos(960,1040)\fad(750,1950)}翻译·后期：natsukage　　校对：xiefang　　字幕制作：SweetSub
+Dialogue: 0,2:03:59.41,2:04:05.38,Sign,Credit,0,0,0,,{\an1\bord0\shad0\fsp2\fs34\fad(950,950)\pos(716,992)}本字幕由 {\alpha&HFF&}SweetSub{\alpha&H00&} 制作\N翻译·后期：natsukage　校对：xiefang
+Dialogue: 0,2:03:59.41,2:04:05.38,Sign,Credit,0,0,0,,{\bord0\fade(950,950)\pos(889,952)\p1}m 6.875 8.359 b 6.875 8.359 6.875 8.359 6.875 8.359 4.921 8.25 3.329 6.922 3.406 5.391 3.454 3.844 5.266 2.828 7.156 2.953 8.5 3.031 9.641 3.531 10.219 4.422 l 13.046 3.25 b 11.984 1.594 9.875 0.359 7.313 0.234 3.594 0 0.734 2.281 0.546 5.266 0.421 8.125 2.891 10.75 6.531 11.031 6.609 11.078 6.656 11.078 6.734 11.078 8.704 11.187 10.219 12.422 10.094 13.937 10.046 15.516 8.391 16.328 6.454 16.219 4.75 16.141 3.704 15.437 3.204 14.125 l 0 14.984 b 0.734 17.187 3.204 18.953 6.296 19.125 10.046 19.312 13.219 17.094 13.344 14.125 13.531 11.187 10.609 8.562 6.875 8.359 m 34.094 5.734 l 31.563 12.469 31.156 13.672 30.546 12.453 26.75 5.422 23.204 12.422 22.656 13.656 22.188 12.375 19.563 5.734 16.625 5.734 22.234 19.187 26.125 11.5 26.796 9.953 27.5 11.484 31.656 19.187 36.844 5.734 34.094 5.734 m 50.344 14.469 b 49.656 15.828 48.25 16.609 46.625 16.609 44.5 16.609 42.813 15.047 42.484 13.031 l 49.531 13.031 50.875 13.031 53.281 13.031 b 53.313 12.812 53.313 12.531 53.313 12.297 53.313 8.562 50.313 5.5 46.625 5.5 42.906 5.5 39.906 8.562 39.906 12.297 39.906 15.984 42.906 19.047 46.625 19.047 49.296 19.047 51.859 17.531 53.125 14.469 52.421 14.469 50.875 14.469 50.344 14.469 m 42.734 10.562 b 43.391 9.047 44.844 7.906 46.625 7.906 48.329 7.906 49.734 8.984 50.421 10.422 50.5 10.641 50.625 10.844 50.704 11.062 l 49.921 11.062 43 11.062 42.563 11.062 b 42.579 10.906 42.656 10.75 42.734 10.562 m 66.969 14.469 b 66.281 15.828 64.875 16.609 63.25 16.609 61.125 16.609 59.438 15.047 59.109 13.031 l 66.156 13.031 67.5 13.031 69.906 13.031 b 69.938 12.812 69.938 12.531 69.938 12.297 69.938 8.562 66.938 5.5 63.25 5.5 59.531 5.5 56.531 8.562 56.531 12.297 56.531 15.984 59.531 19.047 63.25 19.047 65.921 19.047 68.484 17.531 69.75 14.469 69.046 14.469 67.5 14.469 66.969 14.469 m 59.359 10.562 b 60.016 9.047 61.469 7.906 63.25 7.906 64.954 7.906 66.359 8.984 67.046 10.422 67.125 10.641 67.25 10.844 67.329 11.062 l 66.546 11.062 59.625 11.062 59.188 11.062 b 59.204 10.906 59.281 10.75 59.359 10.562 m 82.656 5.766 l 79.344 5.766 79.344 0.5 76.704 0.5 76.704 5.766 73.219 5.766 73.219 8.203 76.704 8.203 76.704 18.875 79.344 18.875 79.344 8.203 82.656 8.203 82.656 5.766 m 93.204 8.359 b 93.204 8.359 93.204 8.359 93.204 8.359 91.25 8.25 89.656 6.922 89.734 5.391 89.781 3.844 91.594 2.828 93.484 2.953 94.829 3.031 95.969 3.531 96.546 4.422 l 99.375 3.25 b 98.313 1.594 96.204 0.359 93.641 0.234 89.921 0 87.063 2.281 86.875 5.266 86.75 8.125 89.219 10.75 92.859 11.031 92.938 11.078 92.984 11.078 93.063 11.078 95.031 11.187 96.546 12.422 96.421 13.937 96.375 15.516 94.719 16.328 92.781 16.219 91.079 16.141 90.031 15.437 89.531 14.125 l 86.329 14.984 b 87.063 17.187 89.531 18.953 92.625 19.125 96.375 19.312 99.546 17.094 99.671 14.125 99.859 11.187 96.938 8.562 93.204 8.359 m 110.454 19.031 b 112.031 19.031 113.359 18.234 114.391 17.109 l 114.391 18.766 117.031 18.766 117.031 5.766 114.406 5.766 114.406 7.672 114.406 12.453 114.406 12.609 b 114.391 14.891 112.344 16.562 110.454 16.562 107.938 16.562 106.438 14.891 106.438 12.578 l 106.438 7.656 106.438 5.766 103.75 5.766 103.75 12.578 b 103.75 16.141 106.5 19.031 110.454 19.031 m 129.704 5.922 b 128.329 5.922 127.079 6.344 126.031 7.016 125.734 7.203 125.421 7.469 125.188 7.703 l 125.188 6.625 125.188 0.5 122.516 0.5 122.516 18.844 125.188 18.844 125.188 18.219 125.188 17.266 b 125.406 17.453 125.609 17.687 125.875 17.906 126.969 18.656 128.25 19.078 129.704 19.078 133.375 19.078 136.296 16.141 136.296 12.5 136.296 8.828 133.375 5.922 129.704 5.922 m 129.719 16.687 b 127.391 16.687 125.188 14.828 125.188 12.5 125.188 10.141 127.391 8.25 129.719 8.25 132.031 8.25 133.844 10.141 133.844 12.5 133.844 14.828 132.031 16.687 129.719 16.687
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,﹝Song﹞
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,ノルニル
 Dialogue: 1,1:57:35.49,1:57:38.32,TMCN,,0,0,0,,{\fad(250,0)}你的眼睛转来转去
@@ -362,8 +364,8 @@ Dialogue: 0,1:48:47.33,1:48:53.30,Sign - Board - Black,,0,0,0,,冠叶  高仓家
 Dialogue: 1,1:48:49.17,1:48:53.30,Sign - Board,,0,0,0,,{\fs75\c&H000000&\clip(m 450 1005 l 450 1072 1470 1072 1470 1005)\c&HFFFFFF&\an1\move(1470,1072,120,1072)}阳毬一直都关注着我们。绝对不能失去。对我来说她是世界
 Dialogue: 0,1:48:47.33,1:48:53.30,Sign - Board,,0,0,0,,{\an7\pos(0,0)\fs75\c&H000000&\p1}m 450 1005 l 450 1072 1470 1072 1470 1005
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
-Dialogue: 0,0:03:26.10,0:03:34.69,Sign,title,0,0,0,,{\fnSource Han Serif SC\b1\blur0.6\pos(960,654)\an8\bord0\shad0\fsp6\fs90}你的列车是生存战略
-Dialogue: 0,2:03:50.15,2:03:57.41,Sign,title,0,0,0,,{\an7\fnSource Han Serif SC\b1\blur0.6\bord0\shad0\fsp10\fs90\pos(860,600)\fad(750,1950)}我深爱着你
+Dialogue: 0,0:03:26.10,0:03:34.69,Sign,title,0,0,0,,{\fnSource Han Serif SC\b1\pos(960,654)\an8\bord0\shad0\fsp6\fs90}你的列车是生存战略
+Dialogue: 0,2:03:50.15,2:03:57.41,Sign,title,0,0,0,,{\an7\fnSource Han Serif SC\b1\bord0\shad0\fsp10\fs90\pos(854,600)\fad(750,1950)}我爱你
 Dialogue: 0,0:01:10.51,0:01:17.60,Sign,,0,0,0,,{\fscx110\fsp4\an8\c&H464646&\fs50\bord3\3c&HFFFFFF&\an8\fad(500,0)\t(5100,6590,0.6,\alpha&HFF&\fs49)\an8}命运的终点站
 Dialogue: 0,0:04:26.50,0:04:29.21,Sign,,0,0,0,,{\fad(1300,0)\fnSource Han Sans SC\b1\fs60\fsp6\pos(960,660)}我们有一个妹妹
 Dialogue: 0,0:05:25.47,0:05:26.97,Sign,,0,0,0,,{\fs40\pos(1258,301)\bord0\c&H66655E&\blur0.6}电梯故障  禁止使用
@@ -373,86 +375,590 @@ Dialogue: 0,0:05:47.70,0:05:50.66,Sign,,0,0,0,,{\fad(1300,0)\fnSource Han Sans S
 Dialogue: 0,0:06:13.44,0:06:16.40,Sign,,0,0,0,,{\fad(1300,0)\fnSource Han Sans SC\b1\fs60\fsp6\pos(966,660)}妹妹她
 Dialogue: 0,0:06:28.20,0:06:31.16,Sign,,0,0,0,,{\fad(1300,0)\fnSource Han Sans SC\b1\fs60\fsp6\pos(966,660)}妹妹她
 Dialogue: 0,0:06:42.05,0:06:46.51,Sign,,0,0,0,,{\fad(1300,0)\fnSource Han Sans SC\b1\fs60\fsp6\pos(966,660)}死了
-Dialogue: 0,0:16:51.03,0:16:53.53,Sign,motion,0,0,0,,{\fscy100\t(21,2481,\fscy102.48)\fscx100\t(21,2481,\fscx102.48)\alpha&H00&\fnSource Han Serif SC Heavy\fs70\fsp6\move(960,600,960,601.47,21,2481)\c&HFFFFFF&\3c&HFFFFFF&\an8\bord1\blur4\3a&HC8&}然后，我们命运的钟声响起了
-Dialogue: 0,0:21:16.80,0:21:21.30,Sign,motion,0,0,0,,{\fscy100\t(16,4479,\fscy104.44)\fscx100\t(16,4479,\fscx104.44)\alpha&H00&\fnSource Han Serif SC Heavy\fs70\fsp6\move(960,600,959.73,602.69,16,4479)\c&HFFFFFF&\3c&HFFFFFF&\an8\bord1\blur1\t(16,4479,\blur6)\3a&HC8&}去调查荻野目苹果
-Dialogue: 0,0:23:54.95,0:23:57.96,Sign,motion,0,0,0,,{\fscy100\t(24,2985,\fscy102.97)\fscx100\t(24,2985,\fscx102.97)\alpha&H00&\fnSource Han Serif SC Heavy\fs70\fsp6\move(960,600,960,601.77,24,2985)\c&HFFFFFF&\3c&HFFFFFF&\an8\bord1\blur1\t(24,2985,\blur4.12)\3a&HC8&}命运已被写下
+Dialogue: 0,0:16:51.03,0:16:53.53,Sign,motion,0,0,0,,{=0}{\fscy100\t(22,2482,\fscy102.49)\fscx100\t(22,2482,\fscx102.49)\alpha&H00&\move(960,600,960,601.49,22,2482)\an8\fnSource Han Serif SC Heavy\bord0\t(0,2482,0.5,\blur20\bord5)\3c&HFFFFFF&\3a&HDC&\fsp10\fs85}然后，我们命运的钟声响起了
+Dialogue: 0,0:21:16.80,0:21:21.30,Sign,motion,0,0,0,,{=1}{\fscy100\t(17,4480,\fscy104.45)\fscx100\t(17,4480,\fscx104.45)\alpha&H00&\move(960,600,960,602.67,17,4480)\an8\fnSource Han Serif SC Heavy\bord0\t(0,4480,0.5,\blur20\bord5)\3c&HFFFFFF&\3a&HDC&\fsp10\fs85}去调查荻野目苹果
+Dialogue: 0,0:23:54.95,0:23:57.96,Sign,motion,0,0,0,,{=2}{\fscy97.12\t(25,2986,\fscy100)\fscx97.12\t(25,2986,\fscx100)\alpha&H00&\move(960.24,598.26,960,600,25,2986)\an8\fnSource Han Serif SC Heavy\bord0\t(0,2986,0.5,\blur20\bord5)\3c&HFFFFFF&\3a&HDC&\fsp10\fs85}命运已被写下
+Dialogue: 0,0:07:25.75,0:07:25.80,Sign,,0,0,0,,{=14}{\fscy119.42\fscx119.42\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.19\pos(1700.35,680.83)}还书处
+Dialogue: 0,0:07:25.80,0:07:25.84,Sign,,0,0,0,,{=14}{\fscy119.28\fscx119.28\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.19\pos(1699.5,680.57)}还书处
+Dialogue: 0,0:07:25.84,0:07:25.88,Sign,,0,0,0,,{=14}{\fscy119.13\fscx119.13\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.19\pos(1698.62,680.34)}还书处
+Dialogue: 0,0:07:25.88,0:07:25.92,Sign,,0,0,0,,{=14}{\fscy119\fscx119\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.19\pos(1697.8,680.09)}还书处
+Dialogue: 0,0:07:25.92,0:07:25.96,Sign,,0,0,0,,{=14}{\fscy118.85\fscx118.85\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.19\pos(1696.92,679.84)}还书处
+Dialogue: 0,0:07:25.96,0:07:26.00,Sign,,0,0,0,,{=14}{\fscy118.72\fscx118.72\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.19\pos(1696.11,679.59)}还书处
+Dialogue: 0,0:07:26.00,0:07:26.05,Sign,,0,0,0,,{=14}{\fscy118.58\fscx118.58\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.19\pos(1695.24,679.35)}还书处
+Dialogue: 0,0:07:26.05,0:07:26.09,Sign,,0,0,0,,{=14}{\fscy118.44\fscx118.44\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.18\pos(1694.41,679.11)}还书处
+Dialogue: 0,0:07:26.09,0:07:26.13,Sign,,0,0,0,,{=14}{\fscy118.3\fscx118.3\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.18\pos(1693.58,678.86)}还书处
+Dialogue: 0,0:07:26.13,0:07:26.17,Sign,,0,0,0,,{=14}{\fscy118.16\fscx118.16\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.18\pos(1692.73,678.61)}还书处
+Dialogue: 0,0:07:26.17,0:07:26.21,Sign,,0,0,0,,{=14}{\fscy118.03\fscx118.03\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.18\pos(1691.91,678.37)}还书处
+Dialogue: 0,0:07:26.21,0:07:26.25,Sign,,0,0,0,,{=14}{\fscy117.88\fscx117.88\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.18\pos(1691.04,678.12)}还书处
+Dialogue: 0,0:07:26.25,0:07:26.30,Sign,,0,0,0,,{=14}{\fscy117.74\fscx117.74\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.18\pos(1690.2,677.88)}还书处
+Dialogue: 0,0:07:26.30,0:07:26.34,Sign,,0,0,0,,{=14}{\fscy117.61\fscx117.61\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.18\pos(1689.37,677.63)}还书处
+Dialogue: 0,0:07:26.34,0:07:26.38,Sign,,0,0,0,,{=14}{\fscy117.48\fscx117.48\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.17\pos(1688.56,677.39)}还书处
+Dialogue: 0,0:07:26.38,0:07:26.42,Sign,,0,0,0,,{=14}{\fscy117.34\fscx117.34\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.17\pos(1687.73,677.16)}还书处
+Dialogue: 0,0:07:26.42,0:07:26.46,Sign,,0,0,0,,{=14}{\fscy117.2\fscx117.2\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.17\pos(1686.89,676.94)}还书处
+Dialogue: 0,0:07:26.46,0:07:26.50,Sign,,0,0,0,,{=14}{\fscy117.06\fscx117.06\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.17\pos(1686.09,676.7)}还书处
+Dialogue: 0,0:07:26.50,0:07:26.55,Sign,,0,0,0,,{=14}{\fscy116.93\fscx116.93\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.17\pos(1685.25,676.46)}还书处
+Dialogue: 0,0:07:26.55,0:07:26.59,Sign,,0,0,0,,{=14}{\fscy116.8\fscx116.8\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.17\pos(1684.5,676.24)}还书处
+Dialogue: 0,0:07:26.59,0:07:26.63,Sign,,0,0,0,,{=14}{\fscy116.66\fscx116.66\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.17\pos(1683.65,676.01)}还书处
+Dialogue: 0,0:07:26.63,0:07:26.67,Sign,,0,0,0,,{=14}{\fscy116.53\fscx116.53\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.17\pos(1682.86,675.77)}还书处
+Dialogue: 0,0:07:26.67,0:07:26.71,Sign,,0,0,0,,{=14}{\fscy116.4\fscx116.4\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.16\pos(1682.06,675.53)}还书处
+Dialogue: 0,0:07:26.71,0:07:26.75,Sign,,0,0,0,,{=14}{\fscy116.26\fscx116.26\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.16\pos(1681.22,675.28)}还书处
+Dialogue: 0,0:07:26.75,0:07:26.80,Sign,,0,0,0,,{=14}{\fscy116.12\fscx116.12\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.16\pos(1680.41,675.06)}还书处
+Dialogue: 0,0:07:26.80,0:07:26.84,Sign,,0,0,0,,{=14}{\fscy115.98\fscx115.98\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.16\pos(1679.58,674.81)}还书处
+Dialogue: 0,0:07:26.84,0:07:26.88,Sign,,0,0,0,,{=14}{\fscy115.85\fscx115.85\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.16\pos(1678.79,674.58)}还书处
+Dialogue: 0,0:07:26.88,0:07:26.92,Sign,,0,0,0,,{=14}{\fscy115.73\fscx115.73\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.16\pos(1678.02,674.34)}还书处
+Dialogue: 0,0:07:26.92,0:07:26.96,Sign,,0,0,0,,{=14}{\fscy115.59\fscx115.59\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.16\pos(1677.21,674.11)}还书处
+Dialogue: 0,0:07:26.96,0:07:27.00,Sign,,0,0,0,,{=14}{\fscy115.46\fscx115.46\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.15\pos(1676.41,673.89)}还书处
+Dialogue: 0,0:07:27.00,0:07:27.05,Sign,,0,0,0,,{=14}{\fscy115.33\fscx115.33\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.15\pos(1675.61,673.65)}还书处
+Dialogue: 0,0:07:27.05,0:07:27.09,Sign,,0,0,0,,{=14}{\fscy115.2\fscx115.2\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.15\pos(1674.85,673.42)}还书处
+Dialogue: 0,0:07:27.09,0:07:27.13,Sign,,0,0,0,,{=14}{\fscy115.07\fscx115.07\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.15\pos(1674.06,673.19)}还书处
+Dialogue: 0,0:07:27.13,0:07:27.17,Sign,,0,0,0,,{=14}{\fscy114.94\fscx114.94\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.15\pos(1673.3,672.98)}还书处
+Dialogue: 0,0:07:27.17,0:07:27.21,Sign,,0,0,0,,{=14}{\fscy114.82\fscx114.82\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.15\pos(1672.52,672.76)}还书处
+Dialogue: 0,0:07:27.21,0:07:27.25,Sign,,0,0,0,,{=14}{\fscy114.69\fscx114.69\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.15\pos(1671.76,672.55)}还书处
+Dialogue: 0,0:07:27.25,0:07:27.30,Sign,,0,0,0,,{=14}{\fscy114.56\fscx114.56\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.15\pos(1670.97,672.3)}还书处
+Dialogue: 0,0:07:27.30,0:07:27.34,Sign,,0,0,0,,{=14}{\fscy114.43\fscx114.43\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.14\pos(1670.2,672.06)}还书处
+Dialogue: 0,0:07:27.34,0:07:27.38,Sign,,0,0,0,,{=14}{\fscy114.3\fscx114.3\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.14\pos(1669.4,671.82)}还书处
+Dialogue: 0,0:07:27.38,0:07:27.42,Sign,,0,0,0,,{=14}{\fscy114.17\fscx114.17\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.14\pos(1668.63,671.6)}还书处
+Dialogue: 0,0:07:27.42,0:07:27.46,Sign,,0,0,0,,{=14}{\fscy114.04\fscx114.04\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.14\pos(1667.87,671.38)}还书处
+Dialogue: 0,0:07:27.46,0:07:27.51,Sign,,0,0,0,,{=14}{\fscy113.92\fscx113.92\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.14\pos(1667.13,671.17)}还书处
+Dialogue: 0,0:07:27.51,0:07:27.55,Sign,,0,0,0,,{=14}{\fscy113.8\fscx113.8\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.14\pos(1666.37,670.97)}还书处
+Dialogue: 0,0:07:27.55,0:07:27.59,Sign,,0,0,0,,{=14}{\fscy113.67\fscx113.67\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.14\pos(1665.59,670.73)}还书处
+Dialogue: 0,0:07:27.59,0:07:27.63,Sign,,0,0,0,,{=14}{\fscy113.55\fscx113.55\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.14\pos(1664.87,670.53)}还书处
+Dialogue: 0,0:07:27.63,0:07:27.67,Sign,,0,0,0,,{=14}{\fscy113.42\fscx113.42\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.13\pos(1664.1,670.29)}还书处
+Dialogue: 0,0:07:27.67,0:07:27.71,Sign,,0,0,0,,{=14}{\fscy113.3\fscx113.3\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.13\pos(1663.36,670.07)}还书处
+Dialogue: 0,0:07:27.71,0:07:27.76,Sign,,0,0,0,,{=14}{\fscy113.17\fscx113.17\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.13\pos(1662.58,669.86)}还书处
+Dialogue: 0,0:07:27.76,0:07:27.80,Sign,,0,0,0,,{=14}{\fscy113.05\fscx113.05\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.13\pos(1661.83,669.67)}还书处
+Dialogue: 0,0:07:27.80,0:07:27.84,Sign,,0,0,0,,{=14}{\fscy112.92\fscx112.92\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.13\pos(1661.08,669.44)}还书处
+Dialogue: 0,0:07:27.84,0:07:27.88,Sign,,0,0,0,,{=14}{\fscy112.8\fscx112.8\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.13\pos(1660.35,669.21)}还书处
+Dialogue: 0,0:07:27.88,0:07:27.92,Sign,,0,0,0,,{=14}{\fscy112.67\fscx112.67\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.13\pos(1659.59,668.99)}还书处
+Dialogue: 0,0:07:27.92,0:07:27.96,Sign,,0,0,0,,{=14}{\fscy112.55\fscx112.55\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.13\pos(1658.85,668.79)}还书处
+Dialogue: 0,0:07:27.96,0:07:28.01,Sign,,0,0,0,,{=14}{\fscy112.42\fscx112.42\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.12\pos(1658.07,668.57)}还书处
+Dialogue: 0,0:07:28.01,0:07:28.05,Sign,,0,0,0,,{=14}{\fscy112.31\fscx112.31\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.12\pos(1657.36,668.38)}还书处
+Dialogue: 0,0:07:28.05,0:07:28.09,Sign,,0,0,0,,{=14}{\fscy112.18\fscx112.18\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.12\pos(1656.6,668.16)}还书处
+Dialogue: 0,0:07:28.09,0:07:28.13,Sign,,0,0,0,,{=14}{\fscy112.06\fscx112.06\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.12\pos(1655.85,667.95)}还书处
+Dialogue: 0,0:07:28.13,0:07:28.17,Sign,,0,0,0,,{=14}{\fscy111.94\fscx111.94\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.12\pos(1655.13,667.73)}还书处
+Dialogue: 0,0:07:28.17,0:07:28.21,Sign,,0,0,0,,{=14}{\fscy111.82\fscx111.82\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.12\pos(1654.4,667.52)}还书处
+Dialogue: 0,0:07:28.21,0:07:28.26,Sign,,0,0,0,,{=14}{\fscy111.7\fscx111.7\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.12\pos(1653.68,667.31)}还书处
+Dialogue: 0,0:07:28.26,0:07:28.30,Sign,,0,0,0,,{=14}{\fscy111.58\fscx111.58\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.12\pos(1652.94,667.08)}还书处
+Dialogue: 0,0:07:28.30,0:07:28.34,Sign,,0,0,0,,{=14}{\fscy111.46\fscx111.46\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.11\pos(1652.22,666.9)}还书处
+Dialogue: 0,0:07:28.34,0:07:28.38,Sign,,0,0,0,,{=14}{\fscy111.34\fscx111.34\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.11\pos(1651.48,666.69)}还书处
+Dialogue: 0,0:07:28.38,0:07:28.42,Sign,,0,0,0,,{=14}{\fscy111.21\fscx111.21\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.11\pos(1650.75,666.48)}还书处
+Dialogue: 0,0:07:28.42,0:07:28.46,Sign,,0,0,0,,{=14}{\fscy111.09\fscx111.09\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.11\pos(1650.01,666.26)}还书处
+Dialogue: 0,0:07:28.46,0:07:28.51,Sign,,0,0,0,,{=14}{\fscy110.97\fscx110.97\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.11\pos(1649.3,666.05)}还书处
+Dialogue: 0,0:07:28.51,0:07:28.55,Sign,,0,0,0,,{=14}{\fscy110.85\fscx110.85\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.11\pos(1648.56,665.86)}还书处
+Dialogue: 0,0:07:28.55,0:07:28.59,Sign,,0,0,0,,{=14}{\fscy110.73\fscx110.73\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.11\pos(1647.86,665.66)}还书处
+Dialogue: 0,0:07:28.59,0:07:28.63,Sign,,0,0,0,,{=14}{\fscy110.62\fscx110.62\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.11\pos(1647.14,665.47)}还书处
+Dialogue: 0,0:07:28.63,0:07:28.67,Sign,,0,0,0,,{=14}{\fscy110.5\fscx110.5\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.11\pos(1646.45,665.26)}还书处
+Dialogue: 0,0:07:28.67,0:07:28.71,Sign,,0,0,0,,{=14}{\fscy110.38\fscx110.38\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.1\pos(1645.72,665.04)}还书处
+Dialogue: 0,0:07:28.71,0:07:28.76,Sign,,0,0,0,,{=14}{\fscy110.26\fscx110.26\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.1\pos(1645,664.83)}还书处
+Dialogue: 0,0:07:28.76,0:07:28.80,Sign,,0,0,0,,{=14}{\fscy110.14\fscx110.14\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.1\pos(1644.27,664.63)}还书处
+Dialogue: 0,0:07:28.80,0:07:28.84,Sign,,0,0,0,,{=14}{\fscy110.03\fscx110.03\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.1\pos(1643.58,664.43)}还书处
+Dialogue: 0,0:07:28.84,0:07:28.88,Sign,,0,0,0,,{=14}{\fscy109.9\fscx109.9\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.1\pos(1642.81,664.2)}还书处
+Dialogue: 0,0:07:28.88,0:07:28.92,Sign,,0,0,0,,{=14}{\fscy109.77\fscx109.77\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.1\pos(1642.09,663.99)}还书处
+Dialogue: 0,0:07:28.92,0:07:28.96,Sign,,0,0,0,,{=14}{\fscy109.65\fscx109.65\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.1\pos(1641.32,663.79)}还书处
+Dialogue: 0,0:07:28.96,0:07:29.01,Sign,,0,0,0,,{=14}{\fscy109.52\fscx109.52\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.1\pos(1640.59,663.58)}还书处
+Dialogue: 0,0:07:29.01,0:07:29.05,Sign,,0,0,0,,{=14}{\fscy109.4\fscx109.4\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.09\pos(1639.84,663.38)}还书处
+Dialogue: 0,0:07:29.05,0:07:29.09,Sign,,0,0,0,,{=14}{\fscy109.27\fscx109.27\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.09\pos(1639.12,663.16)}还书处
+Dialogue: 0,0:07:29.09,0:07:29.13,Sign,,0,0,0,,{=14}{\fscy109.15\fscx109.15\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.09\pos(1638.36,662.94)}还书处
+Dialogue: 0,0:07:29.13,0:07:29.17,Sign,,0,0,0,,{=14}{\fscy109.02\fscx109.02\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.09\pos(1637.64,662.76)}还书处
+Dialogue: 0,0:07:29.17,0:07:29.22,Sign,,0,0,0,,{=14}{\fscy108.9\fscx108.9\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.09\pos(1636.9,662.57)}还书处
+Dialogue: 0,0:07:29.22,0:07:29.26,Sign,,0,0,0,,{=14}{\fscy108.78\fscx108.78\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.09\pos(1636.16,662.38)}还书处
+Dialogue: 0,0:07:29.26,0:07:29.30,Sign,,0,0,0,,{=14}{\fscy108.66\fscx108.66\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.09\pos(1635.44,662.18)}还书处
+Dialogue: 0,0:07:29.30,0:07:29.34,Sign,,0,0,0,,{=14}{\fscy108.54\fscx108.54\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.09\pos(1634.74,661.98)}还书处
+Dialogue: 0,0:07:29.34,0:07:29.38,Sign,,0,0,0,,{=14}{\fscy108.41\fscx108.41\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.08\pos(1633.97,661.78)}还书处
+Dialogue: 0,0:07:29.38,0:07:29.42,Sign,,0,0,0,,{=14}{\fscy108.29\fscx108.29\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.08\pos(1633.26,661.6)}还书处
+Dialogue: 0,0:07:29.42,0:07:29.47,Sign,,0,0,0,,{=14}{\fscy108.17\fscx108.17\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.08\pos(1632.55,661.41)}还书处
+Dialogue: 0,0:07:29.47,0:07:29.51,Sign,,0,0,0,,{=14}{\fscy108.05\fscx108.05\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.08\pos(1631.83,661.2)}还书处
+Dialogue: 0,0:07:29.51,0:07:29.55,Sign,,0,0,0,,{=14}{\fscy107.93\fscx107.93\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.08\pos(1631.13,661)}还书处
+Dialogue: 0,0:07:29.55,0:07:29.59,Sign,,0,0,0,,{=14}{\fscy107.81\fscx107.81\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.08\pos(1630.42,660.81)}还书处
+Dialogue: 0,0:07:29.59,0:07:29.63,Sign,,0,0,0,,{=14}{\fscy107.69\fscx107.69\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.08\pos(1629.68,660.61)}还书处
+Dialogue: 0,0:07:29.63,0:07:29.67,Sign,,0,0,0,,{=14}{\fscy107.57\fscx107.57\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.08\pos(1628.96,660.42)}还书处
+Dialogue: 0,0:07:29.67,0:07:29.72,Sign,,0,0,0,,{=14}{\fscy107.45\fscx107.45\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.07\pos(1628.25,660.22)}还书处
+Dialogue: 0,0:07:29.72,0:07:29.76,Sign,,0,0,0,,{=14}{\fscy107.34\fscx107.34\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.07\pos(1627.57,660.01)}还书处
+Dialogue: 0,0:07:29.76,0:07:29.80,Sign,,0,0,0,,{=14}{\fscy107.22\fscx107.22\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.07\pos(1626.84,659.82)}还书处
+Dialogue: 0,0:07:29.80,0:07:29.84,Sign,,0,0,0,,{=14}{\fscy107.1\fscx107.1\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.07\pos(1626.14,659.64)}还书处
+Dialogue: 0,0:07:29.84,0:07:29.88,Sign,,0,0,0,,{=14}{\fscy106.98\fscx106.98\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.07\pos(1625.43,659.45)}还书处
+Dialogue: 0,0:07:29.88,0:07:29.92,Sign,,0,0,0,,{=14}{\fscy106.86\fscx106.86\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.07\pos(1624.74,659.25)}还书处
+Dialogue: 0,0:07:29.92,0:07:29.97,Sign,,0,0,0,,{=14}{\fscy106.75\fscx106.75\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.07\pos(1624.05,659.05)}还书处
+Dialogue: 0,0:07:29.97,0:07:30.01,Sign,,0,0,0,,{=14}{\fscy106.63\fscx106.63\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.07\pos(1623.33,658.85)}还书处
+Dialogue: 0,0:07:30.01,0:07:30.05,Sign,,0,0,0,,{=14}{\fscy106.51\fscx106.51\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.07\pos(1622.65,658.67)}还书处
+Dialogue: 0,0:07:30.05,0:07:30.09,Sign,,0,0,0,,{=14}{\fscy106.39\fscx106.39\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.06\pos(1621.93,658.47)}还书处
+Dialogue: 0,0:07:30.09,0:07:30.13,Sign,,0,0,0,,{=14}{\fscy106.28\fscx106.28\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.06\pos(1621.26,658.29)}还书处
+Dialogue: 0,0:07:30.13,0:07:30.17,Sign,,0,0,0,,{=14}{\fscy106.16\fscx106.16\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.06\pos(1620.56,658.08)}还书处
+Dialogue: 0,0:07:30.17,0:07:30.22,Sign,,0,0,0,,{=14}{\fscy106.05\fscx106.05\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.06\pos(1619.89,657.9)}还书处
+Dialogue: 0,0:07:30.22,0:07:30.26,Sign,,0,0,0,,{=14}{\fscy105.93\fscx105.93\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.06\pos(1619.18,657.72)}还书处
+Dialogue: 0,0:07:30.26,0:07:30.30,Sign,,0,0,0,,{=14}{\fscy105.81\fscx105.81\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.06\pos(1618.49,657.54)}还书处
+Dialogue: 0,0:07:30.30,0:07:30.34,Sign,,0,0,0,,{=14}{\fscy105.7\fscx105.7\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.06\pos(1617.81,657.35)}还书处
+Dialogue: 0,0:07:30.34,0:07:30.38,Sign,,0,0,0,,{=14}{\fscy105.58\fscx105.58\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.06\pos(1617.12,657.14)}还书处
+Dialogue: 0,0:07:30.38,0:07:30.42,Sign,,0,0,0,,{=14}{\fscy105.47\fscx105.47\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.05\pos(1616.43,656.93)}还书处
+Dialogue: 0,0:07:30.42,0:07:30.47,Sign,,0,0,0,,{=14}{\fscy105.36\fscx105.36\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.05\pos(1615.76,656.75)}还书处
+Dialogue: 0,0:07:30.47,0:07:30.51,Sign,,0,0,0,,{=14}{\fscy105.24\fscx105.24\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.05\pos(1615.07,656.57)}还书处
+Dialogue: 0,0:07:30.51,0:07:30.55,Sign,,0,0,0,,{=14}{\fscy105.13\fscx105.13\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.05\pos(1614.39,656.39)}还书处
+Dialogue: 0,0:07:30.55,0:07:30.59,Sign,,0,0,0,,{=14}{\fscy105.01\fscx105.01\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.05\pos(1613.73,656.2)}还书处
+Dialogue: 0,0:07:30.59,0:07:30.63,Sign,,0,0,0,,{=14}{\fscy104.9\fscx104.9\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.05\pos(1613.04,656)}还书处
+Dialogue: 0,0:07:30.63,0:07:30.68,Sign,,0,0,0,,{=14}{\fscy104.78\fscx104.78\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.05\pos(1612.36,655.81)}还书处
+Dialogue: 0,0:07:30.68,0:07:30.72,Sign,,0,0,0,,{=14}{\fscy104.67\fscx104.67\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.05\pos(1611.69,655.63)}还书处
+Dialogue: 0,0:07:30.72,0:07:30.76,Sign,,0,0,0,,{=14}{\fscy104.56\fscx104.56\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.05\pos(1611.06,655.47)}还书处
+Dialogue: 0,0:07:30.76,0:07:30.80,Sign,,0,0,0,,{=14}{\fscy104.44\fscx104.44\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.04\pos(1610.36,655.29)}还书处
+Dialogue: 0,0:07:30.80,0:07:30.84,Sign,,0,0,0,,{=14}{\fscy104.33\fscx104.33\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.04\pos(1609.72,655.11)}还书处
+Dialogue: 0,0:07:30.84,0:07:30.88,Sign,,0,0,0,,{=14}{\fscy104.22\fscx104.22\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.04\pos(1609.02,654.91)}还书处
+Dialogue: 0,0:07:30.88,0:07:30.93,Sign,,0,0,0,,{=14}{\fscy104.1\fscx104.1\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.04\pos(1608.35,654.75)}还书处
+Dialogue: 0,0:07:30.93,0:07:30.97,Sign,,0,0,0,,{=14}{\fscy103.99\fscx103.99\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.04\pos(1607.65,654.56)}还书处
+Dialogue: 0,0:07:30.97,0:07:31.01,Sign,,0,0,0,,{=14}{\fscy103.88\fscx103.88\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.04\pos(1606.98,654.37)}还书处
+Dialogue: 0,0:07:31.01,0:07:31.05,Sign,,0,0,0,,{=14}{\fscy103.77\fscx103.77\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.04\pos(1606.35,654.17)}还书处
+Dialogue: 0,0:07:31.05,0:07:31.09,Sign,,0,0,0,,{=14}{\fscy103.66\fscx103.66\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.04\pos(1605.68,653.99)}还书处
+Dialogue: 0,0:07:31.09,0:07:31.13,Sign,,0,0,0,,{=14}{\fscy103.55\fscx103.55\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.04\pos(1605.04,653.81)}还书处
+Dialogue: 0,0:07:31.13,0:07:31.18,Sign,,0,0,0,,{=14}{\fscy103.44\fscx103.44\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.03\pos(1604.38,653.64)}还书处
+Dialogue: 0,0:07:31.18,0:07:31.22,Sign,,0,0,0,,{=14}{\fscy103.33\fscx103.33\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.03\pos(1603.71,653.46)}还书处
+Dialogue: 0,0:07:31.22,0:07:31.26,Sign,,0,0,0,,{=14}{\fscy103.22\fscx103.22\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.03\pos(1603.06,653.28)}还书处
+Dialogue: 0,0:07:31.26,0:07:31.30,Sign,,0,0,0,,{=14}{\fscy103.11\fscx103.11\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.03\pos(1602.4,653.08)}还书处
+Dialogue: 0,0:07:31.30,0:07:31.34,Sign,,0,0,0,,{=14}{\fscy102.99\fscx102.99\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.03\pos(1601.74,652.89)}还书处
+Dialogue: 0,0:07:31.34,0:07:31.38,Sign,,0,0,0,,{=14}{\fscy102.88\fscx102.88\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.03\pos(1601.06,652.71)}还书处
+Dialogue: 0,0:07:31.38,0:07:31.43,Sign,,0,0,0,,{=14}{\fscy102.77\fscx102.77\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.03\pos(1600.4,652.55)}还书处
+Dialogue: 0,0:07:31.43,0:07:31.47,Sign,,0,0,0,,{=14}{\fscy102.65\fscx102.65\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.03\pos(1599.73,652.36)}还书处
+Dialogue: 0,0:07:31.47,0:07:31.51,Sign,,0,0,0,,{=14}{\fscy102.55\fscx102.55\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.03\pos(1599.09,652.18)}还书处
+Dialogue: 0,0:07:31.51,0:07:31.55,Sign,,0,0,0,,{=14}{\fscy102.44\fscx102.44\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.02\pos(1598.46,652.01)}还书处
+Dialogue: 0,0:07:31.55,0:07:31.59,Sign,,0,0,0,,{=14}{\fscy102.33\fscx102.33\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.02\pos(1597.83,651.83)}还书处
+Dialogue: 0,0:07:31.59,0:07:31.63,Sign,,0,0,0,,{=14}{\fscy102.22\fscx102.22\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.02\pos(1597.18,651.66)}还书处
+Dialogue: 0,0:07:31.63,0:07:31.68,Sign,,0,0,0,,{=14}{\fscy102.11\fscx102.11\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.02\pos(1596.53,651.48)}还书处
+Dialogue: 0,0:07:31.68,0:07:31.72,Sign,,0,0,0,,{=14}{\fscy102\fscx102\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.02\pos(1595.89,651.3)}还书处
+Dialogue: 0,0:07:31.72,0:07:31.76,Sign,,0,0,0,,{=14}{\fscy101.9\fscx101.9\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.02\pos(1595.24,651.12)}还书处
+Dialogue: 0,0:07:31.76,0:07:31.80,Sign,,0,0,0,,{=14}{\fscy101.79\fscx101.79\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.02\pos(1594.61,650.94)}还书处
+Dialogue: 0,0:07:31.80,0:07:31.84,Sign,,0,0,0,,{=14}{\fscy101.68\fscx101.68\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.02\pos(1593.96,650.78)}还书处
+Dialogue: 0,0:07:31.84,0:07:31.88,Sign,,0,0,0,,{=14}{\fscy101.58\fscx101.58\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.02\pos(1593.34,650.61)}还书处
+Dialogue: 0,0:07:31.88,0:07:31.93,Sign,,0,0,0,,{=14}{\fscy101.47\fscx101.47\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.01\pos(1592.69,650.43)}还书处
+Dialogue: 0,0:07:31.93,0:07:31.97,Sign,,0,0,0,,{=14}{\fscy101.37\fscx101.37\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.01\pos(1592.09,650.26)}还书处
+Dialogue: 0,0:07:31.97,0:07:32.01,Sign,,0,0,0,,{=14}{\fscy101.26\fscx101.26\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.01\pos(1591.45,650.08)}还书处
+Dialogue: 0,0:07:32.01,0:07:32.05,Sign,,0,0,0,,{=14}{\fscy101.15\fscx101.15\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.01\pos(1590.82,649.89)}还书处
+Dialogue: 0,0:07:32.05,0:07:32.09,Sign,,0,0,0,,{=14}{\fscy101.05\fscx101.05\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.01\pos(1590.2,649.72)}还书处
+Dialogue: 0,0:07:32.09,0:07:32.13,Sign,,0,0,0,,{=14}{\fscy100.94\fscx100.94\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.01\pos(1589.55,649.54)}还书处
+Dialogue: 0,0:07:32.13,0:07:32.18,Sign,,0,0,0,,{=14}{\fscy100.84\fscx100.84\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.01\pos(1588.94,649.37)}还书处
+Dialogue: 0,0:07:32.18,0:07:32.22,Sign,,0,0,0,,{=14}{\fscy100.73\fscx100.73\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.01\pos(1588.29,649.19)}还书处
+Dialogue: 0,0:07:32.22,0:07:32.26,Sign,,0,0,0,,{=14}{\fscy100.63\fscx100.63\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.01\pos(1587.68,649.02)}还书处
+Dialogue: 0,0:07:32.26,0:07:32.30,Sign,,0,0,0,,{=14}{\fscy100.52\fscx100.52\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1.01\pos(1587.05,648.84)}还书处
+Dialogue: 0,0:07:32.30,0:07:32.34,Sign,,0,0,0,,{=14}{\fscy100.41\fscx100.41\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1\pos(1586.4,648.66)}还书处
+Dialogue: 0,0:07:32.34,0:07:32.39,Sign,,0,0,0,,{=14}{\fscy100.31\fscx100.31\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1\pos(1585.79,648.5)}还书处
+Dialogue: 0,0:07:32.39,0:07:32.43,Sign,,0,0,0,,{=14}{\fscy100.2\fscx100.2\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1\pos(1585.15,648.32)}还书处
+Dialogue: 0,0:07:32.43,0:07:32.47,Sign,,0,0,0,,{=14}{\fscy100.1\fscx100.1\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1\pos(1584.55,648.16)}还书处
+Dialogue: 0,0:07:32.47,0:07:32.51,Sign,,0,0,0,,{=14}{\fscy100\fscx100\alpha&H00&\an3\fs40\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1\pos(1584,648)}还书处
+Dialogue: 0,0:07:25.75,0:07:25.80,Sign,,0,0,0,,{=16}{\fscy106\fscx106\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.9,814.2)\blur0.64}还书日
+Dialogue: 0,0:07:25.80,0:07:25.84,Sign,,0,0,0,,{=16}{\fscy105.96\fscx105.96\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.88,813.95)\blur0.64}还书日
+Dialogue: 0,0:07:25.84,0:07:25.88,Sign,,0,0,0,,{=16}{\fscy105.92\fscx105.92\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.86,813.69)\blur0.64}还书日
+Dialogue: 0,0:07:25.88,0:07:25.92,Sign,,0,0,0,,{=16}{\fscy105.88\fscx105.88\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.83,813.44)\blur0.64}还书日
+Dialogue: 0,0:07:25.92,0:07:25.96,Sign,,0,0,0,,{=16}{\fscy105.84\fscx105.84\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.8,813.19)\blur0.64}还书日
+Dialogue: 0,0:07:25.96,0:07:26.00,Sign,,0,0,0,,{=16}{\fscy105.8\fscx105.8\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.78,812.95)\blur0.63}还书日
+Dialogue: 0,0:07:26.00,0:07:26.05,Sign,,0,0,0,,{=16}{\fscy105.76\fscx105.76\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.77,812.7)\blur0.63}还书日
+Dialogue: 0,0:07:26.05,0:07:26.09,Sign,,0,0,0,,{=16}{\fscy105.72\fscx105.72\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.73,812.44)\blur0.63}还书日
+Dialogue: 0,0:07:26.09,0:07:26.13,Sign,,0,0,0,,{=16}{\fscy105.68\fscx105.68\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.7,812.19)\blur0.63}还书日
+Dialogue: 0,0:07:26.13,0:07:26.17,Sign,,0,0,0,,{=16}{\fscy105.65\fscx105.65\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.67,811.94)\blur0.63}还书日
+Dialogue: 0,0:07:26.17,0:07:26.21,Sign,,0,0,0,,{=16}{\fscy105.6\fscx105.6\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.64,811.7)\blur0.63}还书日
+Dialogue: 0,0:07:26.21,0:07:26.25,Sign,,0,0,0,,{=16}{\fscy105.57\fscx105.57\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.62,811.44)\blur0.63}还书日
+Dialogue: 0,0:07:26.25,0:07:26.30,Sign,,0,0,0,,{=16}{\fscy105.53\fscx105.53\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.6,811.19)\blur0.63}还书日
+Dialogue: 0,0:07:26.30,0:07:26.34,Sign,,0,0,0,,{=16}{\fscy105.49\fscx105.49\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.57,810.94)\blur0.63}还书日
+Dialogue: 0,0:07:26.34,0:07:26.38,Sign,,0,0,0,,{=16}{\fscy105.45\fscx105.45\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.55,810.7)\blur0.63}还书日
+Dialogue: 0,0:07:26.38,0:07:26.42,Sign,,0,0,0,,{=16}{\fscy105.41\fscx105.41\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.52,810.45)\blur0.63}还书日
+Dialogue: 0,0:07:26.42,0:07:26.46,Sign,,0,0,0,,{=16}{\fscy105.37\fscx105.37\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.49,810.2)\blur0.63}还书日
+Dialogue: 0,0:07:26.46,0:07:26.50,Sign,,0,0,0,,{=16}{\fscy105.33\fscx105.33\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.46,809.95)\blur0.63}还书日
+Dialogue: 0,0:07:26.50,0:07:26.55,Sign,,0,0,0,,{=16}{\fscy105.29\fscx105.29\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.44,809.7)\blur0.63}还书日
+Dialogue: 0,0:07:26.55,0:07:26.59,Sign,,0,0,0,,{=16}{\fscy105.26\fscx105.26\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.4,809.45)\blur0.63}还书日
+Dialogue: 0,0:07:26.59,0:07:26.63,Sign,,0,0,0,,{=16}{\fscy105.21\fscx105.21\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.39,809.21)\blur0.63}还书日
+Dialogue: 0,0:07:26.63,0:07:26.67,Sign,,0,0,0,,{=16}{\fscy105.18\fscx105.18\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.36,808.96)\blur0.63}还书日
+Dialogue: 0,0:07:26.67,0:07:26.71,Sign,,0,0,0,,{=16}{\fscy105.14\fscx105.14\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.34,808.71)\blur0.63}还书日
+Dialogue: 0,0:07:26.71,0:07:26.75,Sign,,0,0,0,,{=16}{\fscy105.1\fscx105.1\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.32,808.46)\blur0.63}还书日
+Dialogue: 0,0:07:26.75,0:07:26.80,Sign,,0,0,0,,{=16}{\fscy105.06\fscx105.06\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.3,808.22)\blur0.63}还书日
+Dialogue: 0,0:07:26.80,0:07:26.84,Sign,,0,0,0,,{=16}{\fscy105.02\fscx105.02\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.28,807.98)\blur0.63}还书日
+Dialogue: 0,0:07:26.84,0:07:26.88,Sign,,0,0,0,,{=16}{\fscy104.98\fscx104.98\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.26,807.73)\blur0.63}还书日
+Dialogue: 0,0:07:26.88,0:07:26.92,Sign,,0,0,0,,{=16}{\fscy104.94\fscx104.94\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.22,807.48)\blur0.63}还书日
+Dialogue: 0,0:07:26.92,0:07:26.96,Sign,,0,0,0,,{=16}{\fscy104.9\fscx104.9\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.2,807.24)\blur0.63}还书日
+Dialogue: 0,0:07:26.96,0:07:27.00,Sign,,0,0,0,,{=16}{\fscy104.86\fscx104.86\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.17,806.99)\blur0.63}还书日
+Dialogue: 0,0:07:27.00,0:07:27.05,Sign,,0,0,0,,{=16}{\fscy104.82\fscx104.82\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.15,806.74)\blur0.63}还书日
+Dialogue: 0,0:07:27.05,0:07:27.09,Sign,,0,0,0,,{=16}{\fscy104.79\fscx104.79\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.13,806.49)\blur0.63}还书日
+Dialogue: 0,0:07:27.09,0:07:27.13,Sign,,0,0,0,,{=16}{\fscy104.75\fscx104.75\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.1,806.25)\blur0.63}还书日
+Dialogue: 0,0:07:27.13,0:07:27.17,Sign,,0,0,0,,{=16}{\fscy104.71\fscx104.71\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.07,806.01)\blur0.63}还书日
+Dialogue: 0,0:07:27.17,0:07:27.21,Sign,,0,0,0,,{=16}{\fscy104.67\fscx104.67\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.05,805.77)\blur0.63}还书日
+Dialogue: 0,0:07:27.21,0:07:27.25,Sign,,0,0,0,,{=16}{\fscy104.63\fscx104.63\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.01,805.51)\blur0.63}还书日
+Dialogue: 0,0:07:27.25,0:07:27.30,Sign,,0,0,0,,{=16}{\fscy104.59\fscx104.59\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.99,805.26)\blur0.63}还书日
+Dialogue: 0,0:07:27.30,0:07:27.34,Sign,,0,0,0,,{=16}{\fscy104.56\fscx104.56\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.97,805.02)\blur0.63}还书日
+Dialogue: 0,0:07:27.34,0:07:27.38,Sign,,0,0,0,,{=16}{\fscy104.52\fscx104.52\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.93,804.78)\blur0.63}还书日
+Dialogue: 0,0:07:27.38,0:07:27.42,Sign,,0,0,0,,{=16}{\fscy104.48\fscx104.48\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.9,804.53)\blur0.63}还书日
+Dialogue: 0,0:07:27.42,0:07:27.46,Sign,,0,0,0,,{=16}{\fscy104.44\fscx104.44\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.88,804.29)\blur0.63}还书日
+Dialogue: 0,0:07:27.46,0:07:27.51,Sign,,0,0,0,,{=16}{\fscy104.4\fscx104.4\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.87,804.04)\blur0.63}还书日
+Dialogue: 0,0:07:27.51,0:07:27.55,Sign,,0,0,0,,{=16}{\fscy104.36\fscx104.36\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.85,803.8)\blur0.63}还书日
+Dialogue: 0,0:07:27.55,0:07:27.59,Sign,,0,0,0,,{=16}{\fscy104.32\fscx104.32\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.82,803.55)\blur0.63}还书日
+Dialogue: 0,0:07:27.59,0:07:27.63,Sign,,0,0,0,,{=16}{\fscy104.29\fscx104.29\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.8,803.32)\blur0.63}还书日
+Dialogue: 0,0:07:27.63,0:07:27.67,Sign,,0,0,0,,{=16}{\fscy104.25\fscx104.25\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.78,803.07)\blur0.63}还书日
+Dialogue: 0,0:07:27.67,0:07:27.71,Sign,,0,0,0,,{=16}{\fscy104.21\fscx104.21\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.75,802.83)\blur0.63}还书日
+Dialogue: 0,0:07:27.71,0:07:27.76,Sign,,0,0,0,,{=16}{\fscy104.17\fscx104.17\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.71,802.58)\blur0.63}还书日
+Dialogue: 0,0:07:27.76,0:07:27.80,Sign,,0,0,0,,{=16}{\fscy104.13\fscx104.13\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.69,802.34)\blur0.62}还书日
+Dialogue: 0,0:07:27.80,0:07:27.84,Sign,,0,0,0,,{=16}{\fscy104.1\fscx104.1\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.67,802.1)\blur0.62}还书日
+Dialogue: 0,0:07:27.84,0:07:27.88,Sign,,0,0,0,,{=16}{\fscy104.06\fscx104.06\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.64,801.86)\blur0.62}还书日
+Dialogue: 0,0:07:27.88,0:07:27.92,Sign,,0,0,0,,{=16}{\fscy104.02\fscx104.02\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.61,801.6)\blur0.62}还书日
+Dialogue: 0,0:07:27.92,0:07:27.96,Sign,,0,0,0,,{=16}{\fscy103.98\fscx103.98\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.59,801.37)\blur0.62}还书日
+Dialogue: 0,0:07:27.96,0:07:28.01,Sign,,0,0,0,,{=16}{\fscy103.94\fscx103.94\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.57,801.13)\blur0.62}还书日
+Dialogue: 0,0:07:28.01,0:07:28.05,Sign,,0,0,0,,{=16}{\fscy103.9\fscx103.9\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.55,800.9)\blur0.62}还书日
+Dialogue: 0,0:07:28.05,0:07:28.09,Sign,,0,0,0,,{=16}{\fscy103.87\fscx103.87\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.52,800.65)\blur0.62}还书日
+Dialogue: 0,0:07:28.09,0:07:28.13,Sign,,0,0,0,,{=16}{\fscy103.83\fscx103.83\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.5,800.4)\blur0.62}还书日
+Dialogue: 0,0:07:28.13,0:07:28.17,Sign,,0,0,0,,{=16}{\fscy103.79\fscx103.79\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.48,800.17)\blur0.62}还书日
+Dialogue: 0,0:07:28.17,0:07:28.21,Sign,,0,0,0,,{=16}{\fscy103.75\fscx103.75\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.45,799.93)\blur0.62}还书日
+Dialogue: 0,0:07:28.21,0:07:28.26,Sign,,0,0,0,,{=16}{\fscy103.71\fscx103.71\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.43,799.7)\blur0.62}还书日
+Dialogue: 0,0:07:28.26,0:07:28.30,Sign,,0,0,0,,{=16}{\fscy103.68\fscx103.68\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.4,799.45)\blur0.62}还书日
+Dialogue: 0,0:07:28.30,0:07:28.34,Sign,,0,0,0,,{=16}{\fscy103.64\fscx103.64\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.37,799.2)\blur0.62}还书日
+Dialogue: 0,0:07:28.34,0:07:28.38,Sign,,0,0,0,,{=16}{\fscy103.6\fscx103.6\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.36,798.96)\blur0.62}还书日
+Dialogue: 0,0:07:28.38,0:07:28.42,Sign,,0,0,0,,{=16}{\fscy103.56\fscx103.56\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.33,798.73)\blur0.62}还书日
+Dialogue: 0,0:07:28.42,0:07:28.46,Sign,,0,0,0,,{=16}{\fscy103.53\fscx103.53\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.29,798.49)\blur0.62}还书日
+Dialogue: 0,0:07:28.46,0:07:28.51,Sign,,0,0,0,,{=16}{\fscy103.49\fscx103.49\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.27,798.24)\blur0.62}还书日
+Dialogue: 0,0:07:28.51,0:07:28.55,Sign,,0,0,0,,{=16}{\fscy103.45\fscx103.45\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.24,797.99)\blur0.62}还书日
+Dialogue: 0,0:07:28.55,0:07:28.59,Sign,,0,0,0,,{=16}{\fscy103.41\fscx103.41\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.22,797.75)\blur0.62}还书日
+Dialogue: 0,0:07:28.59,0:07:28.63,Sign,,0,0,0,,{=16}{\fscy103.38\fscx103.38\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.2,797.52)\blur0.62}还书日
+Dialogue: 0,0:07:28.63,0:07:28.67,Sign,,0,0,0,,{=16}{\fscy103.34\fscx103.34\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.17,797.29)\blur0.62}还书日
+Dialogue: 0,0:07:28.67,0:07:28.71,Sign,,0,0,0,,{=16}{\fscy103.3\fscx103.3\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.16,797.05)\blur0.62}还书日
+Dialogue: 0,0:07:28.71,0:07:28.76,Sign,,0,0,0,,{=16}{\fscy103.26\fscx103.26\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.14,796.8)\blur0.62}还书日
+Dialogue: 0,0:07:28.76,0:07:28.80,Sign,,0,0,0,,{=16}{\fscy103.22\fscx103.22\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.11,796.56)\blur0.62}还书日
+Dialogue: 0,0:07:28.80,0:07:28.84,Sign,,0,0,0,,{=16}{\fscy103.19\fscx103.19\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.09,796.32)\blur0.62}还书日
+Dialogue: 0,0:07:28.84,0:07:28.88,Sign,,0,0,0,,{=16}{\fscy103.15\fscx103.15\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.06,796.09)\blur0.62}还书日
+Dialogue: 0,0:07:28.88,0:07:28.92,Sign,,0,0,0,,{=16}{\fscy103.12\fscx103.12\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.02,795.85)\blur0.62}还书日
+Dialogue: 0,0:07:28.92,0:07:28.96,Sign,,0,0,0,,{=16}{\fscy103.08\fscx103.08\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.99,795.61)\blur0.62}还书日
+Dialogue: 0,0:07:28.96,0:07:29.01,Sign,,0,0,0,,{=16}{\fscy103.04\fscx103.04\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.97,795.37)\blur0.62}还书日
+Dialogue: 0,0:07:29.01,0:07:29.05,Sign,,0,0,0,,{=16}{\fscy103\fscx103\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.95,795.14)\blur0.62}还书日
+Dialogue: 0,0:07:29.05,0:07:29.09,Sign,,0,0,0,,{=16}{\fscy102.97\fscx102.97\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.91,794.9)\blur0.62}还书日
+Dialogue: 0,0:07:29.09,0:07:29.13,Sign,,0,0,0,,{=16}{\fscy102.93\fscx102.93\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.91,794.67)\blur0.62}还书日
+Dialogue: 0,0:07:29.13,0:07:29.17,Sign,,0,0,0,,{=16}{\fscy102.89\fscx102.89\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.88,794.43)\blur0.62}还书日
+Dialogue: 0,0:07:29.17,0:07:29.22,Sign,,0,0,0,,{=16}{\fscy102.85\fscx102.85\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.87,794.19)\blur0.62}还书日
+Dialogue: 0,0:07:29.22,0:07:29.26,Sign,,0,0,0,,{=16}{\fscy102.82\fscx102.82\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.83,793.95)\blur0.62}还书日
+Dialogue: 0,0:07:29.26,0:07:29.30,Sign,,0,0,0,,{=16}{\fscy102.78\fscx102.78\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.81,793.73)\blur0.62}还书日
+Dialogue: 0,0:07:29.30,0:07:29.34,Sign,,0,0,0,,{=16}{\fscy102.74\fscx102.74\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.78,793.48)\blur0.62}还书日
+Dialogue: 0,0:07:29.34,0:07:29.38,Sign,,0,0,0,,{=16}{\fscy102.7\fscx102.7\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.76,793.24)\blur0.62}还书日
+Dialogue: 0,0:07:29.38,0:07:29.42,Sign,,0,0,0,,{=16}{\fscy102.67\fscx102.67\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.73,793)\blur0.62}还书日
+Dialogue: 0,0:07:29.42,0:07:29.47,Sign,,0,0,0,,{=16}{\fscy102.63\fscx102.63\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.7,792.77)\blur0.62}还书日
+Dialogue: 0,0:07:29.47,0:07:29.51,Sign,,0,0,0,,{=16}{\fscy102.6\fscx102.6\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.68,792.54)\blur0.62}还书日
+Dialogue: 0,0:07:29.51,0:07:29.55,Sign,,0,0,0,,{=16}{\fscy102.56\fscx102.56\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.65,792.31)\blur0.62}还书日
+Dialogue: 0,0:07:29.55,0:07:29.59,Sign,,0,0,0,,{=16}{\fscy102.52\fscx102.52\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.63,792.07)\blur0.62}还书日
+Dialogue: 0,0:07:29.59,0:07:29.63,Sign,,0,0,0,,{=16}{\fscy102.48\fscx102.48\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.61,791.83)\blur0.61}还书日
+Dialogue: 0,0:07:29.63,0:07:29.67,Sign,,0,0,0,,{=16}{\fscy102.45\fscx102.45\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.6,791.59)\blur0.61}还书日
+Dialogue: 0,0:07:29.67,0:07:29.72,Sign,,0,0,0,,{=16}{\fscy102.41\fscx102.41\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.57,791.36)\blur0.61}还书日
+Dialogue: 0,0:07:29.72,0:07:29.76,Sign,,0,0,0,,{=16}{\fscy102.37\fscx102.37\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.55,791.13)\blur0.61}还书日
+Dialogue: 0,0:07:29.76,0:07:29.80,Sign,,0,0,0,,{=16}{\fscy102.33\fscx102.33\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.53,790.89)\blur0.61}还书日
+Dialogue: 0,0:07:29.80,0:07:29.84,Sign,,0,0,0,,{=16}{\fscy102.3\fscx102.3\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.49,790.65)\blur0.61}还书日
+Dialogue: 0,0:07:29.84,0:07:29.88,Sign,,0,0,0,,{=16}{\fscy102.26\fscx102.26\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.45,790.42)\blur0.61}还书日
+Dialogue: 0,0:07:29.88,0:07:29.92,Sign,,0,0,0,,{=16}{\fscy102.23\fscx102.23\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.43,790.18)\blur0.61}还书日
+Dialogue: 0,0:07:29.92,0:07:29.97,Sign,,0,0,0,,{=16}{\fscy102.19\fscx102.19\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.41,789.95)\blur0.61}还书日
+Dialogue: 0,0:07:29.97,0:07:30.01,Sign,,0,0,0,,{=16}{\fscy102.15\fscx102.15\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.39,789.72)\blur0.61}还书日
+Dialogue: 0,0:07:30.01,0:07:30.05,Sign,,0,0,0,,{=16}{\fscy102.12\fscx102.12\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.37,789.48)\blur0.61}还书日
+Dialogue: 0,0:07:30.05,0:07:30.09,Sign,,0,0,0,,{=16}{\fscy102.08\fscx102.08\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.34,789.25)\blur0.61}还书日
+Dialogue: 0,0:07:30.09,0:07:30.13,Sign,,0,0,0,,{=16}{\fscy102.04\fscx102.04\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.32,789.02)\blur0.61}还书日
+Dialogue: 0,0:07:30.13,0:07:30.17,Sign,,0,0,0,,{=16}{\fscy102.01\fscx102.01\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.29,788.78)\blur0.61}还书日
+Dialogue: 0,0:07:30.17,0:07:30.22,Sign,,0,0,0,,{=16}{\fscy101.97\fscx101.97\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.27,788.55)\blur0.61}还书日
+Dialogue: 0,0:07:30.22,0:07:30.26,Sign,,0,0,0,,{=16}{\fscy101.93\fscx101.93\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.26,788.32)\blur0.61}还书日
+Dialogue: 0,0:07:30.26,0:07:30.30,Sign,,0,0,0,,{=16}{\fscy101.9\fscx101.9\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.23,788.09)\blur0.61}还书日
+Dialogue: 0,0:07:30.30,0:07:30.34,Sign,,0,0,0,,{=16}{\fscy101.86\fscx101.86\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.2,787.86)\blur0.61}还书日
+Dialogue: 0,0:07:30.34,0:07:30.38,Sign,,0,0,0,,{=16}{\fscy101.82\fscx101.82\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.18,787.63)\blur0.61}还书日
+Dialogue: 0,0:07:30.38,0:07:30.42,Sign,,0,0,0,,{=16}{\fscy101.78\fscx101.78\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.16,787.39)\blur0.61}还书日
+Dialogue: 0,0:07:30.42,0:07:30.47,Sign,,0,0,0,,{=16}{\fscy101.75\fscx101.75\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.14,787.16)\blur0.61}还书日
+Dialogue: 0,0:07:30.47,0:07:30.51,Sign,,0,0,0,,{=16}{\fscy101.71\fscx101.71\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.11,786.92)\blur0.61}还书日
+Dialogue: 0,0:07:30.51,0:07:30.55,Sign,,0,0,0,,{=16}{\fscy101.68\fscx101.68\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.09,786.69)\blur0.61}还书日
+Dialogue: 0,0:07:30.55,0:07:30.59,Sign,,0,0,0,,{=16}{\fscy101.64\fscx101.64\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.06,786.47)\blur0.61}还书日
+Dialogue: 0,0:07:30.59,0:07:30.63,Sign,,0,0,0,,{=16}{\fscy101.6\fscx101.6\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.04,786.24)\blur0.61}还书日
+Dialogue: 0,0:07:30.63,0:07:30.68,Sign,,0,0,0,,{=16}{\fscy101.57\fscx101.57\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.02,786.01)\blur0.61}还书日
+Dialogue: 0,0:07:30.68,0:07:30.72,Sign,,0,0,0,,{=16}{\fscy101.53\fscx101.53\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319,785.77)\blur0.61}还书日
+Dialogue: 0,0:07:30.72,0:07:30.76,Sign,,0,0,0,,{=16}{\fscy101.5\fscx101.5\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.97,785.54)\blur0.61}还书日
+Dialogue: 0,0:07:30.76,0:07:30.80,Sign,,0,0,0,,{=16}{\fscy101.46\fscx101.46\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.95,785.31)\blur0.61}还书日
+Dialogue: 0,0:07:30.80,0:07:30.84,Sign,,0,0,0,,{=16}{\fscy101.42\fscx101.42\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.92,785.08)\blur0.61}还书日
+Dialogue: 0,0:07:30.84,0:07:30.88,Sign,,0,0,0,,{=16}{\fscy101.39\fscx101.39\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.9,784.85)\blur0.61}还书日
+Dialogue: 0,0:07:30.88,0:07:30.93,Sign,,0,0,0,,{=16}{\fscy101.35\fscx101.35\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.88,784.62)\blur0.61}还书日
+Dialogue: 0,0:07:30.93,0:07:30.97,Sign,,0,0,0,,{=16}{\fscy101.31\fscx101.31\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.85,784.39)\blur0.61}还书日
+Dialogue: 0,0:07:30.97,0:07:31.01,Sign,,0,0,0,,{=16}{\fscy101.28\fscx101.28\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.83,784.16)\blur0.61}还书日
+Dialogue: 0,0:07:31.01,0:07:31.05,Sign,,0,0,0,,{=16}{\fscy101.24\fscx101.24\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.81,783.92)\blur0.61}还书日
+Dialogue: 0,0:07:31.05,0:07:31.09,Sign,,0,0,0,,{=16}{\fscy101.21\fscx101.21\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.78,783.7)\blur0.61}还书日
+Dialogue: 0,0:07:31.09,0:07:31.13,Sign,,0,0,0,,{=16}{\fscy101.17\fscx101.17\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.75,783.47)\blur0.61}还书日
+Dialogue: 0,0:07:31.13,0:07:31.18,Sign,,0,0,0,,{=16}{\fscy101.14\fscx101.14\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.73,783.24)\blur0.61}还书日
+Dialogue: 0,0:07:31.18,0:07:31.22,Sign,,0,0,0,,{=16}{\fscy101.1\fscx101.1\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.7,783.01)\blur0.61}还书日
+Dialogue: 0,0:07:31.22,0:07:31.26,Sign,,0,0,0,,{=16}{\fscy101.06\fscx101.06\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.69,782.78)\blur0.61}还书日
+Dialogue: 0,0:07:31.26,0:07:31.30,Sign,,0,0,0,,{=16}{\fscy101.03\fscx101.03\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.66,782.55)\blur0.61}还书日
+Dialogue: 0,0:07:31.30,0:07:31.34,Sign,,0,0,0,,{=16}{\fscy100.99\fscx100.99\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.63,782.32)\blur0.61}还书日
+Dialogue: 0,0:07:31.34,0:07:31.38,Sign,,0,0,0,,{=16}{\fscy100.96\fscx100.96\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.61,782.09)\blur0.61}还书日
+Dialogue: 0,0:07:31.38,0:07:31.43,Sign,,0,0,0,,{=16}{\fscy100.92\fscx100.92\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.58,781.86)\blur0.61}还书日
+Dialogue: 0,0:07:31.43,0:07:31.47,Sign,,0,0,0,,{=16}{\fscy100.88\fscx100.88\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.57,781.64)\blur0.61}还书日
+Dialogue: 0,0:07:31.47,0:07:31.51,Sign,,0,0,0,,{=16}{\fscy100.85\fscx100.85\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.54,781.41)\blur0.61}还书日
+Dialogue: 0,0:07:31.51,0:07:31.55,Sign,,0,0,0,,{=16}{\fscy100.81\fscx100.81\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.52,781.18)\blur0.6}还书日
+Dialogue: 0,0:07:31.55,0:07:31.59,Sign,,0,0,0,,{=16}{\fscy100.78\fscx100.78\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.48,780.95)\blur0.6}还书日
+Dialogue: 0,0:07:31.59,0:07:31.63,Sign,,0,0,0,,{=16}{\fscy100.74\fscx100.74\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.46,780.72)\blur0.6}还书日
+Dialogue: 0,0:07:31.63,0:07:31.68,Sign,,0,0,0,,{=16}{\fscy100.71\fscx100.71\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.44,780.5)\blur0.6}还书日
+Dialogue: 0,0:07:31.68,0:07:31.72,Sign,,0,0,0,,{=16}{\fscy100.67\fscx100.67\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.43,780.28)\blur0.6}还书日
+Dialogue: 0,0:07:31.72,0:07:31.76,Sign,,0,0,0,,{=16}{\fscy100.63\fscx100.63\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.41,780.05)\blur0.6}还书日
+Dialogue: 0,0:07:31.76,0:07:31.80,Sign,,0,0,0,,{=16}{\fscy100.6\fscx100.6\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.38,779.82)\blur0.6}还书日
+Dialogue: 0,0:07:31.80,0:07:31.84,Sign,,0,0,0,,{=16}{\fscy100.56\fscx100.56\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.36,779.59)\blur0.6}还书日
+Dialogue: 0,0:07:31.84,0:07:31.88,Sign,,0,0,0,,{=16}{\fscy100.53\fscx100.53\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.34,779.36)\blur0.6}还书日
+Dialogue: 0,0:07:31.88,0:07:31.93,Sign,,0,0,0,,{=16}{\fscy100.49\fscx100.49\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.32,779.14)\blur0.6}还书日
+Dialogue: 0,0:07:31.93,0:07:31.97,Sign,,0,0,0,,{=16}{\fscy100.45\fscx100.45\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.3,778.92)\blur0.6}还书日
+Dialogue: 0,0:07:31.97,0:07:32.01,Sign,,0,0,0,,{=16}{\fscy100.42\fscx100.42\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.26,778.69)\blur0.6}还书日
+Dialogue: 0,0:07:32.01,0:07:32.05,Sign,,0,0,0,,{=16}{\fscy100.39\fscx100.39\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.24,778.46)\blur0.6}还书日
+Dialogue: 0,0:07:32.05,0:07:32.09,Sign,,0,0,0,,{=16}{\fscy100.35\fscx100.35\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.22,778.23)\blur0.6}还书日
+Dialogue: 0,0:07:32.09,0:07:32.13,Sign,,0,0,0,,{=16}{\fscy100.31\fscx100.31\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.21,778.01)\blur0.6}还书日
+Dialogue: 0,0:07:32.13,0:07:32.18,Sign,,0,0,0,,{=16}{\fscy100.28\fscx100.28\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.18,777.78)\blur0.6}还书日
+Dialogue: 0,0:07:32.18,0:07:32.22,Sign,,0,0,0,,{=16}{\fscy100.24\fscx100.24\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.16,777.56)\blur0.6}还书日
+Dialogue: 0,0:07:32.22,0:07:32.26,Sign,,0,0,0,,{=16}{\fscy100.21\fscx100.21\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.13,777.34)\blur0.6}还书日
+Dialogue: 0,0:07:32.26,0:07:32.30,Sign,,0,0,0,,{=16}{\fscy100.17\fscx100.17\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.11,777.11)\blur0.6}还书日
+Dialogue: 0,0:07:32.30,0:07:32.34,Sign,,0,0,0,,{=16}{\fscy100.14\fscx100.14\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.07,776.89)\blur0.6}还书日
+Dialogue: 0,0:07:32.34,0:07:32.39,Sign,,0,0,0,,{=16}{\fscy100.1\fscx100.1\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.05,776.66)\blur0.6}还书日
+Dialogue: 0,0:07:32.39,0:07:32.43,Sign,,0,0,0,,{=16}{\fscy100.07\fscx100.07\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.03,776.43)\blur0.6}还书日
+Dialogue: 0,0:07:32.43,0:07:32.47,Sign,,0,0,0,,{=16}{\fscy100.03\fscx100.03\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318,776.21)\blur0.6}还书日
+Dialogue: 0,0:07:32.47,0:07:32.51,Sign,,0,0,0,,{=16}{\fscy100\fscx100\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318,776)\blur0.6}还书日
+Dialogue: 0,0:07:25.75,0:07:25.80,Sign,,0,0,0,,{=15}{\fscy106\fscx106\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.9,1000.76)\blur0.64}今天是
+Dialogue: 0,0:07:25.80,0:07:25.84,Sign,,0,0,0,,{=15}{\fscy105.96\fscx105.96\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.88,1000.43)\blur0.64}今天是
+Dialogue: 0,0:07:25.84,0:07:25.88,Sign,,0,0,0,,{=15}{\fscy105.92\fscx105.92\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.86,1000.11)\blur0.64}今天是
+Dialogue: 0,0:07:25.88,0:07:25.92,Sign,,0,0,0,,{=15}{\fscy105.88\fscx105.88\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.83,999.78)\blur0.64}今天是
+Dialogue: 0,0:07:25.92,0:07:25.96,Sign,,0,0,0,,{=15}{\fscy105.84\fscx105.84\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.8,999.47)\blur0.64}今天是
+Dialogue: 0,0:07:25.96,0:07:26.00,Sign,,0,0,0,,{=15}{\fscy105.8\fscx105.8\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.78,999.16)\blur0.63}今天是
+Dialogue: 0,0:07:26.00,0:07:26.05,Sign,,0,0,0,,{=15}{\fscy105.76\fscx105.76\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.77,998.83)\blur0.63}今天是
+Dialogue: 0,0:07:26.05,0:07:26.09,Sign,,0,0,0,,{=15}{\fscy105.72\fscx105.72\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.73,998.51)\blur0.63}今天是
+Dialogue: 0,0:07:26.09,0:07:26.13,Sign,,0,0,0,,{=15}{\fscy105.68\fscx105.68\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.7,998.19)\blur0.63}今天是
+Dialogue: 0,0:07:26.13,0:07:26.17,Sign,,0,0,0,,{=15}{\fscy105.65\fscx105.65\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.67,997.88)\blur0.63}今天是
+Dialogue: 0,0:07:26.17,0:07:26.21,Sign,,0,0,0,,{=15}{\fscy105.6\fscx105.6\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.64,997.56)\blur0.63}今天是
+Dialogue: 0,0:07:26.21,0:07:26.25,Sign,,0,0,0,,{=15}{\fscy105.57\fscx105.57\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.62,997.24)\blur0.63}今天是
+Dialogue: 0,0:07:26.25,0:07:26.30,Sign,,0,0,0,,{=15}{\fscy105.53\fscx105.53\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.6,996.92)\blur0.63}今天是
+Dialogue: 0,0:07:26.30,0:07:26.34,Sign,,0,0,0,,{=15}{\fscy105.49\fscx105.49\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.57,996.6)\blur0.63}今天是
+Dialogue: 0,0:07:26.34,0:07:26.38,Sign,,0,0,0,,{=15}{\fscy105.45\fscx105.45\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.55,996.28)\blur0.63}今天是
+Dialogue: 0,0:07:26.38,0:07:26.42,Sign,,0,0,0,,{=15}{\fscy105.41\fscx105.41\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.52,995.97)\blur0.63}今天是
+Dialogue: 0,0:07:26.42,0:07:26.46,Sign,,0,0,0,,{=15}{\fscy105.37\fscx105.37\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.49,995.65)\blur0.63}今天是
+Dialogue: 0,0:07:26.46,0:07:26.50,Sign,,0,0,0,,{=15}{\fscy105.33\fscx105.33\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.46,995.34)\blur0.63}今天是
+Dialogue: 0,0:07:26.50,0:07:26.55,Sign,,0,0,0,,{=15}{\fscy105.29\fscx105.29\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.44,995.02)\blur0.63}今天是
+Dialogue: 0,0:07:26.55,0:07:26.59,Sign,,0,0,0,,{=15}{\fscy105.26\fscx105.26\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.4,994.7)\blur0.63}今天是
+Dialogue: 0,0:07:26.59,0:07:26.63,Sign,,0,0,0,,{=15}{\fscy105.21\fscx105.21\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.39,994.38)\blur0.63}今天是
+Dialogue: 0,0:07:26.63,0:07:26.67,Sign,,0,0,0,,{=15}{\fscy105.18\fscx105.18\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.36,994.07)\blur0.63}今天是
+Dialogue: 0,0:07:26.67,0:07:26.71,Sign,,0,0,0,,{=15}{\fscy105.14\fscx105.14\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.34,993.75)\blur0.63}今天是
+Dialogue: 0,0:07:26.71,0:07:26.75,Sign,,0,0,0,,{=15}{\fscy105.1\fscx105.1\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.32,993.43)\blur0.63}今天是
+Dialogue: 0,0:07:26.75,0:07:26.80,Sign,,0,0,0,,{=15}{\fscy105.06\fscx105.06\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.3,993.12)\blur0.63}今天是
+Dialogue: 0,0:07:26.80,0:07:26.84,Sign,,0,0,0,,{=15}{\fscy105.02\fscx105.02\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.28,992.81)\blur0.63}今天是
+Dialogue: 0,0:07:26.84,0:07:26.88,Sign,,0,0,0,,{=15}{\fscy104.98\fscx104.98\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.26,992.48)\blur0.63}今天是
+Dialogue: 0,0:07:26.88,0:07:26.92,Sign,,0,0,0,,{=15}{\fscy104.94\fscx104.94\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.22,992.18)\blur0.63}今天是
+Dialogue: 0,0:07:26.92,0:07:26.96,Sign,,0,0,0,,{=15}{\fscy104.9\fscx104.9\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.2,991.87)\blur0.63}今天是
+Dialogue: 0,0:07:26.96,0:07:27.00,Sign,,0,0,0,,{=15}{\fscy104.86\fscx104.86\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.17,991.55)\blur0.63}今天是
+Dialogue: 0,0:07:27.00,0:07:27.05,Sign,,0,0,0,,{=15}{\fscy104.82\fscx104.82\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.15,991.23)\blur0.63}今天是
+Dialogue: 0,0:07:27.05,0:07:27.09,Sign,,0,0,0,,{=15}{\fscy104.79\fscx104.79\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.13,990.91)\blur0.63}今天是
+Dialogue: 0,0:07:27.09,0:07:27.13,Sign,,0,0,0,,{=15}{\fscy104.75\fscx104.75\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.1,990.6)\blur0.63}今天是
+Dialogue: 0,0:07:27.13,0:07:27.17,Sign,,0,0,0,,{=15}{\fscy104.71\fscx104.71\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.07,990.3)\blur0.63}今天是
+Dialogue: 0,0:07:27.17,0:07:27.21,Sign,,0,0,0,,{=15}{\fscy104.67\fscx104.67\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.05,989.99)\blur0.63}今天是
+Dialogue: 0,0:07:27.21,0:07:27.25,Sign,,0,0,0,,{=15}{\fscy104.63\fscx104.63\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(321.01,989.67)\blur0.63}今天是
+Dialogue: 0,0:07:27.25,0:07:27.30,Sign,,0,0,0,,{=15}{\fscy104.59\fscx104.59\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.99,989.35)\blur0.63}今天是
+Dialogue: 0,0:07:27.30,0:07:27.34,Sign,,0,0,0,,{=15}{\fscy104.56\fscx104.56\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.97,989.04)\blur0.63}今天是
+Dialogue: 0,0:07:27.34,0:07:27.38,Sign,,0,0,0,,{=15}{\fscy104.52\fscx104.52\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.93,988.73)\blur0.63}今天是
+Dialogue: 0,0:07:27.38,0:07:27.42,Sign,,0,0,0,,{=15}{\fscy104.48\fscx104.48\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.9,988.42)\blur0.63}今天是
+Dialogue: 0,0:07:27.42,0:07:27.46,Sign,,0,0,0,,{=15}{\fscy104.44\fscx104.44\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.88,988.11)\blur0.63}今天是
+Dialogue: 0,0:07:27.46,0:07:27.51,Sign,,0,0,0,,{=15}{\fscy104.4\fscx104.4\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.87,987.79)\blur0.63}今天是
+Dialogue: 0,0:07:27.51,0:07:27.55,Sign,,0,0,0,,{=15}{\fscy104.36\fscx104.36\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.85,987.47)\blur0.63}今天是
+Dialogue: 0,0:07:27.55,0:07:27.59,Sign,,0,0,0,,{=15}{\fscy104.32\fscx104.32\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.82,987.16)\blur0.63}今天是
+Dialogue: 0,0:07:27.59,0:07:27.63,Sign,,0,0,0,,{=15}{\fscy104.29\fscx104.29\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.8,986.86)\blur0.63}今天是
+Dialogue: 0,0:07:27.63,0:07:27.67,Sign,,0,0,0,,{=15}{\fscy104.25\fscx104.25\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.78,986.55)\blur0.63}今天是
+Dialogue: 0,0:07:27.67,0:07:27.71,Sign,,0,0,0,,{=15}{\fscy104.21\fscx104.21\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.75,986.23)\blur0.63}今天是
+Dialogue: 0,0:07:27.71,0:07:27.76,Sign,,0,0,0,,{=15}{\fscy104.17\fscx104.17\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.71,985.92)\blur0.63}今天是
+Dialogue: 0,0:07:27.76,0:07:27.80,Sign,,0,0,0,,{=15}{\fscy104.13\fscx104.13\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.69,985.62)\blur0.62}今天是
+Dialogue: 0,0:07:27.80,0:07:27.84,Sign,,0,0,0,,{=15}{\fscy104.1\fscx104.1\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.67,985.31)\blur0.62}今天是
+Dialogue: 0,0:07:27.84,0:07:27.88,Sign,,0,0,0,,{=15}{\fscy104.06\fscx104.06\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.64,985)\blur0.62}今天是
+Dialogue: 0,0:07:27.88,0:07:27.92,Sign,,0,0,0,,{=15}{\fscy104.02\fscx104.02\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.61,984.68)\blur0.62}今天是
+Dialogue: 0,0:07:27.92,0:07:27.96,Sign,,0,0,0,,{=15}{\fscy103.98\fscx103.98\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.59,984.38)\blur0.62}今天是
+Dialogue: 0,0:07:27.96,0:07:28.01,Sign,,0,0,0,,{=15}{\fscy103.94\fscx103.94\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.57,984.07)\blur0.62}今天是
+Dialogue: 0,0:07:28.01,0:07:28.05,Sign,,0,0,0,,{=15}{\fscy103.9\fscx103.9\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.55,983.77)\blur0.62}今天是
+Dialogue: 0,0:07:28.05,0:07:28.09,Sign,,0,0,0,,{=15}{\fscy103.87\fscx103.87\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.52,983.45)\blur0.62}今天是
+Dialogue: 0,0:07:28.09,0:07:28.13,Sign,,0,0,0,,{=15}{\fscy103.83\fscx103.83\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.5,983.14)\blur0.62}今天是
+Dialogue: 0,0:07:28.13,0:07:28.17,Sign,,0,0,0,,{=15}{\fscy103.79\fscx103.79\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.48,982.84)\blur0.62}今天是
+Dialogue: 0,0:07:28.17,0:07:28.21,Sign,,0,0,0,,{=15}{\fscy103.75\fscx103.75\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.45,982.53)\blur0.62}今天是
+Dialogue: 0,0:07:28.21,0:07:28.26,Sign,,0,0,0,,{=15}{\fscy103.71\fscx103.71\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.43,982.23)\blur0.62}今天是
+Dialogue: 0,0:07:28.26,0:07:28.30,Sign,,0,0,0,,{=15}{\fscy103.68\fscx103.68\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.4,981.92)\blur0.62}今天是
+Dialogue: 0,0:07:28.30,0:07:28.34,Sign,,0,0,0,,{=15}{\fscy103.64\fscx103.64\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.37,981.61)\blur0.62}今天是
+Dialogue: 0,0:07:28.34,0:07:28.38,Sign,,0,0,0,,{=15}{\fscy103.6\fscx103.6\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.36,981.3)\blur0.62}今天是
+Dialogue: 0,0:07:28.38,0:07:28.42,Sign,,0,0,0,,{=15}{\fscy103.56\fscx103.56\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.33,981)\blur0.62}今天是
+Dialogue: 0,0:07:28.42,0:07:28.46,Sign,,0,0,0,,{=15}{\fscy103.53\fscx103.53\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.29,980.7)\blur0.62}今天是
+Dialogue: 0,0:07:28.46,0:07:28.51,Sign,,0,0,0,,{=15}{\fscy103.49\fscx103.49\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.27,980.39)\blur0.62}今天是
+Dialogue: 0,0:07:28.51,0:07:28.55,Sign,,0,0,0,,{=15}{\fscy103.45\fscx103.45\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.24,980.07)\blur0.62}今天是
+Dialogue: 0,0:07:28.55,0:07:28.59,Sign,,0,0,0,,{=15}{\fscy103.41\fscx103.41\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.22,979.76)\blur0.62}今天是
+Dialogue: 0,0:07:28.59,0:07:28.63,Sign,,0,0,0,,{=15}{\fscy103.38\fscx103.38\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.2,979.46)\blur0.62}今天是
+Dialogue: 0,0:07:28.63,0:07:28.67,Sign,,0,0,0,,{=15}{\fscy103.34\fscx103.34\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.17,979.16)\blur0.62}今天是
+Dialogue: 0,0:07:28.67,0:07:28.71,Sign,,0,0,0,,{=15}{\fscy103.3\fscx103.3\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.16,978.86)\blur0.62}今天是
+Dialogue: 0,0:07:28.71,0:07:28.76,Sign,,0,0,0,,{=15}{\fscy103.26\fscx103.26\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.14,978.54)\blur0.62}今天是
+Dialogue: 0,0:07:28.76,0:07:28.80,Sign,,0,0,0,,{=15}{\fscy103.22\fscx103.22\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.11,978.24)\blur0.62}今天是
+Dialogue: 0,0:07:28.80,0:07:28.84,Sign,,0,0,0,,{=15}{\fscy103.19\fscx103.19\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.09,977.93)\blur0.62}今天是
+Dialogue: 0,0:07:28.84,0:07:28.88,Sign,,0,0,0,,{=15}{\fscy103.15\fscx103.15\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.06,977.64)\blur0.62}今天是
+Dialogue: 0,0:07:28.88,0:07:28.92,Sign,,0,0,0,,{=15}{\fscy103.12\fscx103.12\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(320.02,977.33)\blur0.62}今天是
+Dialogue: 0,0:07:28.92,0:07:28.96,Sign,,0,0,0,,{=15}{\fscy103.08\fscx103.08\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.99,977.03)\blur0.62}今天是
+Dialogue: 0,0:07:28.96,0:07:29.01,Sign,,0,0,0,,{=15}{\fscy103.04\fscx103.04\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.97,976.73)\blur0.62}今天是
+Dialogue: 0,0:07:29.01,0:07:29.05,Sign,,0,0,0,,{=15}{\fscy103\fscx103\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.95,976.43)\blur0.62}今天是
+Dialogue: 0,0:07:29.05,0:07:29.09,Sign,,0,0,0,,{=15}{\fscy102.97\fscx102.97\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.91,976.13)\blur0.62}今天是
+Dialogue: 0,0:07:29.09,0:07:29.13,Sign,,0,0,0,,{=15}{\fscy102.93\fscx102.93\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.91,975.82)\blur0.62}今天是
+Dialogue: 0,0:07:29.13,0:07:29.17,Sign,,0,0,0,,{=15}{\fscy102.89\fscx102.89\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.88,975.51)\blur0.62}今天是
+Dialogue: 0,0:07:29.17,0:07:29.22,Sign,,0,0,0,,{=15}{\fscy102.85\fscx102.85\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.87,975.21)\blur0.62}今天是
+Dialogue: 0,0:07:29.22,0:07:29.26,Sign,,0,0,0,,{=15}{\fscy102.82\fscx102.82\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.83,974.91)\blur0.62}今天是
+Dialogue: 0,0:07:29.26,0:07:29.30,Sign,,0,0,0,,{=15}{\fscy102.78\fscx102.78\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.81,974.62)\blur0.62}今天是
+Dialogue: 0,0:07:29.30,0:07:29.34,Sign,,0,0,0,,{=15}{\fscy102.74\fscx102.74\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.78,974.31)\blur0.62}今天是
+Dialogue: 0,0:07:29.34,0:07:29.38,Sign,,0,0,0,,{=15}{\fscy102.7\fscx102.7\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.76,974)\blur0.62}今天是
+Dialogue: 0,0:07:29.38,0:07:29.42,Sign,,0,0,0,,{=15}{\fscy102.67\fscx102.67\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.73,973.69)\blur0.62}今天是
+Dialogue: 0,0:07:29.42,0:07:29.47,Sign,,0,0,0,,{=15}{\fscy102.63\fscx102.63\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.7,973.4)\blur0.62}今天是
+Dialogue: 0,0:07:29.47,0:07:29.51,Sign,,0,0,0,,{=15}{\fscy102.6\fscx102.6\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.68,973.11)\blur0.62}今天是
+Dialogue: 0,0:07:29.51,0:07:29.55,Sign,,0,0,0,,{=15}{\fscy102.56\fscx102.56\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.65,972.81)\blur0.62}今天是
+Dialogue: 0,0:07:29.55,0:07:29.59,Sign,,0,0,0,,{=15}{\fscy102.52\fscx102.52\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.63,972.5)\blur0.62}今天是
+Dialogue: 0,0:07:29.59,0:07:29.63,Sign,,0,0,0,,{=15}{\fscy102.48\fscx102.48\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.61,972.2)\blur0.61}今天是
+Dialogue: 0,0:07:29.63,0:07:29.67,Sign,,0,0,0,,{=15}{\fscy102.45\fscx102.45\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.6,971.9)\blur0.61}今天是
+Dialogue: 0,0:07:29.67,0:07:29.72,Sign,,0,0,0,,{=15}{\fscy102.41\fscx102.41\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.57,971.6)\blur0.61}今天是
+Dialogue: 0,0:07:29.72,0:07:29.76,Sign,,0,0,0,,{=15}{\fscy102.37\fscx102.37\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.55,971.3)\blur0.61}今天是
+Dialogue: 0,0:07:29.76,0:07:29.80,Sign,,0,0,0,,{=15}{\fscy102.33\fscx102.33\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.53,971)\blur0.61}今天是
+Dialogue: 0,0:07:29.80,0:07:29.84,Sign,,0,0,0,,{=15}{\fscy102.3\fscx102.3\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.49,970.7)\blur0.61}今天是
+Dialogue: 0,0:07:29.84,0:07:29.88,Sign,,0,0,0,,{=15}{\fscy102.26\fscx102.26\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.45,970.4)\blur0.61}今天是
+Dialogue: 0,0:07:29.88,0:07:29.92,Sign,,0,0,0,,{=15}{\fscy102.23\fscx102.23\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.43,970.1)\blur0.61}今天是
+Dialogue: 0,0:07:29.92,0:07:29.97,Sign,,0,0,0,,{=15}{\fscy102.19\fscx102.19\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.41,969.81)\blur0.61}今天是
+Dialogue: 0,0:07:29.97,0:07:30.01,Sign,,0,0,0,,{=15}{\fscy102.15\fscx102.15\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.39,969.51)\blur0.61}今天是
+Dialogue: 0,0:07:30.01,0:07:30.05,Sign,,0,0,0,,{=15}{\fscy102.12\fscx102.12\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.37,969.2)\blur0.61}今天是
+Dialogue: 0,0:07:30.05,0:07:30.09,Sign,,0,0,0,,{=15}{\fscy102.08\fscx102.08\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.34,968.91)\blur0.61}今天是
+Dialogue: 0,0:07:30.09,0:07:30.13,Sign,,0,0,0,,{=15}{\fscy102.04\fscx102.04\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.32,968.62)\blur0.61}今天是
+Dialogue: 0,0:07:30.13,0:07:30.17,Sign,,0,0,0,,{=15}{\fscy102.01\fscx102.01\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.29,968.32)\blur0.61}今天是
+Dialogue: 0,0:07:30.17,0:07:30.22,Sign,,0,0,0,,{=15}{\fscy101.97\fscx101.97\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.27,968.01)\blur0.61}今天是
+Dialogue: 0,0:07:30.22,0:07:30.26,Sign,,0,0,0,,{=15}{\fscy101.93\fscx101.93\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.26,967.72)\blur0.61}今天是
+Dialogue: 0,0:07:30.26,0:07:30.30,Sign,,0,0,0,,{=15}{\fscy101.9\fscx101.9\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.23,967.43)\blur0.61}今天是
+Dialogue: 0,0:07:30.30,0:07:30.34,Sign,,0,0,0,,{=15}{\fscy101.86\fscx101.86\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.2,967.13)\blur0.61}今天是
+Dialogue: 0,0:07:30.34,0:07:30.38,Sign,,0,0,0,,{=15}{\fscy101.82\fscx101.82\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.18,966.83)\blur0.61}今天是
+Dialogue: 0,0:07:30.38,0:07:30.42,Sign,,0,0,0,,{=15}{\fscy101.78\fscx101.78\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.16,966.53)\blur0.61}今天是
+Dialogue: 0,0:07:30.42,0:07:30.47,Sign,,0,0,0,,{=15}{\fscy101.75\fscx101.75\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.14,966.24)\blur0.61}今天是
+Dialogue: 0,0:07:30.47,0:07:30.51,Sign,,0,0,0,,{=15}{\fscy101.71\fscx101.71\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.11,965.94)\blur0.61}今天是
+Dialogue: 0,0:07:30.51,0:07:30.55,Sign,,0,0,0,,{=15}{\fscy101.68\fscx101.68\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.09,965.65)\blur0.61}今天是
+Dialogue: 0,0:07:30.55,0:07:30.59,Sign,,0,0,0,,{=15}{\fscy101.64\fscx101.64\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.06,965.36)\blur0.61}今天是
+Dialogue: 0,0:07:30.59,0:07:30.63,Sign,,0,0,0,,{=15}{\fscy101.6\fscx101.6\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.04,965.06)\blur0.61}今天是
+Dialogue: 0,0:07:30.63,0:07:30.68,Sign,,0,0,0,,{=15}{\fscy101.57\fscx101.57\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319.02,964.76)\blur0.61}今天是
+Dialogue: 0,0:07:30.68,0:07:30.72,Sign,,0,0,0,,{=15}{\fscy101.53\fscx101.53\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(319,964.46)\blur0.61}今天是
+Dialogue: 0,0:07:30.72,0:07:30.76,Sign,,0,0,0,,{=15}{\fscy101.5\fscx101.5\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.97,964.17)\blur0.61}今天是
+Dialogue: 0,0:07:30.76,0:07:30.80,Sign,,0,0,0,,{=15}{\fscy101.46\fscx101.46\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.95,963.88)\blur0.61}今天是
+Dialogue: 0,0:07:30.80,0:07:30.84,Sign,,0,0,0,,{=15}{\fscy101.42\fscx101.42\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.92,963.58)\blur0.61}今天是
+Dialogue: 0,0:07:30.84,0:07:30.88,Sign,,0,0,0,,{=15}{\fscy101.39\fscx101.39\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.9,963.3)\blur0.61}今天是
+Dialogue: 0,0:07:30.88,0:07:30.93,Sign,,0,0,0,,{=15}{\fscy101.35\fscx101.35\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.88,963)\blur0.61}今天是
+Dialogue: 0,0:07:30.93,0:07:30.97,Sign,,0,0,0,,{=15}{\fscy101.31\fscx101.31\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.85,962.7)\blur0.61}今天是
+Dialogue: 0,0:07:30.97,0:07:31.01,Sign,,0,0,0,,{=15}{\fscy101.28\fscx101.28\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.83,962.41)\blur0.61}今天是
+Dialogue: 0,0:07:31.01,0:07:31.05,Sign,,0,0,0,,{=15}{\fscy101.24\fscx101.24\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.81,962.11)\blur0.61}今天是
+Dialogue: 0,0:07:31.05,0:07:31.09,Sign,,0,0,0,,{=15}{\fscy101.21\fscx101.21\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.78,961.82)\blur0.61}今天是
+Dialogue: 0,0:07:31.09,0:07:31.13,Sign,,0,0,0,,{=15}{\fscy101.17\fscx101.17\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.75,961.53)\blur0.61}今天是
+Dialogue: 0,0:07:31.13,0:07:31.18,Sign,,0,0,0,,{=15}{\fscy101.14\fscx101.14\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.73,961.24)\blur0.61}今天是
+Dialogue: 0,0:07:31.18,0:07:31.22,Sign,,0,0,0,,{=15}{\fscy101.1\fscx101.1\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.7,960.94)\blur0.61}今天是
+Dialogue: 0,0:07:31.22,0:07:31.26,Sign,,0,0,0,,{=15}{\fscy101.06\fscx101.06\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.69,960.65)\blur0.61}今天是
+Dialogue: 0,0:07:31.26,0:07:31.30,Sign,,0,0,0,,{=15}{\fscy101.03\fscx101.03\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.66,960.36)\blur0.61}今天是
+Dialogue: 0,0:07:31.30,0:07:31.34,Sign,,0,0,0,,{=15}{\fscy100.99\fscx100.99\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.63,960.07)\blur0.61}今天是
+Dialogue: 0,0:07:31.34,0:07:31.38,Sign,,0,0,0,,{=15}{\fscy100.96\fscx100.96\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.61,959.78)\blur0.61}今天是
+Dialogue: 0,0:07:31.38,0:07:31.43,Sign,,0,0,0,,{=15}{\fscy100.92\fscx100.92\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.58,959.48)\blur0.61}今天是
+Dialogue: 0,0:07:31.43,0:07:31.47,Sign,,0,0,0,,{=15}{\fscy100.88\fscx100.88\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.57,959.2)\blur0.61}今天是
+Dialogue: 0,0:07:31.47,0:07:31.51,Sign,,0,0,0,,{=15}{\fscy100.85\fscx100.85\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.54,958.9)\blur0.61}今天是
+Dialogue: 0,0:07:31.51,0:07:31.55,Sign,,0,0,0,,{=15}{\fscy100.81\fscx100.81\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.52,958.61)\blur0.6}今天是
+Dialogue: 0,0:07:31.55,0:07:31.59,Sign,,0,0,0,,{=15}{\fscy100.78\fscx100.78\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.48,958.32)\blur0.6}今天是
+Dialogue: 0,0:07:31.59,0:07:31.63,Sign,,0,0,0,,{=15}{\fscy100.74\fscx100.74\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.46,958.03)\blur0.6}今天是
+Dialogue: 0,0:07:31.63,0:07:31.68,Sign,,0,0,0,,{=15}{\fscy100.71\fscx100.71\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.44,957.74)\blur0.6}今天是
+Dialogue: 0,0:07:31.68,0:07:31.72,Sign,,0,0,0,,{=15}{\fscy100.67\fscx100.67\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.43,957.45)\blur0.6}今天是
+Dialogue: 0,0:07:31.72,0:07:31.76,Sign,,0,0,0,,{=15}{\fscy100.63\fscx100.63\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.41,957.16)\blur0.6}今天是
+Dialogue: 0,0:07:31.76,0:07:31.80,Sign,,0,0,0,,{=15}{\fscy100.6\fscx100.6\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.38,956.87)\blur0.6}今天是
+Dialogue: 0,0:07:31.80,0:07:31.84,Sign,,0,0,0,,{=15}{\fscy100.56\fscx100.56\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.36,956.58)\blur0.6}今天是
+Dialogue: 0,0:07:31.84,0:07:31.88,Sign,,0,0,0,,{=15}{\fscy100.53\fscx100.53\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.34,956.28)\blur0.6}今天是
+Dialogue: 0,0:07:31.88,0:07:31.93,Sign,,0,0,0,,{=15}{\fscy100.49\fscx100.49\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.32,956)\blur0.6}今天是
+Dialogue: 0,0:07:31.93,0:07:31.97,Sign,,0,0,0,,{=15}{\fscy100.45\fscx100.45\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.3,955.72)\blur0.6}今天是
+Dialogue: 0,0:07:31.97,0:07:32.01,Sign,,0,0,0,,{=15}{\fscy100.42\fscx100.42\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.26,955.44)\blur0.6}今天是
+Dialogue: 0,0:07:32.01,0:07:32.05,Sign,,0,0,0,,{=15}{\fscy100.39\fscx100.39\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.24,955.14)\blur0.6}今天是
+Dialogue: 0,0:07:32.05,0:07:32.09,Sign,,0,0,0,,{=15}{\fscy100.35\fscx100.35\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.22,954.85)\blur0.6}今天是
+Dialogue: 0,0:07:32.09,0:07:32.13,Sign,,0,0,0,,{=15}{\fscy100.31\fscx100.31\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.21,954.56)\blur0.6}今天是
+Dialogue: 0,0:07:32.13,0:07:32.18,Sign,,0,0,0,,{=15}{\fscy100.28\fscx100.28\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.18,954.28)\blur0.6}今天是
+Dialogue: 0,0:07:32.18,0:07:32.22,Sign,,0,0,0,,{=15}{\fscy100.24\fscx100.24\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.16,953.99)\blur0.6}今天是
+Dialogue: 0,0:07:32.22,0:07:32.26,Sign,,0,0,0,,{=15}{\fscy100.21\fscx100.21\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.13,953.71)\blur0.6}今天是
+Dialogue: 0,0:07:32.26,0:07:32.30,Sign,,0,0,0,,{=15}{\fscy100.17\fscx100.17\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.11,953.41)\blur0.6}今天是
+Dialogue: 0,0:07:32.30,0:07:32.34,Sign,,0,0,0,,{=15}{\fscy100.14\fscx100.14\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.07,953.13)\blur0.6}今天是
+Dialogue: 0,0:07:32.34,0:07:32.39,Sign,,0,0,0,,{=15}{\fscy100.1\fscx100.1\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.05,952.84)\blur0.6}今天是
+Dialogue: 0,0:07:32.39,0:07:32.43,Sign,,0,0,0,,{=15}{\fscy100.07\fscx100.07\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318.03,952.55)\blur0.6}今天是
+Dialogue: 0,0:07:32.43,0:07:32.47,Sign,,0,0,0,,{=15}{\fscy100.03\fscx100.03\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318,952.27)\blur0.6}今天是
+Dialogue: 0,0:07:32.47,0:07:32.51,Sign,,0,0,0,,{=15}{\fscy100\fscx100\alpha&H00&\an6\fs40\bord0\fn方正准圆_GBK\b1\c&HD3D0D2&\pos(318,952)\blur0.6}今天是
+Dialogue: 0,0:07:34.77,0:07:42.90,Sign,,0,0,0,,{=14}{\alpha&H00&\an3\fs15\c&H5A2779&\bord0\fnSource Han Sans SC\b1\blur1\pos(1748,357)}还书处
+Dialogue: 0,0:44:09.17,0:44:11.38,Sign,,0,0,0,,{\an7\bord0\fs30\fry-0.59\frx5.65\frz-144.08\fax0.6\pos(1347,297)\c&H000000&\blur0.6}池部屋
+Dialogue: 0,0:44:09.17,0:44:11.38,Sign,,0,0,0,,{\an7\bord0\fs30\c&H294766&\blur0.6\pos(881,180)\fry-0.51\frx5.36\frz-147.85\fax0.67}大象玉子馒头
+Dialogue: 0,0:44:09.17,0:44:11.38,Sign,,0,0,0,,{\an7\bord0\fs30\c&H000000&\blur0.6\fry-0.51\frx5.36\frz-147.85\fax0.67\pos(544,368)}成年人的馒头
+Dialogue: 1,0:15:38.79,0:15:42.25,Sign,,0,0,0,,{\bord0\fs25\c&H000000&\pos(1556,956)\frz0}给☆星人的奖品\NA 午餐盒  B 手提袋\NAB任选其一 \N30 点积分即可获得!!\N---------------------------\N小冠特制 (?) 煎蛋卷\N吮指辣椒油 → {\blur4}0 勺{\blur0}\N下饭芝麻油 → 1 勺\N之后全部交给小晶！\N---------------------------\N值日表  决定啦！\N小冠：清理浴室、\N扔垃圾（周三周六）\N小晶：晚饭、购物\N阳毬：早饭&午饭\N打扫院子\N我不在的时候\N兄弟两个要好好相处
+Dialogue: 0,0:15:38.79,0:15:42.25,Sign,,0,0,0,,{\an7\pos(1556,956)\p1\1a&H32&\bord0}m 94.802 -459.608 l 97.555 -459.321 100.368 -458.468 102.816 -457.178 105.11 -455.339 107.002 -453.089 108.349 -450.672 109.268 -447.879 109.62 -445.135 109.629 -3.469 109.341 -0.543 108.488 2.27 107.474 4.278 106.281 5.978 104.864 7.497 103.109 8.904 101.319 9.957 99.236 10.806 97.22 11.306 95.155 11.522 -95.996 11.531 -98.922 11.243 -101.735 10.39 -103.743 9.376 -105.443 8.183 -106.962 6.766 -108.369 5.011 -109.422 3.221 -110.271 1.138 -110.771 -0.878 -110.992 -3.117 -110.996 -444.609 -110.708 -447.535 -109.855 -450.348 -108.841 -452.356 -107.648 -454.056 -106.231 -455.575 -104.618 -456.883 -102.686 -458.035 -100.931 -458.774 -98.928 -459.32 -96.695 -459.593 94.629 -459.609 
+Dialogue: 0,1:50:51.25,1:50:56.21,Sign,,0,0,0,,{\fs20\bord0\c&H4A2819&\1a&H01&\an7\fry-15.58\frx-0.12\frz-7.98\fax0.12\blur0.6\pos(1362,530)\fscx60}卫生纸
+Dialogue: 0,1:22:47.32,1:22:50.28,Sign,,0,0,0,,{\c&HC4BAEB&\pos(960,890)\fn方正准圆_GBK\b1\fs50\bord0\blur0.4}冠叶
 Comment: 0,0:09:32.43,0:09:34.35,Sign,,0,0,0,,
 Comment: 0,0:09:35.22,0:09:37.56,Sign,,0,0,0,,
 Dialogue: 0,0:11:33.42,0:11:34.92,Sign,,0,0,0,,{\an8\fn方正准圆_GBK\fsp6\fs45\c&HF0F0F0&\3c&H936DB2&}青蛙君救企鹅罐
 Dialogue: 0,0:12:06.16,0:12:13.13,Sign,,0,0,0,,{\an8\fn方正准圆_GBK\fsp6\fs45\c&HDADADA&\3c&H936DB2&\fad(300,150)\t(4950,5600,1,\3a&HFF&)}青蛙君救企鹅罐
 Dialogue: 1,0:17:14.01,0:17:15.93,Sign,,0,0,0,,{\pos(510,694)\fs40\c&H8778A1&\3c&H2A2A41\fsp6}卷心菜
-Dialogue: 1,0:17:14.01,0:17:15.93,Sign,,0,0,0,,{\fs50\c&H617AFE&\3c&H0E1B26&\pos(317.672,640.736)\frz22.24}推广商品
-Dialogue: 0,0:17:14.01,0:17:15.93,Sign,,0,0,0,,{\fs50\c&H617AFE&\bord8\3c&H568438&\pos(317.672,640.736)\frz22.24}推广商品
-Dialogue: 0,0:17:23.94,0:17:25.07,Sign,,0,0,0,,{\frz18\fs36\frx6\fry0\fax0.06\c&H767071&\3c&H767071&\bord0.5\blur0.8\pos(723,325)}有机无农药卷心菜
+Dialogue: 1,0:17:14.01,0:17:15.93,Sign,,0,0,0,,{\fs45\c&H617AFE&\3c&H122433&\pos(317,640)\frz22.24\bord1.5\blur0.6}推广商品
+Dialogue: 0,0:17:14.01,0:17:15.93,Sign,,0,0,0,,{\fs45\c&H617AFE&\bord6\3c&H568438&\pos(317,640)\frz22.24}推广商品
+Dialogue: 0,0:17:23.94,0:17:25.07,Sign,,0,0,0,,{\frz18\fs36\frx6\fry0\fax0.06\c&H767071&\3c&H767071&\bord0.5\blur0.6\pos(723,325)}有机无农药卷心菜
 Dialogue: 0,0:26:32.86,0:26:34.32,Sign,,0,0,0,,{\bord0\an1\fs50\pos(298,833)\frz8\c&H2D302F&\u1\fsp0\blur0.6}电话{\u0}\N可燃垃圾
-Dialogue: 0,0:26:32.86,0:26:34.32,Sign,,0,0,0,,{\bord4\an2\fs70\3c&H4747E5&\fsp0\blur0.6\pos(980,830)\1a&HFF&\fsp6}咖喱日
+Dialogue: 0,0:26:32.86,0:26:34.32,Sign,,0,0,0,,{\bord4\an2\fs70\3c&H4747E5&\fsp0\pos(980,830)\1a&HFF&\fsp6}咖喱日
 Dialogue: 0,0:26:32.86,0:26:34.32,Sign,,0,0,0,,{\bord0\an1\fs50\c&H2D302F&\fsp0\blur0.6\pos(1663,805)}会议
 Dialogue: 0,0:27:30.25,0:27:32.13,Sign,,0,0,0,,{\bord0.5\an2\fs70\3c&H5E65E8&\c&H5E65E8&\fsp0\blur0.6\fsp6\pos(960,869)\fax0.02\frz2}咖喱日
-Dialogue: 0,0:36:48.44,0:36:50.90,Sign,,0,0,0,,{\bord0\an2\fs60\3c&H5E65E8&\c&H5E65E8&\fsp0\blur0.8\fsp6\fax-0.01\frz4\pos(920,842)}咖喱日\N\N\N\N苹果生日
+Dialogue: 0,0:36:48.44,0:36:50.90,Sign,,0,0,0,,{\bord0\an2\fs60\3c&H5E65E8&\c&H4E53F6&\fsp0\blur0.8\fsp6\fax-0.01\frz4\pos(920,842)}咖喱日\N\N\N\N苹果生日
 Dialogue: 0,0:37:09.00,0:37:11.71,Sign,,0,0,0,,{\fn方正准圆_GBK\b1\fad(450,0)\bord2\fs36\fsp2\an1\pos(420,210)\c&H772B10&\3c&HDCD1CB&}海中黑帮·海鳝
 Dialogue: 0,0:38:00.22,0:38:02.18,Sign,,0,0,0,,{\an8\fsp4\c&H6D1643&\2c&H651106&}苹果的房间
 Dialogue: 0,0:38:04.68,0:38:07.10,Sign,,0,0,0,,{\an8\c&H000000&\bord0\blur1.5\fn方正准圆_GBK\b1\fs60\fsp4}荻野目桃果
-Dialogue: 0,0:38:33.42,0:38:36.88,Sign,,0,0,0,,{\fn方正准圆_GBK\b1\pos(1174,211)\frz-15\fax0.3\fs34\c&H92A7A9&\bord0\blur0.8\fsp6}法国料理
-Dialogue: 0,0:38:33.42,0:38:36.88,Sign,,0,0,0,,{\frz30\fax-0.1\fs40\c&H6DF5F3&\bord0\blur0.8\an1\3c&H44A29F&\bord3\fscx95\pos(1253,940)\frx354\fry10}世界第一的蒙布朗蛋糕
+Dialogue: 0,0:38:33.42,0:38:36.88,Sign,,0,0,0,,{\fn方正准圆_GBK\b1\pos(1174,211)\fs34\c&H92A7A9&\bord0\blur0.8\fsp6\fry1.44\frx0.6\frz-14.49\fax0.26}法国料理
+Dialogue: 0,0:38:33.42,0:38:36.88,Sign,,0,0,0,,{\frz30\fax-0.1\fs40\bord0\blur0.5\an1\3c&H44A29F&\c&H44A29F&\bord3\fscx95\pos(1253,940)\frx354\fry10}世界第一的蒙布朗蛋糕
+Dialogue: 1,0:38:33.42,0:38:36.88,Sign,,0,0,0,,{\frz30\fax-0.1\fs40\c&H6DF5F3&\blur0.6\an1\bord0\fscx95\pos(1253,940)\frx354\fry10\4a&HFF&}世界第一的蒙布朗蛋糕
 Comment: 0,0:44:09.17,0:44:11.38,Sign,,0,0,0,,
 Dialogue: 0,0:53:04.54,0:53:08.04,Sign,,0,0,0,,{\fnSource Han Serif SC\b1\fs80\pos(960,760)\bord0\an8}\h  时笼百合的聚会，\N{\fnSource Han Sans SC Medium\b0\fs90\alpha&HFF&\blur12\t(300,1500,1,\alpha&H00&\blur0)}那是{\alpha&HFF&\blur12\t(1100,2300,1,\alpha&H00&\blur0)}色欲的卡萨诺瓦
-Dialogue: 0,0:58:41.96,0:58:45.46,Sign,,0,0,0,,{\pos(1814,811)\an3\frz4\c&HD894F2&\3c&HFCFCFC&\4c&HA359DF&\bord3\shad3}我们搬家啦！
-Dialogue: 0,0:59:46.65,0:59:46.69,Sign,motion,0,0,0,,{\fs120\shad4\bord0\pos(727,1070)\an1\fsp20\c&H2022C5&\3c&H040234&\blur1}谋杀
-Dialogue: 0,0:59:46.69,0:59:46.73,Sign,motion,0,0,0,,{\fs120\shad4\bord0\pos(727,930)\an1\fsp20\c&H2022C5&\3c&H040234&\blur1}谋杀
-Dialogue: 0,0:59:46.73,0:59:46.77,Sign,motion,0,0,0,,{\fs120\shad4\bord0\pos(727,780)\an1\fsp20\c&H2022C5&\3c&H040234&\blur1}谋杀
-Dialogue: 0,0:59:46.77,0:59:46.81,Sign,motion,0,0,0,,{\fs120\shad4\bord0\pos(727,650)\an1\fsp20\c&H2022C5&\3c&H040234&\blur1}谋杀
-Dialogue: 0,0:59:46.81,0:59:46.85,Sign,motion,0,0,0,,{\fs120\shad4\bord0\pos(727,520)\an1\fsp20\c&H2022C5&\3c&H040234&\blur1}谋杀
-Dialogue: 0,0:59:46.85,0:59:46.90,Sign,motion,0,0,0,,{\fs120\shad4\bord0\pos(727,400)\an1\fsp20\c&H2022C5&\3c&H040234&\blur1}谋杀
-Dialogue: 0,0:59:46.90,0:59:46.94,Sign,motion,0,0,0,,{\fs120\shad4\bord0\pos(727,300)\an1\fsp20\c&H2022C5&\3c&H040234&\blur1}谋杀
-Dialogue: 0,0:59:46.94,0:59:46.98,Sign,motion,0,0,0,,{\fs120\shad4\bord0\pos(727,220)\an1\fsp20\c&H2022C5&\3c&H040234&\blur1}谋杀
-Dialogue: 0,0:59:46.98,0:59:48.98,Sign,motion,0,0,0,,{\fs120\shad4\bord0\pos(727,190)\an1\fsp20\c&H2022C5&\3c&H040234&\blur1}谋杀
-Dialogue: 0,1:02:34.61,1:02:38.61,Sign,,0,0,0,,{\ko39\an8}{\bord0\2a&HFF&\fs90}怀孕 {\ko29}= {\ko34}Ma{\ko34}ter{\ko32}ni{\ko34}ty {\ko33}的 {\ko37}M{\ko129}
-Dialogue: 0,1:10:39.67,1:10:41.68,Sign,,0,0,0,,{\fs40\fn方正准圆_GBK\b1\frz0.5\bord0\blur0.8\c&H575757&\fsp6\pos(963,360)\an8}中央图书馆
-Dialogue: 0,1:10:39.67,1:10:41.68,Sign,,0,0,0,,{\fs54\fn方正准圆_GBK\b1\frz0.5\bord0\blur0.8\c&H6A6A6A&\fsp16\pos(968,590)\an8}天之洞分室
+Dialogue: 0,0:58:41.96,0:58:45.46,Sign,,0,0,0,,{\blur0.6\pos(1814,811)\an3\frz4\3c&HF1F2FE&\c&HEBF0FB&\4c&HA359DF&\bord4\shad3}我们搬家啦！
+Dialogue: 1,0:58:41.96,0:58:45.46,Sign,,0,0,0,,{\blur0.6\pos(1814,811)\an3\frz4\c&HD894F2&\4c&HA359DF&\bord0\shad3\4a&HFF&}我们搬家啦！
+Dialogue: 0,0:59:46.65,0:59:46.69,Sign,motion,0,0,0,,{\fs120\shad4\bord0\pos(727,1070)\an1\fsp20\c&H2022C5&\3c&H040234&\blur1\4c&H040438&}谋杀
+Dialogue: 0,0:59:46.69,0:59:46.73,Sign,motion,0,0,0,,{\fs120\shad4\bord0\pos(727,930)\an1\fsp20\c&H2022C5&\3c&H040234&\blur1\4c&H040438&}谋杀
+Dialogue: 0,0:59:46.73,0:59:46.77,Sign,motion,0,0,0,,{\fs120\shad4\bord0\pos(727,780)\an1\fsp20\c&H2022C5&\3c&H040234&\blur1\4c&H040438&}谋杀
+Dialogue: 0,0:59:46.77,0:59:46.81,Sign,motion,0,0,0,,{\fs120\shad4\bord0\pos(727,650)\an1\fsp20\c&H2022C5&\3c&H040234&\blur1\4c&H040438&}谋杀
+Dialogue: 0,0:59:46.81,0:59:46.85,Sign,motion,0,0,0,,{\fs120\shad4\bord0\pos(727,520)\an1\fsp20\c&H2022C5&\3c&H040234&\blur1\4c&H040438&}谋杀
+Dialogue: 0,0:59:46.85,0:59:46.90,Sign,motion,0,0,0,,{\fs120\shad4\bord0\pos(727,400)\an1\fsp20\c&H2022C5&\3c&H040234&\blur1\4c&H040438&}谋杀
+Dialogue: 0,0:59:46.90,0:59:46.94,Sign,motion,0,0,0,,{\fs120\shad4\bord0\pos(727,300)\an1\fsp20\c&H2022C5&\3c&H040234&\blur1\4c&H040438&}谋杀
+Dialogue: 0,0:59:46.94,0:59:46.98,Sign,motion,0,0,0,,{\fs120\shad4\bord0\pos(727,220)\an1\fsp20\c&H2022C5&\3c&H040234&\blur1\4c&H040438&}谋杀
+Dialogue: 0,0:59:46.98,0:59:48.98,Sign,motion,0,0,0,,{\fs120\shad4\bord0\pos(727,190)\an1\fsp20\c&H2022C5&\3c&H040234&\blur1\4c&H040438&}谋杀
+Dialogue: 0,1:02:34.61,1:02:38.61,Sign,,0,0,0,,{\ko39\an8\fad(300,0)}{\bord0\2a&HFF&\fs90}怀孕 {\ko29}= {\ko34}Ma{\ko34}ter{\ko32}ni{\ko34}ty {\ko33}的 {\ko37}M{\ko129}
+Dialogue: 0,1:10:39.67,1:10:41.68,Sign,,0,0,0,,{\fs40\fn方正准圆_GBK\b1\bord0\fsp6\pos(963,360)\an8\c&H6E6E6E&}中央图书馆
+Dialogue: 0,1:10:39.67,1:10:41.68,Sign,,0,0,0,,{\fs54\fn方正准圆_GBK\b1\bord0\fsp16\pos(968,590)\an8\c&H6E6E6E&}天之洞分室
 Comment: 0,1:14:08.09,1:14:10.01,Sign,,0,0,0,,东鸥综合医院
 Dialogue: 0,1:19:42.55,1:19:42.76,Sign,,0,0,0,,{\pos(960,568)\fs40\fn方正准圆_GBK\b1\frz0.5\bord0.2\blur0.8\c&H2E2E2E&\3c&H2E2E2E&\fsp4\fad(0,0)}您有新邮件
 Dialogue: 0,1:19:42.76,1:19:42.80,Sign,,0,0,0,,{\pos(960,568)\fs40\fn方正准圆_GBK\b1\frz0.5\bord0.2\blur0.8\c&H7B8731&\3c&HD9D9DD&\fsp4\fad(0,0)}您有新邮件
 Dialogue: 0,1:19:42.80,1:19:42.88,Sign,,0,0,0,,{\pos(960,568)\fs40\fn方正准圆_GBK\b1\frz0.5\bord0.2\blur1\c&HD7ED41&\3c&H2E2E2E&\fsp4\fad(0,0)}您有新邮件
 Dialogue: 0,1:19:42.88,1:19:43.05,Sign,,0,0,0,,{\pos(960,568)\fs40\fn方正准圆_GBK\b1\frz0.5\bord0.2\blur0.8\c&H2E2E2E&\3c&H2E2E2E&\fsp4\fad(0,50)}您有新邮件
-Dialogue: 1,1:12:34.58,1:12:36.54,Sign,phone,0,0,0,,{\bord0\fs40\an7\c&H000000&}我知道你在找什么。\N想知道具体情况的话，\N今天上午 11 点到下图的家庭餐厅来。
-Dialogue: 0,1:12:34.58,1:12:36.54,Sign,phone,0,0,0,,{\bord0\fs40\an7\clip()\p1\pos(0,0)\c&HF4F4F4&\1a&H32&}m 20 20 l 20 144 502 144 502 20
+Dialogue: 1,1:12:34.58,1:12:36.54,Sign,phone,0,0,0,,{\bord0\fs40\an7\c&H000000&}我知道你在找什么。\N\N想知道具体情况的话，\N今天上午 11 点到下图的家庭餐厅来。
+Dialogue: 0,1:12:34.58,1:12:36.54,Sign,phone,0,0,0,,{\an7\pos(30,20)\1c&HF3F3F3&\p1\bord0\1a&H4B&}m 473.359 149.469 l -14.234 149.469 -14.234 -6.437 473.359 -6.437
 Dialogue: 1,1:14:34.03,1:14:36.12,Sign,phone,0,0,0,,{\bord0\fs40\an7\c&H000000&}我知道你在找什么＼(^▽ ^ )／
 Dialogue: 0,1:14:34.03,1:14:36.12,Sign,phone,0,0,0,,{\bord0\fs40\an7\clip()\p1\pos(0,0)\c&HF4F4F4&\1a&H32&}m 20 20 l 20 66 420 66 420 20
 Dialogue: 1,1:19:31.16,1:19:34.62,Sign,phone,0,0,0,,{\bord0\fs40\an7\c&H000000&}把「半本日记」交出来。\N否则，\N高仓晶马就没命了。
 Dialogue: 0,1:19:31.16,1:19:34.62,Sign,phone,0,0,0,,{\bord0\fs40\an7\clip()\p1\pos(0,0)\c&HF4F4F4&\1a&H32&}m 20 20 l 20 144 344 144 344 20
 Dialogue: 1,1:19:43.01,1:19:45.76,Sign,phone,0,0,0,,{\bord0\fs40\an7\c&H000000&\fad(50,0)}P.S.\N高仓晶马，现在…
 Dialogue: 0,1:19:43.01,1:19:45.76,Sign,phone,0,0,0,,{\bord0\fs40\an7\clip()\p1\pos(0,0)\c&HF4F4F4&\1a&H32&\fad(50,0)}m 20 20 l 20 106 270 106 270 20
-Dialogue: 0,1:26:27.95,1:26:28.87,Sign,,0,0,0,,{\an1\c&H4DA3F6&\3c&HFFFFFF&\blur2\3a&H32&\fnSource Han Sans SC\b1\pos(1185,698)}开幕在即 \N第 7 届  偶像选拔
-Dialogue: 0,1:26:47.60,1:26:48.60,Sign,,0,0,0,,{\an7\fs45\c&H000000&\3c&HF2F4F3&\blur1\1a&H32&}粘贴全身照片\N\N{\fn方正准圆_GBK\b1\fs35}※需为一个月内拍摄的全身彩照（不接受大头贴）。\N\N※请在照片背面写上你的姓名，并将其粘贴牢固。\N\N※除全身照之外的另外三张照片，请对齐右上角用订书机订好。
-Dialogue: 0,1:26:48.60,1:26:49.56,Sign,,0,0,0,,{\fnSource Han Sans SC\fsp4\fs80\an7\frz0.5\bord0\blur1.5\c&H323439&\pos(277,502)}监护人
-Dialogue: 0,1:26:50.77,1:26:52.02,Sign,,0,0,0,,{\fnSource Han Sans SC\fsp4\fs50\pos(314,394)\an7\frz0.5\bord0\blur1\c&H696F73&}组合名称
-Dialogue: 0,1:27:37.06,1:27:38.52,Sign,,0,0,0,,{\fnSource Han Sans SC\fsp4\fs50\pos(314,394)\an7\frz0.5\bord0\blur1\c&H696F73&}组合名称
-Dialogue: 0,1:27:37.06,1:27:38.52,Sign,,0,0,0,,{\fnSource Han Sans SC\b1\fsp4\fs50\an7\frz0.5\bord0\blur1\c&H2B2F35&\pos(1306,619)}Triple H
-Dialogue: 0,1:28:15.60,1:28:16.60,Sign,,0,0,0,,{\fnSource Han Sans SC\b1\fs40\bord0\blur0.8\pos(960,600)\c&H575553&}已售完
-Dialogue: 0,1:28:15.60,1:28:16.60,Sign,,0,0,0,,{\an4\frz270\fn@方正准圆_GBK\fsp6\b1\fs30\bord0\blur0.8\c&H66635F&\pos(997,816)}请等待到货
-Dialogue: 0,1:33:06.39,1:33:08.40,Sign,,0,0,0,,{\fs40\fn方正准圆_GBK\b1\frz0.5\bord0\blur0.8\c&H575757&\fsp6\pos(963,360)\an8}中央图书馆
-Dialogue: 0,1:33:06.39,1:33:08.40,Sign,,0,0,0,,{\fs54\fn方正准圆_GBK\b1\frz0.5\bord0\blur0.8\c&H6A6A6A&\fsp16\pos(968,590)\an8}天之洞分室
+Dialogue: 0,1:26:26.45,1:26:27.95,Sign,,0,0,0,,{\fscx16\fscy16\an1\3c&HFFFFFF&\c&HFFFFFF&\blur0.2\3a&H32&\fnSource Han Sans SC\b1\bord0.1\pos(797,841)}开幕在即 \N第 7 届  偶像选拔
+Dialogue: 1,1:26:26.45,1:26:27.95,Sign,,0,0,0,,{\fscx16\fscy16\bord0\an1\c&H4DA3F6&\blur1\3a&H32&\fnSource Han Sans SC\b1\4a&HFF&\pos(797,841)}开幕在即 \N第 7 届  偶像选拔
+Dialogue: 0,1:26:27.95,1:26:28.87,Sign,,0,0,0,,{\an1\3c&HFFFFFF&\c&HFFFFFF&\blur2\3a&H32&\fnSource Han Sans SC\b1\pos(1185,698)}开幕在即 \N第 7 届  偶像选拔
+Dialogue: 1,1:26:27.95,1:26:28.87,Sign,,0,0,0,,{\bord0\an1\c&H4DA3F6&\blur1\3a&H32&\fnSource Han Sans SC\b1\pos(1185,698)\4a&HFF&}开幕在即 \N第 7 届  偶像选拔
+Dialogue: 0,1:26:47.60,1:26:48.60,Sign,,0,0,0,,{\an7\fs45\3c&HF2F4F3&\c&HF2F4F3&\blur1\1a&H32&}粘贴全身照片\N\N{\fn方正准圆_GBK\b1\fs35}※需为一个月内拍摄的全身彩照（不接受大头贴）。\N\N※请在照片背面写上你的姓名，并将其粘贴牢固。\N\N※除全身照之外的另外三张照片，请对齐右上角用订书机订好。
+Dialogue: 1,1:26:47.60,1:26:48.60,Sign,,0,0,0,,{\bord0\an7\fs45\c&H000000&\blur0.6\1a&H32&\4a&HFF&}粘贴全身照片\N\N{\fn方正准圆_GBK\b1\fs35}※需为一个月内拍摄的全身彩照（不接受大头贴）。\N\N※请在照片背面写上你的姓名，并将其粘贴牢固。\N\N※除全身照之外的另外三张照片，请对齐右上角用订书机订好。
+Dialogue: 0,1:26:48.60,1:26:49.56,Sign,,0,0,0,,{\fnSource Han Sans SC Medium\fsp4\fs80\an7\frz359.6\fry1\bord0\blur1.5\c&H323439&\pos(277,502)}监护人
+Dialogue: 0,1:26:50.77,1:26:52.02,Sign,,0,0,0,,{\fnSource Han Sans SC Medium\fsp4\fs50\pos(314,394)\an7\bord0\blur1\c&H6A7785&}组合名称
+Dialogue: 0,1:27:37.06,1:27:38.52,Sign,,0,0,0,,{\fnSource Han Sans SC Medium\fsp4\fs50\pos(314,394)\an7\bord0\blur1\c&H6A7785&}组合名称
+Dialogue: 0,1:27:37.06,1:27:38.52,Sign,,0,0,0,,{\fnSource Han Sans SC\b1\fsp4\fs50\an3\frz0.5\bord0\blur1\c&H2B2F35&\pos(1448,408)}Triple H
+Dialogue: 0,1:28:15.60,1:28:16.60,Sign,,0,0,0,,{\fnSource Han Sans SC\b1\fs40\bord0\blur0.8\pos(960,602)\c&H575553&}已售完
+Dialogue: 0,1:28:15.60,1:28:16.60,Sign,,0,0,0,,{\an4\frz270\fn@方正准圆_GBK\fsp6\b1\fs30\bord0\blur0.8\c&H66635F&\pos(998,816)}请等待到货
+Dialogue: 0,1:33:06.39,1:33:08.40,Sign,,0,0,0,,{\fs40\fn方正准圆_GBK\b1\bord0\fsp6\pos(963,360)\an8\c&H6E6E6E&}中央图书馆
+Dialogue: 0,1:33:06.39,1:33:08.40,Sign,,0,0,0,,{\fs54\fn方正准圆_GBK\b1\bord0\fsp16\pos(968,590)\an8\c&H6E6E6E&}天之洞分室
 Dialogue: 1,0:55:16.29,0:55:18.42,Sign,,0,0,0,,{\pos(975,233)\fscx95\fs40\fsp6\frz0.6\c&HD771F7&\3c&HF4E6FA&\bord3\blur0.8}想接近异性的人
 Dialogue: 0,0:55:16.29,0:55:18.42,Sign,,0,0,0,,{\pos(975,233)\fscx95\fs40\fsp6\frz0.6\c&HD771F7&\3c&H633666&\bord6\blur0.8}想接近异性的人
 Dialogue: 0,0:55:16.29,0:55:18.42,Sign,,0,0,0,,{\fs40\bord0\fsp3\pos(960,429)\blur0.6\c&HE3DEEE&}立刻点击
 Dialogue: 0,0:55:18.59,0:55:20.67,Sign,,0,0,0,,{\pos(960,214)\fs55\fsp2\c&HE02265&\3c&HF0F0F0&\bord3}杜卡马拉{歌剧“爱情灵药”里的卖药医生}{\fs40}的{\fs55\fsp4\c&HC759EF&}魔法药课堂
-Dialogue: 0,0:55:18.80,0:55:20.67,Sign,,0,0,0,,{\c&HBB1FE2&\shad0.5\bord0\fs40\fnSource Han Sans SC\b1\blur0.8\pos(502,570)}植物
-Dialogue: 0,0:55:18.80,0:55:20.67,Sign,,0,0,0,,{\c&HBB1FE2&\shad0.5\bord0\fs40\fnSource Han Sans SC\b1\blur0.8\pos(770,570)}蛇
-Dialogue: 0,0:55:18.80,0:55:20.67,Sign,,0,0,0,,{\c&HBB1FE2&\shad0.5\bord0\fs40\fnSource Han Sans SC\b1\blur0.8\pos(1176,570)}青蛙
-Dialogue: 0,0:55:18.80,0:55:20.67,Sign,,0,0,0,,{\c&HBB1FE2&\shad0.5\bord0\fs40\fnSource Han Sans SC\b1\blur0.8\pos(1446,570)}其他
-Dialogue: 0,0:55:20.80,0:55:22.80,Sign,,0,0,0,,{\fs35\bord36\blur10\3c&H9243EA&\pos(870,897)\c&H341455&\clip(537,737,1196,921)\1a&H00&\frz0.5}16 年一度于地面现身的奇迹之蛙\N在满月之夜，让这只青蛙在 16 岁男孩的后背上产卵，\N再将其烘干捣碎研磨成粉即为爱的灵药。\N男女双方服下后两个人即可永结同心。
-Dialogue: 0,0:55:20.80,0:55:22.80,Sign,,0,0,0,,{\fs35\bord2\blur3\3c&H9A45E8&\c&H2E1449&\1a&H00&\frz0.5\pos(865,700)}卵誉青蛙
-Dialogue: 0,0:57:31.84,0:57:34.60,Sign,,0,0,0,,{\an7\fs50\fsp3\c&H4C4A4A&\3c&HA59897&\blur1}和多蕗一起生活已经一个月整了♡♡♡  还一次都没有吵过架。\N果然他是「命中注定」的…
+Dialogue: 0,0:55:18.80,0:55:20.67,Sign,,0,0,0,,{\c&HBB1FE2&\shad0\bord0\fs40\fnSource Han Sans SC\b1\blur0.8\pos(502,570)}植物
+Dialogue: 0,0:55:18.80,0:55:20.67,Sign,,0,0,0,,{\c&HBB1FE2&\shad0\bord0\fs40\fnSource Han Sans SC\b1\blur0.8\pos(770,570)}蛇
+Dialogue: 0,0:55:18.80,0:55:20.67,Sign,,0,0,0,,{\c&HBB1FE2&\shad0\bord0\fs40\fnSource Han Sans SC\b1\blur0.8\pos(1176,570)}青蛙
+Dialogue: 0,0:55:18.80,0:55:20.67,Sign,,0,0,0,,{\c&HBB1FE2&\shad0\bord0\fs40\fnSource Han Sans SC\b1\blur0.8\pos(1446,570)}其他
+Dialogue: 0,0:55:20.80,0:55:22.80,Sign,,0,0,0,,{\fs35\bord36\blur10\3c&H9243EA&\c&H9243EA&\pos(870,897)\clip(537,737,1196,921)\1a&H00&\frz0.5}16 年一度于地面现身的奇迹之蛙\N在满月之夜，让这只青蛙在 16 岁男孩的后背上产卵，\N再将其烘干捣碎研磨成粉即为爱的灵药。\N男女双方服下后两个人即可永结同心。
+Dialogue: 1,0:55:20.80,0:55:22.80,Sign,,0,0,0,,{\fs35\bord0\blur1\pos(870,897)\c&H341455&\clip(537,737,1196,921)\1a&H00&\frz0.5\4a&HFF&}16 年一度于地面现身的奇迹之蛙\N在满月之夜，让这只青蛙在 16 岁男孩的后背上产卵，\N再将其烘干捣碎研磨成粉即为爱的灵药。\N男女双方服下后两个人即可永结同心。
+Dialogue: 0,0:55:20.80,0:55:22.80,Sign,,0,0,0,,{\fs35\bord2\blur3\3c&H9A45E8&\c&H9A45E8&\1a&H00&\frz0.5\pos(865,700)}卵誉青蛙
+Dialogue: 1,0:55:20.80,0:55:22.80,Sign,,0,0,0,,{\fs35\bord0\blur1\c&H2E1449&\1a&H00&\frz0.5\pos(865,700)\4a&HFF&}卵誉青蛙
+Dialogue: 1,0:57:31.84,0:57:34.60,Sign,,0,0,0,,{\an7\fs50\fsp3\c&H4C4A4A&\bord0\blur0.6}和多蕗一起生活已经一个月整了♡♡♡  还一次都没有吵过架。\N果然他是「命中注定」的…
+Dialogue: 0,0:57:31.84,0:57:34.60,Sign,,0,0,0,,{\an7\pos(30,20)\1c&HE3E3E3&\3c&HA59897&\blur1\p1\bord0\1a&H4B&}m 1019.438 103.094 l -9.172 103.094 -9.172 0.828 1019.438 0.828
 Dialogue: 1,1:37:29.74,1:37:31.74,Sign,,0,0,0,,{\pos(975,140)\fscx95\fs80\fsp6\frz0.6\c&HD771F7&\3c&HF4E6FA&\bord4\blur0.8}不择手段也要将他攻陷的方法
 Dialogue: 0,1:37:29.74,1:37:31.74,Sign,,0,0,0,,{\pos(975,140)\fscx95\fs80\fsp6\frz0.6\c&HD771F7&\3c&H5E2F63&\bord10\blur0.8}不择手段也要将他攻陷的方法
 Dialogue: 0,1:37:29.74,1:37:31.74,Sign,,0,0,0,,{\bord0\fsp3\pos(960,450)\blur0.6\c&HF6F6F6&}立刻点击
 Dialogue: 0,1:37:31.91,1:37:33.20,Sign,,0,0,0,,{\pos(960,114)\fs75\fsp2\c&HE02265&\3c&HF0F0F0&\bord3}杜卡马拉{歌剧“爱情灵药”里的卖药医生}{\fs55}的{\fs75\fsp4\c&HC759EF&}魔法药课堂
-Dialogue: 0,1:37:32.12,1:37:33.20,Sign,,0,0,0,,{\c&HBB1FE2&\shad0.5\bord0\fs60\fnSource Han Sans SC\b1\blur0.8\pos(273,646)}植物
-Dialogue: 0,1:37:32.12,1:37:33.20,Sign,,0,0,0,,{\c&HBB1FE2&\shad0.5\bord0\fs60\fnSource Han Sans SC\b1\blur0.8\pos(672,646)}蛇
-Dialogue: 0,1:37:32.12,1:37:33.20,Sign,,0,0,0,,{\c&HBB1FE2&\shad0.5\bord0\fs60\fnSource Han Sans SC\b1\blur0.8\pos(1281,646)}青蛙
-Dialogue: 0,1:37:32.12,1:37:33.20,Sign,,0,0,0,,{\c&HBB1FE2&\shad0.5\bord0\fs60\fnSource Han Sans SC\b1\blur0.8\pos(1686,646)}其他
-Dialogue: 0,1:37:33.37,1:37:34.41,Sign,,0,0,0,,{\pos(810,825)\blur2\c&H19090E&\3c&HE2588A&\fs50\fsp4}姫誉蛙
-Dialogue: 1,1:37:33.37,1:37:34.41,Sign,,0,0,0,,{\3c&HF45E92&\fs50\blur1\bord0\fsp3\an8\pos(804,904)\c&H1A1A1A&}16 年一度于地面现身的奇迹之蛙\N将其放在 16 岁女孩的脸上，使其出汗\N采集 18 毫升汗水，让心仪的男性饮用\N{\c&HFFFFFF&}奇迹就会发生{\c&H1A1A1A&}  他的心会立刻被你俘获\N抑制不住内心的爱意向你表白
+Dialogue: 0,1:37:32.12,1:37:33.20,Sign,,0,0,0,,{\c&HBB1FE2&\bord0\fs60\fnSource Han Sans SC\b1\blur0.8\pos(273,646)}植物
+Dialogue: 0,1:37:32.12,1:37:33.20,Sign,,0,0,0,,{\c&HBB1FE2&\bord0\fs60\fnSource Han Sans SC\b1\blur0.8\pos(672,646)}蛇
+Dialogue: 0,1:37:32.12,1:37:33.20,Sign,,0,0,0,,{\c&HBB1FE2&\bord0\fs60\fnSource Han Sans SC\b1\blur0.8\pos(1281,646)}青蛙
+Dialogue: 0,1:37:32.12,1:37:33.20,Sign,,0,0,0,,{\c&HBB1FE2&\bord0\fs60\fnSource Han Sans SC\b1\blur0.8\pos(1686,646)}其他
+Dialogue: 0,1:37:33.37,1:37:34.41,Sign,,0,0,0,,{\pos(810,825)\blur2\3c&HE2588A&\c&HE2588A&\fs50\fsp4}姫誉蛙
+Dialogue: 1,1:37:33.37,1:37:34.41,Sign,,0,0,0,,{\bord0\pos(810,825)\blur1\c&H19090E&\fs50\fsp4\4a&HFF&}姫誉蛙
+Dialogue: 2,1:37:33.37,1:37:34.41,Sign,,0,0,0,,{\fs50\blur1\bord0\fsp3\an8\pos(804,904)\c&H1A1A1A&\4a&HFF&}16 年一度于地面现身的奇迹之蛙\N将其放在 16 岁女孩的脸上，使其出汗\N采集 18 毫升汗水，让心仪的男性饮用\N{\c&HFFFFFF&}奇迹就会发生{\c&H1A1A1A&}  他的心会立刻被你俘获\N抑制不住内心的爱意向你表白
 Dialogue: 0,1:37:33.37,1:37:34.41,Sign,,0,0,0,,{\pos(0,0)\an7\p1\blur15\c&HF05E92&\bord0}m 352 876 l 353 1090 1260 1090 1272 876
 Dialogue: 0,1:37:33.37,1:37:34.41,Sign,,0,0,0,,{\pos(0,170)\an7\p1\blur5\c&H0E030B&\bord0}m 1340 842 l 1342 925 1849 930 1850 846
 Dialogue: 0,1:37:33.37,1:37:34.41,Sign,,0,0,0,,{\pos(0,0)\an7\p1\blur5\c&H0E030B&\bord0}m 1340 842 l 1342 925 1849 930 1850 846
@@ -469,11 +975,12 @@ Dialogue: 1,1:40:09.44,1:40:13.40,Sign,,0,0,0,,{\fs30\bord0\blur0.8\pos(1604.2,6
 Dialogue: 1,1:40:09.44,1:40:13.40,Sign,,0,0,0,,{\c&H9843EB&\bord0\fs32\pos(1601,792)\blur0.8}陆生，繁殖期以外不近水。\N夜行性动物，白天在土中休息。
 Dialogue: 1,1:40:09.44,1:40:13.40,Sign,,0,0,0,,{\fs30\pos(1601,834)\bord0\blur0.8}辨认方法
 Dialogue: 1,1:40:09.44,1:40:13.40,Sign,,0,0,0,,{\an8\c&H9843EB&\bord0\fs32\pos(1601,915)\blur0.8}身体呈深绿色，带有赤褐色、赤色的斑点。\N特征是背上有心形花纹。\N若是受到刺激，例如被外敌抓住，\N会分泌浅粉色的粘液。
-Dialogue: 1,1:41:58.59,1:42:01.09,Sign,,0,0,0,,{\3c&HEF588B&\fs50\bord0\blur0.8\fsp3\an8\c&H1A1A1A&\pos(620,-130)}16 年一度于地面现身的奇迹之蛙\N将其放在 16 岁女孩的脸上，使其出汗\N采集 18 毫升汗水，让心仪的男性饮用\N{\c&HFFFFFF&}奇迹就会发生{\c&H1A1A1A&}  他的心会立刻被你俘获\N抑制不住内心的爱意向你表白
+Dialogue: 1,1:41:58.59,1:42:01.09,Sign,,0,0,0,,{\3c&HEF588B&\fs50\bord0\blur1\fsp3\an8\c&H1A1A1A&\pos(620,-130)}16 年一度于地面现身的奇迹之蛙\N将其放在 16 岁女孩的脸上，使其出汗\N采集 18 毫升汗水，让心仪的男性饮用\N{\c&HFFFFFF&}奇迹就会发生{\c&H1A1A1A&}  他的心会立刻被你俘获\N抑制不住内心的爱意向你表白
 Dialogue: 0,1:41:58.59,1:42:01.09,Sign,,0,0,0,,{\an7\p1\blur10\c&HEB5E8D&\bord0\pos(0,0)\clip()}m 57 -15 l 59 124 82 151 1172 149 1194 133 1193 -34
 Dialogue: 0,1:41:58.59,1:42:01.09,Sign,,0,0,0,,{\an7\p1\blur2\c&H140B19&\bord0\pos(0,0)}m 1885 0 l 1885 150 1305 150 1305 0
 Dialogue: 1,1:41:58.59,1:42:01.09,Sign,,0,0,0,,{\an8\c&H9843EB&\bord0\fs42\blur0.8\pos(1558,-50)}身体呈深绿色，带有赤褐色、赤色的斑点。\N特征是背上有心形花纹。\N若是受到刺激，例如被外敌抓住，\N会分泌浅粉色的粘液。
-Dialogue: 0,1:41:58.59,1:42:01.09,Sign,,0,0,0,,{\pos(990,482)\fs40\fsp1.5\bord3\fn方正准圆_GBK\3c&H1C1A2A&\c&HE0E1E4&}不过，此效果只持续一晚，请当作最终手段。
+Dialogue: 0,1:41:58.59,1:42:01.09,Sign,,0,0,0,,{\blur6\pos(990,468)\fs40\fsp1.5\bord0\c&HE0E1E4&\alpha&H80&\1a&HC8&}不过，此效果只持续一晚，请当作最终手段。
+Dialogue: 1,1:41:58.59,1:42:01.09,Sign,,0,0,0,,{\blur0.4\pos(990,468)\fs40\fsp1.5\bord0\c&HE0E1E4&}不过，此效果只持续一晚，请当作最终手段。
 Dialogue: 0,1:42:01.60,1:42:01.89,Sign - Board - Black,,0,0,0,,{\fs70\c&H944FF7&\3c&HFFFFFF&}只持续一晚
 Dialogue: 0,1:42:01.89,1:42:02.60,Sign - Board - Black,,0,0,0,,{\fs70\3c&H161412&}只持续一晚
 Dialogue: 0,1:42:02.60,1:42:03.39,Sign - Board - Black,,0,0,0,,{\fs70\c&H944FF7&\3c&HFFFFFF&}只持续一晚
@@ -483,12 +990,17 @@ Dialogue: 0,1:42:04.89,1:42:05.60,Sign - Board - Black,,0,0,0,,{\fs70\3c&H161412
 Dialogue: 0,1:42:05.60,1:42:06.06,Sign - Board - Black,,0,0,0,,{\fs70\c&H944FF7&\3c&HFFFFFF&}只持续一晚
 Dialogue: 0,1:46:16.47,1:46:17.93,Sign,,0,0,0,,{\an8\fsp14\c&H000000&\3c&HBBB6B4&}来进行
 Dialogue: 0,1:46:17.93,1:46:20.90,Sign,,0,0,0,,{\an8\fsp14\c&H000000&\3c&HBBB6B4&}生存战略吧
-Dialogue: 0,1:51:01.05,1:51:06.01,Sign,,0,0,0,,{\fs50\bord0\c&H0A0602&\blur0.8\an3\pos(724,378)\frz5\fax-0.07\frx354\fry2}冠
-Dialogue: 0,1:51:01.05,1:51:06.01,Sign,,0,0,0,,{\fs50\bord0\c&H0A0602&\blur0.8\an3\pos(693,558)\frz5\fax-0.07\frx354\fry2}晶马
-Dialogue: 0,1:51:01.05,1:51:06.01,Sign,,0,0,0,,{\fs50\bord0\c&H0A0602&\blur0.8\an3\pos(716,954)\frz5\fax-0.07\frx354\fry2}阳毬
-Dialogue: 0,1:54:41.77,1:54:42.27,Sign,,0,0,0,,{\fs50\bord0\c&H291E23&\blur0.8\an3\frz5\fax-0.07\frx354\fry2\pos(730,376)}冠
-Dialogue: 0,1:54:41.77,1:54:42.27,Sign,,0,0,0,,{\fs50\bord0\c&H291E23&\blur0.8\an3\frz5\fax-0.07\frx354\fry2\pos(699,556)}晶马
-Dialogue: 0,1:54:41.77,1:54:42.27,Sign,,0,0,0,,{\fs50\bord0\c&H291E23&\blur0.8\an3\frz3\fax-0.05\frx356\fry2\pos(722,952)}阳毬
+Dialogue: 0,1:51:01.05,1:51:06.01,Sign,,0,0,0,,{\fs50\bord0\c&H0D0907&\blur0.8\an1\frz5\fax-0.07\frx354\fry2\pos(1000,325)}冠
+Dialogue: 0,1:51:01.05,1:51:06.01,Sign,,0,0,0,,{\fs50\bord0\c&H0D0907&\blur0.8\an1\frz2\fry-6\pos(1154,528)}晶马
+Dialogue: 0,1:51:01.05,1:51:06.01,Sign,,0,0,0,,{\fs50\bord0\c&H0D0907&\blur0.8\an1\frz3\fry2\pos(1033,958)}阳毬
+Dialogue: 0,1:54:41.77,1:54:42.27,Sign,,0,0,0,,{\fs50\bord0\c&H291E23&\blur0.8\an1\frz5\fax-0.07\frx354\fry2\pos(1000,325)}冠
+Dialogue: 0,1:54:41.77,1:54:42.27,Sign,,0,0,0,,{\fs50\bord0\c&H291E23&\blur0.8\an1\frz2\fry-6\pos(1154,528)}晶马
+Dialogue: 0,1:54:41.77,1:54:42.27,Sign,,0,0,0,,{\fs50\bord0\c&H291E23&\blur0.8\an1\frz3\fry2\pos(1033,958)}阳毬
+Dialogue: 0,0:26:58.22,0:27:00.22,Sign,chapter,0,0,0,,{\fs50\bord0\c&H946AE1&\an9\pos(1830,974)\fsp4}第 1 章  {\fnSource Han Serif SC Heavy\c&H232323&\fs80}荻野目苹果
+Dialogue: 0,0:44:07.46,0:44:09.17,Sign,chapter,0,0,0,,{\fad(200,0)\fs50\bord0\c&H946AE1&\an9\pos(1810,974)\fsp4}第 2 章  {\fnSource Han Serif SC Heavy\c&H232323&\fs80}高仓冠叶
+Dialogue: 0,0:50:59.87,0:51:01.58,Sign,chapter,0,0,0,,{\fad(200,0)\fs50\bord0\c&H946AE1&\an9\pos(1804,974)\fsp4}第 3 章  {\fnSource Han Serif SC Heavy\c&H232323&\fs80}高仓晶马
+Dialogue: 0,1:17:04.10,1:17:05.81,Sign,chapter,0,0,0,,{\fad(200,0)\fs50\bord0\c&H946AE1&\an9\pos(1846,974)\fsp4}第 4 章  {\fnSource Han Serif SC Heavy\c&H232323&\fs80}夏芽真砂子
+Dialogue: 0,1:27:56.08,1:27:57.79,Sign,chapter,0,0,0,,{\fad(200,0)\fs50\bord0\c&H946AE1&\an9\pos(1806,974)\fsp4}第 5 章  {\fnSource Han Serif SC Heavy\c&H232323&\fs80}高仓阳毬
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,﹝Dialogue CN﹞
 Dialogue: 1,0:03:47.25,0:03:48.42,Text - CN,*,0,0,0,,企鹅？
 Dialogue: 1,0:04:00.14,0:04:03.01,Text - CN,*,0,0,0,,这里是  水族馆…
@@ -3353,3 +3865,8 @@ Dialogue: 0,1:57:19.39,1:57:20.72,Text - JP,,0,0,0,,どうして…
 Dialogue: 0,1:57:21.72,1:57:24.02,Text - JP,,0,0,0,,どうして俺じゃダメなんだ!?
 Dialogue: 0,1:57:26.94,1:57:29.02,Text - JP,,0,0,0,,そう　君じゃダメさ
 Dialogue: 0,1:57:31.36,1:57:32.65,Text - JP,,0,0,0,,だよね
+
+[Aegisub Extradata]
+Data: 14,a-mo,e{"uuid"#3A"c3224e5d-b928-47f5-aa7c-b253e8361fb6"#2C"originalText"#3A"{\\an3\\fs40\\c&H5A2779&\\bord0\\fnSource Han Sans SC\\b1\\blur1\\pos(1584#2C648)}#E8#BF#98#E4#B9#A6#E5#A4#84"}
+Data: 15,a-mo,e{"uuid"#3A"41e995dd-2fc0-4811-bc9d-2633900e621a"#2C"originalText"#3A"{\\an6\\fs40\\bord0\\fn#E6#96#B9#E6#AD#A3#E5#87#86#E5#9C#86_GBK\\b1\\c&HD3D0D2&\\pos(318#2C952)\\blur0.6}#E4#BB#8A#E5#A4#A9#E6#98#AF"}
+Data: 16,a-mo,e{"uuid"#3A"5c860e38-cd17-46a2-bb17-ad570e067a6b"#2C"originalText"#3A"{\\an6\\fs40\\bord0\\fn#E6#96#B9#E6#AD#A3#E5#87#86#E5#9C#86_GBK\\b1\\c&HD3D0D2&\\pos(318#2C776)\\blur0.6}#E8#BF#98#E4#B9#A6#E6#97#A5"}
