@@ -9,8 +9,8 @@
 | 5 | 真寻与辅导与邀请 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Oniichan%20ha%20Oshimai/%5BSweetSub%5D%20Oniichan%20ha%20Oshimai!%20-%2005.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Oniichan%20ha%20Oshimai/%5BSweetSub%5D%20Oniichan%20ha%20Oshimai!%20-%2005.cht.ass) |
 | 6 | 真寻与第二次当初中生 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Oniichan%20ha%20Oshimai/%5BSweetSub%5D%20Oniichan%20ha%20Oshimai!%20-%2006.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Oniichan%20ha%20Oshimai/%5BSweetSub%5D%20Oniichan%20ha%20Oshimai!%20-%2006.cht.ass) |
 | 7 | 真寻与角色扮演 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Oniichan%20ha%20Oshimai/%5BSweetSub%5D%20Oniichan%20ha%20Oshimai!%20-%2007.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Oniichan%20ha%20Oshimai/%5BSweetSub%5D%20Oniichan%20ha%20Oshimai!%20-%2007.cht.ass) |
-| 8 | 真寻与第一次女子会 |  |  |
-| 9 |  |  |  |
+| 8 | 真寻与第一次女子会 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Oniichan%20ha%20Oshimai/%5BSweetSub%5D%20Oniichan%20ha%20Oshimai!%20-%2008.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Oniichan%20ha%20Oshimai/%5BSweetSub%5D%20Oniichan%20ha%20Oshimai!%20-%2008.cht.ass) |
+| 9 | 真寻与圣诞元旦 |  |  |
 | 10 |  |  |  |
 | 11 |  |  |  |
 | 12 |  |  |  |
