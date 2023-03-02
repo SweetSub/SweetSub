@@ -1,3 +1,4 @@
+字幕文件对应 BD 源。
 
 
 | 集数 |        标题        |                             简体                             |                             繁体                             |
@@ -15,5 +16,8 @@
 | 11 | 尖峰对决 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Lycoris%20Recoil%2F%5BSweetSub%5D%20Lycoris%20Recoil%20-%2011.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Lycoris%20Recoil%2F%5BSweetSub%5D%20Lycoris%20Recoil%20-%2011.cht.ass) |
 | 12 | 本性对教养 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Lycoris%20Recoil%2F%5BSweetSub%5D%20Lycoris%20Recoil%20-%2012.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Lycoris%20Recoil%2F%5BSweetSub%5D%20Lycoris%20Recoil%20-%2012.cht.ass) |
 | 13 | Recoil of Lycoris | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Lycoris%20Recoil%2F%5BSweetSub%5D%20Lycoris%20Recoil%20-%2013.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Lycoris%20Recoil%2F%5BSweetSub%5D%20Lycoris%20Recoil%20-%2013.cht.ass) |
+| 合集 | | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Lycoris%20Recoil%2F%5BSweetSub%5D%20Lycoris%20Recoil.chs.zip) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Lycoris%20Recoil%2F%5BSweetSub%5D%20Lycoris%20Recoil.cht.zip) |
+
 
 ![](https://p.sda1.dev/6/18d6fe23166e9fac52adfe2ef50758f2/LycorisRecoil02-3.jpg)
+![](https://p.sda1.dev/7/5af00c0c965a2a2ffa0414fe2df21844/LycorisRecoil04.png)
