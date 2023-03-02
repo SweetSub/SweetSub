@@ -5,7 +5,9 @@ Title: [SweetSub] Lycoris Recoil - 04
 ScriptType: v4.00+
 PlayResX: 1920
 LayoutResX: 1920
+LayoutResX: 1920
 PlayResY: 1080
+LayoutResY: 1080
 LayoutResY: 1080
 WrapStyle: 0
 ScaledBorderAndShadow: yes
@@ -29,19 +31,13 @@ Style: OP JP,Source Han Sans Medium,60,&H00FFFFFF,&H000000FF,&H005052ED,&H000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,**正在调轴的匹配 BD 片源的观众朋友请注意**
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,SweetSub *一定*会调整匹配 BD 片源。
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,调整好的字幕会以包括 GitHub 在内的多种渠道发布，供大家取用。
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,请不要擅自调轴并发布本组的字幕以匹配 BD 片源，除非本组在 BD 最后一卷于 U2 放流 60 天后仍然未发布 BD 字幕。
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,本字幕由 SweetSub 制作
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,本字幕在遵循 Creative Common BY-NC-ND 4.0 规则的情况下可以自由转载、使用。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,即，在署名、非商业利用、不进行修改的情况下可以自由转载使用。
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果是仅仅是修改时间轴匹配 BD 以外的片源的话，可以作为例外，在署名、非商业利用的情况下，可以自由转载、使用。
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果在其它情况下想要转载和使用本字幕，或是在字幕中发现了错误或者有其它问题，可以使用 telegram 联系我，详细方法见 telegram 频道。
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,该版本为合集修正版字幕，对应 WEB 片源。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果是仅仅是修改时间轴匹配自己的片源的话，可以作为例外，在署名、非商业利用的情况下，可以自由转载、使用。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果在其它情况下想要转载和使用本字幕，可以通过 telegram 联系我。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,该版本是 BD 版字幕 v1，不出意外不会再修改。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果在字幕中发现了错误或者有其它问题，可以使用 telegram 联系我，详细方法见 SweetSub 的 telegram 频道。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Credit~
 Dialogue: 0,0:01:20.77,0:01:26.23,Credit EN 2,,0,0,0,,{\c&H5954EF&\pos(960,685.2)}S{\c}weet{\c&HA8B400&}S{\c}ub
 Dialogue: 0,0:01:20.77,0:01:26.23,Credit CN 2,,0,0,0,,{\c&H5954EF&\an8\fs40\pos(960,759.6)}翻{\c}译 & {\c&HA8B400&}后{\c}期   {\c&H5954EF&}L{\c}ime{\c&HA8B400&}C{\c}andy
@@ -244,7 +240,7 @@ Dialogue: 0,0:00:56.99,0:00:59.28,Default,,0,0,0,,不用勉强去用老师的子
 Dialogue: 0,0:01:00.33,0:01:03.87,Default,,0,0,0,,但命中要害是我们的工作啊
 Dialogue: 0,0:01:04.50,0:01:06.21,Default,,0,0,0,,已经不是了吧
 Dialogue: 0,0:02:41.97,0:02:44.05,Default,,0,0,0,,真不甘心
-Dialogue: 0,0:02:44.06,0:02:45.89,Default,,0,0,0,,你太上头了
+Dialogue: 0,0:02:44.06,0:02:45.89,Default,,0,0,0,,你太较真了
 Dialogue: 0,0:02:45.89,0:02:48.60,Default,,0,0,0,,但是这家伙的名字…
 Dialogue: 0,0:02:48.60,0:02:51.06,Default,,0,0,0,,玉簪  来得好
 Dialogue: 0,0:02:51.06,0:02:53.02,Default,,0,0,0,,来试试这个  试试这个
@@ -260,7 +256,7 @@ Dialogue: 0,0:03:34.73,0:03:36.32,Default,,0,0,0,,你也太高兴过头了吧
 Dialogue: 0,0:03:36.32,0:03:38.28,Default,,0,0,0,,这混蛋！
 Dialogue: 0,0:03:38.32,0:03:41.74,Default,,0,0,0,,战斗方式像是突然换了个人一样
 Dialogue: 0,0:03:41.74,0:03:43.70,Default,,0,0,0,,换人换人  该我了
-Dialogue: 0,0:03:43.70,0:03:46.91,Default,,0,0,0,,前辈  你玩网游也太上头了吧
+Dialogue: 0,0:03:43.70,0:03:46.91,Default,,0,0,0,,前辈  你玩网游也太较真了吧
 Dialogue: 0,0:03:46.91,0:03:48.33,Default,,0,0,0,,因为…
 Dialogue: 0,0:03:48.33,0:03:51.25,Default,,0,0,0,,我看这家伙的名字不爽
 Dialogue: 0,0:03:59.96,0:04:01.17,Default,,0,0,0,,胡桃
@@ -364,7 +360,7 @@ Dialogue: 0,0:08:23.35,0:08:24.10,Default,,0,0,0,,好
 Dialogue: 0,0:08:24.11,0:08:28.73,Default,,0,0,0,,接下来是我期待已久的点心时间
 Dialogue: 0,0:08:28.74,0:08:30.90,Default,,0,0,0,,我们已经完成目标了啊
 Dialogue: 0,0:08:30.90,0:08:35.20,Default,,0,0,0,,完成？又不是工作  今天就陪陪我嘛
-Dialogue: 0,0:08:38.16,0:08:42.37,Default,,0,0,0,,一份树莓希腊酸奶瑞可塔荷兰宝贝松饼
+Dialogue: 0,0:08:38.16,0:08:42.37,Default,,0,0,0,,一份覆盆子和希腊酸奶瑞可塔荷兰婴儿蛋糕松饼
 Dialogue: 0,0:08:42.37,0:08:45.75,Default,,0,0,0,,一份全麦蜂蜜黄油松饼配姜片
 Dialogue: 0,0:08:45.75,0:08:47.33,Default,,0,0,0,,好的
 Dialogue: 0,0:08:47.46,0:08:49.75,Default,,0,0,0,,从名字上就看得出来卡路里有多高
@@ -439,8 +435,8 @@ Dialogue: 0,0:10:07.79,0:10:13.05,RUBY,,0,0,0,,{\fs45\pos(960,980)}Alors, on n'a
 Comment: 0,0:10:13.05,0:10:14.43,Default,,0,0,0,,(有咖啡吗,Le cafée c'est là?)？
 Dialogue: 0,0:10:13.05,0:10:14.43,Default,,0,0,0,,有咖啡吗？
 Dialogue: 0,0:10:13.05,0:10:14.43,RUBY,,0,0,0,,{\fs45\pos(928,980)}Le cafée c'est là?
-Comment: 0,0:10:14.43,0:10:18.10,Default,,0,0,0,,(有的  在这个长菜单上  浓缩咖啡  找到了,Oui, ça c'est un allongé, et l'expresso … est là!)！
-Dialogue: 0,0:10:14.43,0:10:18.10,Default,,0,0,0,,有的  在这个长菜单上  浓缩咖啡  找到了！
+Comment: 0,0:10:14.43,0:10:18.10,Default,,0,0,0,,(有的  这是拉长咖啡  而浓缩咖啡在这里,Oui, ça c'est un allongé, et l'expresso … est là!)！
+Dialogue: 0,0:10:14.43,0:10:18.10,Default,,0,0,0,,有的  这是拉长咖啡  而浓缩咖啡在这里！
 Dialogue: 0,0:10:14.43,0:10:18.10,RUBY,,0,0,0,,{\fs45\pos(928,980)}Oui, ça c'est un allongé, et l'expresso … est là!
 Dialogue: 0,0:10:00.45,0:10:01.99,Top,,0,0,0,,真好吃
 Dialogue: 0,0:10:24.43,0:10:27.23,Default,,0,0,0,,吃完了我们去个好地方
