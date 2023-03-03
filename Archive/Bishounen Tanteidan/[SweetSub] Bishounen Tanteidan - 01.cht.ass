@@ -8,7 +8,9 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 PlayResX: 1920
+LayoutResX: 1920
 PlayResY: 1080
+LayoutResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -315,7 +317,7 @@ Dialogue: 1,0:12:46.83,0:12:51.04,Text - CN,,0,0,0,,他們終於明明白白地�
 Dialogue: 1,0:12:51.63,0:12:54.38,Text - CN,,0,0,0,,瞎胡鬧就到國二為止
 Dialogue: 1,0:12:54.38,0:12:58.63,Text - CN,,0,0,0,,約好若是到國中二年級還沒能找到那顆星星
 Dialogue: 1,0:12:58.63,0:13:02.80,Text - CN,,0,0,0,,就要徹底放棄當太空人的夢想
-Dialogue: 1,0:13:03.55,0:13:09.56,Text - CN,,0,0,0,,但是  這樣的我  這樣的人生  也馬上就要結束了
+Dialogue: 1,0:13:03.55,0:13:09.56,Text - CN,,0,0,0,,但是  這樣的我  這樣的生活  也馬上就要結束了
 Dialogue: 1,0:13:10.44,0:13:14.82,Text - CN,,0,0,0,,以 14 歲生日為界  再不找星星了
 Dialogue: 1,0:13:18.40,0:13:19.82,Text - CN,,0,0,0,,真美
 Dialogue: 1,0:13:19.82,0:13:22.20,Text - CN,,0,0,0,,尋找失去的繁星

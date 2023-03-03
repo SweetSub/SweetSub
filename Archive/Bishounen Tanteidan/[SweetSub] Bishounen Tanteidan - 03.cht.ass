@@ -8,7 +8,9 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 PlayResX: 1920
+LayoutResX: 1920
 PlayResY: 1080
+LayoutResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -200,7 +202,7 @@ Dialogue: 1,0:05:48.77,0:05:53.46,Text - CN,,0,0,0,,畢竟只要監視眉美一�
 Dialogue: 1,0:05:54.37,0:05:55.76,Text - CN,,0,0,0,,也就是說
 Dialogue: 1,0:05:55.76,0:06:00.97,Text - CN,,0,0,0,,一個追夢少女  為一顆不存在的星星尋遍天空的模樣
 Dialogue: 1,0:06:00.97,0:06:04.55,Text - CN,,0,0,0,,你們躲在暗處  眼睜睜地看了十年嗎
-Dialogue: 1,0:06:05.00,0:06:08.13,Text - CN,,0,0,0,,雖然這個不是我負責
+Dialogue: 1,0:06:05.00,0:06:08.13,Text - CN,,0,0,0,,不過這個不是我負責
 Dialogue: 1,0:06:08.13,0:06:10.81,Text - CN,,0,0,0,,眉美確實一直在監視下生活
 Dialogue: 1,0:06:11.21,0:06:12.80,Text - CN,,0,0,0,,好像他們也在考慮
 Dialogue: 1,0:06:12.80,0:06:16.31,Text - CN,,0,0,0,,是不是差不多可以撤掉監視了
@@ -351,7 +353,7 @@ Dialogue: 1,0:16:14.98,0:16:16.33,Text - CN,,0,0,0,,別說這個了
 Dialogue: 1,0:16:16.88,0:16:19.40,Text - CN,,0,0,0,,有吃的嗎
 Dialogue: 1,0:16:19.40,0:16:21.08,Text - CN,,0,0,0,,我要餓死了
 Dialogue: 1,0:16:21.65,0:16:24.91,Text - CN,,0,0,0,,有啊  一整桌你喜歡的中餐
-Dialogue: 1,0:16:26.44,0:16:31.22,Text - CN,,0,0,0,,瞳島  如果你保證好好咽下去  倒是也可以一起來吃
+Dialogue: 1,0:16:26.44,0:16:31.22,Text - CN,,0,0,0,,瞳島  如果你保證好好嚥下去  倒是也可以一起來吃
 Dialogue: 1,0:16:39.63,0:16:41.36,Text - CN,,0,0,0,,那太好了
 Dialogue: 1,0:16:52.74,0:16:53.74,Text - CN,,0,0,0,,麗小姐
 Dialogue: 1,0:16:55.09,0:16:56.93,Text - CN,,0,0,0,,不用這麼吃驚
@@ -415,7 +417,7 @@ Dialogue: 1,0:20:06.71,0:20:12.94,Text - CN,,0,0,0,,我覺得如果是你  說�
 Dialogue: 1,0:20:12.94,0:20:17.54,Text - CN,,0,0,0,,說不定能正確地使用我的眼睛
 Dialogue: 1,0:20:18.65,0:20:21.42,Text - CN,,0,0,0,,不對  不是正確地
 Dialogue: 1,0:20:22.47,0:20:23.31,Text - CN,,0,0,0,,是美麗地
-Dialogue: 1,0:20:27.31,0:20:31.96,Text - CN,,0,0,0,,看來  你也被美麗俘獲  成了美之俘虜了啊
+Dialogue: 1,0:20:27.31,0:20:31.96,Text - CN,,0,0,0,,看來  你也被美麗所征服了啊
 Dialogue: 1,0:20:33.23,0:20:34.45,Text - CN,,0,0,0,,好
 Dialogue: 1,0:20:34.45,0:20:38.22,Text - CN,,0,0,0,,美學既可以學  也可以教
 Dialogue: 1,0:20:38.22,0:20:41.11,Text - CN,,0,0,0,,喂  你認真的嗎  老大

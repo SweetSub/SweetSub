@@ -8,7 +8,9 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 PlayResX: 1920
+LayoutResX: 1920
 PlayResY: 1080
+LayoutResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -282,7 +284,7 @@ Dialogue: 1,0:10:59.76,0:11:01.02,Text - CN,,0,0,0,,白天？
 Dialogue: 1,0:11:01.68,0:11:03.98,Text - CN,,0,0,0,,是啊  沒錯
 Dialogue: 1,0:11:03.98,0:11:06.73,Text - CN,,0,0,0,,說到底那年我才 4 歲
 Dialogue: 1,0:11:06.73,0:11:09.40,Text - CN,,0,0,0,,不是熬得了夜的年紀
-Dialogue: 1,0:11:09.40,0:11:10.90,Text - CN,,0,0,0,,這也很難說吧
+Dialogue: 1,0:11:09.40,0:11:10.90,Text - CN,,0,0,0,,這也不好說吧
 Dialogue: 1,0:11:11.44,0:11:15.40,Text - CN,,0,0,0,,日本的白晝  在某些國家便是夜晚
 Dialogue: 1,0:11:15.40,0:11:18.91,Text - CN,,0,0,0,,那片天空到底逃不出被觀測的宿命  不是嗎
 Dialogue: 1,0:11:18.91,0:11:19.91,Text - CN,,0,0,0,,只不過

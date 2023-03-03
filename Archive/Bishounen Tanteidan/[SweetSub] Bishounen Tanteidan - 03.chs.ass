@@ -7,7 +7,9 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 PlayResX: 1920
+LayoutResX: 1920
 PlayResY: 1080
+LayoutResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -199,7 +201,7 @@ Dialogue: 1,0:05:48.77,0:05:53.46,Text - CN,,0,0,0,,毕竟只要监视眉美一�
 Dialogue: 1,0:05:54.37,0:05:55.76,Text - CN,,0,0,0,,也就是说
 Dialogue: 1,0:05:55.76,0:06:00.97,Text - CN,,0,0,0,,一个追梦少女  为一颗不存在的星星寻遍天空的模样
 Dialogue: 1,0:06:00.97,0:06:04.55,Text - CN,,0,0,0,,你们躲在暗处  眼睁睁地看了十年吗
-Dialogue: 1,0:06:05.00,0:06:08.13,Text - CN,,0,0,0,,虽然这个不是我负责
+Dialogue: 1,0:06:05.00,0:06:08.13,Text - CN,,0,0,0,,不过这个不是我负责
 Dialogue: 1,0:06:08.13,0:06:10.81,Text - CN,,0,0,0,,眉美确实一直在监视下生活
 Dialogue: 1,0:06:11.21,0:06:12.80,Text - CN,,0,0,0,,好像他们也在考虑
 Dialogue: 1,0:06:12.80,0:06:16.31,Text - CN,,0,0,0,,是不是差不多可以撤掉监视了
@@ -414,7 +416,7 @@ Dialogue: 1,0:20:06.71,0:20:12.94,Text - CN,,0,0,0,,我觉得如果是你  说�
 Dialogue: 1,0:20:12.94,0:20:17.54,Text - CN,,0,0,0,,说不定能正确地使用我的眼睛
 Dialogue: 1,0:20:18.65,0:20:21.42,Text - CN,,0,0,0,,不对  不是正确地
 Dialogue: 1,0:20:22.47,0:20:23.31,Text - CN,,0,0,0,,是美丽地
-Dialogue: 1,0:20:27.31,0:20:31.96,Text - CN,,0,0,0,,看来  你也被美丽俘获  成了美之俘虏了啊
+Dialogue: 1,0:20:27.31,0:20:31.96,Text - CN,,0,0,0,,看来  你也被美丽所征服了啊
 Dialogue: 1,0:20:33.23,0:20:34.45,Text - CN,,0,0,0,,好
 Dialogue: 1,0:20:34.45,0:20:38.22,Text - CN,,0,0,0,,美学既可以学  也可以教
 Dialogue: 1,0:20:38.22,0:20:41.11,Text - CN,,0,0,0,,喂  你认真的吗  老大

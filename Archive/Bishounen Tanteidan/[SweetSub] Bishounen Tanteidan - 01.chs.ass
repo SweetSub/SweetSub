@@ -7,7 +7,9 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 PlayResX: 1920
+LayoutResX: 1920
 PlayResY: 1080
+LayoutResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -314,7 +316,7 @@ Dialogue: 1,0:12:46.83,0:12:51.04,Text - CN,,0,0,0,,他们终于明明白白地�
 Dialogue: 1,0:12:51.63,0:12:54.38,Text - CN,,0,0,0,,瞎胡闹就到初二为止
 Dialogue: 1,0:12:54.38,0:12:58.63,Text - CN,,0,0,0,,约好若是到初中二年级还没能找到那颗星星
 Dialogue: 1,0:12:58.63,0:13:02.80,Text - CN,,0,0,0,,就要彻底放弃当宇航员的梦想
-Dialogue: 1,0:13:03.55,0:13:09.56,Text - CN,,0,0,0,,但是  这样的我  这样的人生  也马上就要结束了
+Dialogue: 1,0:13:03.55,0:13:09.56,Text - CN,,0,0,0,,但是  这样的我  这样的生活  也马上就要结束了
 Dialogue: 1,0:13:10.44,0:13:14.82,Text - CN,,0,0,0,,以 14 岁生日为界  再不找星星了
 Dialogue: 1,0:13:18.40,0:13:19.82,Text - CN,,0,0,0,,真美
 Dialogue: 1,0:13:19.82,0:13:22.20,Text - CN,,0,0,0,,寻找失去的繁星

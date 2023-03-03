@@ -5,7 +5,9 @@ Title: [SweetSub] Bishounen Tanteidan - 07
 ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 1920
+LayoutResX: 1920
 PlayResY: 1080
+LayoutResY: 1080
 ScaledBorderAndShadow: yes
 Video Aspect Ratio: 0
 Video Zoom: 6

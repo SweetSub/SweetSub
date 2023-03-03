@@ -8,7 +8,9 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 PlayResX: 1920
+LayoutResX: 1920
 PlayResY: 1080
+LayoutResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -163,11 +165,11 @@ Dialogue: 1,0:04:57.46,0:04:59.61,Text - CN,,0,0,0,,怎麼想都是真的啊
 Dialogue: 1,0:04:59.61,0:05:01.49,Text - CN,,0,0,0,,不對哦
 Dialogue: 1,0:05:01.49,0:05:03.62,Text - CN,,0,0,0,,並非如此  瞳島眉美
 Dialogue: 1,0:05:03.93,0:05:06.74,Text - CN,,0,0,0,,創作是說這個做得太好了
-Dialogue: 1,0:05:07.72,0:05:13.91,Text - CN,,0,0,0,,就是說  作為假幣  它的性價比過於低下
-Dialogue: 1,0:05:13.91,0:05:19.28,Text - CN,,0,0,0,,為了做一張一萬元的假幣  需要的花費不止一萬元
+Dialogue: 1,0:05:07.72,0:05:13.91,Text - CN,,0,0,0,,就是說  作為假鈔  它的性價比過於低下
+Dialogue: 1,0:05:13.91,0:05:19.28,Text - CN,,0,0,0,,為了做一張一萬元的假鈔  需要的花費不止一萬元
 Dialogue: 1,0:05:19.28,0:05:20.74,Text - CN,,0,0,0,,就是這樣
 Dialogue: 1,0:05:20.74,0:05:23.69,Text - CN,,0,0,0,,一點就通  不錯啊  提出表揚
-Dialogue: 1,0:05:23.69,0:05:27.61,Text - CN,,0,0,0,,花費一萬元以上去做一張一萬元的假幣
+Dialogue: 1,0:05:23.69,0:05:27.61,Text - CN,,0,0,0,,花費一萬元以上去做一張一萬元的假鈔
 Dialogue: 1,0:05:27.61,0:05:30.39,Text - CN,,0,0,0,,這有什麼意義呢
 Dialogue: 1,0:05:30.39,0:05:32.69,Text - CN,,0,0,0,,問得好
 Dialogue: 1,0:05:32.69,0:05:37.37,Text - CN,,0,0,0,,理所當然地  這樣可以做出來比真鈔還要真的假鈔
@@ -203,8 +205,8 @@ Dialogue: 1,0:07:05.33,0:07:06.36,Text - CN,,0,0,0,,咦
 Dialogue: 1,0:07:09.95,0:07:10.62,Text - CN,,0,0,0,,我盯  盯盯盯盯盯
 Dialogue: 1,0:07:10.66,0:07:10.79,Text - CN,,0,0,0,,我盯  盯盯盯盯盯
 Dialogue: 1,0:07:10.87,0:07:11.77,Text - CN,,0,0,0,,我盯  盯盯盯盯盯
-Dialogue: 1,0:07:14.17,0:07:18.95,Text - CN,,0,0,0,,我說  這張假幣裡面  好像有什麼東西
-Dialogue: 1,0:07:18.95,0:07:20.84,Text - CN,,0,0,0,,假幣裡面？
+Dialogue: 1,0:07:14.17,0:07:18.95,Text - CN,,0,0,0,,我說  這張假鈔裡面  好像有什麼東西
+Dialogue: 1,0:07:18.95,0:07:20.84,Text - CN,,0,0,0,,假鈔裡面？
 Dialogue: 1,0:07:20.84,0:07:22.22,Text - CN,,0,0,0,,你說什麼呢
 Comment: 1,0:07:24.75,0:07:26.08,Text - CN,,0,0,0,,(｀・∀・´)
 Dialogue: 1,0:07:26.08,0:07:30.71,Text - CN,,0,0,0,,滿  創作似乎在說讓我們交給他哦
@@ -294,7 +296,7 @@ Dialogue: 1,0:13:44.47,0:13:45.47,Text - CN,,0,0,0,,先生
 Dialogue: 1,0:13:46.09,0:13:51.37,Text - CN,,0,0,0,,沒事  我…我只是  那什麼  不太明白規則
 Dialogue: 1,0:13:51.37,0:13:53.35,Text - CN,,0,0,0,,我只是跟著朋友來的
 Dialogue: 1,0:13:54.65,0:13:55.98,Text - CN,,0,0,0,,朋友啊
-Dialogue: 1,0:13:56.53,0:13:58.98,Text - CN,,0,0,0,,那就由我來招待你吧
+Dialogue: 1,0:13:56.53,0:13:58.98,Text - CN,,0,0,0,,那就由我來招待您吧
 Dialogue: 1,0:13:59.53,0:14:01.27,Text - CN,,0,0,0,,我們回歸童心
 Dialogue: 1,0:14:04.31,0:14:06.24,Text - CN,,0,0,0,,玩黑白棋怎麼樣
 Dialogue: 1,0:14:06.24,0:14:08.62,Text - CN,,0,0,0,,那個  您是
