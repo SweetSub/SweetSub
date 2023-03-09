@@ -11,8 +11,8 @@
 | 7 | 真寻与角色扮演 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Oniichan%20ha%20Oshimai/%5BSweetSub%5D%20Oniichan%20ha%20Oshimai!%20-%2007.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Oniichan%20ha%20Oshimai/%5BSweetSub%5D%20Oniichan%20ha%20Oshimai!%20-%2007.cht.ass) |
 | 8 | 真寻与第一次女子会 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Oniichan%20ha%20Oshimai/%5BSweetSub%5D%20Oniichan%20ha%20Oshimai!%20-%2008.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Oniichan%20ha%20Oshimai/%5BSweetSub%5D%20Oniichan%20ha%20Oshimai!%20-%2008.cht.ass) |
 | 9 | 真寻与圣诞元旦 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Oniichan%20ha%20Oshimai/%5BSweetSub%5D%20Oniichan%20ha%20Oshimai!%20-%2009.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Oniichan%20ha%20Oshimai/%5BSweetSub%5D%20Oniichan%20ha%20Oshimai!%20-%2009.cht.ass) |
-| 10 | 真寻与胸部与自我认同 |  |  |
-| 11 |  |  |  |
+| 10 | 真寻与胸部与自我认同 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Oniichan%20ha%20Oshimai/%5BSweetSub%5D%20Oniichan%20ha%20Oshimai!%20-%2010.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Oniichan%20ha%20Oshimai/%5BSweetSub%5D%20Oniichan%20ha%20Oshimai!%20-%2010.cht.ass) |
+| 11 | 真寻与女生的兴趣爱好 |  |  |
 | 12 |  |  |  |
 
 
