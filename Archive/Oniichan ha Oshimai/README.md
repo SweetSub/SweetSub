@@ -13,7 +13,7 @@
 | 9 | 真寻与圣诞元旦 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Oniichan%20ha%20Oshimai/%5BSweetSub%5D%20Oniichan%20ha%20Oshimai!%20-%2009.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Oniichan%20ha%20Oshimai/%5BSweetSub%5D%20Oniichan%20ha%20Oshimai!%20-%2009.cht.ass) |
 | 10 | 真寻与胸部与自我认同 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Oniichan%20ha%20Oshimai/%5BSweetSub%5D%20Oniichan%20ha%20Oshimai!%20-%2010.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Oniichan%20ha%20Oshimai/%5BSweetSub%5D%20Oniichan%20ha%20Oshimai!%20-%2010.cht.ass) |
 | 11 | 真寻与女生的兴趣爱好 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Oniichan%20ha%20Oshimai/%5BSweetSub%5D%20Oniichan%20ha%20Oshimai!%20-%2011.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Oniichan%20ha%20Oshimai/%5BSweetSub%5D%20Oniichan%20ha%20Oshimai!%20-%2011.cht.ass) |
-| 12 | 真寻的了断与将来 |  |  |
+| 12 | 真寻的了断与将来 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Oniichan%20ha%20Oshimai/%5BSweetSub%5D%20Oniichan%20ha%20Oshimai!%20-%2012.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Oniichan%20ha%20Oshimai/%5BSweetSub%5D%20Oniichan%20ha%20Oshimai!%20-%2012.cht.ass) |
 
 
 ![](https://p.sda1.dev/9/31f4ef13f8bad75e80ac8e6730a3a2cf/Onimai%20Poster.jpg)
