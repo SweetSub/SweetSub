@@ -8,7 +8,9 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 PlayResX: 1920
+LayoutResX: 1920
 PlayResY: 1080
+LayoutResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,7 +39,7 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,即，在署名、非商業利�
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果是僅僅是修改時間軸匹配 BD 以外的片源的話，可以作為例外，在署名、非商業利用的情況下，可以自由轉載、使用。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果在其它情況下想要轉載和使用本字幕，或是在字幕中發現了錯誤或者有其它問題，可以使用 telegram 聯繫我，詳細方法見 telegram 頻道。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,該版本為初版字幕，在合集時會有修正。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,該版本為初版字幕該版本為 web 合集版字幕，在 BD 時會有修正。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Credit~
 Dialogue: 0,0:23:11.54,0:23:11.62,Sign,Credit,0,0,0,,{\an2\fs36\pos(960,1063)\fn華康方圓體W7\c&H9D65EF&\3c&HF9F8F9&\clip(m 460 947 b 817 1318 1327 1115 1443 939)}{\fscx90}SweetSub／ {\fscx100}日字整理：{\fscx90}Senren　{\fscx100}翻譯：{\fscx90}LimeCandy　{\fscx100}校對：{\fscx90}boday　{\fscx100}後期：{\fscx90}ddddbug
 Dialogue: 0,0:23:11.58,0:23:11.66,Sign,Credit,0,0,0,,{\an2\fs36\pos(960,1063)\fn華康方圓體W7\c&H9D65EF&\3c&HF9F8F9&\clip(m 308 992 b 627 1434 1406 1276 1579 990)}{\fscx90}SweetSub／ {\fscx100}日字整理：{\fscx90}Senren　{\fscx100}翻譯：{\fscx90}LimeCandy　{\fscx100}校對：{\fscx90}boday　{\fscx100}後期：{\fscx90}ddddbug
@@ -130,7 +132,7 @@ Dialogue: 1,0:21:49.37,0:21:52.08,EDCN,,0,0,50,,歡迎來到秘密花園{\fnFOT-
 Dialogue: 1,0:21:52.58,0:21:56.34,EDCN,,0,0,0,,{\an1\pos(80,1020)}哥…真尋{\fnFOT-PopJoy Std B}！{\fn華康方圓體W7}今天要不要試試穿女僕裝{\fnFOT-PopJoy Std B}？
 Dialogue: 1,0:21:54.54,0:21:57.38,EDCN,,0,0,0,,{\an9\pos(1840,60)}不行不行  應該穿成兔女郎才對吧{\fnFOT-PopJoy Std B}!?
 Dialogue: 1,0:21:55.17,0:21:56.50,EDCN,,0,0,0,,{\an3\pos(1840,1020)}欸{\fnFOT-PopJoy Std B}!?
-Dialogue: 1,0:21:56.34,0:21:58.84,EDCN,,0,0,0,,{\an1\pos(80,1020)}來穿和我同款的褲子吧{\fnFOT-PopJoy Std B}！
+Dialogue: 1,0:21:56.34,0:21:58.84,EDCN,,0,0,0,,{\an1\pos(80,1020)}來穿和我同款的{\fnFOT-PopJoy Std B\fs50}袴{\fn華康方圓體W7\fs}吧{\fnFOT-PopJoy Std B}！
 Dialogue: 1,0:21:56.50,0:21:58.26,EDCN,,0,0,0,,{\an3\pos(1840,1020)}我  我說…{\fnFOT-PopJoy Std B}！
 Dialogue: 1,0:21:58.26,0:21:59.13,EDCN,,0,0,0,,{\an3\pos(1840,1020)}等…{\fnFOT-PopJoy Std B}！{\fn華康方圓體W7}等一下…{\fnFOT-PopJoy Std B}！
 Dialogue: 1,0:21:59.13,0:22:00.63,EDCN,,0,0,60,,…不管怎樣  先脫了吧{\fnFOT-PopJoy Std B}？
@@ -142,7 +144,7 @@ Dialogue: 1,0:22:11.02,0:22:13.69,EDCN,,0,0,0,,{\an3\pos(1840,990)}奪回好兄�
 Dialogue: 1,0:22:13.69,0:22:16.19,EDCN,,0,0,60,,我們一起開女子會{\fnFOT-PopJoy Std B}[Party]{\fn華康方圓體W7}吧{\fnFOT-PopJoy Std B}♪{\fn華康方圓體W7}耶耶耶{\fnFOT-PopJoy Std B}♪{\fn華康方圓體W7}
 Dialogue: 1,0:22:16.19,0:22:18.82,EDCN,,0,0,60,,女生包圍中的唯一男生{\fnFOT-PopJoy Std B}！
 Dialogue: 1,0:22:18.82,0:22:21.65,EDCN,,0,0,60,,危險的戀愛百合百合花怒放
-Dialogue: 1,0:22:21.65,0:22:23.53,EDCN,,0,0,60,,感情的大瓶頸
+Dialogue: 1,0:22:21.65,0:22:23.53,EDCN,,0,0,60,,心情超複雜
 Dialogue: 1,0:22:23.53,0:22:26.33,EDCN,,0,0,0,,{\an1\pos(80,990)}數著{\fnFOT-PopJoy Std B} 1、2、3 {\fn華康方圓體W7}的口號
 Dialogue: 1,0:22:26.33,0:22:28.95,EDCN,,0,0,0,,{\an1\pos(80,990)}跨越{\fnFOT-PopJoy Std B}♂{\fn華康方圓體W7}性{\fnFOT-PopJoy Std B}♀{\fn華康方圓體W7}的邊界線
 Dialogue: 1,0:22:28.95,0:22:31.46,EDCN,,0,0,0,,在小·鹿·亂·撞中
@@ -411,7 +413,7 @@ Dialogue: 9,0:16:07.53,0:16:10.53,Text - CN,,0,0,0,,穿裙子時腳下不是會�
 Dialogue: 9,0:16:10.53,0:16:12.87,Text - CN,,0,0,0,,感覺沒有安全感…
 Dialogue: 9,0:16:13.49,0:16:16.66,Text - CN,,0,0,0,,我我我… 我懂你！
 Dialogue: 9,0:16:17.12,0:16:19.83,Text - CN,,0,0,0,,而且  說到底我穿裙子也不好看…
-Dialogue: 9,0:16:19.83,0:16:23.88,Text - CN,,0,0,0,,欸  沒有吧  我覺得你穿裙子還挺可愛的呀
+Dialogue: 9,0:16:19.83,0:16:23.88,Text - CN,,0,0,0,,欸  沒有吧  我覺得還挺可愛的呀
 Dialogue: 9,0:16:23.88,0:16:26.30,Text - CN,,0,0,0,,可… 可愛!?
 Dialogue: 9,0:16:27.80,0:16:32.10,Text - CN,,0,0,0,,才沒有啦！ 肯定肯定是你穿更可愛啦！
 Dialogue: 9,0:16:35.81,0:16:37.94,Text - CN,,0,0,0,,不  不不不！
