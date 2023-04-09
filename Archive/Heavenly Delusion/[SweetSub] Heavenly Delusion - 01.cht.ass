@@ -39,7 +39,7 @@ Dialogue: 0,0:22:26.74,0:22:28.99,OPCN - EP01,,0,0,0,,{\pos(1860,60)\alpha&HFF&\
 Dialogue: 0,0:22:28.99,0:22:32.58,OPCN - EP01,,0,0,0,,{\pos(1860,60)\alpha&HFF&\t(0,200,0.5,\alpha&H00&)\t(3390,0,1.5,\alpha&HFF&)\blur5\t(0,250,1.5,\blur0)\t(3340,0,0.5,\blur5)}無法理解自己的內心
 Dialogue: 0,0:22:32.58,0:22:35.29,OPCN - EP01,,0,0,0,,{\pos(1860,60)\alpha&HFF&\t(0,200,0.5,\alpha&H00&)\t(2510,0,1.5,\alpha&HFF&)\blur5\t(0,250,1.5,\blur0)\t(2460,0,0.5,\blur5)}已經夠了嗎
 Dialogue: 0,0:22:35.29,0:22:38.00,OPCN - EP01,,0,0,0,,{\pos(1860,60)\alpha&HFF&\t(0,200,0.5,\alpha&H00&)\t(2510,0,1.5,\alpha&HFF&)\blur5\t(0,250,1.5,\blur0)\t(2460,0,0.5,\blur5)}再來一次吧
-Dialogue: 0,0:22:38.00,0:22:44.43,OPCN - EP01,,0,0,0,,{\pos(1860,60)\alpha&HFF&\t(0,200,0.5,\alpha&H00&)\t(6230,0,1.5,\alpha&HFF&)\blur5\t(0,250,1.5,\blur0)\t(6180,0,0.5,\blur5)}如果未來已定的話我們該怎麼選？
+Dialogue: 0,0:22:38.00,0:22:44.43,OPCN - EP01,,0,0,0,,{\pos(1860,60)\alpha&HFF&\t(0,200,0.5,\alpha&H00&)\t(6230,0,1.5,\alpha&HFF&)\blur5\t(0,250,1.5,\blur0)\t(6180,0,0.5,\blur5)}如果未來已定的話我們該怎麼{\fsp-1}選{\fn@FOT-NewRodin ProN EB}？
 Dialogue: 0,0:23:00.86,0:23:03.57,OPCN - EP01,,0,0,0,,{\pos(1860,60)\alpha&HFF&\t(0,200,0.5,\alpha&H00&)\t(2510,0,1.5,\alpha&HFF&)\blur5\t(0,250,1.5,\blur0)\t(2460,0,0.5,\blur5)}感情也好
 Dialogue: 0,0:23:03.57,0:23:06.24,OPCN - EP01,,0,0,0,,{\pos(1860,60)\alpha&HFF&\t(0,200,0.5,\alpha&H00&)\t(2470,0,1.5,\alpha&HFF&)\blur5\t(0,250,1.5,\blur0)\t(2420,0,0.5,\blur5)}妄想也罷
 Dialogue: 0,0:23:06.24,0:23:08.58,OPCN - EP01,,0,0,0,,{\pos(1860,60)\alpha&HFF&\t(0,200,0.5,\alpha&H00&)\t(2140,0,1.5,\alpha&HFF&)\blur5\t(0,250,1.5,\blur0)\t(2090,0,0.5,\blur5)}這些早已不再有意義
