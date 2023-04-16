@@ -4,7 +4,7 @@
 | :--: | :--: | :--: | :--: |
 | 1 | 天国与地狱 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Heavenly%20Delusion/%5BSweetSub%5D%20Heavenly%20Delusion%20-%2001.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Heavenly%20Delusion/%5BSweetSub%5D%20Heavenly%20Delusion%20-%2001.cht.ass) |
 | 2 | 两人的表白 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Heavenly%20Delusion/%5BSweetSub%5D%20Heavenly%20Delusion%20-%2002.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Heavenly%20Delusion/%5BSweetSub%5D%20Heavenly%20Delusion%20-%2002.cht.ass) |
-
+| 3 | 桐子与春希 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Heavenly%20Delusion/%5BSweetSub%5D%20Heavenly%20Delusion%20-%2003.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Heavenly%20Delusion/%5BSweetSub%5D%20Heavenly%20Delusion%20-%2003.cht.ass) |
 
 
 
