@@ -674,7 +674,7 @@ Dialogue: 0,0:09:35.80,0:09:35.93,Sign,,0,0,0,,{\fscy97.52\fscx97.52\alpha&H00&\
 Dialogue: 0,0:09:35.93,0:09:36.13,Sign,,0,0,0,,{\fscy97.52\fscx97.52\alpha&H00&\fs50\bord5\c&H302F33&\3c&HEAEDEC&\pos(845.53,65.87)}随妈妈
 Dialogue: 0,0:09:36.13,0:09:36.30,Sign,,0,0,0,,{\fscy97.52\fscx97.52\alpha&H00&\fs50\bord5\c&H302F33&\3c&HEAEDEC&\pos(845.54,65.87)}随妈妈
 Dialogue: 0,0:09:36.30,0:09:36.59,Sign,,0,0,0,,{\fscy97.53\fscx97.53\alpha&H00&\fs50\bord5\c&H302F33&\3c&HEAEDEC&\pos(845.54,65.87)}随妈妈
-Dialogue: 0,0:09:49.11,0:09:51.36,Sign,,0,0,0,,{\fs25\frz18\fax-0.3\bord0\c&H747583&\frx358\fry0\pos(1026.99,840)}学生会办公室
+Dialogue: 0,0:09:49.11,0:09:51.36,Sign,,0,0,0,,{\fs30\frz18\fax-0.35\bord0\c&H747583&\frx358\fry0\fnSource Han Serif SC\b1\pos(1030.99,846.67)}学生会办公室
 Dialogue: 0,0:12:17.38,0:12:25.27,Sign,,0,0,0,,{\pos(966,290)\fn方正综艺_GBK\fs40\bord5\c&H3E4C69&\3c&HF1F4F4&}简单易懂的关系图
 Dialogue: 0,0:12:17.38,0:12:25.27,Sign,,0,0,0,,{\fs40\bord5\c&H3E4C69&\3c&HF1F4F4&\pos(964,458)}井浦同学
 Dialogue: 0,0:12:17.38,0:12:25.27,Sign,,0,0,0,,{\fs40\bord5\c&H3E4C69&\3c&HF1F4F4&\pos(1104,646)}基子妹妹
