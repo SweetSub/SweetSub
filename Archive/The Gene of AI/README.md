@@ -8,6 +8,10 @@
 | 4 | 四个个例 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/The%20Gene%20of%20AI/%5BSweetSub%5D%20The%20Gene%20of%20AI%20-%2004.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/The%20Gene%20of%20AI/%5BSweetSub%5D%20The%20Gene%20of%20AI%20-%2004.cht.ass) |
 | 5 | 调律 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/The%20Gene%20of%20AI/%5BSweetSub%5D%20The%20Gene%20of%20AI%20-%2005.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/The%20Gene%20of%20AI/%5BSweetSub%5D%20The%20Gene%20of%20AI%20-%2005.cht.ass) |
 | 6 | 机器人 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/The%20Gene%20of%20AI/%5BSweetSub%5D%20The%20Gene%20of%20AI%20-%2006.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/The%20Gene%20of%20AI/%5BSweetSub%5D%20The%20Gene%20of%20AI%20-%2006.cht.ass) |
+| 7 | 人类 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/The%20Gene%20of%20AI/%5BSweetSub%5D%20The%20Gene%20of%20AI%20-%2007.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/The%20Gene%20of%20AI/%5BSweetSub%5D%20The%20Gene%20of%20AI%20-%2007.cht.ass) |
+| 8 | 告白 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/The%20Gene%20of%20AI/%5BSweetSub%5D%20The%20Gene%20of%20AI%20-%2008.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/The%20Gene%20of%20AI/%5BSweetSub%5D%20The%20Gene%20of%20AI%20-%2008.cht.ass) |
+
+
 
 
 ![](https://p.sda1.dev/12/d079e52a4ced4aa5778c963091ebd48b/The%20Gene%20of%20AI.jpg)
