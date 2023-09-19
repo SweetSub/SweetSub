@@ -11,6 +11,7 @@
 | 7 | 人类 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/The%20Gene%20of%20AI/%5BSweetSub%5D%20The%20Gene%20of%20AI%20-%2007.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/The%20Gene%20of%20AI/%5BSweetSub%5D%20The%20Gene%20of%20AI%20-%2007.cht.ass) |
 | 8 | 告白 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/The%20Gene%20of%20AI/%5BSweetSub%5D%20The%20Gene%20of%20AI%20-%2008.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/The%20Gene%20of%20AI/%5BSweetSub%5D%20The%20Gene%20of%20AI%20-%2008.cht.ass) |
 | 9 | 正确的社会 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/The%20Gene%20of%20AI/%5BSweetSub%5D%20The%20Gene%20of%20AI%20-%2009.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/The%20Gene%20of%20AI/%5BSweetSub%5D%20The%20Gene%20of%20AI%20-%2009.cht.ass) |
+| 10 | 应有的未来 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/The%20Gene%20of%20AI/%5BSweetSub%5D%20The%20Gene%20of%20AI%20-%2010.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/The%20Gene%20of%20AI/%5BSweetSub%5D%20The%20Gene%20of%20AI%20-%2010.cht.ass) |
 
 
 
