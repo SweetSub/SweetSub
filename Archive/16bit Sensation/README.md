@@ -1,0 +1,11 @@
+
+
+| 集数 | 标题 | 简体 | 繁体 |
+| :--: | :--: | :--: | :--: |
+| 1 | 『我穿越时空了～？！』 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/16bit%20Sensation/%5BSweetSub%5D%2016bit%20Sensation%20-%20Another%20Layer%20-%2001.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/16bit%20Sensation/%5BSweetSub%5D%2016bit%20Sensation%20-%20Another%20Layer%20-%2001.cht.ass) |
+
+
+
+
+
+![](https://files.catbox.moe/57ornv.jpg)
