@@ -8,6 +8,7 @@
 | 4 | 『有何不可!』 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/16bit%20Sensation/%5BSweetSub%5D%2016bit%20Sensation%20-%20Another%20Layer%20-%2004.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/16bit%20Sensation/%5BSweetSub%5D%2016bit%20Sensation%20-%20Another%20Layer%20-%2004.cht.ass) |
 | 5 | 『有第二次就有第三次!』 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/16bit%20Sensation/%5BSweetSub%5D%2016bit%20Sensation%20-%20Another%20Layer%20-%2005.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/16bit%20Sensation/%5BSweetSub%5D%2016bit%20Sensation%20-%20Another%20Layer%20-%2005.cht.ass) |
 | 6 | 『相信我!』 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/16bit%20Sensation/%5BSweetSub%5D%2016bit%20Sensation%20-%20Another%20Layer%20-%2006.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/16bit%20Sensation/%5BSweetSub%5D%2016bit%20Sensation%20-%20Another%20Layer%20-%2006.cht.ass) |
+| 7 | 『不经历风雨怎能见彩虹』 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/16bit%20Sensation/%5BSweetSub%5D%2016bit%20Sensation%20-%20Another%20Layer%20-%2007.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/16bit%20Sensation/%5BSweetSub%5D%2016bit%20Sensation%20-%20Another%20Layer%20-%2007.cht.ass) |
 
 
 
