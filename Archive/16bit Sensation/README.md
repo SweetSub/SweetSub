@@ -12,7 +12,7 @@
 | 8 | 『Echo』 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/16bit%20Sensation/%5BSweetSub%5D%2016bit%20Sensation%20-%20Another%20Layer%20-%2008.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/16bit%20Sensation/%5BSweetSub%5D%2016bit%20Sensation%20-%20Another%20Layer%20-%2008.cht.ass) |
 | 9 | 『再见』 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/16bit%20Sensation/%5BSweetSub%5D%2016bit%20Sensation%20-%20Another%20Layer%20-%2009.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/16bit%20Sensation/%5BSweetSub%5D%2016bit%20Sensation%20-%20Another%20Layer%20-%2009.cht.ass) |
 | 10 | 『我会全力以赴的！』 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/16bit%20Sensation/%5BSweetSub%5D%2016bit%20Sensation%20-%20Another%20Layer%20-%2010.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/16bit%20Sensation/%5BSweetSub%5D%2016bit%20Sensation%20-%20Another%20Layer%20-%2010.cht.ass) |
-
+| 11 | 『Original Cuu』 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/16bit%20Sensation/%5BSweetSub%5D%2016bit%20Sensation%20-%20Another%20Layer%20-%2011.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/16bit%20Sensation/%5BSweetSub%5D%2016bit%20Sensation%20-%20Another%20Layer%20-%2011.cht.ass) |
 
 
 
