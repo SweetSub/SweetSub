@@ -1,3 +1,5 @@
+字幕对应 BD 版
+
 | 集数  | 标题        | 简体                                                                                                                                                 | 繁体                                                                                                                                                 |
 |:---:|:---------:|:--------------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------:|
 | 01  | 天国与地狱     | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Heavenly%20Delusion/%5BSweetSub%5D%20Heavenly%20Delusion%20-%2001.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Heavenly%20Delusion/%5BSweetSub%5D%20Heavenly%20Delusion%20-%2001.cht.ass) |
@@ -13,5 +15,6 @@
 | 11  | 开始测试      | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Heavenly%20Delusion/%5BSweetSub%5D%20Heavenly%20Delusion%20-%2011.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Heavenly%20Delusion/%5BSweetSub%5D%20Heavenly%20Delusion%20-%2011.cht.ass) |
 | 12  | 外面的外面     | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Heavenly%20Delusion/%5BSweetSub%5D%20Heavenly%20Delusion%20-%2012.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Heavenly%20Delusion/%5BSweetSub%5D%20Heavenly%20Delusion%20-%2012.cht.ass) |
 | 13  | 旅行继续·旅行开始 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Heavenly%20Delusion/%5BSweetSub%5D%20Heavenly%20Delusion%20-%2013.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Heavenly%20Delusion/%5BSweetSub%5D%20Heavenly%20Delusion%20-%2013.cht.ass) |
+| BD合集  |  | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Heavenly%20Delusion/%5BSweetSub%5D%20Heavenly%20Delusion.chs.zip) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Heavenly%20Delusion/%5BSweetSub%5D%20Heavenly%20Delusion.cht.zip) |
 
 ![](https://p.sda1.dev/10/f7a1a955d93b850056eb30c441048c29/tdm_poster_v1.png)
