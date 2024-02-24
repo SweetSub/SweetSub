@@ -1,11 +1,11 @@
 <table>
-<capital>分集下载</capital>
+<capital>分集下载：</capital>
 <tr>
 <th>集数</th>
 <th>标题</th>
 <th>简体</th>
 <th>繁体</th>
-<td rowspan=14><img src="https://p.sda1.dev/4/e9122128adb8c9c188b2ff74295447b0/BishounenTanteidan.jpg" alt="" srcset=""></td>
+<td rowspan=14 width="500px"><img src="https://p.sda1.dev/4/e9122128adb8c9c188b2ff74295447b0/BishounenTanteidan.jpg"></td>
 </tr>
     <td>1</td>
     <td>只对你闪耀的暗黑星　其 1</td>
