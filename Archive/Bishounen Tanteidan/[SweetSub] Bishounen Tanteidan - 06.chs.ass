@@ -41,10 +41,18 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,该版本为 BD 版字幕 v1。
 Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,~Credit~
 Dialogue: 0,0:21:51.50,0:21:54.00,Title,,0,0,0,,{\fs50\pos(952,950)}字幕制作  SweetSub　　翻译  natsukage　　校对  danrose　　后期  natsukage
 Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,~Sign~
-Dialogue: 0,0:00:00.00,0:00:05.94,Sign,,0,0,0,,{\fad(0,600)\fn@方正粗雅宋_GBK\frz270\an9\pos(1229,830)\bord0}美少年侦探团团规
-Dialogue: 0,0:00:00.00,0:00:05.94,Sign,,0,0,0,,{\fad(0,600)\fn@方正粗雅宋_GBK\frz270\an9\bord0\pos(970,905)}必须要美
-Dialogue: 0,0:00:00.00,0:00:05.94,Sign,,0,0,0,,{\fad(0,600)\fn@方正粗雅宋_GBK\frz270\an9\bord0\pos(790,905)}必须是少年
-Dialogue: 0,0:00:00.00,0:00:05.94,Sign,,0,0,0,,{\fad(0,600)\fn@方正粗雅宋_GBK\frz270\an9\bord0\pos(610,905)}必须是侦探
+Dialogue: 2,0:00:00.00,0:00:05.94,Sign,,0,0,0,,{\fad(0,800)\fn@方正粗雅宋_GBK\frz270\an7\move(1220,184,1159,184)\bord0\blur20\c&H000000&}美少年侦探团团规
+Dialogue: 2,0:00:00.00,0:00:05.94,Sign,,0,0,0,,{\fad(0,800)\fn@方正粗雅宋_GBK\frz270\an7\bord0\move(970,350,930,350)\blur20\c&H000000&}必须要美
+Dialogue: 2,0:00:00.00,0:00:05.94,Sign,,0,0,0,,{\fad(0,800)\fn@方正粗雅宋_GBK\frz270\an7\bord0\move(840,350,760,350)\blur20\c&H000000&}必须是少年
+Dialogue: 2,0:00:00.00,0:00:05.94,Sign,,0,0,0,,{\fad(0,800)\fn@方正粗雅宋_GBK\frz270\an7\bord0\move(610,350,540,350)\blur20\c&H000000&}必须是侦探
+Dialogue: 1,0:00:00.00,0:00:05.94,Sign,,0,0,0,,{\fad(0,800)\fn@方正粗雅宋_GBK\frz270\an7\pos(1229,184)\bord0\blur6}美少年侦探团团规
+Dialogue: 1,0:00:00.00,0:00:05.94,Sign,,0,0,0,,{\fad(0,800)\fn@方正粗雅宋_GBK\frz270\an7\bord0\pos(970,350)\blur6}必须要美
+Dialogue: 1,0:00:00.00,0:00:05.94,Sign,,0,0,0,,{\fad(0,800)\fn@方正粗雅宋_GBK\frz270\an7\bord0\pos(790,350)\blur6}必须是少年
+Dialogue: 1,0:00:00.00,0:00:05.94,Sign,,0,0,0,,{\fad(0,800)\fn@方正粗雅宋_GBK\frz270\an7\bord0\pos(610,350)\blur6}必须是侦探
+Dialogue: 0,0:00:00.00,0:00:05.94,Sign,,0,0,0,,{\fad(0,800)\fn@方正粗雅宋_GBK\frz270\an7\pos(1229,184)\bord0}美少年侦探团团规
+Dialogue: 0,0:00:00.00,0:00:05.94,Sign,,0,0,0,,{\fad(0,800)\fn@方正粗雅宋_GBK\frz270\an7\bord0\pos(970,350)}必须要美
+Dialogue: 0,0:00:00.00,0:00:05.94,Sign,,0,0,0,,{\fad(0,800)\fn@方正粗雅宋_GBK\frz270\an7\bord0\pos(790,350)}必须是少年
+Dialogue: 0,0:00:00.00,0:00:05.94,Sign,,0,0,0,,{\fad(0,800)\fn@方正粗雅宋_GBK\frz270\an7\bord0\pos(610,350)}必须是侦探
 Comment: 0,0:00:00.00,0:00:00.00,Sign,,0,0,0,,
 Dialogue: 0,0:01:57.01,0:01:58.01,Sign,,0,0,0,,{\fn华康竹风体W4\an8\fax-0.16\c&H9D3F09&\3c&H9D3F09&\b1\bord1\pos(960,620)\fscx95\fsp12}侦探团召集令
 Dialogue: 0,0:03:54.21,0:03:55.72,Sign,,0,0,0,,{\fn华康竹风体W4\an8\fax-0.16\c&H9D3F09&\3c&H9D3F09&\b1\bord1\pos(960,620)\fscx95\fsp12}天花彩画
