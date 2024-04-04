@@ -8,8 +8,8 @@
 
 | 集数             | 标题              | 简体 | 繁体 |
 | ---------------- | ----------------- | ---- | ---- |
-| INTERMISSION 1-1 | Taipei Rendezvous |      |      |
-| INTERMISSION 1-2 | Taipei Rendezvous |      |      |
-| INTERMISSION 1-3 | Taipei Rendezvous |      |      |
-| INTERMISSION 1-4 | Taipei Rendezvous |      |      |
+| INTERMISSION 1-1 | Taipei Rendezvous | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/GREAT%20PRETENDER%20razbliuto/%5BSweetSub%5D%20GREAT%20PRETENDER%20razbliuto%20-%2001.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/GREAT%20PRETENDER%20razbliuto/%5BSweetSub%5D%20GREAT%20PRETENDER%20razbliuto%20-%2001.cht.ass) |
+| INTERMISSION 1-2 | Taipei Rendezvous | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/GREAT%20PRETENDER%20razbliuto/%5BSweetSub%5D%20GREAT%20PRETENDER%20razbliuto%20-%2002.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/GREAT%20PRETENDER%20razbliuto/%5BSweetSub%5D%20GREAT%20PRETENDER%20razbliuto%20-%2002.cht.ass) |
+| INTERMISSION 1-3 | Taipei Rendezvous | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/GREAT%20PRETENDER%20razbliuto/%5BSweetSub%5D%20GREAT%20PRETENDER%20razbliuto%20-%2003.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/GREAT%20PRETENDER%20razbliuto/%5BSweetSub%5D%20GREAT%20PRETENDER%20razbliuto%20-%2003.cht.ass) |
+| INTERMISSION 1-4 | Taipei Rendezvous | 简体 | 繁体 |
 
