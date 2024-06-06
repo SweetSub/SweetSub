@@ -11,27 +11,28 @@ PlayResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Text - CN,Source Han Sans SC Medium,80,&H00F0F0F0,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,20,20,50,1
-Style: Text - JP,Source Han Sans Medium,50,&H00F0F0F0,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,20,20,10,1
+Style: Default,Source Han Sans SC Medium,90,&H00F0F0F0,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0.1,0,1,3,0,2,30,30,25,1
+Style: Text - CN,Source Han Sans SC Heavy,80,&H00F0F0F0,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,20,20,50,1
+Style: Text - JP,Source Han Sans Heavy,50,&H00F0F0F0,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,20,20,10,1
 Style: Sign,Source Han Sans SC Medium,90,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,20,20,60,1
 Style: EDEN,FOT-CinemaCN,50,&H00F0F0F0,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,0,0,2,20,20,20,1
 Style: EDCN,FOT-CinemaCN,50,&H00F0F0F0,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,2,0,1,0,0,8,20,20,20,1
 Style: STAFF,FOT-CinemaCN,50,&H00FAFAFA,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,20,20,30,1
 Style: TopLeft,Source Han Sans SC Medium,50,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,7,30,30,30,1
-Style: Ruby,Source Han Sans SC Medium,45,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,1,0,1,2,0,2,0,0,40,0
-Style: Text - CN - top,Source Han Sans SC Medium,80,&H00F0F0F0,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,20,20,10,1
-Style: Text - JP - top,Source Han Sans Medium,50,&H00F0F0F0,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,20,20,80,1
+Style: Ruby,Source Han Sans SC Heavy,45,&H00FFFFFF,&H000019FF,&H00020814,&H00000000,0,0,0,0,100,100,1,0,1,2,0,2,0,0,40,0
+Style: Text - CN - top,Source Han Sans SC Heavy,80,&H00F0F0F0,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,20,20,10,1
+Style: Text - JP - top,Source Han Sans Heavy,50,&H00F0F0F0,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,20,20,80,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Text - CN,,0,0,0,,本字幕由 SweetSub 制作
-Comment: 0,0:00:00.00,0:00:00.00,Text - CN,,0,0,0,,本字幕在遵循 Creative Common BY-NC-ND 4.0 规则的情况下可以自由转载、使用。
-Comment: 0,0:00:00.00,0:00:00.00,Text - CN,,0,0,0,,即，在署名、非商业利用、不进行修改的情况下可以自由转载使用。
-Comment: 0,0:00:00.00,0:00:00.00,Text - CN,,0,0,0,,如果是仅仅是修改时间轴匹配 BD 以外的片源的话，可以作为例外，在署名、非商业利用的情况下，可以自由转载、使用。
-Comment: 0,0:00:00.00,0:00:00.00,Text - CN,,0,0,0,,如果在其它情况下想要转载和使用本字幕，或是在字幕中发现了错误或者有其它问题，可以使用 telegram 联系我，详细方法见 telegram 频道。
-Comment: 0,0:00:00.00,0:00:00.00,Text - CN,,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,Text - CN,,0,0,0,,该版本为合集字幕 v2，对应美版 BD 片源。
-Comment: 0,0:20:51.02,0:20:51.06,STAFF,,0,0,0,,~Staff~
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,本字幕由 SweetSub 制作
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,本字幕在遵循 Creative Common BY-NC-ND 4.0 规则的情况下可以自由转载、使用。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,即，在署名、非商业利用、不进行修改的情况下可以自由转载使用。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果是仅仅是修改时间轴匹配 BD 以外的片源的话，可以作为例外，在署名、非商业利用的情况下，可以自由转载、使用。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果在其它情况下想要转载和使用本字幕，或是在字幕中发现了错误或者有其它问题，可以使用 telegram 联系我，详细方法见 telegram 频道。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,该版本为合集字幕 v2，对应美版 BD 片源。
+Comment: 0,0:20:51.02,0:20:51.06,STAFF,,0,0,0,,~STAFF~
 Dialogue: 1,0:20:56.32,0:20:59.28,STAFF,,0,0,0,,{\fad(350,350)\fs39\fsp10\pos(1196,446)}翻译{56／88}
 Dialogue: 1,0:20:56.32,0:20:59.28,STAFF,,0,0,0,,{\fad(350,350)\pos(1366,442)\fs50\fsp21\fscx90\fscy90}Sugar{-4}
 Dialogue: 1,0:20:56.32,0:20:59.28,STAFF,,0,0,0,,{\fad(350,350)\fs39\fsp10\pos(1196,534)}校对
@@ -121,7 +122,7 @@ Dialogue: 0,0:06:52.55,0:06:54.97,TopLeft,,0,0,0,,{\fad(0,400)\bord0\shad2\c&HDA
 Dialogue: 0,0:06:22.07,0:06:27.58,TopLeft,Sign,0,0,0,,{\an9}出售
 Comment: 0,0:00:00.00,0:00:00.00,TopLeft,,0,0,0,,~Note~
 Dialogue: 1,0:05:50.12,0:05:53.83,TopLeft,,0,0,0,,卡雅马尔是圣保罗州首府圣保罗市旁的郊区市镇
-Comment: 0,0:00:00.00,0:00:00.00,Text - CN,,0,0,0,,~Dialogue CN~
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Dialogue CN~
 Dialogue: 1,0:00:02.36,0:00:04.48,Text - CN,,0,0,0,,多萝西  快醒醒！
 Dialogue: 1,0:00:13.73,0:00:15.45,Text - CN,,0,0,0,,多萝西  怎么会这样
 Dialogue: 1,0:00:16.30,0:00:18.92,Text - CN,,0,0,0,,因为  我爱你
@@ -482,7 +483,7 @@ Dialogue: 1,0:20:39.49,0:20:41.51,Text - CN,,0,0,0,,这是多萝西的要求
 Dialogue: 1,0:20:41.51,0:20:44.51,Text - CN,,0,0,0,,为什么是京都啊  太显眼了吧！
 Dialogue: 1,0:20:44.51,0:20:46.35,Text - CN,,0,0,0,,那还用问
 Dialogue: 1,0:20:46.35,0:20:48.99,Text - CN,,0,0,0,,因为我想去呀
-Comment: 0,0:00:00.00,0:00:00.00,Text - JP,,0,0,0,,~Dialogue JP~
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Dialogue JP~
 Dialogue: 0,0:00:02.36,0:00:04.48,Text - JP,,0,0,0,,ドロシー  しっかりしろ！
 Dialogue: 0,0:00:13.73,0:00:15.45,Text - JP,,0,0,0,,ドロシー  なんてことだ
 Dialogue: 0,0:00:16.30,0:00:18.92,Text - JP,,0,0,0,,あなたを  愛してるから
