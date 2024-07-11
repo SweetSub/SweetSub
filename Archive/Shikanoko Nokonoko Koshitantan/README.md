@@ -15,7 +15,7 @@ SweetSub 未標明有「繁化」的作品，均由[繁化姬](https://zhconvert
 | 集数 | 标题 | 简体 | 繁体 |
 | - | - | - | - |
 | 01 | 女孩遇到鹿 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shikanoko Nokonoko Koshitantan/[SweetSub] Shikanoko Nokonoko Koshitantan - 01.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shikanoko Nokonoko Koshitantan/[SweetSub] Shikanoko Nokonoko Koshitantan - 01.cht.ass) |
-| 02 |  |                                                              |                                                              |
+| 02 | 鹿遇到阴暗女孩 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shikanoko Nokonoko Koshitantan/[SweetSub] Shikanoko Nokonoko Koshitantan - 02.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shikanoko Nokonoko Koshitantan/[SweetSub] Shikanoko Nokonoko Koshitantan - 02.cht.ass) |
 | 03   |              |          |          |
 | 04   |              |          |          |
 | 05   |              |          |          |
