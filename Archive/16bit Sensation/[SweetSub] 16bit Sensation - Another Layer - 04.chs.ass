@@ -31,18 +31,13 @@ Style: EDJP,Source Han Sans Medium,55,&H00F0F0F0,&H00000000,&H00000000,&H0000000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,**正在调轴的匹配 BD 片源的观众朋友请注意**
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,SweetSub *一定*会调整匹配 BD 片源。
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,调整好的字幕会以包括 GitHub 在内的多种渠道发布，供大家取用。
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,请不要擅自调轴并发布本组的字幕以匹配 BD 片源，除非本组在 BD 最后一卷于 U2 放流 60 天后仍然未发布 BD 字幕。
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,本字幕由 SweetSub 制作
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,本字幕在遵循 Creative Common BY-NC-ND 4.0 规则的情况下可以自由转载、使用。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,即，在署名、非商业利用、不进行修改的情况下可以自由转载使用。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果是仅仅是修改时间轴匹配 BD 以外的片源的话，可以作为例外，在署名、非商业利用的情况下，可以自由转载、使用。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果在其它情况下想要转载和使用本字幕，或是在字幕中发现了错误或者有其它问题，可以使用 telegram 联系我，详细方法见 telegram 频道。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,该版本为 Web 合集字幕
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,该版本为 BD 合集字幕
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Credit~
 Dialogue: 0,0:01:51.09,0:01:56.30,Credit,,0,0,0,chs,{\fad(800,0)\fnFZBitmap_GBK_11X12\fsp15\pos(963.43,1006.14)}16位的辉煌
