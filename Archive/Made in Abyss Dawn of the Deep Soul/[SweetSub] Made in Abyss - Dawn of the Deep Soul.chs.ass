@@ -7,7 +7,9 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 PlayResX: 1920
+LayoutResX: 1920
 PlayResY: 1080
+LayoutResY: 1080
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1321,7 +1323,7 @@ Dialogue: 0,1:12:19.90,1:12:21.11,Default,,0,0,0,,精神隶属机
 Dialogue: 0,1:12:22.61,1:12:24.95,Default,,0,0,0,,不过还没找到普鲁什卡
 Dialogue: 0,1:12:24.95,1:12:27.70,Default,,0,0,0,,还有  在那旁边...
 Dialogue: 0,1:12:30.16,1:12:30.95,Default,,0,0,0,,真的吗？
-Dialogue: 0,1:12:31.37,1:12:34.45,Default,,0,0,0,,听好了莉可  绝对不要让我看到那个东西
+Dialogue: 0,1:12:31.37,1:12:34.45,Default,,0,0,0,,听好了莉可  绝对不要让咱看到那个东西
 Dialogue: 0,1:12:34.96,1:12:36.58,Default,,0,0,0,,到了最坏的关头...
 Dialogue: 0,1:12:38.75,1:12:39.71,Default,,0,0,0,,娜娜奇？
 Dialogue: 0,1:12:47.34,1:12:48.72,Default,,0,0,0,,火葬炮？
