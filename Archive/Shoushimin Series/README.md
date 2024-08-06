@@ -17,7 +17,7 @@ SweetSub 未標明有「繁化」的作品，均由[繁化姬](https://zhconvert
 | 01 | 羊皮装 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shoushimin%20Series/%5BSweetSub%5D%20Shoushimin%20Series%20-%2001.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shoushimin%20Series/%5BSweetSub%5D%20Shoushimin%20Series%20-%2001.cht.ass) |
 | 02 | 美味可可的制作方法 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shoushimin%20Series/%5BSweetSub%5D%20Shoushimin%20Series%20-%2002.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shoushimin%20Series/%5BSweetSub%5D%20Shoushimin%20Series%20-%2002.cht.ass) |
 | 03   | 矮胖子 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shoushimin%20Series/%5BSweetSub%5D%20Shoushimin%20Series%20-%2003.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shoushimin%20Series/%5BSweetSub%5D%20Shoushimin%20Series%20-%2003.cht.ass) |
-| 04   |              |          |          |
+| 04   | 狐狼之心 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shoushimin%20Series/%5BSweetSub%5D%20Shoushimin%20Series%20-%2004.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shoushimin%20Series/%5BSweetSub%5D%20Shoushimin%20Series%20-%2004.cht.ass) |
 | 05   |              |          |          |
 | 06   |              |          |          |
 | 07   |              |          |          |
