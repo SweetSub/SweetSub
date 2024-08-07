@@ -11,16 +11,6 @@ LayoutResX: 1920
 PlayResY: 1080
 LayoutResY: 1080
 
-[Aegisub Project Garbage]
-Audio File: G:/Encode/16bit Sensation/PREVIEW BD/[SweetSub] 16bit Sensation Another Layer - Preview - 02.mp4
-Video File: G:/Encode/16bit Sensation/PREVIEW BD/[SweetSub] 16bit Sensation Another Layer - Preview - 02.mp4
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 28
-Active Line: 31
-Video Position: 1447
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Source Han Sans SC Medium,90,&H00F0F0F0,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0.1,0,1,3,0,2,30,30,25,1

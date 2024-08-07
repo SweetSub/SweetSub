@@ -12,11 +12,6 @@ LayoutResX: 1920
 PlayResY: 1080
 LayoutResY: 1080
 
-[Aegisub Project Garbage]
-Scroll Position: 24
-Active Line: 34
-Video Position: 1689
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Source Han Sans TC Medium,90,&H00F0F0F0,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0.1,0,1,3,0,2,30,30,25,1
