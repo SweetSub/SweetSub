@@ -67,7 +67,7 @@ Dialogue: 0,0:30:01.07,0:30:04.28,EDCN,,0,0,0,,{\blur3}璀璨群星  熠熠生�
 Dialogue: 0,0:30:04.57,0:30:07.58,EDCN,,0,0,0,,{\blur3}我们一路  昂首挺胸
 Dialogue: 0,0:30:07.99,0:30:16.00,EDCN,,0,0,0,,{\blur3\fad(0,650)}心怀感激  静候重逢  道声晚安
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Sign~
-Dialogue: 0,0:04:34.25,0:04:36.63,Sign,title,0,0,0,,{\fad(150,0)\pos(960,350)\an2\fnSource Han Sans SC Heavy\fscx80\fsp6\fs150\bord0\c&H010101&}金字塔的秘密
+Dialogue: 0,0:04:34.25,0:04:36.63,Sign,ep_title,0,0,0,,{\fad(150,0)\pos(960,350)\an2\fnSource Han Sans SC Heavy\fscx80\fsp6\fs150\bord0\c&H010101&}金字塔的秘密
 Dialogue: 0,0:04:34.25,0:04:36.63,Sign,title,0,0,0,,{\fad(150,0)\pos(960,890)\fs45\fscx110\fsp10\bord0\c&000000&\fnSource Han Sans SC\b1}时间巡警阿凡
 Dialogue: 0,0:04:43.60,0:04:47.39,Sign,chs,0,0,0,,{\an3\bord0\fs70\fnSource Han Serif SC\b1\pos(1815,945)\c&HCCAD89&\1a&H00&\2a&HFF&}{\ko11}公{\ko11}元{\ko11}前{\ko11} {\ko11}2{\ko11}5{\ko11}9{\ko11}2{\ko11} {\ko11}年{\ko11}　{\ko11}埃{\ko11}及{\ko11}　{\ko11}卢{\ko11}克{\ko251}索
 Comment: 0,0:04:43.60,0:04:47.39,Sign,cht,0,0,0,,{\an3\bord0\fs70\fnSource Han Serif SC\b1\pos(1815,945)\c&HCCAD89&\1a&H00&\2a&HFF&}{\ko11}公{\ko11}元{\ko11}前{\ko11} {\ko11}2{\ko11}5{\ko11}9{\ko11}2{\ko11} {\ko11}年{\ko11}　{\ko11}埃{\ko11}及{\ko11}　{\ko11}路{\ko11}克{\ko251}索

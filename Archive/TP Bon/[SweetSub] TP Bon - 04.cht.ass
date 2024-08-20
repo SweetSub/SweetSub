@@ -67,7 +67,7 @@ Dialogue: 0,0:27:33.92,0:27:37.14,EDCN,,0,0,0,,{\blur3}璀璨群星  熠熠生�
 Dialogue: 0,0:27:37.43,0:27:40.43,EDCN,,0,0,0,,{\blur3}我們一路  昂首挺胸
 Dialogue: 0,0:27:40.85,0:27:48.86,EDCN,,0,0,0,,{\blur3\fad(0,650)}心懷感激  靜候重逢  道聲晚安
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Sign~
-Dialogue: 0,0:03:17.34,0:03:19.72,Sign,title,0,0,0,,{\fad(150,0)\pos(960,350)\an2\fnSource Han Sans TC Heavy\fscx80\fsp6\fs150\bord0\c&H010101&}古人橫渡太平洋
+Dialogue: 0,0:03:17.34,0:03:19.72,Sign,ep_title,0,0,0,,{\fad(150,0)\pos(960,350)\an2\fnSource Han Sans TC Heavy\fscx80\fsp6\fs150\bord0\c&H010101&}古人橫渡太平洋
 Dialogue: 0,0:03:17.34,0:03:19.72,Sign,title,0,0,0,,{\fad(150,0)\pos(960,890)\fs45\fscx110\fsp10\bord0\c&000000&\fnSource Han Sans TC\b1}時間巡警阿凡
 Dialogue: 0,0:02:46.94,0:02:51.61,Sign,,0,0,0,,{\fs50\pos(510,657)\frz359.4}禁止入內！
 Comment: 0,0:08:06.84,0:08:10.30,Sign,chs,0,0,0,,{\an3\bord0\fs70\fnSource Han Serif TC\b1\pos(1815,945)\c&HCCAD89&\1a&H00&\2a&HFF&\fad(0,1000)}{\c&HA5956F&\ko11}公{\ko11}元{\ko11}前{\ko11} {\ko11}8{\ko11}0{\ko11}0{\ko11} {\ko11}年{\ko11}  {\ko11}棉{\ko11}蘭{\ko11}老{\ko11}島

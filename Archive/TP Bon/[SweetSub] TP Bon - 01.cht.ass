@@ -67,7 +67,7 @@ Dialogue: 0,0:28:33.98,0:28:37.20,EDCN,,0,0,0,,{\blur3}璀璨群星  照亮黑�
 Dialogue: 0,0:28:37.49,0:28:40.49,EDCN,,0,0,0,,{\blur3}我們一路  昂首挺胸
 Dialogue: 0,0:28:40.91,0:28:48.92,EDCN,,0,0,0,,{\blur3\fad(0,650)}心懷感激  靜候重逢  道聲晚安
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Sign~
-Dialogue: 0,0:03:19.22,0:03:21.56,Sign,title,0,0,0,,{\fad(150,0)\pos(960,350)\an2\fnSource Han Sans TC Heavy\fscx80\fsp6\fs150\bord0\c&H010101&}休想抹消我
+Dialogue: 0,0:03:19.22,0:03:21.56,Sign,ep_title,0,0,0,,{\fad(150,0)\pos(960,350)\an2\fnSource Han Sans TC Heavy\fscx80\fsp6\fs150\bord0\c&H010101&}休想抹消我
 Dialogue: 0,0:03:19.22,0:03:21.56,Sign,title,0,0,0,,{\fad(150,0)\pos(960,890)\fs45\fscx110\fsp10\bord0\c&000000&\fnSource Han Sans TC\b1}時間巡警阿凡
 Dialogue: 1,0:14:31.77,0:14:36.27,Sign,,0,0,0,,{\fs30\an1\frz350.8\bord0\pos(600,110.66)\blur0.6}無信號
 Dialogue: 0,0:14:31.77,0:14:36.27,Sign,,0,0,0,,{\fs30\an1\frz350.8\bord0\pos(600,110.66)\blur10\c&HF0F0F0&\1a&H96&}無信號
