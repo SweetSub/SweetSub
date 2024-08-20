@@ -136,7 +136,7 @@ Dialogue: 1,0:22:43.30,0:22:50.31,EDCN,,0,0,0,,{\fad(300,0)\blur3}就算有一�
 Dialogue: 1,0:22:50.31,0:22:53.81,EDCN,,0,0,0,,{\fad(300,0)\blur3}既无光明也无黑暗
 Dialogue: 1,0:22:54.98,0:22:58.94,EDCN,,0,0,0,,{\fad(300,0)\blur3}无论表里那都是你
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,【Title】
-Dialogue: 0,0:01:30.52,0:01:32.94,Sign,,0,0,0,,{\an3\fad(487,1)\blur3\fnSource Han Serif SC\b1\3c&H000000&\3a&HC8&\pos(1824,825)\fs70}第三集  {\fs90\fsp5}矮胖子
+Dialogue: 0,0:01:30.52,0:01:32.94,Sign,ep_title,0,0,0,,{\an3\fad(487,1)\blur3\fnSource Han Serif SC\b1\3c&H000000&\3a&HC8&\pos(1824,825)\fs70}第三集  {\fs90\fsp5}矮胖子
 Dialogue: 0,0:01:30.52,0:01:32.94,Sign,,0,0,0,,{\an3\fad(487,1)\blur3\fnSource Han Serif SC\b1\3c&H000000&\3a&HC8&\fs35\pos(1824,737)}Humpty Dumpty
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,【Sign】
 Dialogue: 0,0:01:32.94,0:01:35.94,Sign,,0,0,0,,{\fnSource Han Serif SC SemiBold\bord0\c&H675A59&\fs35\pos(1228,333)}期中考试\N第一堂：生物\N第二堂：古文
