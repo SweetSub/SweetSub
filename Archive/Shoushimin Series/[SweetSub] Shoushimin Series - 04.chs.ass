@@ -9,6 +9,8 @@ LayoutResX: 1920
 PlayResY: 1080
 LayoutResY: 1080
 ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 6
 YCbCr Matrix: TV.709
 
 [V4+ Styles]
@@ -134,7 +136,7 @@ Dialogue: 1,0:22:43.38,0:22:50.39,EDCN,,0,0,0,,{\fad(300,0)\blur3}就算有一�
 Dialogue: 1,0:22:50.39,0:22:53.90,EDCN,,0,0,0,,{\fad(300,0)\blur3}既无光明也无黑暗
 Dialogue: 1,0:22:55.06,0:22:59.03,EDCN,,0,0,0,,{\fad(300,0)\blur3}无论表里那都是你
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,【Title】
-Dialogue: 0,0:01:30.52,0:01:32.94,Sign,ep_title,0,0,0,,{\an3\fad(487,1)\blur3\fnSource Han Serif SC\b1\3c&H000000&\3a&HC8&\pos(1828,825)\fs70}第四集  {\fs90\fsp5}狐狼之心
+Dialogue: 0,0:01:30.52,0:01:33.49,Sign,ep_title,0,0,0,,{\an3\fad(500,500)\blur3\fnSource Han Serif SC\b1\3c&H000000&\3a&HC8&\pos(1828,825)\fs70}第四集  {\fs90\fsp5}狐狼之心
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,【Sign】
 Dialogue: 0,0:03:35.36,0:03:43.49,Sign,,0,0,0,,{\an2\bord0\shad0\blur0.9\fs54\c&H181712&\pos(1605,192)}木良西驾校
 Dialogue: 0,0:03:35.36,0:03:43.49,Sign,,0,0,0,,{\an2\bord0\shad0\blur0.9\fs66\c&H181712&\pos(1656,453.999)}距离
