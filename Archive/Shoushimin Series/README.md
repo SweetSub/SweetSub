@@ -20,6 +20,8 @@ SweetSub 未標明有「繁化」的作品，均由[繁化姬](https://zhconvert
 | 02 | 第二集  美味可可的制作方法 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shoushimin%20Series/%5BSweetSub%5D%20Shoushimin%20Series%20-%2002.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shoushimin%20Series/%5BSweetSub%5D%20Shoushimin%20Series%20-%2002.cht.ass) |
 | 03 | 第三集  矮胖子 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shoushimin%20Series/%5BSweetSub%5D%20Shoushimin%20Series%20-%2003.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shoushimin%20Series/%5BSweetSub%5D%20Shoushimin%20Series%20-%2003.cht.ass) |
 | 04 | 第四集  狐狼之心 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shoushimin%20Series/%5BSweetSub%5D%20Shoushimin%20Series%20-%2004.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shoushimin%20Series/%5BSweetSub%5D%20Shoushimin%20Series%20-%2004.cht.ass) |
+| 05 | 第五集  柏林炸面包之谜 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shoushimin%20Series/%5BSweetSub%5D%20Shoushimin%20Series%20-%2005.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shoushimin%20Series/%5BSweetSub%5D%20Shoushimin%20Series%20-%2005.cht.ass) |
+| 06 | 第六集  唯独夏洛特蛋糕必须归我 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shoushimin%20Series/%5BSweetSub%5D%20Shoushimin%20Series%20-%2006.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shoushimin%20Series/%5BSweetSub%5D%20Shoushimin%20Series%20-%2006.cht.ass) |
 
 </auto-generated-table>
 
