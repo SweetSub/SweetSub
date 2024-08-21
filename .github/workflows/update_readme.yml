@@ -9,7 +9,9 @@ name: Auto-Generate-Table
 on:
   push:
     branches: 
-      - "main" 
+      - "master" 
+    paths: 
+      - "**.ass"
 
   workflow_dispatch:
 
