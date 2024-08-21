@@ -9,6 +9,8 @@ LayoutResX: 1920
 PlayResY: 1080
 LayoutResY: 1080
 ScaledBorderAndShadow: yes
+Video Aspect Ratio: 0
+Video Zoom: 6
 YCbCr Matrix: TV.709
 
 [V4+ Styles]
