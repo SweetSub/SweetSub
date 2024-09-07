@@ -25,6 +25,7 @@ SweetSub 未標明有「繁化」的作品，均由[繁化姬](https://zhconvert
 | 07 | 鹿儿秀与直播与服务 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shikanoko%20Nokonoko%20Koshitantan/%5BSweetSub%5D%20Shikanoko%20Nokonoko%20Koshitantan%20-%2007.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shikanoko%20Nokonoko%20Koshitantan/%5BSweetSub%5D%20Shikanoko%20Nokonoko%20Koshitantan%20-%2007.cht.ass) |
 | 08 | 辞旧鹿迎新鹿 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shikanoko%20Nokonoko%20Koshitantan/%5BSweetSub%5D%20Shikanoko%20Nokonoko%20Koshitantan%20-%2008.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shikanoko%20Nokonoko%20Koshitantan/%5BSweetSub%5D%20Shikanoko%20Nokonoko%20Koshitantan%20-%2008.cht.ass) |
 | 09 | 办好运动会！ | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shikanoko%20Nokonoko%20Koshitantan/%5BSweetSub%5D%20Shikanoko%20Nokonoko%20Koshitantan%20-%2009.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shikanoko%20Nokonoko%20Koshitantan/%5BSweetSub%5D%20Shikanoko%20Nokonoko%20Koshitantan%20-%2009.cht.ass) |
+| 10 | 都怪春天… | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shikanoko%20Nokonoko%20Koshitantan/%5BSweetSub%5D%20Shikanoko%20Nokonoko%20Koshitantan%20-%2010.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shikanoko%20Nokonoko%20Koshitantan/%5BSweetSub%5D%20Shikanoko%20Nokonoko%20Koshitantan%20-%2010.cht.ass) |
 
 </auto-generated-table>
 

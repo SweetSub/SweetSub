@@ -23,6 +23,7 @@ SweetSub 未標明有「繁化」的作品，均由[繁化姬](https://zhconvert
 | 05 | 第五集  柏林炸面包之谜 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shoushimin%20Series/%5BSweetSub%5D%20Shoushimin%20Series%20-%2005.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shoushimin%20Series/%5BSweetSub%5D%20Shoushimin%20Series%20-%2005.cht.ass) |
 | 06 | 第六集  唯独夏洛特蛋糕必须归我 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shoushimin%20Series/%5BSweetSub%5D%20Shoushimin%20Series%20-%2006.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shoushimin%20Series/%5BSweetSub%5D%20Shoushimin%20Series%20-%2006.cht.ass) |
 | 07 | 第七集    Shake Half | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shoushimin%20Series/%5BSweetSub%5D%20Shoushimin%20Series%20-%2007.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shoushimin%20Series/%5BSweetSub%5D%20Shoushimin%20Series%20-%2007.cht.ass) |
+| 08 | 第八集    过来，给你糖吃 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shoushimin%20Series/%5BSweetSub%5D%20Shoushimin%20Series%20-%2008.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Shoushimin%20Series/%5BSweetSub%5D%20Shoushimin%20Series%20-%2008.cht.ass) |
 
 </auto-generated-table>
 
