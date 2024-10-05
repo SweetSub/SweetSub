@@ -24,6 +24,7 @@ SweetSub 未標明有「繁化」的作品，均由[繁化姬](https://zhconvert
 | 04 | 古人横渡太平洋 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2004.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2004.cht.ass) |
 | 05 | 猎巫 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2005.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2005.cht.ass) |
 | 06 | 白龙啸山 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2006.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2006.cht.ass) |
+| 07 | 暗黑大迷宫 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2007.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2007.cht.ass) |
 
 </auto-generated-table>
 
