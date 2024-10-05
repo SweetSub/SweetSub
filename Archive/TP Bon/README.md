@@ -19,7 +19,7 @@ SweetSub 未標明有「繁化」的作品，均由[繁化姬](https://zhconvert
 | 集数 | 标题 | 简体 | 繁体 |
 | - | - | - | - |
 | 01 | 休想抹消我 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2001.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2001.cht.ass) |
-| 02 |  | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2002.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2002.cht.ass) |
+| 02 | 实习时间巡警 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2002.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2002.cht.ass) |
 | 03 | 金字塔的秘密 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2003.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2003.cht.ass) |
 | 04 | 古人横渡太平洋 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2004.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2004.cht.ass) |
 | 05 | 猎巫 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2005.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2005.cht.ass) |
