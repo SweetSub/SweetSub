@@ -49,12 +49,12 @@ Dialogue: 0,0:03:01.04,0:03:05.04,Title,,0,0,0,,{\blur14}欲望的搖籃
 Dialogue: 0,0:23:35.10,0:23:41.07,Title,,0,0,0,,{\1a&HFF&\3a&HFF&\3c&H000000&\blur5\t(0,950,1.5,\blur0\1a&H00&\3a&H00&)\bord0.5\pos(960,854)}{\fs60\c&H0A0D0D&}下集{\fs30}\N\N{\fs85}願望的形態{}
 Comment: 0,0:24:13.93,0:24:13.97,Default,,0,0,0,,-Ending-
 Dialogue: 0,0:22:01.59,0:22:06.35,ED JP,,0,0,0,,{\blur3}I still remember you;
-Dialogue: 0,0:22:06.35,0:22:08.81,ED JP,,0,0,0,,{\blur3}The time we shared,
-Dialogue: 0,0:22:08.81,0:22:11.39,ED JP,,0,0,0,,{\blur3}The love you gave.
+Dialogue: 0,0:22:06.35,0:22:08.81,ED JP,,0,0,0,,{\blur3}the time we shared,
+Dialogue: 0,0:22:08.81,0:22:11.39,ED JP,,0,0,0,,{\blur3}the love you gave.
 Dialogue: 0,0:22:11.39,0:22:16.36,ED JP,,0,0,0,,{\blur3}Though everything has changed,
-Dialogue: 0,0:22:16.36,0:22:21.07,ED JP,,0,0,0,,{\blur3}You push me to live on.
+Dialogue: 0,0:22:16.36,0:22:21.07,ED JP,,0,0,0,,{\blur3}you push me to live on.
 Dialogue: 0,0:22:21.07,0:22:30.91,ED JP,,0,0,0,,{\blur3}海よりも深い奥底から見守っている
-Dialogue: 0,0:22:30.91,0:22:36.50,ED JP,,0,0,0,,{\blur3}别かれた未来
+Dialogue: 0,0:22:30.91,0:22:36.50,ED JP,,0,0,0,,{\blur3}別れた未来
 Dialogue: 0,0:22:39.13,0:22:44.13,ED JP,,0,0,0,,{\blur3}I still love you, even though I miss you
 Dialogue: 0,0:22:44.13,0:22:53.06,ED JP,,0,0,0,,{\blur3}永久に続く悲しみの夜の中で
 Dialogue: 0,0:22:53.06,0:22:57.90,ED JP,,0,0,0,,{\blur3}愛は生きる
