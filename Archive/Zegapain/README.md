@@ -11,6 +11,9 @@
 | 7 | 迷茫的灵魂 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Zegapain/%5BSweetSub%5D%20Zegapain%20-%2007.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Zegapain/%5BSweetSub%5D%20Zegapain%20-%2007.cht.ass) |
 | 8 | 水的另一边 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Zegapain/%5BSweetSub%5D%20Zegapain%20-%2008.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Zegapain/%5BSweetSub%5D%20Zegapain%20-%2008.cht.ass) |
 | 9 | 精神损伤 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Zegapain/%5BSweetSub%5D%20Zegapain%20-%2009.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Zegapain/%5BSweetSub%5D%20Zegapain%20-%2009.cht.ass) |
+| 10 | 夏日再临 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Zegapain/%5BSweetSub%5D%20Zegapain%20-%2010.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Zegapain/%5BSweetSub%5D%20Zegapain%20-%2010.cht.ass) |
+| 11 | 遗留下的幻影 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Zegapain/%5BSweetSub%5D%20Zegapain%20-%2011.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Zegapain/%5BSweetSub%5D%20Zegapain%20-%2011.cht.ass) |
+
 
 
 ![](https://p.sda1.dev/13/a60bc07791b5bec6d9a7bd2a1b947bb0/Zegapain.jpg)
