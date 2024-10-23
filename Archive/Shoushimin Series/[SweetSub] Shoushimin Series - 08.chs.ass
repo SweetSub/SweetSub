@@ -13,6 +13,8 @@ Video Aspect Ratio: 0
 Video Zoom: 6
 YCbCr Matrix: TV.709
 
+[Aegisub Project Garbage]
+
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Source Han Sans SC Medium,90,&H00F0F0F0,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0.1,0,1,3,0,2,30,30,25,1
@@ -132,13 +134,13 @@ Dialogue: 1,0:21:25.01,0:21:31.90,EDCN,,0,0,0,,{\fad(300,0)\blur3}这份痛苦�
 Dialogue: 1,0:21:39.20,0:21:46.54,EDCN,,0,0,0,,{\fad(300,0)\blur3}如同烧熔焦化的砂糖般的僵硬表情
 Dialogue: 1,0:21:46.54,0:21:52.88,EDCN,,0,0,0,,{\fad(300,0)\blur3}与嗜好甜点的你的纠葛反反复复
 Dialogue: 1,0:21:52.88,0:21:54.46,EDCN,,0,0,0,,{\fad(300,0)\blur3}TEL...
-Dialogue: 1,0:21:54.46,0:22:00.17,EDCN,,0,0,0,,{\fad(300,0)\blur3}阴雨濛濛的放学后
+Dialogue: 1,0:21:54.46,0:22:00.17,EDCN,,0,0,0,,{\fad(300,0)\blur3}风雨欲来的放学后
 Dialogue: 1,0:22:00.17,0:22:08.89,EDCN,,0,0,0,,{\fad(300,0)\blur3}「这样又如何？」你恶作剧般露出微笑
 Dialogue: 1,0:22:08.89,0:22:14.27,EDCN,,0,0,0,,{\fad(300,0)\blur3\an2}齐肩的短发轻柔地在风中摇曳
 Dialogue: 1,0:22:14.27,0:22:18.86,EDCN,,0,0,0,,{\fad(300,0)\blur3\an2}我们仍活在孤独的过去
 Dialogue: 1,0:22:18.86,0:22:25.83,EDCN,,0,0,0,,{\fad(300,0)\blur3\an3}将自作聪明与顽固执念都告一段落
 Dialogue: 1,0:22:25.83,0:22:28.37,EDCN,,0,0,0,,{\fad(300,0)\blur3\an3}以那颗星星为目标
-Dialogue: 1,0:22:28.37,0:22:35.38,EDCN,,0,0,0,,{\fad(300,0)\blur3}就算有一天  我能够再从心底笑出来
+Dialogue: 1,0:22:28.37,0:22:35.38,EDCN,,0,0,0,,{\fad(300,0)\blur3}就算有一天  我们能够再从心底绽放笑颜
 Dialogue: 1,0:22:35.38,0:22:38.88,EDCN,,0,0,0,,{\fad(300,0)\blur3}既无光明也无黑暗
 Dialogue: 1,0:22:40.05,0:22:44.01,EDCN,,0,0,0,,{\fad(300,0)\blur3}无论表里那都是你
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,【Title】
@@ -168,7 +170,7 @@ Dialogue: 0,0:19:12.55,0:19:15.55,Sign,,0,0,0,,{\an2\bord0\shad0\blur0.9\fs42\an
 Dialogue: 0,0:19:12.55,0:19:15.55,Sign,,0,0,0,,{\an2\bord0\shad0\blur0.9\fs42\an1\c&H545754&\frz358\pos(448.8,702)\s1}樱庵
 Dialogue: 0,0:19:12.55,0:19:15.55,Sign,,0,0,0,,{\an2\bord0\shad0\blur0.9\fs42\an1\c&H545754&\frz358\pos(732.6,716.4)\s1} 双拼冰淇淋
 Dialogue: 0,0:19:12.55,0:19:15.55,Sign,,0,0,0,,{\an2\bord0\shad0\blur0.9\fs42\an1\c&H545754&\frz358\pos(1597.6,743.4)\s1}（黑芝麻 & 豆浆）
-Dialogue: 0,0:19:12.55,0:19:15.55,Sign,,0,0,0,,{\an2\bord0\shad0\blur0.9\fs42\an1\c&H545754&\frz358\pos(497.6,832)\s1}驿站 Kira Park  
+Dialogue: 0,0:19:12.55,0:19:15.55,Sign,,0,0,0,,{\an2\bord0\shad0\blur0.9\fs42\an1\c&H545754&\frz358\pos(497.6,832)\s1}驿站 Kira Park
 Dialogue: 0,0:19:12.55,0:19:15.55,Sign,,0,0,0,,{\an2\bord0\shad0\blur0.9\fs42\an1\c&H545754&\frz358\pos(948,849)\s1}特制圣代{调整一下位置，并加删除线}{如果跟前3个类似排的话，不加数字序号}
 Dialogue: 0,0:19:52.17,0:19:53.67,Sign,,0,0,0,,{\an2\bord0\shad0\blur0.9\fs37\an8\fax-0.23\c&H1B63D8&\fnSource Han Serif SC SemiBold\pos(1012.14,279.72)\frz1.064}夏季限定  热带风味芭菲{调整一下字号位置}{颜色也可以调一下}
 Dialogue: 0,0:19:52.17,0:19:53.67,Sign,,0,0,0,,{\an2\bord0\shad0\blur0.9\fs27\an8\fax-0.15\c&H4B5169&\pos(1431.999,498)\frz358.4\frx2\fry352}菠萝
