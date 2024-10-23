@@ -55,18 +55,20 @@ Comment: 1,0:00:10.28,0:00:13.99,Sign,chs,0,0,0,,{\blur5\an2\fad(360,0)\fs86\fsp
 Dialogue: 1,0:00:10.28,0:00:13.99,Sign,cht,0,0,0,,{\blur5\an2\fad(360,0)\fs86\fsp3\pos(735,920)\fscy115\fnSource Han Serif TC\b1\c&H000000&\3c&HFFFFFF&\clip(630,886,826,922)}小市民
 Dialogue: 1,0:00:10.28,0:00:13.99,Sign,cht,0,0,0,,{\blur5\an2\fad(360,0)\fs86\fsp3\pos(960,920)\fnSource Han Serif TC\b1\c&H000000&\3c&HFFFFFF&\iclip(630,886,826,922)}小市民{\fs50}系列  {\c&H7508FE&\b0}春季限定 {\3c&H7508FE&\c&HFFFFFF&\blur0}草莓塔事件
 Dialogue: 0,0:00:10.28,0:00:13.99,Sign,,0,0,0,,{\blur5\an7\fade(360,0)\3c&HFFFFFF&\1c&H7508FE&\p1\bord6\pos(1185,913)}m 95.509 -2.062 l -98.133 -2.062 -98.133 -44.25 95.509 -44.25
-Dialogue: 2,0:00:14.58,0:00:19.71,OPCN,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(4780,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(4780,0,0.5,\blur3)}這是一種無法用語言理解的關係
+Dialogue: 2,0:00:14.58,0:00:19.71,OPCN,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(4780,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(4780,0,0.5,\blur3)}這是一種無法用言語理解的關係
 Dialogue: 3,0:00:19.29,0:00:26.30,OPCN,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(6660,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(6660,0,0.5,\blur3)}但那也沒有問題  因為我們還想留在這裡
 Dialogue: 2,0:00:26.34,0:00:30.26,OPCN,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(3570,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(3570,0,0.5,\blur3)}僅憑這一點就將我們維繫
 Dialogue: 3,0:00:29.84,0:00:34.72,OPCN,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(4530,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(4530,0,0.5,\blur3)}因為我們是如此相似
 Dialogue: 2,0:00:34.31,0:00:39.73,OPCN,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(5070,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(5070,0,0.5,\blur3)}懷抱著深藏的秘密
 Dialogue: 3,0:00:40.14,0:00:46.15,OPCN,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(5660,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(5660,0,0.5,\blur3)}平淡無奇的每一天  就是我們渴望的日常起居
-Dialogue: 2,0:00:45.73,0:00:50.70,OPCN,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(4620,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(4620,0,0.5,\blur3)}揭露出無法滿足的心情
+Dialogue: 2,0:00:45.73,0:00:50.70,OPCN,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(4620,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(4620,0,0.5,\blur3)}將無法滿足的心情揭露出來吧
 Dialogue: 3,0:00:50.82,0:00:56.87,OPCN,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(5700,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(5700,0,0.5,\blur3)}你是真實也好虛假也罷
 Dialogue: 2,0:00:56.45,0:01:02.46,OPCN,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(5660,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(5660,0,0.5,\blur3)}甜蜜得心痛的回憶也能讓心緒風平浪靜
-Dialogue: 3,0:01:02.04,0:01:08.88,OPCN,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(6490,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(6490,0,0.5,\blur3)}想要解明你的笑容之謎  以及選擇了明天的證明
-Dialogue: 2,0:01:08.46,0:01:14.47,OPCN,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(5660,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(5660,0,0.5,\blur3)}被孤獨包裹的二人關係  也扭曲地彼此糾纏在一起
-Dialogue: 3,0:01:14.05,0:01:19.31,OPCN,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(4910,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(4910,0,0.5,\blur3)}真相就在那眼眸裡
+Dialogue: 3,0:01:02.04,0:01:06.05,OPCN,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(3640,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(3640,0,0.5,\blur3)}想要解明你的笑容之謎
+Dialogue: 3,0:01:05.58,0:01:08.88,OPCN,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(2900,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(2900,0,0.5,\blur3)}我們選擇了明天的證明
+Dialogue: 2,0:01:08.46,0:01:11.95,OPCN,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(3150,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(3150,0,0.5,\blur3)}以及被孤獨包裹的二人關係
+Dialogue: 2,0:01:11.59,0:01:14.47,OPCN,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(2500,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(2500,0,0.5,\blur3)}都扭曲地彼此糾纏在一起
+Dialogue: 3,0:01:14.05,0:01:19.31,OPCN,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(4910,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(4910,0,0.5,\blur3)}真相就映在你眼眸裡
 Dialogue: 2,0:00:14.58,0:00:19.71,OPJP,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(4780,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(4780,0,0.5,\blur3)}言葉じゃわかんないようにできてる
 Dialogue: 3,0:00:19.29,0:00:26.30,OPJP,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(6660,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(6660,0,0.5,\blur3)}それでいいんだ僕らまだここに居たいから
 Dialogue: 2,0:00:26.34,0:00:30.26,OPJP,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(3570,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(3570,0,0.5,\blur3)}それだけが繋ぎとめた
@@ -77,21 +79,25 @@ Dialogue: 2,0:00:45.73,0:00:50.70,OPJP,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00
 Dialogue: 3,0:00:50.82,0:00:56.87,OPJP,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(5700,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(5700,0,0.5,\blur3)\fs30\fsp1\pos(715,1000)}ホントウ
 Dialogue: 3,0:00:50.82,0:00:56.87,OPJP,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(5700,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(5700,0,0.5,\blur3)}君が真実でも嘘でもどうでもよかった
 Dialogue: 2,0:00:56.45,0:01:02.46,OPJP,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(5660,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(5660,0,0.5,\blur3)}甘すぎてひどい思い出も　心を凪いでく
-Dialogue: 3,0:01:02.04,0:01:08.88,OPJP,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(6490,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(6490,0,0.5,\blur3)}その笑みを解いてみたい　明日を選んだ証明も
-Dialogue: 2,0:01:08.46,0:01:14.47,OPJP,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(5660,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(5660,0,0.5,\blur3)}ふたりぼっちな関係も　歪に絡み合う
+Dialogue: 3,0:01:02.04,0:01:06.05,OPJP,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(3640,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(3640,0,0.5,\blur3)}その笑みを解いてみたい
+Dialogue: 2,0:01:05.58,0:01:08.88,OPJP,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(2900,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(2900,0,0.5,\blur3)}明日を選んだ証明も
+Dialogue: 3,0:01:08.46,0:01:11.95,OPJP,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(3150,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(3150,0,0.5,\blur3)}ふたりぼっちな関係も
+Dialogue: 2,0:01:11.59,0:01:14.47,OPJP,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(2500,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(2500,0,0.5,\blur3)}歪に絡み合う
 Dialogue: 3,0:01:14.05,0:01:19.31,OPJP,,0,0,0,,{\alpha&HFF&\t(0,350,1,\alpha&H00&)\t(0,500,1.5,\c&FFFFFF&)\t(4910,0,1,\alpha&HFF&)\blur3\t(0,350,1.5,\blur0.5)\t(4910,0,0.5,\blur3)}真相はその瞳の中
-Dialogue: 0,0:00:14.58,0:00:19.71,OPCN - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(4780,0,1,\alpha&HFF&)}這是一種無法用語言理解的關係
+Dialogue: 0,0:00:14.58,0:00:19.71,OPCN - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(4780,0,1,\alpha&HFF&)}這是一種無法用言語理解的關係
 Dialogue: 1,0:00:19.29,0:00:26.30,OPCN - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(6660,0,1,\alpha&HFF&)}但那也沒有問題  因為我們還想留在這裡
 Dialogue: 0,0:00:26.34,0:00:30.26,OPCN - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(3570,0,1,\alpha&HFF&)}僅憑這一點就將我們維繫
 Dialogue: 1,0:00:29.84,0:00:34.72,OPCN - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(4530,0,1,\alpha&HFF&)}因為我們是如此相似
 Dialogue: 0,0:00:34.31,0:00:39.73,OPCN - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(5070,0,1,\alpha&HFF&)}懷抱著深藏的秘密
 Dialogue: 1,0:00:40.14,0:00:46.15,OPCN - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(5660,0,1,\alpha&HFF&)}平淡無奇的每一天  就是我們渴望的日常起居
-Dialogue: 0,0:00:45.73,0:00:50.70,OPCN - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(4620,0,1,\alpha&HFF&)}揭露出無法滿足的心情
+Dialogue: 0,0:00:45.73,0:00:50.70,OPCN - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(4620,0,1,\alpha&HFF&)}將無法滿足的心情揭露出來吧
 Dialogue: 1,0:00:50.82,0:00:56.87,OPCN - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(5700,0,1,\alpha&HFF&)}你是真實也好虛假也罷
 Dialogue: 0,0:00:56.45,0:01:02.46,OPCN - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(5660,0,1,\alpha&HFF&)}甜蜜得心痛的回憶也能讓心緒風平浪靜
-Dialogue: 1,0:01:02.04,0:01:08.88,OPCN - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(6490,0,1,\alpha&HFF&)}想要解明你的笑容之謎  以及選擇了明天的證明
-Dialogue: 0,0:01:08.46,0:01:14.47,OPCN - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(5660,0,1,\alpha&HFF&)}被孤獨包裹的二人關係  也扭曲地彼此糾纏在一起
-Dialogue: 1,0:01:14.05,0:01:19.31,OPCN - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(4910,0,1,\alpha&HFF&)}真相就在那眼眸裡
+Dialogue: 1,0:01:02.04,0:01:06.05,OPCN - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(3640,0,1,\alpha&HFF&)}想要解明你的笑容之謎
+Dialogue: 0,0:01:05.58,0:01:08.88,OPCN - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(2900,0,1,\alpha&HFF&)}我們選擇了明天的證明
+Dialogue: 0,0:01:08.46,0:01:11.95,OPCN - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(3150,0,1,\alpha&HFF&)}以及被孤獨包裹的二人關係
+Dialogue: 0,0:01:11.59,0:01:14.47,OPCN - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(2500,0,1,\alpha&HFF&)}都扭曲地彼此糾纏在一起
+Dialogue: 1,0:01:14.05,0:01:19.31,OPCN - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(4910,0,1,\alpha&HFF&)}真相就映在你眼眸裡
 Dialogue: 0,0:00:14.58,0:00:19.71,OPJP - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(4780,0,1,\alpha&HFF&)}言葉じゃわかんないようにできてる
 Dialogue: 1,0:00:19.29,0:00:26.30,OPJP - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(6660,0,1,\alpha&HFF&)}それでいいんだ僕らまだここに居たいから
 Dialogue: 0,0:00:26.34,0:00:30.26,OPJP - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(3570,0,1,\alpha&HFF&)}それだけが繋ぎとめた
@@ -102,8 +108,10 @@ Dialogue: 0,0:00:45.73,0:00:50.70,OPJP - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,7
 Dialogue: 1,0:00:50.82,0:00:56.87,OPJP - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(5700,0,1,\alpha&HFF&)\fsp1\fs30\3c&HBC8A1D&\pos(715,1000)}ホントウ
 Dialogue: 1,0:00:50.82,0:00:56.87,OPJP - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(5700,0,1,\alpha&HFF&)}君が真実でも嘘でもどうでもよかった
 Dialogue: 0,0:00:56.45,0:01:02.46,OPJP - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(5660,0,1,\alpha&HFF&)}甘すぎてひどい思い出も　心を凪いでく
-Dialogue: 1,0:01:02.04,0:01:08.88,OPJP - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(6490,0,1,\alpha&HFF&)}その笑みを解いてみたい　明日を選んだ証明も
-Dialogue: 0,0:01:08.46,0:01:14.47,OPJP - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(5660,0,1,\alpha&HFF&)}ふたりぼっちな関係も　歪に絡み合う
+Dialogue: 1,0:01:02.04,0:01:06.05,OPJP - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(3640,0,1,\alpha&HFF&)}その笑みを解いてみたい
+Dialogue: 0,0:01:05.58,0:01:08.88,OPJP - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(2900,0,1,\alpha&HFF&)}明日を選んだ証明も
+Dialogue: 1,0:01:08.46,0:01:11.95,OPJP - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(3150,0,1,\alpha&HFF&)}ふたりぼっちな関係も
+Dialogue: 0,0:01:11.59,0:01:14.47,OPJP - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(2500,0,1,\alpha&HFF&)}歪に絡み合う
 Dialogue: 1,0:01:14.05,0:01:19.31,OPJP - shadow,,0,0,0,,{\blur2\alpha&HFF&\t(0,750,0.5,\alpha&H00&)\t(4910,0,1,\alpha&HFF&)}真相はその瞳の中
 Comment: 0,0:21:32.94,0:21:32.98,Default,,0,0,0,,【ED】意解けない
 Dialogue: 0,0:21:32.94,0:21:36.40,EDJP,,0,0,0,,{\fad(300,0)\blur3}This is fate with you.
@@ -449,7 +457,7 @@ Dialogue: 8,0:20:48.99,0:20:50.62,Text - CN,,0,0,0,,要是不能的話
 Dialogue: 8,0:20:50.62,0:20:53.15,Text - CN,,0,0,0,,我就動用我微薄的智慧
 Dialogue: 8,0:20:53.15,0:20:56.40,Text - CN,,0,0,0,,將我認為小佐內有危險的理由整理成語言
 Dialogue: 8,0:21:23.18,0:21:25.21,Text - CN,,0,0,0,,那麼  開始吧
-Dialogue: 8,0:21:25.93,0:21:27.27,Text - CN,,0,0,0,,在我看來
+Dialogue: 8,0:21:25.93,0:21:27.27,Text - CN,,0,0,0,,依我看
 Dialogue: 8,0:21:28.96,0:21:32.22,Text - CN,,0,0,0,,這件事可以靠一連串的推理來解決
 Dialogue: 9,0:01:48.46,0:01:50.38,Text - JP,,0,0,0,,ほら　よそ見しない！
 Dialogue: 9,0:02:01.47,0:02:04.35,Text - JP,,0,0,0,,小鳩くん？ 私　小佐内
