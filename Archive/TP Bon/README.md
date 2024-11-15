@@ -27,6 +27,7 @@ SweetSub 未標明有「繁化」的作品，均由[繁化姬](https://zhconvert
 | 07 | 暗黑大迷宫 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2007.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2007.cht.ass) |
 | 08 | 战场上的美少女 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2008.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2008.cht.ass) |
 | 09 | 休假骑恐龙 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2009.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2009.cht.ass) |
+| 10 | OK 牧场附近的枪战 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2010.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2010.cht.ass) |
 
 </auto-generated-table>
 
