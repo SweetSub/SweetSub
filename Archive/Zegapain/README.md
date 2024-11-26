@@ -13,6 +13,7 @@
 | 9 | 精神损伤 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Zegapain/%5BSweetSub%5D%20Zegapain%20-%2009.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Zegapain/%5BSweetSub%5D%20Zegapain%20-%2009.cht.ass) |
 | 10 | 夏日再临 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Zegapain/%5BSweetSub%5D%20Zegapain%20-%2010.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Zegapain/%5BSweetSub%5D%20Zegapain%20-%2010.cht.ass) |
 | 11 | 遗留下的幻影 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Zegapain/%5BSweetSub%5D%20Zegapain%20-%2011.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Zegapain/%5BSweetSub%5D%20Zegapain%20-%2011.cht.ass) |
+| 12 | 觉醒者们 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Zegapain/%5BSweetSub%5D%20Zegapain%20-%2012.chs.ass) | [繁體](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Zegapain/%5BSweetSub%5D%20Zegapain%20-%2012.cht.ass) |
 
 
 
