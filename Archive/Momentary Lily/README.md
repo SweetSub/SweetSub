@@ -11,7 +11,7 @@
 
 | 集数 | 标题 | 简体 | 繁体 |
 | - | - | - | - |
-| 01 | 孤独后的秋刀鱼盖饭三吃 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Momentary%20Lily/%5BSweetSub%5D%20Momentary%20Lily%20-%2001.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Momentary%20Lily/%5BSweetSub%5D%20Momentary%20Lily%20-%2001.cht.ass) |
+| 01 | 孤独后的秋刀鱼盖饭三吃 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Momentary%20Lily/%5BSweetSub%5D%20Momentary%20Lily%20-%2001.chs.ass) | N/A
 
 </auto-generated-table>
 
