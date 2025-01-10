@@ -12,6 +12,7 @@
 | 集数 | 标题 | 简体 | 繁体 |
 | - | - | - | - |
 | 01 | 孤独后的秋刀鱼盖饭三吃 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Momentary%20Lily/%5BSweetSub%5D%20Momentary%20Lily%20-%2001.chs.ass) | N/A
+| 02 | 大家一起享用鲭鱼罐头做的意式番茄锅 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Momentary%20Lily/%5BSweetSub%5D%20Momentary%20Lily%20-%2002.chs.ass) | N/A
 
 </auto-generated-table>
 
