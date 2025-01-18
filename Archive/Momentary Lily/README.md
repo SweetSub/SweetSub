@@ -13,6 +13,7 @@
 | - | - | - | - |
 | 01 | 孤独后的秋刀鱼盖饭三吃 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Momentary%20Lily/%5BSweetSub%5D%20Momentary%20Lily%20-%2001.chs.ass) | N/A
 | 02 | 大家一起享用鲭鱼罐头做的意式番茄锅 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Momentary%20Lily/%5BSweetSub%5D%20Momentary%20Lily%20-%2002.chs.ass) | N/A
+| 03 | 用蟹肉罐头和鲭鱼罐头做的散寿司让人难以忘怀 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Momentary%20Lily/%5BSweetSub%5D%20Momentary%20Lily%20-%2003.chs.ass) | N/A
 
 </auto-generated-table>
 
