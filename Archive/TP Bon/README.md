@@ -34,6 +34,9 @@ SweetSub 未標明有「繁化」的作品，均由[繁化姬](https://zhconvert
 | 14 | 查克穆尔的献祭 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2014.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2014.cht.ass) |
 | 15 | 平家遗民 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2015.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2015.cht.ass) |
 | 16 | 苏美尔的少年 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2016.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2016.cht.ass) |
+| 17 | 第一个美洲人 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2017.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2017.cht.ass) |
+| 18 | 时间巡警犯罪 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2018.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2018.cht.ass) |
+| 19 | 魔兽德尔布 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2019.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2019.cht.ass) |
 
 </auto-generated-table>
 
