@@ -16,6 +16,7 @@
 | 03 | 用蟹肉罐头和鲭鱼罐头做的散寿司让人难以忘怀 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Momentary%20Lily/%5BSweetSub%5D%20Momentary%20Lily%20-%2003.chs.ass) | N/A
 | 04 | 咸牛肉浓厚味噌拉面给人带来温暖 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Momentary%20Lily/%5BSweetSub%5D%20Momentary%20Lily%20-%2004.chs.ass) | N/A
 | 05 | 用鲭鱼与牡蛎做的切蒲英风鸡蛋烩饭传达思念 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Momentary%20Lily/%5BSweetSub%5D%20Momentary%20Lily%20-%2005.chs.ass) | N/A
+| 06 | 泳池与视频与夏天的上海风鱿鱼炒面 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Momentary%20Lily/%5BSweetSub%5D%20Momentary%20Lily%20-%2006.chs.ass) | N/A
 
 </auto-generated-table>
 
