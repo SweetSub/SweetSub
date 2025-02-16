@@ -11,8 +11,6 @@ LayoutResX: 1920
 PlayResY: 1080
 LayoutResY: 1080
 
-[Aegisub Project Garbage]
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Source Han Sans SC Medium,90,&H00F0F0F0,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0.1,0,1,3,0,2,30,30,25,1
@@ -33,19 +31,13 @@ Style: EDCN,Source Han Serif SC Medium,50,&H23F0F0F0,&H000000FF,&H64000000,&H000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,**正在调轴的匹配 BD 片源的观众朋友请注意**
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,SweetSub *一定*会调整匹配 BD 片源。
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,调整好的字幕会以包括 GitHub 在内的多种渠道发布，供大家取用。
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,请不要擅自调轴并发布本组的字幕以匹配 BD 片源，除非本组在 BD 最后一卷于 U2 放流 60 天后仍然未发布 BD 字幕。
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,本字幕由 SweetSub 制作
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,本字幕在遵循 Creative Common BY-NC-ND 4.0 规则的情况下可以自由转载、使用。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,即，在署名、非商业利用、不进行修改的情况下可以自由转载使用。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果是仅仅是修改时间轴匹配 BD 以外的片源的话，可以作为例外，在署名、非商业利用的情况下，可以自由转载、使用。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,如果在其它情况下想要转载和使用本字幕，或是在字幕中发现了错误或者有其它问题，可以使用 telegram 联系我，详细方法见 telegram 频道。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,该版本为 v2 版字幕，对应 WEB 版片源。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,该版本为 BD 版字幕 v1。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,【Credit】
 Dialogue: 0,0:23:00.36,0:23:02.95,Credit,,0,0,0,,{\fad(0,0)\blur3\pos(170,588)}翻译    {\fs50}Spica\N\N{\fs}后期    {\fs50}natsukage\N\N{\fs}字幕    {\fs50}SweetSub
 Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,,【OP】スイートメモリー
@@ -146,7 +138,7 @@ Dialogue: 1,0:22:54.98,0:22:58.94,EDCN,,0,0,0,,{\fad(300,0)\blur3}无论表里�
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,【Title】
 Dialogue: 0,0:01:30.52,0:01:32.98,Sign,ep_title,0,0,0,,{\an3\fad(487,1)\blur3\fnSource Han Serif SC\b1\3c&H000000&\3a&HC8&\pos(1828,825)\fs70}第五集  {\fs90\fsp5}柏林炸面包之谜{柏林果酱包之谜}
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,【Sign】
-Dialogue: 0,0:08:18.47,0:08:21.48,Sign,,0,0,0,,{\clip()\t(29,2990,\clip())\fscx100\t(29,2990,\fscx104.49)\fscy100\t(29,2990,\fscy104.49)\alpha&H00&\an2\b1\fs90\bord0\shad0\fax0.12\blur0.9\c&H191917&\frz351.1\move(930,744,928.66,753.11,29,2990)}家政教室
+Dialogue: 0,0:08:18.47,0:08:21.48,Sign,,0,0,0,,{\fscy100\t(28,2989,\fscy104.49)\fscx100\t(28,2989,\fscx104.49)\alpha&H00&\an2\fs90\bord0\shad0\blur0.9\c&H1F1F1C&\fry1.72\frx-0.11\frz-8.18\t(28,2989,\frz-8.18)\fax0.14\move(949,748,948.51,757.31,28,2989)}家政教室
 Dialogue: 0,0:20:58.90,0:21:01.90,Sign,,0,0,0,,{\blur0.9\an1\fs36\bord0\shad0\frz16.86\c&H596773&\fax0.2\pos(720,895.6)}2 年 C 班
 Dialogue: 0,0:16:05.94,0:16:08.69,Sign,,0,0,0,,{\an7\p1\shad0\bord0\fscx260\fscy60\1a&H40&\pos(24,156)\c&H272A9B&}m 0 0 l 280 0 280 240 0 240{\p0}
 Dialogue: 0,0:16:05.94,0:16:08.69,Sign,,0,0,0,,{\an7\pos(0,-15)\fscx100\fscy100\blur1.5\1a&H40&\bord0\shad0\p1\c&H162631&}m 90 195 l 45 285 135 285
