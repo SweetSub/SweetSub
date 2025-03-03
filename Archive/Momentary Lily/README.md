@@ -19,6 +19,7 @@
 | 06 | 泳池与视频与夏天的上海风鱿鱼炒面 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Momentary%20Lily/%5BSweetSub%5D%20Momentary%20Lily%20-%2006.chs.ass) | N/A
 | 07 | 并肩作战盐饭团 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Momentary%20Lily/%5BSweetSub%5D%20Momentary%20Lily%20-%2007.chs.ass) | N/A
 | 08 | 雨后巧克力棒 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Momentary%20Lily/%5BSweetSub%5D%20Momentary%20Lily%20-%2008.chs.ass) | N/A
+| 09 | 彻夜欢笑后加入了各种食材而偶然变得好吃的咖喱 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Momentary%20Lily/%5BSweetSub%5D%20Momentary%20Lily%20-%2009.chs.ass) | N/A
 
 </auto-generated-table>
 
