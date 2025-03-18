@@ -32,7 +32,7 @@ jobs:
         id: changed-files
         with:
           separator: ', '
-        uses: tj-actions/changed-files@v44
+        uses: tj-actions/changed-files@v46
         
       - name: Run py script
         id: py-script
