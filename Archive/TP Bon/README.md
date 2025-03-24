@@ -40,6 +40,8 @@ SweetSub 未標明有「繁化」的作品，均由[繁化姬](https://zhconvert
 | 20 | 特洛伊覆灭之日 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2020.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2020.cht.ass) |
 | 21 | 死神大军 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2021.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2021.cht.ass) |
 | 22 | 神怒 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2022.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2022.cht.ass) |
+| 23 | 被雨淹没的遗迹 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2023.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2023.cht.ass) |
+| 24 | 时间巡警阿凡 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2024.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/TP%20Bon/%5BSweetSub%5D%20TP%20Bon%20-%2024.cht.ass) |
 
 </auto-generated-table>
 
