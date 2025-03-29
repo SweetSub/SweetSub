@@ -22,6 +22,7 @@
 | 09 | 彻夜欢笑后加入了各种食材而偶然变得好吃的咖喱 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Momentary%20Lily/%5BSweetSub%5D%20Momentary%20Lily%20-%2009.chs.ass) | N/A
 | 10 | 另一个人与缺失的罐头 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Momentary%20Lily/%5BSweetSub%5D%20Momentary%20Lily%20-%2010.chs.ass) | N/A
 | 11 | 和无法碰触的她一起割烹 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Momentary%20Lily/%5BSweetSub%5D%20Momentary%20Lily%20-%2011.chs.ass) | N/A
+| 12 | 如此开心的全套宴席 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Momentary%20Lily/%5BSweetSub%5D%20Momentary%20Lily%20-%2012.chs.ass) | N/A
 
 </auto-generated-table>
 
