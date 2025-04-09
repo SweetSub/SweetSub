@@ -9,7 +9,7 @@
 
 | 集数 | 标题 | 简体 | 繁体 |
 | - | - | - | - |
-| 01 |  | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/GQuuuuuuX/%5BSweetSub%5D%20Mobile%20Suit%20Gundam%20GQuuuuuuX%20-%2001.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/GQuuuuuuX/%5BSweetSub%5D%20Mobile%20Suit%20Gundam%20GQuuuuuuX%20-%2001.cht.ass) |
+| 01 | 红色高达 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/GQuuuuuuX/%5BSweetSub%5D%20Mobile%20Suit%20Gundam%20GQuuuuuuX%20-%2001.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/GQuuuuuuX/%5BSweetSub%5D%20Mobile%20Suit%20Gundam%20GQuuuuuuX%20-%2001.cht.ass) |
 
 </auto-generated-table>
 
