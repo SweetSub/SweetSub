@@ -11,6 +11,10 @@
 | - | - | - | - |
 | 01 | 红色高达 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/GQuuuuuuX/%5BSweetSub%5D%20Mobile%20Suit%20Gundam%20GQuuuuuuX%20-%2001.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/GQuuuuuuX/%5BSweetSub%5D%20Mobile%20Suit%20Gundam%20GQuuuuuuX%20-%2001.cht.ass) |
 | 02 | 白色高达 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/GQuuuuuuX/%5BSweetSub%5D%20Mobile%20Suit%20Gundam%20GQuuuuuuX%20-%2002.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/GQuuuuuuX/%5BSweetSub%5D%20Mobile%20Suit%20Gundam%20GQuuuuuuX%20-%2002.cht.ass) |
+| 03 | 参加帮派战的玛秋 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/GQuuuuuuX/%5BSweetSub%5D%20Mobile%20Suit%20Gundam%20GQuuuuuuX%20-%2003.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/GQuuuuuuX/%5BSweetSub%5D%20Mobile%20Suit%20Gundam%20GQuuuuuuX%20-%2003.cht.ass) |
+| 04 | 女巫的战争 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/GQuuuuuuX/%5BSweetSub%5D%20Mobile%20Suit%20Gundam%20GQuuuuuuX%20-%2004.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/GQuuuuuuX/%5BSweetSub%5D%20Mobile%20Suit%20Gundam%20GQuuuuuuX%20-%2004.cht.ass) |
+| 05 | 尼娅安不曾体验过亮闪闪 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/GQuuuuuuX/%5BSweetSub%5D%20Mobile%20Suit%20Gundam%20GQuuuuuuX%20-%2005.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/GQuuuuuuX/%5BSweetSub%5D%20Mobile%20Suit%20Gundam%20GQuuuuuuX%20-%2005.cht.ass) |
+| 06 | 刺杀基西莉亚计划 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/GQuuuuuuX/%5BSweetSub%5D%20Mobile%20Suit%20Gundam%20GQuuuuuuX%20-%2006.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/GQuuuuuuX/%5BSweetSub%5D%20Mobile%20Suit%20Gundam%20GQuuuuuuX%20-%2006.cht.ass) |
 
 </auto-generated-table>
 
