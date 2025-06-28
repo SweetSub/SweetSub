@@ -14,4 +14,4 @@
 </auto-generated-table>
 
 
-![](https://p.sda1.dev/25/5d117072ba6c6f3ea2b1cf015dacb94d/Takopii.jpgg)
+![](https://p.sda1.dev/25/5d117072ba6c6f3ea2b1cf015dacb94d/Takopii.jpg)
