@@ -9,8 +9,7 @@
 
 | 集数 | 标题 | 简体 | 繁体 |
 | - | - | - | - |
-| 01 | 致 2016 年的你 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Takopii%20no%20Genzai/%5BSweetSub%5D%20Takopii%20no%20Genzai%20-%2001.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Takopii%20no%20Genzai/%5BSweetSub%5D%20Takopii%20no%20Genzai%20-%2001.cht.ass) |
-
+| 01 |  | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Takopii%20no%20Genzai/%5BSweetSub%5D%20Takopii%20no%20Genzai%20-%2001.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Takopii%20no%20Genzai/%5BSweetSub%5D%20Takopii%20no%20Genzai%20-%2001.cht.ass) |
 
 </auto-generated-table>
 
