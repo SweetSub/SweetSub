@@ -448,10 +448,10 @@ Dialogue: 0,0:14:57.96,0:14:59.63,Sign,,0,0,0,,{\fnDream Han Sans TC W15\c&H6964
 Dialogue: 0,0:14:59.63,0:15:02.34,Sign,,0,0,0,,{\c&H7073E3&\fnDream Han Sans TC W27\fs45\fax0.000007\fscx151.16\fscy129.25\frz20.5079\frx1.0923\fry-0.9465\xbord2.00\ybord2.00\org(4854.13,224.95)\pos(-909.45,-1890.05)}注意腳下
 Comment: 0,0:15:12.22,0:15:14.48,Sign,,0,0,0,,{不做}
 Dialogue: 0,0:15:14.48,0:15:16.98,Sign,title,0,0,0,,{\fnDream Han Sans TC W27\fs80\bord5\c&H3F3433&\3c&HF6F5F3&\pos(1160,710)}裝神遊戲
-Dialogue: 0,0:15:16.98,0:15:25.15,Sign,,0,0,0,,{\fnream Han Sans SC W15\bord2\fs25\c&H483255&\3c&HD0F3FD&\frz13.3\pos(627.18,229.09)}盛
-Dialogue: 0,0:15:16.98,0:15:25.15,Sign,,0,0,0,,{\fnream Han Sans SC W15\bord2\fs25\c&H483255&\3c&HD0F3FD&\frz13.3\pos(632.36,250.98)}大
-Dialogue: 0,0:15:16.98,0:15:25.15,Sign,,0,0,0,,{\fnream Han Sans SC W15\bord2\fs25\c&H483255&\3c&HD0F3FD&\frz13.3\pos(637.53,272.88)}開
-Dialogue: 0,0:15:16.98,0:15:25.15,Sign,,0,0,0,,{\fnream Han Sans SC W15\bord2\fs25\c&H483255&\3c&HD0F3FD&\frz13.3\pos(642.71,294.77)}業
+Dialogue: 0,0:15:16.98,0:15:25.15,Sign,,0,0,0,,{\fnDream Han Sans SC W15\bord2\fs25\c&H483255&\3c&HD0F3FD&\frz13.3\pos(627.18,229.09)}盛
+Dialogue: 0,0:15:16.98,0:15:25.15,Sign,,0,0,0,,{\fnDream Han Sans SC W15\bord2\fs25\c&H483255&\3c&HD0F3FD&\frz13.3\pos(632.36,250.98)}大
+Dialogue: 0,0:15:16.98,0:15:25.15,Sign,,0,0,0,,{\fnDream Han Sans SC W15\bord2\fs25\c&H483255&\3c&HD0F3FD&\frz13.3\pos(637.53,272.88)}開
+Dialogue: 0,0:15:16.98,0:15:25.15,Sign,,0,0,0,,{\fnDream Han Sans SC W15\bord2\fs25\c&H483255&\3c&HD0F3FD&\frz13.3\pos(642.71,294.77)}業
 Dialogue: 0,0:15:16.98,0:15:25.15,Sign,,0,0,0,,{\fnDream Han Sans TC W15\fs25\bord2\c&H372C35&\3c&H727FAA&\pos(960,787)}存錢箱
 Dialogue: 0,0:16:09.03,0:16:09.07,Sign,,0,0,0,,{\frz1.99\bord0\c&H403534&\fs50\1a&HE6&\pos(840,30.12)}哈哈哈哈
 Dialogue: 0,0:16:09.07,0:16:09.11,Sign,,0,0,0,,{\frz1.99\bord0\c&H403534&\fs50\1a&HD2&\pos(840,45.98)}哈哈哈哈
