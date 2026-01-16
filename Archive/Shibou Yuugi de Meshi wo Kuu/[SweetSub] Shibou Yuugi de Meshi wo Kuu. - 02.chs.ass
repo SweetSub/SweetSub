@@ -50,7 +50,7 @@ Dialogue: 0,0:05:21.93,0:05:23.93,Sign,,0,0,0,,{\fad(150,0)\pos(960,115)\bord0\b
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Note
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Opening「¬Ersterbend」
 Dialogue: 0,0:01:27.03,0:01:29.99,Sign,,0,0,0,,{\fnFZZhuZiMingChaoSongJF\c&HFFFFFF&\bord0\fs52\pos(972.5,650)}这是发生在某个癫狂世界的故事。
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,ED「祈り」
+Comment: 0,0:22:19.94,0:22:19.99,Default,,0,0,0,,ED「祈り」
 Dialogue: 0,0:22:30.33,0:22:38.92,ED - CN,,0,0,0,,{\fad(500,500)}怀抱着无名的祈祷
 Dialogue: 0,0:22:30.33,0:22:38.92,ED - JP,,0,0,0,,{\fad(500,500)}名前のない祈りを抱えて
 Dialogue: 0,0:22:39.15,0:22:47.10,Ruby,,0,0,0,,{\fnFZZhuZiMingChaoSongJF\fad(500,500)\fs35\bord0.05\3c&HFFFFFF&\pos(1156.5,995)}早晨
