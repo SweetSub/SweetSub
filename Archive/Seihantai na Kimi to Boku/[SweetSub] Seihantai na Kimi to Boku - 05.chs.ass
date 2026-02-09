@@ -807,8 +807,8 @@ Dialogue: 0,0:13:48.89,0:13:49.02,Sign,,0,0,0,,{\fscx102.75\fscy102.75\alpha&H00
 Dialogue: 0,0:13:49.02,0:13:49.14,Sign,,0,0,0,,{\fscx100.88\fscy100.88\alpha&H00&\an8\fs30\bord0\frz339.1\pos(948.64,850.35)\c&HA9A6A6&}添加好友
 Dialogue: 0,0:13:49.14,0:13:49.27,Sign,,0,0,0,,{\fscx100.26\fscy100.26\alpha&H00&\an8\fs30\bord0\frz339.1\pos(972.7,783.59)\c&HA9A6A6&}添加好友
 Dialogue: 0,0:13:49.27,0:13:50.39,Sign,,0,0,0,,{\fscx100\fscy100\alpha&H00&\an8\fs30\bord0\frz339.1\pos(995,715)\c&HA9A6A6&}添加好友
-Dialogue: 0,0:13:57.90,0:13:59.90,Sign,,0,0,0,,{\c&H6F9C08&\fs30\fnFZLanTingYuan-EB-GBK\bor5\3c&HEEEEEE&\frz52.35\pos(1210,690)}集满 30 积分必得奖品!!
-Dialogue: 0,0:14:54.58,0:14:58.96,Sign,,0,0,0,,{\c&H6F9C08&\fs40\fnFZLanTingYuan-EB-GBK\bor5\frz46.8\pos(1120,740)\3c&HEEEEEE&}集满 30 积分必得奖品!!
+Dialogue: 0,0:13:57.90,0:13:59.90,Sign,,0,0,0,,{\c&H6F9C08&\fs30\fnFZLanTingYuan-EB-GBK\bord5\3c&HEEEEEE&\frz52.35\pos(1210,690)}集满 30 积分必得奖品!!
+Dialogue: 0,0:14:54.58,0:14:58.96,Sign,,0,0,0,,{\c&H6F9C08&\fs40\fnFZLanTingYuan-EB-GBK\bord5\frz46.8\pos(1120,740)\3c&HEEEEEE&}集满 30 积分必得奖品!!
 Dialogue: 0,0:15:28.37,0:15:34.87,Sign,,0,0,0,,{\c&H669430&\bord0\frz270\fn@FZLanTingYuan-EB-GBK\pos(690,515)}哥哥的房间
 Dialogue: 0,0:15:34.87,0:15:37.13,Sign,,0,0,0,,{\c&H60902B&\bord0\fs40\frz270\fn@FZLanTingYuan-EB-GBK\fad(150,0)\an7\pos(735,425)}但她想\N打电话聊天
 Dialogue: 0,0:16:04.15,0:16:07.16,Sign,,0,0,0,,{\c&H8B9103&\bord5\fnFZLanTingYuan-EB-GBK\pos(980,540)\fs45\3c&HB5FF8F&}高尔夫
