@@ -11,6 +11,7 @@
 | - | - | - | - |
 | 01 | 我成为了贵族 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Honzuki%20no%20Gekokujou%20S04/%5BSweetSub%5D%20Honzuki%20no%20Gekokujou%20S04%20-%2001.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Honzuki%20no%20Gekokujou%20S04/%5BSweetSub%5D%20Honzuki%20no%20Gekokujou%20S04%20-%2001.cht.ass) |
 | 02 | 与平民区家人重逢 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Honzuki%20no%20Gekokujou%20S04/%5BSweetSub%5D%20Honzuki%20no%20Gekokujou%20S04%20-%2002.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Honzuki%20no%20Gekokujou%20S04/%5BSweetSub%5D%20Honzuki%20no%20Gekokujou%20S04%20-%2002.cht.ass) |
+| 03 | 领主的城堡与意大利餐厅 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Honzuki%20no%20Gekokujou%20S04/%5BSweetSub%5D%20Honzuki%20no%20Gekokujou%20S04%20-%2003.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Honzuki%20no%20Gekokujou%20S04/%5BSweetSub%5D%20Honzuki%20no%20Gekokujou%20S04%20-%2003.cht.ass) |
 
 </auto-generated-table>
 
