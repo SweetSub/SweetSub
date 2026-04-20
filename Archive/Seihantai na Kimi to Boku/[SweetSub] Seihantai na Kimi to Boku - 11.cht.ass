@@ -38,10 +38,10 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,SweetSub 的字幕在發布後也會繼續更新，從第三方來源獲取的外掛字幕可能並非是最新版本，我們建議訪問 https://github.com/SweetSub/SweetSub 下載最新版本的字幕文件。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,此外，如果發現本字幕文件中的字體名稱為亂碼，說明這是字體子集化後的字幕，該版本並不是設計用來傳播用的外掛字幕。請訪問我們的 GitHub 頁面下載原始外掛字幕。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,該版本為 web 版字幕 v1，在合集時會有修正。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,該版本為 web 版合集字幕。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Credit
-Dialogue: 0,0:23:48.62,0:23:52.00,Default,,0,0,0,,{\fad(200,0)\fnFZLanTingYuan-EB-GBK\fs30\shad0\pos(960,980)\c&HAF7AFE&\3c&HEFDFA2&\bord6\blur2\b1}SweetSub{\fnDream Han Sans TC W20}／{\fnFZLanTingYuan-EB-GBK}翻譯：Senren　後期：Senren、natsukage
-Dialogue: 1,0:23:48.62,0:23:52.00,Default,,0,0,0,,{\fad(200,0)\fnFZLanTingYuan-EB-GBK\fs30\shad0\pos(960,980)\c&HAF7AFE&\3c&HFBF3FD&\bord3\b1}SweetSub{\fnDream Han Sans TC W20}／{\fnFZLanTingYuan-EB-GBK}翻譯：Senren　後期：Senren、natsukage
+Dialogue: 0,0:23:48.62,0:23:52.00,Default,,0,0,0,,{\fad(200,0)\fnFZLanTingYuan-EB-GBK\fs30\shad0\pos(960,980)\c&HAF7AFE&\3c&HEFDFA2&\bord6\blur2\b1}SweetSub{\fnDream Han Sans TC W20\b0}／{\fnFZLanTingYuan-EB-GBK\b1}翻譯：Senren　後期：Senren、natsukage
+Dialogue: 1,0:23:48.62,0:23:52.00,Default,,0,0,0,,{\fad(200,0)\fnFZLanTingYuan-EB-GBK\fs30\shad0\pos(960,980)\c&HAF7AFE&\3c&HFBF3FD&\bord3\b1}SweetSub{\fnDream Han Sans TC W20\b0}／{\fnFZLanTingYuan-EB-GBK\b1}翻譯：Senren　後期：Senren、natsukage
 Comment: 0,0:01:20.98,0:01:21.02,Default,,0,0,0,,Opening
 Dialogue: 0,0:01:21.44,0:01:24.73,OPCN,,0,0,0,,{\blur6\t(0,650,0.1,\blur0.6)\fad(250,0)\c&H312D38&\4c&HFFFFFF&}請你暫時{\4c&HD590FF&}摘{\4c&HFFFFFF&}下眼鏡
 Dialogue: 0,0:01:24.73,0:01:26.19,OPCN,,0,0,0,,{\blur0.6\c&H312D38&\4c&HFFFFFF&}好好{\4c&HD590FF&}看{\4c&HFFFFFF&}著我的眼睛
@@ -117,10 +117,10 @@ Dialogue: 1,0:02:28.25,0:02:31.26,OPJP,,0,0,0,,{\bord3\c&HCBB963&\3c&H08EFED&}�
 Dialogue: 1,0:02:31.26,0:02:33.97,OPJP,,0,0,0,,{\bord3\c&HCBB963&\3c&H08EFED&}恋は走り出したの
 Dialogue: 1,0:02:33.97,0:02:36.47,OPJP,,0,0,0,,{\fad(0,150)\bord3\c&HCBB963&\3c&H08EFED&}放課後まで待てない
 Dialogue: 1,0:02:37.01,0:02:37.97,OPJP,,0,0,0,,{\fad(150,0)}大事な言葉ほど
-Dialogue: 1,0:02:37.97,0:02:39.47,OPJP,,0,0,0,,{}大事な言葉ほど
-Dialogue: 1,0:02:39.47,0:02:40.22,OPJP,,0,0,0,,{}酸素を嫌うみたい
-Dialogue: 1,0:02:40.22,0:02:40.97,OPJP,,0,0,0,,{}酸素を嫌うみたい
-Dialogue: 1,0:02:40.97,0:02:42.48,OPJP,,0,0,0,,{}酸素を嫌うみたい
+Dialogue: 1,0:02:37.97,0:02:39.47,OPJP,,0,0,0,,大事な言葉ほど
+Dialogue: 1,0:02:39.47,0:02:40.22,OPJP,,0,0,0,,酸素を嫌うみたい
+Dialogue: 1,0:02:40.22,0:02:40.97,OPJP,,0,0,0,,酸素を嫌うみたい
+Dialogue: 1,0:02:40.97,0:02:42.48,OPJP,,0,0,0,,酸素を嫌うみたい
 Dialogue: 1,0:02:42.48,0:02:46.10,OPJP,,0,0,0,,{\c&HA27762&\4c&HE6E8A9&\4a&H32&}辞書に無い私なりの言葉で
 Dialogue: 1,0:02:46.10,0:02:48.73,OPJP,,0,0,0,,{\bord3\c&HE3AE42&\3c&HA1F28C&}早く君に伝えなきゃね
 Dialogue: 1,0:02:48.73,0:02:51.03,OPJP,,0,0,0,,{\bord0\c&H626262&\shad0}早く君に伝えなきゃね
@@ -252,8 +252,8 @@ Dialogue: 0,0:00:06.53,0:00:06.57,Sign,,0,0,0,,{\alpha&H00&\bord2\fnFZLanTingYua
 Dialogue: 0,0:00:06.57,0:00:11.28,Sign,,0,0,0,,{\bord2\fnFZLanTingYuan-EB-GBK\blur0.8\fsp4\c&HF1FAF9&\3c&H9EB576&\fs40\fry6\pos(1490,569.33)\frz14.11}一日通大巴票
 Dialogue: 0,0:00:08.53,0:00:11.28,Sign,,0,0,0,,{\an8\fs60\fnFZLanTingYuan-DB-GBK\fsp4\bord4\blur0.8\c&H395DFE&\3c&H6B3FB1&\pos(1596,22.67)}旅{\c&HE19EFC&\3c&H743EAD&}行{\c&HCAFEFE&\3c&H7048B0&}指南\N{\c&H6E06AC&\3c&HF3F6F9&\fs40}■第 2 天  小組活動
 Dialogue: 0,0:00:24.92,0:00:27.55,Sign,,0,0,0,,{\bord3\fnFZLanTingYuan-DB-GBK\blur0.8\fsp1\c&H45FAB6&\3c&HF66309&\b1\fs25\pos(1046.55,331.64)}「他」
-Dialogue: 0,0:01:08.34,0:01:13.97,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\blur0.8\fsp4\c&HB992F7&\3c&H5B117C&\pos(1364,72)}哼
-Dialogue: 0,0:01:16.97,0:01:17.97,Sign,,0,0,0,,{\bord6\fnFZLanTingYuan-EB-GBK\blur0.8\fsp8\fad(0,480)\c&HC1FAFA&\3c&HA19605&\pos(554,74)}乾脆
+Dialogue: 0,0:01:08.34,0:01:13.97,Sign,,0,0,0,,{\bord4\fnKeinannPOP\blur0.8\fsp4\c&HB992F7&\3c&H5B117C&\pos(1365,70)}哼
+Dialogue: 0,0:01:16.97,0:01:17.97,Sign,,0,0,0,,{\bord6\fnFZLanTingYuan-EB-GBK\blur0.8\fsp8\fad(0,480)\c&HC1FAFA&\3c&HA19605&\pos(555,75)}乾脆
 Dialogue: 0,0:01:19.14,0:01:19.18,Sign,,0,0,0,,{\alpha&HF5&\bord4\fn@FZLanTingYuan-EB-GBK\blur0.8\fsp4\c&HB159F9&\3c&HF4F0F4&\an7\pos(140.06,726.57)\frz284.2}但逃過一劫…
 Dialogue: 0,0:01:19.18,0:01:19.23,Sign,,0,0,0,,{\alpha&HDD&\bord4\fn@FZLanTingYuan-EB-GBK\blur0.8\fsp4\c&HB159F9&\3c&HF4F0F4&\an7\pos(135.06,706.57)\frz284.2}但逃過一劫…
 Dialogue: 0,0:01:19.23,0:01:19.27,Sign,,0,0,0,,{\alpha&HBB&\bord4\fn@FZLanTingYuan-EB-GBK\blur0.8\fsp4\c&HB159F9&\3c&HF4F0F4&\an7\pos(126.06,682.57)\frz284.2}但逃過一劫…
@@ -298,24 +298,119 @@ Dialogue: 0,0:01:20.81,0:01:20.85,Sign,,0,0,0,,{\alpha&H00&\bord4\fn@FZLanTingYu
 Dialogue: 0,0:01:20.85,0:01:20.89,Sign,,0,0,0,,{\alpha&H00&\bord4\fn@FZLanTingYuan-EB-GBK\blur0.8\fsp4\c&HB159F9&\3c&HF4F0F4&\an7\pos(86.07,569.85)\frz284.2}但逃過一劫…
 Dialogue: 0,0:01:20.89,0:01:20.94,Sign,,0,0,0,,{\alpha&H00&\bord4\fn@FZLanTingYuan-EB-GBK\blur0.8\fsp4\c&HB159F9&\3c&HF4F0F4&\an7\pos(85.73,569.51)\frz284.2}但逃過一劫…
 Dialogue: 0,0:01:20.94,0:01:20.98,Sign,,0,0,0,,{\alpha&H00&\bord4\fn@FZLanTingYuan-EB-GBK\blur0.8\fsp4\c&HB159F9&\3c&HF4F0F4&\an7\pos(86,570)\frz284.2}但逃過一劫…
-Dialogue: 0,0:02:54.03,0:02:56.28,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-DB-GBK\blur0.8\fsp8\c&H6B9A9F&\3c&H215985&\fs40\an8\pos(964.8,850.8)}戀愛順利
-Dialogue: 0,0:03:29.19,0:03:33.19,Sign,,0,0,0,,{\fad(270,0)\c&H95F9FA&\3c&H1480F3&\bord4\fnFZLanTingYuan-EB-GBK\blur0.8\fs35\fsp4\an8\pos(858,18)}終點！
-Dialogue: 0,0:04:09.60,0:04:21.74,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\blur0.8\fsp4\c&HA302F7&\3c&HF2F2F5&\an8\move(1778,30,2146.21,30,25,12120)}熱鬧
-Dialogue: 0,0:04:09.60,0:04:21.74,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\blur0.8\fsp4\c&H8FAD06&\3c&HF5F7F0&\an8\move(1648,30,2016.21,30,25,12120)}熱鬧
-Dialogue: 0,0:04:09.60,0:04:21.74,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\blur0.8\fsp4\c&H81F8F9&\3c&H9F0768&\an8\move(1351.79,30,1720,30,25,12120)}耶
-Dialogue: 0,0:04:09.60,0:04:21.74,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\blur0.8\fsp4\c&H874BF7&\3c&HF1F1F8&\an8\move(971.79,30,1340,30,25,12120)}喲
-Dialogue: 0,0:04:09.60,0:04:21.74,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\blur0.8\fsp4\c&H6FFBC5&\3c&H8FAC07&\an8\move(331.79,30,700,30,25,12120)}耶
-Dialogue: 0,0:04:09.60,0:04:21.74,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\blur0.8\fsp4\c&H864BF9&\3c&HF2F2F8&\an8\move(-18.21,30,350,30,25,12120)}喲
-Dialogue: 0,0:04:09.60,0:04:21.74,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\blur0.8\fsp4\c&HA40267&\3c&HF5F4F4&\an8\move(-248.21,30,120,30,25,12120)}熱鬧
+Dialogue: 0,0:02:54.03,0:02:56.28,Sign,,0,0,0,,{\bord4\fnKeinannPOP\blur0.8\fsp8\c&H6B9A9F&\3c&H215985&\fs50\an8\pos(965,845)}戀愛順利
+Dialogue: 0,0:03:29.19,0:03:29.23,Sign,,0,0,0,,{\fscx113.23\fscy113.23\alpha&HEB&\c&H95F9FA&\3c&H1480F3&\bord4.53\fnKeinannPOP\blur0.91\fs50\fsp4\an8\pos(847.53,-20.46)}終點！
+Dialogue: 0,0:03:29.23,0:03:29.27,Sign,,0,0,0,,{\fscx113.68\fscy113.68\alpha&HD0&\c&H95F9FA&\3c&H1480F3&\bord4.55\fnKeinannPOP\blur0.91\fs50\fsp4\an8\pos(846.81,-20.64)}終點！
+Dialogue: 0,0:03:29.27,0:03:29.31,Sign,,0,0,0,,{\fscx113.8\fscy113.8\alpha&HAA&\c&H95F9FA&\3c&H1480F3&\bord4.55\fnKeinannPOP\blur0.91\fs50\fsp4\an8\pos(846.64,-20.5)}終點！
+Dialogue: 0,0:03:29.31,0:03:29.36,Sign,,0,0,0,,{\fscx113.61\fscy113.61\alpha&H84&\c&H95F9FA&\3c&H1480F3&\bord4.54\fnKeinannPOP\blur0.91\fs50\fsp4\an8\pos(846.59,-19.95)}終點！
+Dialogue: 0,0:03:29.36,0:03:29.40,Sign,,0,0,0,,{\fscx113.38\fscy113.38\alpha&H5E&\c&H95F9FA&\3c&H1480F3&\bord4.54\fnKeinannPOP\blur0.91\fs50\fsp4\an8\pos(846.64,-19.37)}終點！
+Dialogue: 0,0:03:29.40,0:03:29.44,Sign,,0,0,0,,{\fscx113.2\fscy113.2\alpha&H39&\c&H95F9FA&\3c&H1480F3&\bord4.53\fnKeinannPOP\blur0.91\fs50\fsp4\an8\pos(846.54,-18.79)}終點！
+Dialogue: 0,0:03:29.44,0:03:29.48,Sign,,0,0,0,,{\fscx112.78\fscy112.78\alpha&H13&\c&H95F9FA&\3c&H1480F3&\bord4.51\fnKeinannPOP\blur0.9\fs50\fsp4\an8\pos(846.8,-18.02)}終點！
+Dialogue: 0,0:03:29.48,0:03:29.52,Sign,,0,0,0,,{\fscx112.51\fscy112.51\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.5\fnKeinannPOP\blur0.9\fs50\fsp4\an8\pos(846.85,-17.43)}終點！
+Dialogue: 0,0:03:29.52,0:03:29.56,Sign,,0,0,0,,{\fscx112.25\fscy112.25\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.49\fnKeinannPOP\blur0.9\fs50\fsp4\an8\pos(846.89,-16.83)}終點！
+Dialogue: 0,0:03:29.56,0:03:29.61,Sign,,0,0,0,,{\fscx112.06\fscy112.06\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.48\fnKeinannPOP\blur0.9\fs50\fsp4\an8\pos(846.89,-16.32)}終點！
+Dialogue: 0,0:03:29.61,0:03:29.65,Sign,,0,0,0,,{\fscx111.83\fscy111.83\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.47\fnKeinannPOP\blur0.89\fs50\fsp4\an8\pos(846.93,-15.79)}終點！
+Dialogue: 0,0:03:29.65,0:03:29.69,Sign,,0,0,0,,{\fscx111.55\fscy111.55\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.46\fnKeinannPOP\blur0.89\fs50\fsp4\an8\pos(847.01,-15.21)}終點！
+Dialogue: 0,0:03:29.69,0:03:29.73,Sign,,0,0,0,,{\fscx111.3\fscy111.3\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.45\fnKeinannPOP\blur0.89\fs50\fsp4\an8\pos(847.08,-14.67)}終點！
+Dialogue: 0,0:03:29.73,0:03:29.77,Sign,,0,0,0,,{\fscx111.13\fscy111.13\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.45\fnKeinannPOP\blur0.89\fs50\fsp4\an8\pos(847.07,-14.23)}終點！
+Dialogue: 0,0:03:29.77,0:03:29.81,Sign,,0,0,0,,{\fscx110.93\fscy110.93\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.44\fnKeinannPOP\blur0.89\fs50\fsp4\an8\pos(847.08,-13.75)}終點！
+Dialogue: 0,0:03:29.81,0:03:29.86,Sign,,0,0,0,,{\fscx110.66\fscy110.66\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.43\fnKeinannPOP\blur0.89\fs50\fsp4\an8\pos(847.19,-13.21)}終點！
+Dialogue: 0,0:03:29.86,0:03:29.90,Sign,,0,0,0,,{\fscx110.41\fscy110.41\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.42\fnKeinannPOP\blur0.88\fs50\fsp4\an8\pos(847.28,-12.7)}終點！
+Dialogue: 0,0:03:29.90,0:03:29.94,Sign,,0,0,0,,{\fscx110.17\fscy110.17\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.41\fnKeinannPOP\blur0.88\fs50\fsp4\an8\pos(847.37,-12.19)}終點！
+Dialogue: 0,0:03:29.94,0:03:29.98,Sign,,0,0,0,,{\fscx109.92\fscy109.92\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.4\fnKeinannPOP\blur0.88\fs50\fsp4\an8\pos(847.46,-11.67)}終點！
+Dialogue: 0,0:03:29.98,0:03:30.02,Sign,,0,0,0,,{\fscx109.69\fscy109.69\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.39\fnKeinannPOP\blur0.88\fs50\fsp4\an8\pos(847.54,-11.21)}終點！
+Dialogue: 0,0:03:30.02,0:03:30.06,Sign,,0,0,0,,{\fscx109.51\fscy109.51\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.38\fnKeinannPOP\blur0.88\fs50\fsp4\an8\pos(847.55,-10.78)}終點！
+Dialogue: 0,0:03:30.06,0:03:30.11,Sign,,0,0,0,,{\fscx109.34\fscy109.34\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.37\fnKeinannPOP\blur0.87\fs50\fsp4\an8\pos(847.57,-10.4)}終點！
+Dialogue: 0,0:03:30.11,0:03:30.15,Sign,,0,0,0,,{\fscx109.13\fscy109.13\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.37\fnKeinannPOP\blur0.87\fs50\fsp4\an8\pos(847.66,-9.97)}終點！
+Dialogue: 0,0:03:30.15,0:03:30.19,Sign,,0,0,0,,{\fscx108.87\fscy108.87\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.35\fnKeinannPOP\blur0.87\fs50\fsp4\an8\pos(847.8,-9.48)}終點！
+Dialogue: 0,0:03:30.19,0:03:30.23,Sign,,0,0,0,,{\fscx108.7\fscy108.7\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.35\fnKeinannPOP\blur0.87\fs50\fsp4\an8\pos(847.81,-9.07)}終點！
+Dialogue: 0,0:03:30.23,0:03:30.27,Sign,,0,0,0,,{\fscx108.51\fscy108.51\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.34\fnKeinannPOP\blur0.87\fs50\fsp4\an8\pos(847.88,-8.67)}終點！
+Dialogue: 0,0:03:30.27,0:03:30.32,Sign,,0,0,0,,{\fscx108.36\fscy108.36\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.33\fnKeinannPOP\blur0.87\fs50\fsp4\an8\pos(847.89,-8.31)}終點！
+Dialogue: 0,0:03:30.32,0:03:30.36,Sign,,0,0,0,,{\fscx108.18\fscy108.18\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.33\fnKeinannPOP\blur0.87\fs50\fsp4\an8\pos(847.94,-7.91)}終點！
+Dialogue: 0,0:03:30.36,0:03:30.40,Sign,,0,0,0,,{\fscx108.02\fscy108.02\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.32\fnKeinannPOP\blur0.86\fs50\fsp4\an8\pos(847.97,-7.54)}終點！
+Dialogue: 0,0:03:30.40,0:03:30.44,Sign,,0,0,0,,{\fscx107.86\fscy107.86\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.31\fnKeinannPOP\blur0.86\fs50\fsp4\an8\pos(848.01,-7.19)}終點！
+Dialogue: 0,0:03:30.44,0:03:30.48,Sign,,0,0,0,,{\fscx107.7\fscy107.7\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.31\fnKeinannPOP\blur0.86\fs50\fsp4\an8\pos(848.06,-6.81)}終點！
+Dialogue: 0,0:03:30.48,0:03:30.52,Sign,,0,0,0,,{\fscx107.49\fscy107.49\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.3\fnKeinannPOP\blur0.86\fs50\fsp4\an8\pos(848.14,-6.4)}終點！
+Dialogue: 0,0:03:30.52,0:03:30.57,Sign,,0,0,0,,{\fscx107.33\fscy107.33\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.29\fnKeinannPOP\blur0.86\fs50\fsp4\an8\pos(848.17,-6.05)}終點！
+Dialogue: 0,0:03:30.57,0:03:30.61,Sign,,0,0,0,,{\fscx107.19\fscy107.19\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.29\fnKeinannPOP\blur0.86\fs50\fsp4\an8\pos(848.2,-5.72)}終點！
+Dialogue: 0,0:03:30.61,0:03:30.65,Sign,,0,0,0,,{\fscx107.03\fscy107.03\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.28\fnKeinannPOP\blur0.86\fs50\fsp4\an8\pos(848.23,-5.37)}終點！
+Dialogue: 0,0:03:30.65,0:03:30.69,Sign,,0,0,0,,{\fscx106.87\fscy106.87\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.27\fnKeinannPOP\blur0.85\fs50\fsp4\an8\pos(848.28,-5.02)}終點！
+Dialogue: 0,0:03:30.69,0:03:30.73,Sign,,0,0,0,,{\fscx106.69\fscy106.69\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.27\fnKeinannPOP\blur0.85\fs50\fsp4\an8\pos(848.34,-4.66)}終點！
+Dialogue: 0,0:03:30.73,0:03:30.77,Sign,,0,0,0,,{\fscx106.55\fscy106.55\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.26\fnKeinannPOP\blur0.85\fs50\fsp4\an8\pos(848.37,-4.33)}終點！
+Dialogue: 0,0:03:30.77,0:03:30.82,Sign,,0,0,0,,{\fscx106.39\fscy106.39\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.26\fnKeinannPOP\blur0.85\fs50\fsp4\an8\pos(848.43,-3.99)}終點！
+Dialogue: 0,0:03:30.82,0:03:30.86,Sign,,0,0,0,,{\fscx106.25\fscy106.25\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.25\fnKeinannPOP\blur0.85\fs50\fsp4\an8\pos(848.44,-3.67)}終點！
+Dialogue: 0,0:03:30.86,0:03:30.90,Sign,,0,0,0,,{\fscx106.09\fscy106.09\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.24\fnKeinannPOP\blur0.85\fs50\fsp4\an8\pos(848.49,-3.34)}終點！
+Dialogue: 0,0:03:30.90,0:03:30.94,Sign,,0,0,0,,{\fscx105.95\fscy105.95\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.24\fnKeinannPOP\blur0.85\fs50\fsp4\an8\pos(848.52,-3.04)}終點！
+Dialogue: 0,0:03:30.94,0:03:30.98,Sign,,0,0,0,,{\fscx105.82\fscy105.82\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.23\fnKeinannPOP\blur0.85\fs50\fsp4\an8\pos(848.54,-2.73)}終點！
+Dialogue: 0,0:03:30.98,0:03:31.02,Sign,,0,0,0,,{\fscx105.68\fscy105.68\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.23\fnKeinannPOP\blur0.85\fs50\fsp4\an8\pos(848.57,-2.42)}終點！
+Dialogue: 0,0:03:31.02,0:03:31.07,Sign,,0,0,0,,{\fscx105.52\fscy105.52\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.22\fnKeinannPOP\blur0.84\fs50\fsp4\an8\pos(848.62,-2.09)}終點！
+Dialogue: 0,0:03:31.07,0:03:31.11,Sign,,0,0,0,,{\fscx105.36\fscy105.36\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.21\fnKeinannPOP\blur0.84\fs50\fsp4\an8\pos(848.68,-1.77)}終點！
+Dialogue: 0,0:03:31.11,0:03:31.15,Sign,,0,0,0,,{\fscx105.26\fscy105.26\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.21\fnKeinannPOP\blur0.84\fs50\fsp4\an8\pos(848.67,-1.5)}終點！
+Dialogue: 0,0:03:31.15,0:03:31.19,Sign,,0,0,0,,{\fscx105.14\fscy105.14\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.21\fnKeinannPOP\blur0.84\fs50\fsp4\an8\pos(848.68,-1.21)}終點！
+Dialogue: 0,0:03:31.19,0:03:31.23,Sign,,0,0,0,,{\fscx104.98\fscy104.98\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.2\fnKeinannPOP\blur0.84\fs50\fsp4\an8\pos(848.75,-0.89)}終點！
+Dialogue: 0,0:03:31.23,0:03:31.27,Sign,,0,0,0,,{\fscx104.87\fscy104.87\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.19\fnKeinannPOP\blur0.84\fs50\fsp4\an8\pos(848.75,-0.64)}終點！
+Dialogue: 0,0:03:31.27,0:03:31.32,Sign,,0,0,0,,{\fscx104.75\fscy104.75\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.19\fnKeinannPOP\blur0.84\fs50\fsp4\an8\pos(848.77,-0.37)}終點！
+Dialogue: 0,0:03:31.32,0:03:31.36,Sign,,0,0,0,,{\fscx104.59\fscy104.59\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.18\fnKeinannPOP\blur0.84\fs50\fsp4\an8\pos(848.83,-0.05)}終點！
+Dialogue: 0,0:03:31.36,0:03:31.40,Sign,,0,0,0,,{\fscx104.44\fscy104.44\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.18\fnKeinannPOP\blur0.84\fs50\fsp4\an8\pos(848.89,0.26)}終點！
+Dialogue: 0,0:03:31.40,0:03:31.44,Sign,,0,0,0,,{\fscx104.31\fscy104.31\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.17\fnKeinannPOP\blur0.83\fs50\fsp4\an8\pos(848.93,0.55)}終點！
+Dialogue: 0,0:03:31.44,0:03:31.48,Sign,,0,0,0,,{\fscx104.19\fscy104.19\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.17\fnKeinannPOP\blur0.83\fs50\fsp4\an8\pos(848.95,0.83)}終點！
+Dialogue: 0,0:03:31.48,0:03:31.52,Sign,,0,0,0,,{\fscx104.05\fscy104.05\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.16\fnKeinannPOP\blur0.83\fs50\fsp4\an8\pos(849,1.12)}終點！
+Dialogue: 0,0:03:31.52,0:03:31.57,Sign,,0,0,0,,{\fscx103.92\fscy103.92\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.16\fnKeinannPOP\blur0.83\fs50\fsp4\an8\pos(849.03,1.4)}終點！
+Dialogue: 0,0:03:31.57,0:03:31.61,Sign,,0,0,0,,{\fscx103.81\fscy103.81\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.15\fnKeinannPOP\blur0.83\fs50\fsp4\an8\pos(849.06,1.66)}終點！
+Dialogue: 0,0:03:31.61,0:03:31.65,Sign,,0,0,0,,{\fscx103.72\fscy103.72\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.15\fnKeinannPOP\blur0.83\fs50\fsp4\an8\pos(849.05,1.88)}終點！
+Dialogue: 0,0:03:31.65,0:03:31.69,Sign,,0,0,0,,{\fscx103.6\fscy103.6\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.14\fnKeinannPOP\blur0.83\fs50\fsp4\an8\pos(849.08,2.15)}終點！
+Dialogue: 0,0:03:31.69,0:03:31.73,Sign,,0,0,0,,{\fscx103.51\fscy103.51\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.14\fnKeinannPOP\blur0.83\fs50\fsp4\an8\pos(849.07,2.37)}終點！
+Dialogue: 0,0:03:31.73,0:03:31.77,Sign,,0,0,0,,{\fscx103.39\fscy103.39\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.14\fnKeinannPOP\blur0.83\fs50\fsp4\an8\pos(849.11,2.63)}終點！
+Dialogue: 0,0:03:31.77,0:03:31.82,Sign,,0,0,0,,{\fscx103.27\fscy103.27\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.13\fnKeinannPOP\blur0.83\fs50\fsp4\an8\pos(849.14,2.89)}終點！
+Dialogue: 0,0:03:31.82,0:03:31.86,Sign,,0,0,0,,{\fscx103.13\fscy103.13\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.13\fnKeinannPOP\blur0.83\fs50\fsp4\an8\pos(849.19,3.17)}終點！
+Dialogue: 0,0:03:31.86,0:03:31.90,Sign,,0,0,0,,{\fscx103\fscy103\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.12\fnKeinannPOP\blur0.82\fs50\fsp4\an8\pos(849.23,3.45)}終點！
+Dialogue: 0,0:03:31.90,0:03:31.94,Sign,,0,0,0,,{\fscx102.86\fscy102.86\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.11\fnKeinannPOP\blur0.82\fs50\fsp4\an8\pos(849.29,3.72)}終點！
+Dialogue: 0,0:03:31.94,0:03:31.98,Sign,,0,0,0,,{\fscx102.75\fscy102.75\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.11\fnKeinannPOP\blur0.82\fs50\fsp4\an8\pos(849.32,3.96)}終點！
+Dialogue: 0,0:03:31.98,0:03:32.03,Sign,,0,0,0,,{\fscx102.66\fscy102.66\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.11\fnKeinannPOP\blur0.82\fs50\fsp4\an8\pos(849.32,4.19)}終點！
+Dialogue: 0,0:03:32.03,0:03:32.07,Sign,,0,0,0,,{\fscx102.56\fscy102.56\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.1\fnKeinannPOP\blur0.82\fs50\fsp4\an8\pos(849.34,4.42)}終點！
+Dialogue: 0,0:03:32.07,0:03:32.11,Sign,,0,0,0,,{\fscx102.43\fscy102.43\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.1\fnKeinannPOP\blur0.82\fs50\fsp4\an8\pos(849.39,4.68)}終點！
+Dialogue: 0,0:03:32.11,0:03:32.15,Sign,,0,0,0,,{\fscx102.34\fscy102.34\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.09\fnKeinannPOP\blur0.82\fs50\fsp4\an8\pos(849.39,4.89)}終點！
+Dialogue: 0,0:03:32.15,0:03:32.19,Sign,,0,0,0,,{\fscx102.24\fscy102.24\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.09\fnKeinannPOP\blur0.82\fs50\fsp4\an8\pos(849.42,5.12)}終點！
+Dialogue: 0,0:03:32.19,0:03:32.23,Sign,,0,0,0,,{\fscx102.14\fscy102.14\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.09\fnKeinannPOP\blur0.82\fs50\fsp4\an8\pos(849.43,5.35)}終點！
+Dialogue: 0,0:03:32.23,0:03:32.28,Sign,,0,0,0,,{\fscx101.97\fscy101.97\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.08\fnKeinannPOP\blur0.82\fs50\fsp4\an8\pos(849.53,5.64)}終點！
+Dialogue: 0,0:03:32.28,0:03:32.32,Sign,,0,0,0,,{\fscx101.93\fscy101.93\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.08\fnKeinannPOP\blur0.82\fs50\fsp4\an8\pos(849.48,5.81)}終點！
+Dialogue: 0,0:03:32.32,0:03:32.36,Sign,,0,0,0,,{\fscx101.86\fscy101.86\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.07\fnKeinannPOP\blur0.81\fs50\fsp4\an8\pos(849.49,6)}終點！
+Dialogue: 0,0:03:32.36,0:03:32.40,Sign,,0,0,0,,{\fscx101.74\fscy101.74\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.07\fnKeinannPOP\blur0.81\fs50\fsp4\an8\pos(849.52,6.24)}終點！
+Dialogue: 0,0:03:32.40,0:03:32.44,Sign,,0,0,0,,{\fscx101.65\fscy101.65\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.07\fnKeinannPOP\blur0.81\fs50\fsp4\an8\pos(849.54,6.44)}終點！
+Dialogue: 0,0:03:32.44,0:03:32.48,Sign,,0,0,0,,{\fscx101.55\fscy101.55\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.06\fnKeinannPOP\blur0.81\fs50\fsp4\an8\pos(849.57,6.67)}終點！
+Dialogue: 0,0:03:32.48,0:03:32.53,Sign,,0,0,0,,{\fscx101.45\fscy101.45\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.06\fnKeinannPOP\blur0.81\fs50\fsp4\an8\pos(849.59,6.9)}終點！
+Dialogue: 0,0:03:32.53,0:03:32.57,Sign,,0,0,0,,{\fscx101.35\fscy101.35\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.05\fnKeinannPOP\blur0.81\fs50\fsp4\an8\pos(849.61,7.1)}終點！
+Dialogue: 0,0:03:32.57,0:03:32.61,Sign,,0,0,0,,{\fscx101.26\fscy101.26\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.05\fnKeinannPOP\blur0.81\fs50\fsp4\an8\pos(849.64,7.3)}終點！
+Dialogue: 0,0:03:32.61,0:03:32.65,Sign,,0,0,0,,{\fscx101.18\fscy101.18\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.05\fnKeinannPOP\blur0.81\fs50\fsp4\an8\pos(849.64,7.48)}終點！
+Dialogue: 0,0:03:32.65,0:03:32.69,Sign,,0,0,0,,{\fscx101.03\fscy101.03\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.04\fnKeinannPOP\blur0.81\fs50\fsp4\an8\pos(849.71,7.74)}終點！
+Dialogue: 0,0:03:32.69,0:03:32.73,Sign,,0,0,0,,{\fscx100.98\fscy100.98\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.04\fnKeinannPOP\blur0.81\fs50\fsp4\an8\pos(849.7,7.9)}終點！
+Dialogue: 0,0:03:32.73,0:03:32.78,Sign,,0,0,0,,{\fscx100.9\fscy100.9\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.04\fnKeinannPOP\blur0.81\fs50\fsp4\an8\pos(849.71,8.09)}終點！
+Dialogue: 0,0:03:32.78,0:03:32.82,Sign,,0,0,0,,{\fscx100.81\fscy100.81\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.03\fnKeinannPOP\blur0.81\fs50\fsp4\an8\pos(849.73,8.28)}終點！
+Dialogue: 0,0:03:32.82,0:03:32.86,Sign,,0,0,0,,{\fscx100.74\fscy100.74\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.03\fnKeinannPOP\blur0.81\fs50\fsp4\an8\pos(849.73,8.46)}終點！
+Dialogue: 0,0:03:32.86,0:03:32.90,Sign,,0,0,0,,{\fscx100.67\fscy100.67\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.03\fnKeinannPOP\blur0.81\fs50\fsp4\an8\pos(849.72,8.64)}終點！
+Dialogue: 0,0:03:32.90,0:03:32.94,Sign,,0,0,0,,{\fscx100.62\fscy100.62\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.02\fnKeinannPOP\blur0.8\fs50\fsp4\an8\pos(849.7,8.79)}終點！
+Dialogue: 0,0:03:32.94,0:03:32.98,Sign,,0,0,0,,{\fscx100.52\fscy100.52\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.02\fnKeinannPOP\blur0.8\fs50\fsp4\an8\pos(849.75,9.01)}終點！
+Dialogue: 0,0:03:32.98,0:03:33.03,Sign,,0,0,0,,{\fscx100.43\fscy100.43\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.02\fnKeinannPOP\blur0.8\fs50\fsp4\an8\pos(849.76,9.19)}終點！
+Dialogue: 0,0:03:33.03,0:03:33.07,Sign,,0,0,0,,{\fscx100.33\fscy100.33\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.01\fnKeinannPOP\blur0.8\fs50\fsp4\an8\pos(849.8,9.39)}終點！
+Dialogue: 0,0:03:33.07,0:03:33.11,Sign,,0,0,0,,{\fscx100.22\fscy100.22\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4.01\fnKeinannPOP\blur0.8\fs50\fsp4\an8\pos(849.85,9.63)}終點！
+Dialogue: 0,0:03:33.11,0:03:33.15,Sign,,0,0,0,,{\fscx100.12\fscy100.12\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4\fnKeinannPOP\blur0.8\fs50\fsp4\an8\pos(849.92,9.8)}終點！
+Dialogue: 0,0:03:33.15,0:03:33.19,Sign,,0,0,0,,{\fscx100\fscy100\alpha&H00&\c&H95F9FA&\3c&H1480F3&\bord4\fnKeinannPOP\blur0.8\fs50\fsp4\an8\pos(850,10)}終點！
+Dialogue: 0,0:04:09.60,0:04:21.74,Sign,,0,0,0,,{\bord6\fnKeinannPOP\fs70\blur0.8\fsp4\c&HA302F7&\3c&HF2F2F5&\an8\move(1778,30,2146.21,30,25,12120)}熱鬧
+Dialogue: 0,0:04:09.60,0:04:21.74,Sign,,0,0,0,,{\bord6\fnKeinannPOP\fs70\blur0.8\fsp4\c&H8FAD06&\3c&HF5F7F0&\an8\move(1648,30,2016.21,30,25,12120)}熱鬧
+Dialogue: 0,0:04:09.60,0:04:21.74,Sign,,0,0,0,,{\bord6\fnKeinannPOP\fs70\blur0.8\fsp4\c&H81F8F9&\3c&H9F0768&\an8\move(1351.79,30,1720,30,25,12120)}耶
+Dialogue: 0,0:04:09.60,0:04:21.74,Sign,,0,0,0,,{\bord6\fnKeinannPOP\fs70\blur0.8\fsp4\c&H874BF7&\3c&HF1F1F8&\an8\move(971.79,30,1340,30,25,12120)}喲
+Dialogue: 0,0:04:09.60,0:04:21.74,Sign,,0,0,0,,{\bord6\fnKeinannPOP\fs70\blur0.8\fsp4\c&H6FFBC5&\3c&H8FAC07&\an8\move(331.79,30,700,30,25,12120)}耶
+Dialogue: 0,0:04:09.60,0:04:21.74,Sign,,0,0,0,,{\bord6\fnKeinannPOP\fs70\blur0.8\fsp4\c&H864BF9&\3c&HF2F2F8&\an8\move(-18.21,30,350,30,25,12120)}喲
+Dialogue: 0,0:04:09.60,0:04:21.74,Sign,,0,0,0,,{\bord6\fnKeinannPOP\fs70\blur0.8\fsp4\c&HA40267&\3c&HF5F4F4&\an8\move(-248.21,30,120,30,25,12120)}熱鬧
 Comment: 0,0:04:37.88,0:04:38.88,Sign,,0,0,0,,{不做}
-Dialogue: 0,0:05:01.53,0:05:01.78,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\blur0.8\fsp8\c&H7EE8FE&\3c&H2E4EF3&\pos(654,210)\frz354}嘻嘻笑
-Dialogue: 0,0:05:01.78,0:05:02.03,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\blur0.8\fsp8\c&H7EE8FE&\3c&H2E4EF3&\pos(654,210)\frz6}嘻嘻笑
-Dialogue: 0,0:05:02.03,0:05:02.28,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\blur0.8\fsp8\c&H7EE8FE&\3c&H2E4EF3&\pos(654,210)\frz354}嘻嘻笑
-Dialogue: 0,0:05:02.28,0:05:02.53,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\blur0.8\fsp8\c&H7EE8FE&\3c&H2E4EF3&\pos(654,210)\frz6}嘻嘻笑
-Dialogue: 0,0:05:02.53,0:05:02.78,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\blur0.8\fsp8\c&H7EE8FE&\3c&H2E4EF3&\pos(654,210)\frz354}嘻嘻笑
-Dialogue: 0,0:05:02.78,0:05:03.03,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\blur0.8\fsp8\c&H7EE8FE&\3c&H2E4EF3&\pos(654,210)\frz6}嘻嘻笑
-Dialogue: 0,0:05:03.03,0:05:03.28,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\blur0.8\fsp8\c&H7EE8FE&\3c&H2E4EF3&\pos(654,210)\frz354}嘻嘻笑
-Dialogue: 0,0:05:03.28,0:05:03.53,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\blur0.8\fsp8\c&H7EE8FE&\3c&H2E4EF3&\pos(654,210)\frz6}嘻嘻笑
+Dialogue: 0,0:05:01.53,0:05:01.78,Sign,,0,0,0,,{\bord4\fnKeinannPOP\blur0.8\fsp8\c&H7EE8FE&\3c&H2E4EF3&\pos(654,210)\frz354}嘻嘻笑
+Dialogue: 0,0:05:01.78,0:05:02.03,Sign,,0,0,0,,{\bord4\fnKeinannPOP\blur0.8\fsp8\c&H7EE8FE&\3c&H2E4EF3&\pos(654,210)\frz6}嘻嘻笑
+Dialogue: 0,0:05:02.03,0:05:02.28,Sign,,0,0,0,,{\bord4\fnKeinannPOP\blur0.8\fsp8\c&H7EE8FE&\3c&H2E4EF3&\pos(654,210)\frz354}嘻嘻笑
+Dialogue: 0,0:05:02.28,0:05:02.53,Sign,,0,0,0,,{\bord4\fnKeinannPOP\blur0.8\fsp8\c&H7EE8FE&\3c&H2E4EF3&\pos(654,210)\frz6}嘻嘻笑
+Dialogue: 0,0:05:02.53,0:05:02.78,Sign,,0,0,0,,{\bord4\fnKeinannPOP\blur0.8\fsp8\c&H7EE8FE&\3c&H2E4EF3&\pos(654,210)\frz354}嘻嘻笑
+Dialogue: 0,0:05:02.78,0:05:03.03,Sign,,0,0,0,,{\bord4\fnKeinannPOP\blur0.8\fsp8\c&H7EE8FE&\3c&H2E4EF3&\pos(654,210)\frz6}嘻嘻笑
+Dialogue: 0,0:05:03.03,0:05:03.28,Sign,,0,0,0,,{\bord4\fnKeinannPOP\blur0.8\fsp8\c&H7EE8FE&\3c&H2E4EF3&\pos(654,210)\frz354}嘻嘻笑
+Dialogue: 0,0:05:03.28,0:05:03.53,Sign,,0,0,0,,{\bord4\fnKeinannPOP\blur0.8\fsp8\c&H7EE8FE&\3c&H2E4EF3&\pos(654,210)\frz6}嘻嘻笑
 Dialogue: 0,0:05:10.16,0:05:10.21,Sign,,0,0,0,,{\alpha&H00&\bord4\fnFZLanTingYuan-EB-GBK\blur0.8\fsp4\c&H2589FA&\3c&HEDF4FD&\pos(465.77,950)\fs40\an8}吸收福氣
 Dialogue: 0,0:05:10.21,0:05:10.25,Sign,,0,0,0,,{\alpha&H00&\bord4\fnFZLanTingYuan-EB-GBK\blur0.8\fsp4\c&H2589FA&\3c&HEDF4FD&\pos(518.79,950)\fs40\an8}吸收福氣
 Dialogue: 0,0:05:10.25,0:05:10.29,Sign,,0,0,0,,{\alpha&H00&\bord4\fnFZLanTingYuan-EB-GBK\blur0.8\fsp4\c&H2589FA&\3c&HEDF4FD&\pos(568.77,950)\fs40\an8}吸收福氣
@@ -365,18 +460,18 @@ Dialogue: 0,0:09:32.72,0:09:36.97,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\bl
 Dialogue: 0,0:09:52.66,0:09:58.04,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\blur0.8\fsp4\c&HB46500&\frz342.5\3c&HF9E6CD&\pos(1558,168)}與此同時
 Dialogue: 0,0:09:52.66,0:09:58.04,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\blur0.8\fsp4\c&HC9F9F9&\3c&HA16AFA&\pos(360,204)\frz24.39}呼～…
 Dialogue: 0,0:10:29.69,0:10:32.32,Sign,,0,0,0,,{\an8\fs60\fnFZLanTingYuan-DB-GBK\fsp4\bord4\blur0.8\c&H395DFE&\3c&H6B3FB1&\frz335.9\pos(1634,58.67)}旅{\c&HE19EFC&\3c&H743EAD&}行{\c&HCAFEFE&\3c&H7048B0&}指南\N{\c&H6E06AC&\3c&HF3F6F9&\fs40}■第 3 天  集體活動
-Dialogue: 0,0:11:15.57,0:11:19.62,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\blur0.8\fsp4\an9\fad(500,0)\fs50\pos(1870,50)\c&H772946&\3c&HEBC6E0&\b1}她知道過去的我
-Dialogue: 0,0:11:16.11,0:11:19.62,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\blur0.8\fsp4\an8\fad(500,0)\fs50\pos(960,50)\c&H772946&\3c&HEBC6E0&\b1}我以前是底層階級
-Dialogue: 0,0:11:16.11,0:11:19.62,Sign,,0,0,0,,{\bord3\fnFZLanTingYuan-EB-GBK\blur0.8\fsp4\an2\fad(500,0)\fs30\c&H772946&\3c&HEBC6E0&\b1\pos(1053,48)}那個樣子
-Dialogue: 0,0:11:16.61,0:11:19.62,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\blur0.8\fsp4\an7\fad(500,0)\fs50\pos(50,50)\c&H772946&\3c&HEBC6E0&\b1}不想讓她覺得我在\N新環境中得意忘形
+Dialogue: 0,0:11:15.57,0:11:19.62,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\blur0.8\fsp4\an9\fad(500,0)\fs50\pos(1870,50)\c&H772946&\3c&HEBC6E0&}她知道過去的我
+Dialogue: 0,0:11:16.11,0:11:19.62,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\blur0.8\fsp4\an8\fad(500,0)\fs50\pos(960,50)\c&H772946&\3c&HEBC6E0&}我以前是底層階級
+Dialogue: 0,0:11:16.11,0:11:19.62,Sign,,0,0,0,,{\bord3\fnFZLanTingYuan-EB-GBK\blur0.8\fsp4\an2\fad(500,0)\fs30\c&H772946&\3c&HEBC6E0&\pos(1053,48)}那個樣子
+Dialogue: 0,0:11:16.61,0:11:19.62,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\blur0.8\fsp4\an7\fad(500,0)\fs50\pos(50,50)\c&H772946&\3c&HEBC6E0&}不想讓她覺得我在\N新環境中得意忘形
 Dialogue: 0,0:11:25.37,0:11:28.63,Sign,,0,0,0,,{\an2\fn@FZLanTingYuan-EB-GBK\frz270\pos(1205,560)\fs30\c&H6B73F5&\3c&HF2FBFC&}鹿餅
 Dialogue: 0,0:11:25.37,0:11:28.63,Sign,,0,0,0,,{\an8\fn@FZLanTingYuan-EB-GBK\frz270\fs25\c&H6B73F5&\3c&HF2FBFC&\pos(1130,572)}日元{\fsp5}　片
 Dialogue: 0,0:11:25.37,0:11:28.63,Sign,,0,0,0,,{\an5\fnFZLanTingYuan-EB-GBK\fs25\c&H6B73F5&\3c&HF2FBFC&\pos(1118,512)\fscx70}200
 Dialogue: 0,0:11:25.37,0:11:28.63,Sign,,0,0,0,,{\an5\fnFZLanTingYuan-EB-GBK\fs25\c&H6B73F5&\3c&HF2FBFC&\pos(1120,582)\fscx80}10
-Dialogue: 0,0:11:40.93,0:11:45.64,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\blur0.8\fsp4\c&H00598C&\3c&HCEF5F7&\an8\fad(200,0)}盯…
+Dialogue: 0,0:11:40.93,0:11:45.64,Sign,,0,0,0,,{\bord4\fnKeinannPOP\fs70\blur0.8\fsp4\c&H00598C&\3c&HCEF5F7&\an8\fad(200,0)}盯…
 Dialogue: 0,0:12:28.06,0:12:33.15,Sign,,0,0,0,,{\fs40\blur0.8\fsp2\c&H8D34F2&\bord3\3c&HEEDAF9&\pos(900,910)}負責在車上組織活動
-Dialogue: 0,0:12:42.45,0:12:46.58,Sign,,0,0,0,,{\bord8\fnFZLanTingYuan-EB-GBK\blur0.8\fsp4\c&HB191D4&\3c&HF0F0F0&\pos(932,730)\1a&HFF&\fad(890,0)}谷{\alpha&HFF&}倒下…
-Dialogue: 1,0:12:42.45,0:12:46.58,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\blur0.8\fsp4\c&HB191D4&\3c&H5B0189&\pos(932,730)\fad(890,0)}谷{\c&H5A0185&\3c&HE4E3DB&}倒下…
+Dialogue: 0,0:12:42.45,0:12:46.58,Sign,,0,0,0,,{\bord8\fnKeinannPOP\blur0.8\fsp4\c&HB191D4&\3c&HF0F0F0&\pos(930,720)\1a&HFF&\fad(890,0)}谷{\alpha&HFF&}倒下…
+Dialogue: 1,0:12:42.45,0:12:46.58,Sign,,0,0,0,,{\bord4\fnKeinannPOP\blur0.8\fsp4\c&HB191D4&\3c&H5B0189&\pos(930,720)\fad(890,0)}谷{\c&H5A0185&\3c&HE4E3DB&}倒下…
 Dialogue: 0,0:12:52.84,0:12:52.88,Sign,,0,0,0,,{\alpha&H00&\bord4\fnFZLanTingYuan-EB-GBK\blur0.8\fsp0\c&HF9F9F9&\3c&H955C4A&\fs35\pos(-288.23,953.08)\b1\frx6\fry356\fax-0.08}鈴木  {\fnFZLanTingYuan-DB-GBK}組織活動
 Dialogue: 0,0:12:52.88,0:12:52.92,Sign,,0,0,0,,{\alpha&H00&\bord4\fnFZLanTingYuan-EB-GBK\blur0.8\fsp0\c&HF9F9F9&\3c&H955C4A&\fs35\pos(-266.98,953.57)\b1\frx6\fry356\fax-0.08}鈴木  {\fnFZLanTingYuan-DB-GBK}組織活動
 Dialogue: 0,0:12:52.92,0:12:52.96,Sign,,0,0,0,,{\alpha&H00&\bord4\fnFZLanTingYuan-EB-GBK\blur0.8\fsp0\c&HF9F9F9&\3c&H955C4A&\fs35\pos(-245.49,953.08)\b1\frx6\fry356\fax-0.08}鈴木  {\fnFZLanTingYuan-DB-GBK}組織活動
@@ -765,20 +860,20 @@ Dialogue: 0,0:12:58.09,0:12:58.13,Sign,,0,0,0,,{\alpha&H00&\bord4\fnFZLanTingYua
 Dialogue: 0,0:12:58.13,0:12:58.17,Sign,,0,0,0,,{\alpha&H00&\bord4\fnFZLanTingYuan-EB-GBK\blur0.8\fsp0\c&HF9F9F9&\3c&H955C4A&\fs35\b1\pos(2176.04,944.81)\frx8\fry8\fax0.08}山田  {\fnFZLanTingYuan-DB-GBK}組織活動
 Dialogue: 0,0:12:58.17,0:12:58.22,Sign,,0,0,0,,{\alpha&H00&\bord4\fnFZLanTingYuan-EB-GBK\blur0.8\fsp0\c&HF9F9F9&\3c&H955C4A&\fs35\b1\pos(2174.23,943.92)\frx8\fry8\fax0.08}山田  {\fnFZLanTingYuan-DB-GBK}組織活動
 Comment: 0,0:13:02.85,0:13:04.85,Sign,,0,0,0,,{不做}
-Dialogue: 0,0:13:17.49,0:13:19.24,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-DB-GBK\blur0.8\fsp4\c&HD34177\3c&HFACDD3&\fs40\pos(402,364)\b1}俄羅斯輪盤口香糖
-Dialogue: 0,0:13:48.98,0:13:51.48,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-DB-GBK\blur0.8\fsp4\c&H8E47E9&\an8\3c&HE4FCFF&\fs40}答案.鴿子
+Dialogue: 0,0:13:17.49,0:13:19.24,Sign,,0,0,0,,{\bord4\fnKeinannPOP\blur0.8\fsp4\c&HD34177\3c&HFACDD3&\fs50\pos(400,365)\b1}俄羅斯輪盤口香糖
+Dialogue: 0,0:13:48.98,0:13:51.48,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\blur0.8\fsp4\c&H8E47E9&\an8\3c&HE4FCFF&\fs40}答案. 鴿子
 Comment: 0,0:14:21.63,0:14:25.14,Sign,,0,0,0,,{不做}
-Dialogue: 0,0:14:42.65,0:14:42.70,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\blur0.8\fsp4\c&H383838&\bord0\an8\pos(-145.13,960)\fs40}（網上的知識）
-Dialogue: 0,0:14:42.70,0:14:42.74,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\blur0.8\fsp4\c&H383838&\bord0\an8\pos(-15.25,960)\fs40}（網上的知識）
-Dialogue: 0,0:14:42.74,0:14:42.78,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\blur0.8\fsp4\c&H383838&\bord0\an8\pos(94.21,960)\fs40}（網上的知識）
-Dialogue: 0,0:14:42.78,0:14:42.82,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\blur0.8\fsp4\c&H383838&\bord0\an8\pos(181.48,960)\fs40}（網上的知識）
-Dialogue: 0,0:14:42.82,0:14:42.86,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\blur0.8\fsp4\c&H383838&\bord0\an8\pos(248.16,960)\fs40}（網上的知識）
-Dialogue: 0,0:14:42.86,0:14:42.90,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\blur0.8\fsp4\c&H383838&\bord0\an8\pos(297.22,960)\fs40}（網上的知識）
-Dialogue: 0,0:14:42.90,0:14:42.95,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\blur0.8\fsp4\c&H383838&\bord0\an8\pos(331.72,960)\fs40}（網上的知識）
-Dialogue: 0,0:14:42.95,0:14:42.99,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\blur0.8\fsp4\c&H383838&\bord0\an8\pos(354,960)\fs40}（網上的知識）
-Dialogue: 0,0:14:42.99,0:14:43.03,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\blur0.8\fsp4\c&H383838&\bord0\an8\pos(366.25,960)\fs40}（網上的知識）
-Dialogue: 0,0:14:43.03,0:14:43.07,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\blur0.8\fsp4\c&H383838&\bord0\an8\pos(370,960)\fs40}（網上的知識）
-Dialogue: 0,0:14:43.07,0:14:44.41,Sign,,0,0,0,,{\fnFZLanTingYuan-DB-GBK\blur0.8\fsp4\c&H383838&\bord0\an8\pos(370,960)\fs40}（網上的知識）
+Dialogue: 0,0:14:42.65,0:14:42.70,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\blur0.8\fsp4\c&H383838&\bord0\an8\pos(-140.13,960)\fs40}（網上的知識）
+Dialogue: 0,0:14:42.70,0:14:42.74,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\blur0.8\fsp4\c&H383838&\bord0\an8\pos(-10.25,960)\fs40}（網上的知識）
+Dialogue: 0,0:14:42.74,0:14:42.78,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\blur0.8\fsp4\c&H383838&\bord0\an8\pos(99.21,960)\fs40}（網上的知識）
+Dialogue: 0,0:14:42.78,0:14:42.82,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\blur0.8\fsp4\c&H383838&\bord0\an8\pos(186.48,960)\fs40}（網上的知識）
+Dialogue: 0,0:14:42.82,0:14:42.86,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\blur0.8\fsp4\c&H383838&\bord0\an8\pos(253.16,960)\fs40}（網上的知識）
+Dialogue: 0,0:14:42.86,0:14:42.90,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\blur0.8\fsp4\c&H383838&\bord0\an8\pos(302.22,960)\fs40}（網上的知識）
+Dialogue: 0,0:14:42.90,0:14:42.95,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\blur0.8\fsp4\c&H383838&\bord0\an8\pos(336.72,960)\fs40}（網上的知識）
+Dialogue: 0,0:14:42.95,0:14:42.99,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\blur0.8\fsp4\c&H383838&\bord0\an8\pos(359,960)\fs40}（網上的知識）
+Dialogue: 0,0:14:42.99,0:14:43.03,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\blur0.8\fsp4\c&H383838&\bord0\an8\pos(371.25,960)\fs40}（網上的知識）
+Dialogue: 0,0:14:43.03,0:14:43.07,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\blur0.8\fsp4\c&H383838&\bord0\an8\pos(375,960)\fs40}（網上的知識）
+Dialogue: 0,0:14:43.07,0:14:44.41,Sign,,0,0,0,,{\fnFZLanTingYuan-DB-GBK\blur0.8\fsp4\c&H383838&\bord0\an8\pos(375,960)\fs40}（網上的知識）
 Dialogue: 0,0:14:45.37,0:14:48.79,Sign,,0,0,0,,{\fscx86.84\t(15,3394,\fscx100)\fscy86.84\t(15,3394,\fscy100)\alpha&H00&\bord3.47\t(15,3394,\bord4)\fn@FZLanTingYuan-EB-GBK\blur0.8\fsp4\fade(255,0,255,0,680,3420,3420)\c&H711E5B&\3c&HF7F4F5&\frz284.9\an8\move(991.75,668.47,964,684,15,3394)}哎～呀
 Dialogue: 0,0:16:50.91,0:16:58.41,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\blur0.8\fsp4\c&H4E6088&\frz336.7\3c&HD7F9FB&\frx10\fry354\pos(1442,204)}與此同時 2
 Dialogue: 0,0:16:51.03,0:16:58.41,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\blur0.8\fsp6\fad(150,0)\an8\c&H9E4AFB&\3c&HEBE7ED&\pos(568,210)}怦怦
@@ -792,9 +887,9 @@ Dialogue: 0,0:20:18.03,0:20:18.16,Sign,,0,0,0,,{\bord0\blur1\fsp2\fs65\c&HF3F3F3
 Dialogue: 0,0:20:18.16,0:20:18.28,Sign,,0,0,0,,{\bord0\blur1\fsp2\fs65\c&HF3F3F3&\an1\fax0.02\frx356.4\fry10.09\pos(354.33,372)\frz8.756}東
 Dialogue: 0,0:20:18.28,0:20:21.03,Sign,,0,0,0,,{\bord0\blur1\fsp2\fs65\c&HF3F3F3&\an1\frz11\fax0.02\frx356.4\fry10.09\pos(362.33,241.33)}東
 Dialogue: 0,0:20:44.47,0:20:46.68,Sign,,0,0,0,,{\bord4\fn@FZLanTingYuan-EB-GBK\blur0.8\fsp4\fad(240,0)\c&H51B601&\3c&HDCF4EF&\an7\frz291.2\pos(288,144)}追加的「暱稱」…
-Dialogue: 0,0:21:34.73,0:21:38.61,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-DB-GBK\fs45\blur0.8\fsp4\c&HEF5D5D&\pos(1528,980)\an8\3c&HF7D8CD&\b1}狗狗集團
-Dialogue: 0,0:21:35.86,0:21:38.61,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-DB-GBK\fs45\blur0.8\fsp4\c&H899600&\an8\3c&HB2F6BE&\b1\frz24.31\pos(396,960)}超友好
-Dialogue: 0,0:21:39.15,0:21:41.11,Sign,,0,0,0,,{\fscx59.29\t(24,1943,\fscx100)\fscy59.29\t(24,1943,\fscy100)\alpha&H00&\bord2.37\t(24,1943,\bord4)\fnFZLanTingYuan-EB-GBK\blur0.8\fsp4\fade(255,0,255,0,1000,1960,1960)\c&H74AF00&\3c&HF2F5EF&\move(1414.88,191.48,1428,128,24,1943)}盯…
+Dialogue: 0,0:21:34.73,0:21:38.61,Sign,,0,0,0,,{\bord4\fnKeinannPOP\fs50\blur0.8\fsp4\c&HEF5D5D&\pos(1525,975)\an8\3c&HF7D8CD&}狗狗小隊
+Dialogue: 0,0:21:35.86,0:21:38.61,Sign,,0,0,0,,{\bord4\fnKeinannPOP\fs50\blur0.8\fsp4\c&H899600&\an8\3c&HB2F6BE&\b1\frz24.31\pos(395,960)}超友好
+Dialogue: 0,0:21:39.15,0:21:41.11,Sign,,0,0,0,,{\fscx59.29\t(24,1943,\fscx100)\fscy59.29\t(24,1943,\fscy100)\alpha&H00&\bord2.37\t(24,1943,\bord4)\fnKeinannPOP\blur0.8\fsp4\fade(255,0,255,0,1000,1960,1960)\c&H74AF00&\3c&HF2F5EF&\move(1414.88,191.48,1428,128,24,1943)}盯…
 Dialogue: 0,0:21:50.92,0:21:54.88,Sign,,0,0,0,,{\alpha&H00&\bord4\fn@FZLanTingYuan-EB-GBK\blur0.8\fsp4\fade(255,0,255,0,1000,3960,3960)\c&H84C300&\3c&HDDF6F9&\move(1717.6,341.01,1755,320,16,3937)\frz273.4}戴上了…
 Dialogue: 0,0:22:20.03,0:22:22.03,Sign,,0,0,0,,{\an2\move(1230,1064,1230,1074,0,200)\fad(200,0)\c&HBE9EF7&\fsp6\blur1\fnFZLanTingYuan-DB-GBK\fs50\bord3}下
 Dialogue: 0,0:22:20.24,0:22:22.03,Sign,,0,0,0,,{\an2\move(1279.09,1064,1279.09,1074,0,200)\fad(200,0)\c&H78ECF5&\fsp6\blur1\fnFZLanTingYuan-DB-GBK\fs50\bord3}集
@@ -828,7 +923,7 @@ Dialogue: 9,0:01:03.59,0:01:06.46,Text - CN,,0,0,0,,對不起  找了一個虛�
 Dialogue: 9,0:01:06.46,0:01:07.96,Text - CN,,0,0,0,,好吧  原諒你
 Dialogue: 9,0:01:07.96,0:01:11.34,Text - CN,,0,0,0,,我討厭掩飾真心或撒謊的人
 Dialogue: 9,0:01:11.34,0:01:13.97,Text - CN,,0,0,0,,啊  對不起…
-Dialogue: 9,0:01:13.97,0:01:16.97,Text - CN,,0,0,0,,話說女生  你們在聊什麼呢？
+Dialogue: 9,0:01:13.97,0:01:16.97,Text - CN,,0,0,0,,前面的女生  你們在聊些什麼呢？
 Dialogue: 9,0:01:16.97,0:01:18.14,Text - CN,,0,0,0,,沒聊什麼
 Dialogue: 9,0:01:18.64,0:01:20.98,Text - CN,,0,0,0,,她撒謊了
 Dialogue: 9,0:02:56.28,0:02:58.83,Text - CN,,0,0,0,,說是能讓戀愛順利的石頭
@@ -894,7 +989,7 @@ Dialogue: 9,0:05:28.85,0:05:31.35,Text - CN,,0,0,0,,山田同學把剛才的照�
 Dialogue: 9,0:05:31.35,0:05:32.10,Text - CN,,0,0,0,,哦
 Dialogue: 9,0:05:32.48,0:05:35.40,Text - CN,,0,0,0,,哇  好多奇怪組合的照片
 Dialogue: 9,0:05:35.40,0:05:37.11,Text - CN,,0,0,0,,確實
-Dialogue: 9,0:05:37.11,0:05:40.99,Text - CN,,0,0,0,,要不是有修學旅行的這種氛圍  估計拍不出來
+Dialogue: 9,0:05:37.11,0:05:40.99,Text - CN,,0,0,0,,要不是有修學旅行這種氛圍  估計拍不出來
 Dialogue: 9,0:05:45.87,0:05:46.49,Text - CN,,0,0,0,,真是的
 Dialogue: 9,0:05:46.49,0:05:49.25,Text - CN,,0,0,0,,難得有機會  你們倆拍張合照多好
 Dialogue: 9,0:05:49.25,0:05:50.00,Text - CN,,0,0,0,,欸！
@@ -967,7 +1062,7 @@ Dialogue: 9,0:08:43.17,0:08:46.05,Text - CN,,0,0,0,,啊  這傢伙就是剛才�
 Dialogue: 9,0:08:46.05,0:08:48.55,Text - CN,,0,0,0,,啊  我好像在哪裡見過
 Dialogue: 9,0:08:48.55,0:08:50.18,Text - CN,,0,0,0,,這個是東…
 Dialogue: 9,0:08:50.18,0:08:51.68,Text - CN,,0,0,0,,好成熟
-Dialogue: 9,0:08:51.68,0:08:53.18,Text - CN,,0,0,0,,這個光頭大塊頭是盛盛
+Dialogue: 9,0:08:51.68,0:08:53.18,Text - CN,,0,0,0,,這個光頭大個子是盛盛
 Dialogue: 9,0:08:53.18,0:08:54.56,Text - CN,,0,0,0,,「盛盛」？
 Dialogue: 9,0:08:55.52,0:08:56.27,Text - CN,,0,0,0,,啊
 Dialogue: 9,0:08:57.18,0:08:58.81,Text - CN,,0,0,0,,該回去了
@@ -1000,7 +1095,7 @@ Dialogue: 9,0:10:40.12,0:10:41.50,Text - CN,,0,0,0,,嗯？可以呀
 Dialogue: 9,0:10:41.50,0:10:42.71,Text - CN,,0,0,0,,還真可以啊
 Dialogue: 9,0:10:42.71,0:10:45.33,Text - CN,,0,0,0,,我們好像逛得比計劃中要快
 Dialogue: 9,0:10:45.33,0:10:46.38,Text - CN,,0,0,0,,就是說啊！
-Dialogue: 9,0:10:46.38,0:10:49.09,Text - CN,,0,0,0,,回過神來才發現周圍沒有其他班的人了
+Dialogue: 9,0:10:46.38,0:10:49.09,Text - CN,,0,0,0,,回過神來才發現周圍沒其他班的人了
 Dialogue: 9,0:10:49.63,0:10:53.59,Text - CN,,0,0,0,,只要能在大巴發車前回來  你們可以隨便到處逛逛
 Dialogue: 9,0:10:53.59,0:10:55.34,Text - CN,,0,0,0,,太好了！
 Dialogue: 9,0:10:55.34,0:10:56.59,Text - CN,,0,0,0,,耶～！
@@ -1009,7 +1104,7 @@ Dialogue: 9,0:10:57.51,0:10:59.47,Text - CN,,0,0,0,,去吃冰淇淋吧  冰淇�
 Dialogue: 9,0:10:59.47,0:11:00.31,Text - CN,,0,0,0,,幹嘛？
 Dialogue: 9,0:11:00.31,0:11:01.98,Text - CN,,0,0,0,,嗯？沒事
 Dialogue: 9,0:11:01.98,0:11:03.35,Text - CN,,0,0,0,,別用那種眼神看我
-Dialogue: 9,0:11:05.85,0:11:10.86,Text - CN,,0,0,0,,從老家解放出來  眼看就要不小心興奮過頭了
+Dialogue: 9,0:11:05.85,0:11:10.86,Text - CN,,0,0,0,,從家附近解放出來  眼看就要不小心興奮過頭了
 Dialogue: 9,0:11:10.86,0:11:14.65,Text - CN,,0,0,0,,可一旦俯視自己  限制器就會啟動
 Dialogue: 9,0:11:14.65,0:11:16.87,Text - CN,,0,0,0,,尤其是和東在一起的時候
 Dialogue: 9,0:11:16.87,0:11:19.62,Text - CN,,0,0,0,,雜念占據了腦海…
@@ -1021,7 +1116,7 @@ Dialogue: 9,0:11:30.75,0:11:31.63,Text - CN,,0,0,0,,哎呀
 Dialogue: 9,0:11:31.63,0:11:32.51,Text - CN,,0,0,0,,我呸！
 Dialogue: 9,0:11:32.51,0:11:33.38,Text - CN,,0,0,0,,幹嘛？
 Dialogue: 9,0:11:33.38,0:11:34.51,Text - CN,,0,0,0,,沒事
-Dialogue: 9,0:11:34.51,0:11:37.51,Text - CN,,0,0,0,,平  咱們均攤吧
+Dialogue: 9,0:11:34.51,0:11:37.51,Text - CN,,0,0,0,,平  咱倆均攤吧
 Dialogue: 9,0:11:37.51,0:11:38.89,Text - CN,,0,0,0,,好
 Dialogue: 9,0:11:40.89,0:11:43.89,Text - CN,,0,0,0,,哇  它們已經做好了準備
 Dialogue: 9,0:11:43.89,0:11:45.64,Text - CN,,0,0,0,,習慣了被投餵
@@ -1077,9 +1172,10 @@ Dialogue: 9,0:13:38.55,0:13:41.63,Text - CN,,0,0,0,,哦  小東  感謝積極參
 Dialogue: 9,0:13:41.63,0:13:42.76,Text - CN,,0,0,0,,鷯哥！
 Dialogue: 9,0:13:42.76,0:13:44.26,Text - CN,,0,0,0,,回答錯誤！很遺憾！
 Dialogue: 9,0:13:44.26,0:13:45.72,Text - CN,,0,0,0,,竟然答錯了
+Dialogue: 9,0:13:45.72,0:13:47.35,Text - CN,,1200,0,0,,真是可惜
 Dialogue: 9,0:13:45.97,0:13:47.14,Text - CN,,0,0,0,,怪了？
 Dialogue: 9,0:13:47.14,0:13:48.77,Text - CN,,0,0,0,,我還挺有把握的
-Dialogue: 9,0:13:48.77,0:13:49.85,Text - CN,,1200,0,0,,答案是鴿子！
+Dialogue: 9,0:13:47.35,0:13:49.85,Text - CN,,1200,0,0,,正確答案是「鴿子」！
 Dialogue: 9,0:13:49.85,0:13:51.06,Text - CN,,1200,0,0,,為什麼是鴿子？
 Dialogue: 9,0:13:51.06,0:13:52.81,Text - CN,,1200,0,0,,漢字是「九」和「鳥」…
 Dialogue: 9,0:13:51.81,0:13:52.81,Text - CN,,0,0,0,,欸  怎麼？
@@ -1135,7 +1231,7 @@ Dialogue: 9,0:16:17.12,0:16:19.88,Text - CN,,0,0,0,,你比我想像中…
 Dialogue: 9,0:16:20.38,0:16:21.96,Text - CN,,0,0,0,,更像「同學」
 Dialogue: 9,0:16:28.64,0:16:30.64,Text - CN,,0,0,0,,啊？這不是廢話
 Dialogue: 9,0:16:32.10,0:16:33.64,Text - CN,,0,0,0,,欸  怎麼？
-Dialogue: 9,0:16:33.64,0:16:35.73,Text - CN,,0,0,0,,我們交流起來都很隨便吧
+Dialogue: 9,0:16:33.64,0:16:35.73,Text - CN,,0,0,0,,我們交流起來都不用敬語
 Dialogue: 9,0:16:35.73,0:16:38.73,Text - CN,,0,0,0,,話說  我們去年也是同一個班的
 Dialogue: 9,0:16:38.73,0:16:39.65,Text - CN,,0,0,0,,欸？
 Dialogue: 9,0:16:39.65,0:16:40.69,Text - CN,,0,0,0,,欸  呃
@@ -1236,8 +1332,8 @@ Dialogue: 9,0:21:27.98,0:21:29.52,Text - CN,,0,0,0,,男生什麼鬼！
 Dialogue: 9,0:21:29.52,0:21:30.98,Text - CN,,0,0,0,,為什麼都戴那個？
 Dialogue: 9,0:21:30.98,0:21:32.23,Text - CN,,0,0,0,,這是搞哪一齣？
 Dialogue: 9,0:21:32.23,0:21:33.36,Text - CN,,0,0,0,,更上鏡
-Dialogue: 9,0:21:33.36,0:21:35.86,Text - CN,,0,0,0,,走到哪裡都被工作人員調侃啊
-Dialogue: 9,0:21:35.86,0:21:38.61,Text - CN,,0,0,0,,沒想到會被那樣的人搭話
+Dialogue: 9,0:21:33.36,0:21:35.86,Text - CN,,0,0,0,,走到哪裡都被工作人員調侃呢
+Dialogue: 9,0:21:35.86,0:21:38.61,Text - CN,,0,0,0,,原來他們還會上來搭話啊
 Dialogue: 9,0:21:49.25,0:21:50.62,Text - CN,,0,0,0,,平同學？
 Dialogue: 9,0:21:50.62,0:21:53.88,Text - CN,,0,0,0,,幹嘛  為什麼唯獨對我反應這麼大
 Dialogue: 9,0:21:55.25,0:21:57.84,Text - CN,,0,0,0,,喂  一起來拍合照吧
@@ -1525,9 +1621,10 @@ Dialogue: 8,0:13:38.55,0:13:41.63,Text - JP,,0,0,0,,おっ　ズマちゃん　�
 Dialogue: 8,0:13:41.63,0:13:42.76,Text - JP,,0,0,0,,九官鳥！
 Dialogue: 8,0:13:42.76,0:13:44.26,Text - JP,,0,0,0,,不正解！残念！
 Dialogue: 8,0:13:44.26,0:13:45.72,Text - JP,,0,0,0,,間違ってんのかよ
+Dialogue: 8,0:13:45.72,0:13:47.35,Text - JP,,1200,0,0,,惜しかったね～
 Dialogue: 8,0:13:45.97,0:13:47.14,Text - JP,,0,0,0,,あれ～？
 Dialogue: 8,0:13:47.14,0:13:48.77,Text - JP,,0,0,0,,自信あったんだけどなぁ
-Dialogue: 8,0:13:48.77,0:13:49.85,Text - JP,,1200,0,0,,鳩でした！
+Dialogue: 8,0:13:47.35,0:13:49.85,Text - JP,,1200,0,0,,正解は「鳩」でした！
 Dialogue: 8,0:13:49.85,0:13:51.06,Text - JP,,1200,0,0,,なんで鳩？
 Dialogue: 8,0:13:51.06,0:13:52.81,Text - JP,,1200,0,0,,漢字で「九」と「鳥」…
 Dialogue: 8,0:13:51.81,0:13:52.81,Text - JP,,0,0,0,,えっ　何？

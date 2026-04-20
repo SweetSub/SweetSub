@@ -38,10 +38,10 @@ Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,SweetSub 的字幕在發布後也會繼續更新，從第三方來源獲取的外掛字幕可能並非是最新版本，我們建議訪問 https://github.com/SweetSub/SweetSub 下載最新版本的字幕文件。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,此外，如果發現本字幕文件中的字體名稱為亂碼，說明這是字體子集化後的字幕，該版本並不是設計用來傳播用的外掛字幕。請訪問我們的 GitHub 頁面下載原始外掛字幕。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
-Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,該版本為 web 版字幕 v1，在合集時會有修正。
+Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,該版本為 web 版合集字幕。
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Credit
-Dialogue: 0,0:23:48.58,0:23:51.95,Default,,0,0,0,,{\fad(200,0)\fnFZLanTingYuan-EB-GBK\fs30\shad0\pos(960,980)\c&HAF7AFE&\3c&HEFDFA2&\bord6\blur2\b1}SweetSub{\fnDream Han Sans TC W20}／{\fnFZLanTingYuan-EB-GBK}翻譯：Senren　後期：Senren、natsukage
-Dialogue: 1,0:23:48.58,0:23:51.95,Default,,0,0,0,,{\fad(200,0)\fnFZLanTingYuan-EB-GBK\fs30\shad0\pos(960,980)\c&HAF7AFE&\3c&HFBF3FD&\bord3\b1}SweetSub{\fnDream Han Sans TC W20}／{\fnFZLanTingYuan-EB-GBK}翻譯：Senren　後期：Senren、natsukage
+Dialogue: 0,0:23:48.58,0:23:51.95,Default,,0,0,0,,{\fad(200,0)\fnFZLanTingYuan-EB-GBK\fs30\shad0\pos(960,980)\c&HAF7AFE&\3c&HEFDFA2&\bord6\blur2\b1}SweetSub{\fnDream Han Sans TC W20\b0}／{\fnFZLanTingYuan-EB-GBK\b1}翻譯：Senren　後期：Senren、natsukage
+Dialogue: 1,0:23:48.58,0:23:51.95,Default,,0,0,0,,{\fad(200,0)\fnFZLanTingYuan-EB-GBK\fs30\shad0\pos(960,980)\c&HAF7AFE&\3c&HFBF3FD&\bord3\b1}SweetSub{\fnDream Han Sans TC W20\b0}／{\fnFZLanTingYuan-EB-GBK\b1}翻譯：Senren　後期：Senren、natsukage
 Comment: 0,0:01:46.00,0:01:46.04,Default,,0,0,0,,Opening
 Dialogue: 0,0:01:46.46,0:01:49.76,OPCN,,0,0,0,,{\blur6\t(0,650,0.1,\blur0.6)\fad(250,0)\c&H312D38&\4c&HFFFFFF&}請你暫時{\4c&HD590FF&}摘{\4c&HFFFFFF&}下眼鏡
 Dialogue: 0,0:01:49.76,0:01:51.22,OPCN,,0,0,0,,{\blur0.6\c&H312D38&\4c&HFFFFFF&}好好{\4c&HD590FF&}看{\4c&HFFFFFF&}著我的眼睛
@@ -117,10 +117,10 @@ Dialogue: 1,0:02:53.28,0:02:56.28,OPJP,,0,0,0,,{\bord3\c&HCBB963&\3c&H08EFED&}�
 Dialogue: 1,0:02:56.28,0:02:58.99,OPJP,,0,0,0,,{\bord3\c&HCBB963&\3c&H08EFED&}恋は走り出したの
 Dialogue: 1,0:02:58.99,0:03:01.49,OPJP,,0,0,0,,{\fad(0,150)\bord3\c&HCBB963&\3c&H08EFED&}放課後まで待てない
 Dialogue: 1,0:03:02.04,0:03:03.00,OPJP,,0,0,0,,{\fad(150,0)}大事な言葉ほど
-Dialogue: 1,0:03:03.00,0:03:04.50,OPJP,,0,0,0,,{}大事な言葉ほど
-Dialogue: 1,0:03:04.50,0:03:05.25,OPJP,,0,0,0,,{}酸素を嫌うみたい
-Dialogue: 1,0:03:05.25,0:03:06.00,OPJP,,0,0,0,,{}酸素を嫌うみたい
-Dialogue: 1,0:03:06.00,0:03:07.50,OPJP,,0,0,0,,{}酸素を嫌うみたい
+Dialogue: 1,0:03:03.00,0:03:04.50,OPJP,,0,0,0,,大事な言葉ほど
+Dialogue: 1,0:03:04.50,0:03:05.25,OPJP,,0,0,0,,酸素を嫌うみたい
+Dialogue: 1,0:03:05.25,0:03:06.00,OPJP,,0,0,0,,酸素を嫌うみたい
+Dialogue: 1,0:03:06.00,0:03:07.50,OPJP,,0,0,0,,酸素を嫌うみたい
 Dialogue: 1,0:03:07.50,0:03:11.13,OPJP,,0,0,0,,{\c&HA27762&\4c&HE6E8A9&\4a&H32&}辞書に無い私なりの言葉で
 Dialogue: 1,0:03:11.13,0:03:13.76,OPJP,,0,0,0,,{\bord3\c&HE3AE42&\3c&HA1F28C&}早く君に伝えなきゃね
 Dialogue: 1,0:03:13.76,0:03:15.97,OPJP,,0,0,0,,{\bord0\c&H626262&\shad0}早く君に伝えなきゃね
@@ -240,9 +240,9 @@ Dialogue: 0,0:23:41.23,0:23:44.65,EDJP,,0,0,0,,{\fad(400,400)\bord8\3c&HF5DF9C&\
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Title
 Comment: 0,0:00:00.00,0:00:00.00,Sign,ep_title,0,0,0,,驚喜！ / サプライズ！
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Sign
-Dialogue: 0,0:00:00.48,0:00:03.48,Sign,EP04,0,0,0,,{\fad(1000,0)\an1\c&HA5F6F5&\bord0\pos(1160,686)\fs50\shad0.5\4c&H80D4E6&\fry-3.89\frx-0.16\frz11\fax-0.2\blur0.8\fscx95}百楊便利商店
-Dialogue: 0,0:00:03.73,0:00:07.99,Sign,,0,0,0,,{\bord5\fnFZLanTingYuan-EB-GBK\fs60\fsp14\c&HCF532C&\3c&HF7F6F6&\an8}噔噔
-Dialogue: 0,0:00:38.18,0:00:40.14,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\fs50\fsp4\fad(1000,0)\c&HD67200&\3c&H5FF2F5&\pos(368,184)\frz14.39}周年 {\\c&H55F5FD&\3c&HD7790C&}相冊
+Dialogue: 0,0:00:00.48,0:00:03.48,Sign,EP04,0,0,0,,{\fad(600,0)\c&H070A09&\t(0,1000,\c&HA5F6F5&)\an1\bord0\pos(1160,686)\fs50\shad0.5\4c&H80D4E6&\fry-3.89\frx-0.16\frz11\fax-0.2\blur0.8\fscx95}百楊便利商店
+Dialogue: 0,0:00:03.73,0:00:07.99,Sign,,0,0,0,,{\bord5\fnKeinannPOP\fs80\fsp14\c&HCF532C&\3c&HF7F6F6&\an8}噔噔
+Dialogue: 0,0:00:38.18,0:00:40.14,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\fs50\fsp4\fad(1000,0)\c&HD67200&\3c&H5FF2F5&\pos(368,184)\frz14.39}周年 {\c&H55F5FD&\3c&HD7790C&}相冊
 Dialogue: 0,0:01:41.21,0:01:41.25,Sign,,0,0,0,,{\bord4\alpha&H00&\an8\c&HF1BBFD&\3c&HCB0C5D&\fnFZLanTingYuan-EB-GBK\fs50\frz334.6\pos(1444.68,1114.84)\clip(m 1354.68 1093.84 l 1514.68 1165.84 1529.68 1139.84 1364.68 1064.84)}驚喜…!!
 Dialogue: 0,0:01:41.25,0:01:41.29,Sign,,0,0,0,,{\bord4\alpha&H00&\an8\c&HF1BBFD&\3c&HCB0C5D&\fnFZLanTingYuan-EB-GBK\fs50\frz334.6\pos(1445,1033.84)\clip(m 1355 1012.84 l 1515 1084.84 1530 1058.84 1365 983.84)}驚喜…!!
 Dialogue: 0,0:01:41.29,0:01:41.33,Sign,,0,0,0,,{\bord4\alpha&H00&\an8\c&HF1BBFD&\3c&HCB0C5D&\fnFZLanTingYuan-EB-GBK\fs50\frz334.6\pos(1445,983.04)\clip(m 1355 962.04 l 1515 1034.04 1530 1008.04 1365 933.04)}驚喜…!!
@@ -375,75 +375,75 @@ Dialogue: 0,0:04:29.12,0:04:29.17,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-G
 Dialogue: 0,0:04:29.17,0:04:29.21,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\fs45\fsp4\an1\b1\blur0.8\pos(-1026.08,844.4)\1c&H000000&\bord3\3c&HF2F1F0&}如何反應  能讓人開心
 Dialogue: 0,0:04:29.21,0:04:29.25,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\fs45\fsp4\an1\b1\blur0.8\pos(-1046.66,844.4)\1c&H000000&\bord3\3c&HF2F1F0&}如何反應  能讓人開心
 Dialogue: 0,0:04:29.25,0:04:29.29,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\fs45\fsp4\an1\b1\blur0.8\pos(-1066.17,844.4)\1c&H000000&\bord3\3c&HF2F1F0&}如何反應  能讓人開心
-Dialogue: 0,0:04:25.54,0:04:26.50,Sign,,0,0,0,,{\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1602,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:26.50,0:04:26.54,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1602,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:26.54,0:04:26.58,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1601.65,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:26.58,0:04:26.62,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1600.59,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:26.62,0:04:26.66,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1598.8,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:26.66,0:04:26.70,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1596.26,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:26.70,0:04:26.75,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1592.97,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:26.75,0:04:26.79,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1588.86,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:26.79,0:04:26.83,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1583.94,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:26.83,0:04:26.87,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1578.13,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:26.87,0:04:26.91,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1571.46,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:26.91,0:04:26.96,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1563.85,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:26.96,0:04:27.00,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1555.32,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:27.00,0:04:27.04,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1545.78,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:27.04,0:04:27.08,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1535.24,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:27.08,0:04:27.12,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1523.68,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:27.12,0:04:27.16,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1511.01,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:27.16,0:04:27.21,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1497.26,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:27.21,0:04:27.25,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1482.34,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:27.25,0:04:27.29,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1466.28,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:27.29,0:04:27.33,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1448.99,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:27.33,0:04:27.37,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1430.46,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:27.37,0:04:27.41,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1410.67,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:27.41,0:04:27.46,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1389.58,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:27.46,0:04:27.50,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1367.16,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:27.50,0:04:27.54,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1343.41,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:27.54,0:04:27.58,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1318.32,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:27.58,0:04:27.62,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1291.85,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:27.62,0:04:27.66,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1263.99,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:27.66,0:04:27.71,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1234.8,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:27.71,0:04:27.75,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1204.24,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:27.75,0:04:27.79,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1172.32,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:27.79,0:04:27.83,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1139.09,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:27.83,0:04:27.87,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1104.67,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:27.87,0:04:27.91,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1069.03,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:27.91,0:04:27.96,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1032.22,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:27.96,0:04:28.00,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(994.4,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:28.00,0:04:28.04,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(955.64,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:28.04,0:04:28.08,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(916.03,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:28.08,0:04:28.12,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(875.74,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:28.12,0:04:28.16,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(834.86,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:28.16,0:04:28.21,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(793.51,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:28.21,0:04:28.25,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(751.92,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:28.25,0:04:28.29,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(710.18,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:28.29,0:04:28.33,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(668.45,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:28.33,0:04:28.37,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(626.91,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:28.37,0:04:28.41,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(585.67,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:28.41,0:04:28.46,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(544.89,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:28.46,0:04:28.50,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(504.7,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:28.50,0:04:28.54,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(465.2,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:28.54,0:04:28.58,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(426.5,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:28.58,0:04:28.62,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(388.69,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:28.62,0:04:28.67,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(351.86,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:28.67,0:04:28.71,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(316.08,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:28.71,0:04:28.75,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(281.39,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:28.75,0:04:28.79,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(247.83,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:28.79,0:04:28.83,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(215.43,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:28.83,0:04:28.87,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(184.26,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:28.87,0:04:28.92,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(154.28,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:28.92,0:04:28.96,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(125.51,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:28.96,0:04:29.00,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(97.95,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:29.00,0:04:29.04,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(71.57,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:29.04,0:04:29.08,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(46.43,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:29.08,0:04:29.12,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(22.43,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:29.12,0:04:29.17,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(-0.4,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:29.17,0:04:29.21,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(-22.08,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:29.21,0:04:29.25,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(-42.66,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:29.25,0:04:29.29,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(-62.17,416)\frz349.1\frx352\fry2\yshad4}想像
-Dialogue: 0,0:04:25.54,0:04:25.58,Sign,,0,0,0,,{\alpha&HFF&\bord4\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HD3FE8A&\3c&H9F7819&\pos(966,110)\frz354.3}哇{\fsp-3}——
+Dialogue: 0,0:04:25.54,0:04:26.50,Sign,,0,0,0,,{\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1602,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:26.50,0:04:26.54,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1602,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:26.54,0:04:26.58,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1601.65,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:26.58,0:04:26.62,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1600.59,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:26.62,0:04:26.66,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1598.8,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:26.66,0:04:26.70,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1596.26,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:26.70,0:04:26.75,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1592.97,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:26.75,0:04:26.79,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1588.86,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:26.79,0:04:26.83,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1583.94,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:26.83,0:04:26.87,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1578.13,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:26.87,0:04:26.91,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1571.46,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:26.91,0:04:26.96,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1563.85,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:26.96,0:04:27.00,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1555.32,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:27.00,0:04:27.04,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1545.78,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:27.04,0:04:27.08,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1535.24,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:27.08,0:04:27.12,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1523.68,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:27.12,0:04:27.16,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1511.01,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:27.16,0:04:27.21,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1497.26,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:27.21,0:04:27.25,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1482.34,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:27.25,0:04:27.29,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1466.28,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:27.29,0:04:27.33,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1448.99,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:27.33,0:04:27.37,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1430.46,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:27.37,0:04:27.41,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1410.67,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:27.41,0:04:27.46,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1389.58,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:27.46,0:04:27.50,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1367.16,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:27.50,0:04:27.54,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1343.41,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:27.54,0:04:27.58,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1318.32,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:27.58,0:04:27.62,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1291.85,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:27.62,0:04:27.66,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1263.99,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:27.66,0:04:27.71,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1234.8,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:27.71,0:04:27.75,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1204.24,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:27.75,0:04:27.79,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1172.32,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:27.79,0:04:27.83,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1139.09,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:27.83,0:04:27.87,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1104.67,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:27.87,0:04:27.91,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1069.03,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:27.91,0:04:27.96,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(1032.22,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:27.96,0:04:28.00,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(994.4,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:28.00,0:04:28.04,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(955.64,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:28.04,0:04:28.08,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(916.03,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:28.08,0:04:28.12,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(875.74,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:28.12,0:04:28.16,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(834.86,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:28.16,0:04:28.21,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(793.51,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:28.21,0:04:28.25,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(751.92,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:28.25,0:04:28.29,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(710.18,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:28.29,0:04:28.33,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(668.45,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:28.33,0:04:28.37,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(626.91,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:28.37,0:04:28.41,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(585.67,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:28.41,0:04:28.46,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(544.89,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:28.46,0:04:28.50,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(504.7,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:28.50,0:04:28.54,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(465.2,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:28.54,0:04:28.58,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(426.5,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:28.58,0:04:28.62,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(388.69,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:28.62,0:04:28.67,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(351.86,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:28.67,0:04:28.71,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(316.08,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:28.71,0:04:28.75,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(281.39,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:28.75,0:04:28.79,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(247.83,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:28.79,0:04:28.83,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(215.43,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:28.83,0:04:28.87,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(184.26,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:28.87,0:04:28.92,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(154.28,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:28.92,0:04:28.96,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(125.51,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:28.96,0:04:29.00,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(97.95,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:29.00,0:04:29.04,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(71.57,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:29.04,0:04:29.08,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(46.43,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:29.08,0:04:29.12,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(22.43,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:29.12,0:04:29.17,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(-0.4,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:29.17,0:04:29.21,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(-22.08,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:29.21,0:04:29.25,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(-42.66,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:29.25,0:04:29.29,Sign,,0,0,0,,{\alpha&H00&\bord6\fnKeinannPOP\fsp4\c&HB4F7FE&\3c&H6A1FEF&\4c&H6A1FEF&\pos(-62.17,416)\frz349.1\frx352\fry2\yshad4}想像
+Dialogue: 0,0:04:25.54,0:04:25.58,Sign,,0,0,0,,{\alpha&HF5&\bord4\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HD3FE8A&\3c&H9F7819&\pos(966,110)\frz354.3}哇{\fsp-3}——
 Dialogue: 0,0:04:25.58,0:04:25.62,Sign,,0,0,0,,{\alpha&HEA&\bord4\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HD3FE8A&\3c&H9F7819&\pos(965.91,109.88)\frz354.3}哇{\fsp-3}——
 Dialogue: 0,0:04:25.62,0:04:25.66,Sign,,0,0,0,,{\alpha&HCF&\bord4\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HD3FE8A&\3c&H9F7819&\pos(965.8,109.69)\frz354.3}哇{\fsp-3}——
 Dialogue: 0,0:04:25.66,0:04:25.70,Sign,,0,0,0,,{\alpha&HBA&\bord4\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&HD3FE8A&\3c&H9F7819&\pos(965.73,109.51)\frz354.3}哇{\fsp-3}——
@@ -520,8 +520,8 @@ Dialogue: 0,0:05:25.72,0:05:25.76,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-EB-G
 Dialogue: 0,0:05:25.76,0:05:25.81,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&H2F3036&\bord0\pos(1601.45,626)}平的生日
 Dialogue: 0,0:05:25.81,0:05:25.85,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&H2F3036&\bord0\pos(1573.9,626)}平的生日
 Dialogue: 0,0:05:25.85,0:05:25.89,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&H2F3036&\bord0\pos(1565,626)}平的生日
-Dialogue: 0,0:05:25.89,0:05:27.97,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&H2F3036&\bord0\pos(1565,626)}平的生日
-Dialogue: 0,0:07:29.89,0:07:31.35,Sign,,0,0,0,,{\alpha&H00&\bord4\fnFZLanTingYuan-EB-GBK\fs50\fsp4\fade(255,0,255,0,480,1460,1460)\c&H2174FE&\3c&HFDFDFF&\frz342.3\move(1675.43,168.27,1696,108.62,18,1436)}你啊…
+Dialogue: 0,0:05:25.89,0:05:27.97,Sign,,0,0,0,,{\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&H2F3036&\bord0\pos(1565,626)}平的生日
+Dialogue: 0,0:07:29.89,0:07:31.35,Sign,,0,0,0,,{\bord4\fnKeinannPOP\fsp4\fade(255,0,255,0,480,1460,1460)\c&H2174FE&\3c&HFDFDFF&\frz342.3\move(1675.43,168.27,1696,108.62,18,1436)}你啊…
 Dialogue: 0,0:07:54.83,0:07:54.87,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\fs50\fsp4\c&H373737&\bord0\an8\pos(1613.33,18.17)\blur0.8}谷睡得早
 Dialogue: 0,0:07:54.87,0:07:54.91,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\fs50\fsp4\c&H373737&\bord0\an8\pos(1613.33,104.82)\blur0.8}谷睡得早
 Dialogue: 0,0:07:54.91,0:07:54.95,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\fs50\fsp4\c&H373737&\bord0\an8\pos(1613.33,189.44)\blur0.8}谷睡得早
@@ -534,7 +534,7 @@ Dialogue: 0,0:07:55.16,0:07:55.21,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-G
 Dialogue: 0,0:07:55.21,0:07:55.25,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\fs50\fsp4\c&H373737&\bord0\an8\pos(1613.33,526.36)\blur0.8}谷睡得早
 Dialogue: 0,0:07:55.25,0:07:55.29,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\fs50\fsp4\c&H373737&\bord0\an8\pos(1613.33,531.66)\blur0.8}谷睡得早
 Dialogue: 0,0:07:55.29,0:07:55.33,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\fs50\fsp4\c&H373737&\bord0\an8\pos(1613.33,533)\blur0.8}谷睡得早
-Dialogue: 0,0:07:55.33,0:07:57.29,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-DB-GBK\fs50\fsp4\c&H373737&\bord0\an8\pos(1613.33,533)\blur0.8}谷睡得早
+Dialogue: 0,0:07:55.33,0:07:57.29,Sign,,0,0,0,,{\fnFZLanTingYuan-DB-GBK\fs50\fsp4\c&H373737&\bord0\an8\pos(1613.33,533)\blur0.8}谷睡得早
 Dialogue: 0,0:07:57.29,0:07:57.33,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\fs50\fsp4\c&H373737&\bord0\an8\pos(1613.33,533)\blur0.8}谷睡得早
 Dialogue: 0,0:07:57.33,0:07:57.37,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\fs50\fsp4\c&H373737&\bord0\an8\pos(1613.9,533)\blur0.8}谷睡得早
 Dialogue: 0,0:07:57.37,0:07:57.42,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\fs50\fsp4\c&H373737&\bord0\an8\pos(1617.93,533)\blur0.8}谷睡得早
@@ -585,12 +585,12 @@ Dialogue: 0,0:09:57.08,0:09:57.20,Sign,,0,0,0,,{\fscx95.35\fscy95.35\frz0.21\alp
 Dialogue: 0,0:09:57.20,0:09:57.24,Sign,,0,0,0,,{\fscx100\fscy100\frz0\alpha&H00&\bord3\fnFZLanTingYuan-EB-GBK\fs30\fsp4\c&H91EEF8&\3c&H4D425B&\pos(905.6,890.8)\an8}美味{\c&H79CA75&}軟糖
 Dialogue: 0,0:09:57.24,0:10:01.12,Sign,,0,0,0,,{\bord3\fnFZLanTingYuan-EB-GBK\fs30\fsp4\c&H91EEF8&\3c&H4D425B&\pos(905.6,890.8)\an8}美味{\c&H79CA75&}軟糖
 Dialogue: 0,0:10:01.12,0:10:01.33,Sign,,0,0,0,,{\bord3\fnFZLanTingYuan-EB-GBK\fs30\fsp4\c&H5F8C8F&\3c&H503242&\pos(905.6,890.8)\an8}美味{\c&H537A4A&}軟糖
-Dialogue: 0,0:09:57.20,0:09:59.70,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\fs60\fsp4\fad(0,1500)\c&HD96E01&\3c&HF7F6F4&\pos(1003.2,650)\frz346.4}咚
+Dialogue: 0,0:09:57.20,0:09:59.70,Sign,,0,0,0,,{\bord4\fnKeinannPOP\fs80\fsp4\fad(0,1500)\c&HD96E01&\3c&HF7F6F4&\pos(1010,650)\frz346.4}咚
 Dialogue: 0,0:10:07.34,0:10:09.21,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&H3DD4E7&\an8}雷電巧克力
 Dialogue: 0,0:10:25.10,0:10:27.11,Sign,EP04,0,0,0,,{\fsp4\an1\c&H6EE5FA&\bord0\pos(1160,686)\fs50\shad0.5\4c&H80D4E6&\fry-3.89\frx-0.16\frz11\fax-0.2\blur0.8\fscx95}百楊便利商店
-Dialogue: 0,0:12:22.22,0:12:25.23,Sign,,0,0,0,,{\bord3\fnFZLanTingYuan-EB-GBK\fs50\fsp4\fad(0,1000)\c&HCE8AFF&\3c&HF8F0FB&\fscx90\pos(1582,912)}沒忘買自己的
+Dialogue: 0,0:12:22.22,0:12:25.23,Sign,,0,0,0,,{\bord3\fnKeinannPOP\fsp4\fad(0,1000)\c&HCE8AFF&\3c&HF8F0FB&\fscx90\pos(1580,915)}沒忘買自己的
 Dialogue: 0,0:12:58.01,0:13:00.26,Sign,,0,0,0,,{\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&H5D37BB&\bord0\pos(288,904)}非常興奮
-Dialogue: 0,0:13:17.03,0:13:21.53,Sign,,0,0,0,,{\fad(100,0)\bord4\fnFZLanTingYuan-EB-GBK\fs50\fsp4\fad(0,230)\c&H972DF3&\3c&HF4ECFF&\an7}怦怦
+Dialogue: 0,0:13:17.03,0:13:21.53,Sign,,0,0,0,,{\fad(100,0)\bord4\fnFZLanTingYuan-EB-GBK\fs50\fsp4\c&H972DF3&\3c&HF4ECFF&\an7}怦怦
 Dialogue: 0,0:14:11.25,0:14:11.29,Sign,,0,0,0,,{\alpha&HE7&\bord4\fnFZLanTingYuan-EB-GBK\fs40\fsp4\c&HDE2DB8&\3c&HF4EBF5&\pos(1246,211)\frz15.11}接吻…
 Dialogue: 0,0:14:11.29,0:14:11.33,Sign,,0,0,0,,{\alpha&HD3&\bord4\fnFZLanTingYuan-EB-GBK\fs40\fsp4\c&HDE2DB8&\3c&HF4EBF5&\pos(1245.31,208.23)\frz15.11}接吻…
 Dialogue: 0,0:14:11.33,0:14:11.37,Sign,,0,0,0,,{\alpha&H9B&\bord4\fnFZLanTingYuan-EB-GBK\fs40\fsp4\c&HDE2DB8&\3c&HF4EBF5&\pos(1244.84,205.06)\frz15.11}接吻…
@@ -628,15 +628,15 @@ Dialogue: 0,0:14:36.44,0:14:36.48,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-G
 Dialogue: 0,0:14:36.48,0:14:36.52,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\fs50\fsp4\c&H373737&\bord0\an8\pos(976,935.61)\b1\blur0.8}缺乏觀光欲
 Dialogue: 0,0:14:36.52,0:14:36.56,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\fs50\fsp4\c&H373737&\bord0\an8\pos(976,930.5)\b1\blur0.8}缺乏觀光欲
 Dialogue: 0,0:14:36.56,0:14:36.61,Sign,,0,0,0,,{\alpha&H00&\fnFZLanTingYuan-DB-GBK\fs50\fsp4\c&H373737&\bord0\an8\pos(976,930)\b1\blur0.8}缺乏觀光欲
-Dialogue: 0,0:14:36.61,0:14:38.48,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-DB-GBK\fs50\fsp4\c&H373737&\bord0\an8\pos(976,930)\b1\blur0.8}缺乏觀光欲
-Dialogue: 0,0:14:46.91,0:14:48.49,Sign,EP08,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\fs50\fsp4\alpha&H00&\fs50\fsp4\fnFZLanTingYuan-DB-GBK\blur0.8\fade(255,0,255,0,360,2460,2460)\3c&HF3F5F7&\c&HF3F5F7&\move(1085.12,184.79,1065.08,153.01,24,2443)\frz21.74\b1\1a&HFF&\t(315,360,\1a&H00&)}賣萌…
-Dialogue: 1,0:14:46.91,0:14:48.49,Sign,EP08,0,0,0,,{\fnFZLanTingYuan-EB-GBK\fs50\fsp4\alpha&H00&\bord0\fs50\fsp4\fnFZLanTingYuan-DB-GBK\blur0.8\fade(255,0,255,0,360,2460,2460)\c&HE475C5&\move(1085.12,184.79,1065.08,153.01,24,2443)\frz21.74\b1\4a&HFF&}賣萌…
+Dialogue: 0,0:14:36.61,0:14:38.48,Sign,,0,0,0,,{\fnFZLanTingYuan-DB-GBK\fs50\fsp4\c&H373737&\bord0\an8\pos(976,930)\b1\blur0.8}缺乏觀光欲
+Dialogue: 0,0:14:46.91,0:14:48.49,Sign,EP08,0,0,0,,{\alpha&H00&\bord4\fs50\fsp4\fnFZLanTingYuan-DB-GBK\blur0.8\fade(255,0,255,0,360,2460,2460)\3c&HF3F5F7&\c&HF3F5F7&\move(1085.12,184.79,1065.08,153.01,24,2443)\frz21.74\b1\1a&HFF&\t(315,360,\1a&H00&)}賣萌…
+Dialogue: 1,0:14:46.91,0:14:48.49,Sign,EP08,0,0,0,,{\alpha&H00&\bord0\fs50\fsp4\fnFZLanTingYuan-DB-GBK\blur0.8\fade(255,0,255,0,360,2460,2460)\c&HE475C5&\move(1085.12,184.79,1065.08,153.01,24,2443)\frz21.74\b1\4a&HFF&}賣萌…
 Dialogue: 0,0:15:20.57,0:15:31.58,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\fs60\fsp4\c&H8E45FE&\pos(384,10)\an8\3c&HECE7FE&}電影{\fs20}\N\N{\fs40\fnFZLanTingYuan-DB-GBK\b1}所需時間\N2 小時 30 分鐘
 Dialogue: 0,0:15:23.32,0:15:31.58,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\fs60\fsp4\c&H2774FE&\pos(768,10)\an8\3c&HCAECFE&}動物園{\fs20}\N\N{\fs40\fnFZLanTingYuan-DB-GBK\b1}所需時間\N2 ～ 3 小時
 Dialogue: 0,0:15:26.07,0:15:31.58,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\fs60\fsp4\c&HF58935&\pos(1152,10)\an8\3c&HFEF3CB&}水族館{\fs20}\N\N{\fs40\fnFZLanTingYuan-DB-GBK\b1}所需時間\N1 ～ 2 小時
 Dialogue: 0,0:15:30.83,0:15:37.21,Sign,,0,0,0,,{\bord4\fnFZLanTingYuan-EB-GBK\fs60\fsp4\c&H97A100&\move(1536,10,960,10,768,950)\an8\3c&HDBF2C0&}博物館{\fs20}\N\N{\fs40\fnFZLanTingYuan-DB-GBK\b1}所需時間\N3 ～ 4 小時
 Dialogue: 0,0:15:37.21,0:15:43.21,Sign,,0,0,0,,{\bord4\fs50\fsp4\c&H93A2B7&\an8\3c&HFFFFFF&}[特別展覽] {\c&H675252&\fnFZLanTingYuan-EB-GBK}寶物的世界
-Dialogue: 0,0:16:04.24,0:16:06.49,Sign,,0,0,0,,{\fnFZLanTingYuan-DB-GBK\fs40\fsp4\c&H323232&\bord0\pos(960,685)\an8\blur0.8\b1}30 分鐘後
+Dialogue: 0,0:16:04.24,0:16:06.49,Sign,,0,0,0,,{\fnFZLanTingYuan-EB-GBK\fs40\fsp4\c&H323232&\bord0\pos(960,685)\an8\blur0.8\b1}30 分鐘後
 Dialogue: 0,0:16:50.07,0:16:50.11,Sign,,0,0,0,,{\alpha&HF5&\bord4\fnFZLanTingYuan-EB-GBK\fs40\fsp4\c&HFA8204&\3c&HF7F7F5&\frz7.889\pos(855.36,619.27)}那是蛾
 Dialogue: 0,0:16:50.11,0:16:50.16,Sign,,0,0,0,,{\alpha&HDF&\bord4\fnFZLanTingYuan-EB-GBK\fs40\fsp4\c&HFA8204&\3c&HF7F7F5&\frz7.889\pos(854.78,619.43)}那是蛾
 Dialogue: 0,0:16:50.16,0:16:50.20,Sign,,0,0,0,,{\alpha&HBE&\bord4\fnFZLanTingYuan-EB-GBK\fs40\fsp4\c&HFA8204&\3c&HF7F7F5&\frz7.889\pos(854.21,619.44)}那是蛾
@@ -944,20 +944,22 @@ Dialogue: 0,0:18:34.05,0:18:34.09,Sign,,0,0,0,,{\alpha&HD6&\fnFZLanTingYuan-EB-G
 Dialogue: 0,0:18:34.09,0:18:34.14,Sign,,0,0,0,,{\alpha&HE0&\fnFZLanTingYuan-EB-GBK\fs22\c&H2C2C2D&\bord0\an7\frz11.26\fax-0.06\blur0.6\pos(-213.15,1010)}時間安排
 Dialogue: 0,0:18:34.14,0:18:34.18,Sign,,0,0,0,,{\alpha&HEB&\fnFZLanTingYuan-EB-GBK\fs22\c&H2C2C2D&\bord0\an7\frz11.26\fax-0.06\blur0.6\pos(-217.69,1010)}時間安排
 Dialogue: 0,0:18:34.18,0:18:34.22,Sign,,0,0,0,,{\alpha&HF5&\fnFZLanTingYuan-EB-GBK\fs22\c&H2C2C2D&\bord0\an7\frz11.26\fax-0.06\blur0.6\pos(-220.96,1010)}時間安排
-Dialogue: 0,0:19:27.19,0:19:28.94,Sign,,0,0,0,,{\alpha&H00&\bord6\fnFZLanTingYuan-EB-GBK\fs50\fsp4\fade(255,0,255,0,0,500,1750)\c&HA5A400&\3c&HF5F6F5&\move(660,245,657.02,214.15,19,1729)}欸？
-Dialogue: 0,0:20:17.36,0:20:17.41,Sign,,0,0,0,,{\alpha&H00&\an8\fn@FZLanTingYuan-DB-GBK\frz270\fs50\fsp4\c&H3C3C3C&\bord0\pos(1890.18,530)}意思是生日盛會
-Dialogue: 0,0:20:17.41,0:20:17.45,Sign,,0,0,0,,{\alpha&H00&\an8\fn@FZLanTingYuan-DB-GBK\frz270\fs50\fsp4\c&H3C3C3C&\bord0\pos(1831.15,530)}意思是生日盛會
-Dialogue: 0,0:20:17.45,0:20:17.49,Sign,,0,0,0,,{\alpha&H00&\an8\fn@FZLanTingYuan-DB-GBK\frz270\fs50\fsp4\c&H3C3C3C&\bord0\pos(1784.32,530)}意思是生日盛會
-Dialogue: 0,0:20:17.49,0:20:17.53,Sign,,0,0,0,,{\alpha&H00&\an8\fn@FZLanTingYuan-DB-GBK\frz270\fs50\fsp4\c&H3C3C3C&\bord0\pos(1748.68,530)}意思是生日盛會
-Dialogue: 0,0:20:17.53,0:20:17.57,Sign,,0,0,0,,{\alpha&H00&\an8\fn@FZLanTingYuan-DB-GBK\frz270\fs50\fsp4\c&H3C3C3C&\bord0\pos(1723.29,530)}意思是生日盛會
-Dialogue: 0,0:20:17.57,0:20:17.61,Sign,,0,0,0,,{\alpha&H00&\an8\fn@FZLanTingYuan-DB-GBK\frz270\fs50\fsp4\c&H3C3C3C&\bord0\pos(1707.32,530)}意思是生日盛會
-Dialogue: 0,0:20:17.61,0:20:20.49,Sign,,0,0,0,,{\alpha&H00&\an8\fn@FZLanTingYuan-DB-GBK\frz270\fs50\fsp4\c&H3C3C3C&\bord0\pos(1700,530)}意思是生日盛會
+Dialogue: 0,0:19:27.19,0:19:28.94,Sign,,0,0,0,,{\bord6\fnKeinannPOP\fsp4\fade(255,0,255,0,0,500,1750)\c&HA5A400&\3c&HF4F8F7&\move(660,245,657.02,214.15,19,1729)\4c&HE3FCCA&}欸？
+Dialogue: 0,0:20:17.36,0:20:17.41,Sign,,0,0,0,,{\alpha&H00&\an8\fn@FZLanTingYuan-DB-GBK\frz270\fs50\fsp4\c&H3C3C3C&\bord0\pos(1880.18,530)}意思是生日盛會
+Dialogue: 0,0:20:17.41,0:20:17.45,Sign,,0,0,0,,{\alpha&H00&\an8\fn@FZLanTingYuan-DB-GBK\frz270\fs50\fsp4\c&H3C3C3C&\bord0\pos(1821.15,530)}意思是生日盛會
+Dialogue: 0,0:20:17.45,0:20:17.49,Sign,,0,0,0,,{\alpha&H00&\an8\fn@FZLanTingYuan-DB-GBK\frz270\fs50\fsp4\c&H3C3C3C&\bord0\pos(1774.32,530)}意思是生日盛會
+Dialogue: 0,0:20:17.49,0:20:17.53,Sign,,0,0,0,,{\alpha&H00&\an8\fn@FZLanTingYuan-DB-GBK\frz270\fs50\fsp4\c&H3C3C3C&\bord0\pos(1738.68,530)}意思是生日盛會
+Dialogue: 0,0:20:17.53,0:20:17.57,Sign,,0,0,0,,{\alpha&H00&\an8\fn@FZLanTingYuan-DB-GBK\frz270\fs50\fsp4\c&H3C3C3C&\bord0\pos(1713.29,530)}意思是生日盛會
+Dialogue: 0,0:20:17.57,0:20:17.61,Sign,,0,0,0,,{\alpha&H00&\an8\fn@FZLanTingYuan-DB-GBK\frz270\fs50\fsp4\c&H3C3C3C&\bord0\pos(1697.32,530)}意思是生日盛會
+Dialogue: 0,0:20:17.61,0:20:20.49,Sign,,0,0,0,,{\alpha&H00&\an8\fn@FZLanTingYuan-DB-GBK\frz270\fs50\fsp4\c&H3C3C3C&\bord0\pos(1690,530)}意思是生日盛會
 Dialogue: 0,0:22:20.49,0:22:21.99,Sign,,0,0,0,,{\an2\move(1230,1064,1230,1074,0,200)\fad(200,0)\c&HBE9EF7&\fsp6\blur1\fnFZLanTingYuan-DB-GBK\fs50\bord3}下
 Dialogue: 0,0:22:20.70,0:22:21.99,Sign,,0,0,0,,{\an2\move(1279.09,1064,1279.09,1074,0,200)\fad(200,0)\c&H78ECF5&\fsp6\blur1\fnFZLanTingYuan-DB-GBK\fs50\bord3}集
 Dialogue: 0,0:22:20.82,0:22:21.99,Sign,,0,0,0,,{\an2\move(1328.18,1064,1328.18,1074,0,200)\fad(200,0)\c&HBFD76C&\fsp6\blur1\fnFZLanTingYuan-DB-GBK\fs50\bord3}再
 Dialogue: 0,0:22:20.95,0:22:21.99,Sign,,0,0,0,,{\an2\move(1377.27,1064,1377.27,1074,0,200)\fad(200,0)\c&HBE9EF7&\fsp6\blur1\fnFZLanTingYuan-DB-GBK\fs50\bord3}見
 Dialogue: 0,0:22:21.07,0:22:21.99,Sign,,0,0,0,,{\an2\move(1426.36,1064,1426.36,1074,0,200)\fad(200,0)\c&HBE9EF7&\fsp6\blur1\fnFZLanTingYuan-DB-GBK\fs50\bord3}…
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,Note
+Dialogue: 0,0:16:36.52,0:16:40.52,Note,,0,0,0,,{\fad(0,1000)\an7\bord0\pos(0,955)\p1\c&H000000&\1a&H5A&}m 15 15 l 810 15 810 110 15 110
+Dialogue: 1,0:16:36.52,0:16:40.52,Note,,0,0,0,,{\fad(0,1000)\pos(30,985)}※國立科學博物館的雙葉鈴木龍骨架模型
 Comment: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,~Dialogue CN~
 Dialogue: 9,0:00:01.77,0:00:03.48,Text - CN,,0,0,0,,眾所周知
 Dialogue: 9,0:00:03.48,0:00:07.99,Text - CN,,0,0,0,,不久後的 11 月 1 日是谷同學的生日…
@@ -968,7 +970,7 @@ Dialogue: 9,0:00:12.99,0:00:14.74,Text - CN,,0,0,0,,好糾結
 Dialogue: 9,0:00:14.74,0:00:16.50,Text - CN,,0,0,0,,別在這裡閒聊啊
 Dialogue: 9,0:00:16.50,0:00:20.63,Text - CN,,0,0,0,,谷同學最近有沒有表現出想要什麼東西的樣子？
 Dialogue: 9,0:00:20.63,0:00:21.63,Text - CN,,0,0,0,,不知道
-Dialogue: 9,0:00:21.63,0:00:23.50,Text - CN,,0,0,0,,這種事你自己去問他本人啊
+Dialogue: 9,0:00:21.63,0:00:23.50,Text - CN,,0,0,0,,這種事你去問他本人啊
 Dialogue: 9,0:00:23.50,0:00:26.63,Text - CN,,0,0,0,,山田 MAN 有收到過什麼令人開心的東西
 Dialogue: 9,0:00:23.50,0:00:26.63,Ruby,,0,0,0,,{\pos(960,965)}※「山田 MAN」亦是日本嘻哈音樂團體「Rappagariya」的成員
 Dialogue: 9,0:00:26.63,0:00:29.01,Text - CN,,0,0,0,,或是印象深刻的驚喜嗎？
@@ -1076,7 +1078,7 @@ Dialogue: 9,0:07:06.07,0:07:07.57,Text - CN,,0,0,0,,送你一個禮物吧
 Dialogue: 9,0:07:08.07,0:07:11.08,Text - CN,,0,0,0,,中午吃的麵包附贈的貼紙
 Dialogue: 9,0:07:11.37,0:07:13.96,Text - CN,,0,0,0,,欸  你怎麼一臉嫌棄？
 Dialogue: 9,0:07:13.96,0:07:15.29,Text - CN,,0,0,0,,不是
-Dialogue: 9,0:07:15.29,0:07:17.83,Text - CN,,0,0,0,,我的手弄髒了  待會再拿
+Dialogue: 9,0:07:15.29,0:07:17.83,Text - CN,,0,0,0,,我的手髒了  待會再拿
 Dialogue: 9,0:07:18.38,0:07:19.79,Text - CN,,0,0,0,,謝謝
 Dialogue: 9,0:07:23.55,0:07:24.47,Text - CN,,0,0,0,,啊
 Dialogue: 9,0:07:24.47,0:07:26.34,Text - CN,,0,0,0,,雪人貼紙
@@ -1166,7 +1168,7 @@ Dialogue: 9,0:12:31.11,0:12:32.23,Text - CN,,0,0,0,,可以
 Dialogue: 9,0:12:41.62,0:12:44.74,Text - CN,,0,0,0,,谷同學  給你  生日禮物
 Dialogue: 9,0:12:45.37,0:12:47.12,Text - CN,,0,0,0,,圍巾
 Dialogue: 9,0:12:47.12,0:12:50.00,Text - CN,,0,0,0,,雖然現在戴還有點早…
-Dialogue: 9,0:12:50.00,0:12:52.59,Text - CN,,0,0,0,,要是送穿便服才能穿戴的東西…
+Dialogue: 9,0:12:50.00,0:12:52.59,Text - CN,,0,0,0,,要是送穿便服才能穿戴的東西
 Dialogue: 9,0:12:52.59,0:12:55.13,Text - CN,,0,0,0,,我就沒什麼機會看到…
 Dialogue: 9,0:12:55.13,0:12:58.26,Text - CN,,0,0,0,,你要是能戴上這條圍巾
 Dialogue: 9,0:12:58.26,0:13:00.26,Text - CN,,0,0,0,,我會非常開心的！
@@ -1174,8 +1176,8 @@ Dialogue: 9,0:13:05.01,0:13:06.35,Text - CN,,0,0,0,,鈴木同學
 Dialogue: 9,0:13:06.35,0:13:07.10,Text - CN,,0,0,0,,欸？
 Dialogue: 9,0:13:13.36,0:13:14.44,Text - CN,,0,0,0,,咦？
 Dialogue: 9,0:13:14.44,0:13:16.78,Text - CN,,0,0,0,,這是…
-Dialogue: 9,0:13:17.40,0:13:19.40,Text - CN,,0,0,0,,要接吻的節奏？
-Dialogue: 9,0:13:17.40,0:13:19.40,Ruby,,0,0,0,,{\pos(960,965)}※下方的「沙鮻魚」在日語中和「接吻」諧音
+Dialogue: 9,0:13:17.40,0:13:19.57,Text - CN,,0,0,0,,要接吻的節奏？
+Dialogue: 9,0:13:17.40,0:13:19.57,Ruby,,0,0,0,,{\pos(960,965)}※下方的「沙鮻魚」在日語中與「接吻」諧音，玩彈珠機等中大獎時會有彩虹效果
 Dialogue: 9,0:13:22.74,0:13:24.28,Text - CN,,0,0,0,,謝謝你
 Dialogue: 9,0:13:24.78,0:13:27.16,Text - CN,,0,0,0,,我非常開心
 Dialogue: 9,0:13:38.67,0:13:41.30,Text - CN,,0,0,0,,啊… 嗯…
@@ -1200,9 +1202,9 @@ Dialogue: 9,0:14:48.99,0:14:52.87,Text - CN,,0,0,0,,難道說  我太被動了�
 Dialogue: 9,0:15:02.42,0:15:03.55,Text - CN,,0,0,0,,博！
 Dialogue: 9,0:15:03.80,0:15:05.05,Text - CN,,0,0,0,,物！
 Dialogue: 9,0:15:05.05,0:15:07.05,Text - CN,,0,0,0,,館！
-Dialogue: 9,0:15:07.05,0:15:10.06,Text - CN,,0,0,0,,上次來是小學遠足那次吧
+Dialogue: 9,0:15:07.05,0:15:10.06,Text - CN,,0,0,0,,上次來還是小學遠足吧
 Dialogue: 9,0:15:10.06,0:15:11.68,Text - CN,,0,0,0,,你經常來嗎？
-Dialogue: 9,0:15:11.68,0:15:14.69,Text - CN,,0,0,0,,並不  只是想起小時候愛來
+Dialogue: 9,0:15:11.68,0:15:14.69,Text - CN,,0,0,0,,不  只是想起小時候愛來
 Dialogue: 9,0:15:14.69,0:15:16.56,Text - CN,,0,0,0,,啊  看得出來
 Dialogue: 9,0:15:17.69,0:15:19.57,Text - CN,,0,0,0,,這是原因之一…
 Dialogue: 9,0:15:21.15,0:15:24.03,Text - CN,,0,0,0,,上映的電影普普通通
@@ -1224,7 +1226,7 @@ Dialogue: 9,0:16:24.17,0:16:25.72,Text - CN,,0,0,0,,嗯？為什麼？
 Dialogue: 9,0:16:25.72,0:16:28.01,Text - CN,,0,0,0,,你用不著道歉吧？
 Dialogue: 9,0:16:30.01,0:16:32.51,Text - CN,,0,0,0,,還沒看常設展覽呢
 Dialogue: 9,0:16:32.51,0:16:34.93,Text - CN,,0,0,0,,走  到處逛逛吧！
-Dialogue: 9,0:16:40.77,0:16:42.86,Text - CN,,0,0,0,,這邊容易參觀多了
+Dialogue: 9,0:16:40.77,0:16:42.86,Text - CN,,0,0,0,,這邊好參觀多了
 Dialogue: 9,0:16:42.86,0:16:45.53,Text - CN,,0,0,0,,{\fad(0,1000)}館內挺寬敞的
 Dialogue: 9,0:16:48.40,0:16:50.20,Text - CN,,0,0,0,,有埃米爾的那隻嗎？
 Comment: 9,0:16:48.40,0:16:50.20,Ruby,chs,0,0,0,,{\pos(960,965)}※指收錄進日本教材的短篇小說『追憶少年時』（赫爾曼·黑塞著）裡的天蠶蛾
@@ -1248,7 +1250,7 @@ Dialogue: 9,0:17:43.38,0:17:45.34,Text - CN,,0,0,0,,沒事  這也不能怪你
 Dialogue: 9,0:17:45.34,0:17:47.88,Text - CN,,0,0,0,,附近好像還有別的店
 Dialogue: 9,0:17:47.88,0:17:50.72,Text - CN,,0,0,0,,欸  你調查得也太仔細了
 Dialogue: 9,0:17:51.55,0:17:53.72,Text - CN,,0,0,0,,Oh…
-Dialogue: 9,0:17:53.72,0:17:57.47,Text - CN,,0,0,0,,如果是拉麵店  出餐會快一些
+Dialogue: 9,0:17:53.72,0:17:57.47,Text - CN,,0,0,0,,如果是拉麵店  出餐就快點了
 Dialogue: 9,0:17:57.47,0:17:59.68,Text - CN,,0,0,0,,怎麼辦… 排隊嗎？
 Dialogue: 9,0:18:01.85,0:18:03.23,Text - CN,,0,0,0,,去別家吧
 Dialogue: 9,0:18:03.23,0:18:04.23,Text - CN,,0,0,0,,嗯
@@ -1258,7 +1260,7 @@ Dialogue: 9,0:18:10.74,0:18:13.24,Text - CN,,0,0,0,,啊  發現平價飯！
 Dialogue: 9,0:18:16.62,0:18:19.75,Text - CN,,0,0,0,,太陽下山後還挺冷的
 Dialogue: 9,0:18:22.00,0:18:23.75,Text - CN,,0,0,0,,暖到心裡了
 Dialogue: 9,0:18:24.17,0:18:29.63,Text - CN,,700,0,0,,總感覺  我今天的計劃每個環節都在出問題
-Dialogue: 9,0:18:29.63,0:18:33.64,Text - CN,,700,0,0,,話說回來  我一直太依賴她了？
+Dialogue: 9,0:18:29.63,0:18:33.64,Text - CN,,700,0,0,,或者說  我一直太依賴她了？
 Dialogue: 9,0:18:33.64,0:18:36.26,Text - CN,,700,0,0,,鈴木同學  你有沒有走累？
 Dialogue: 9,0:18:36.26,0:18:37.51,Text - CN,,0,0,0,,走累了！
 Dialogue: 9,0:18:38.14,0:18:41.39,Text - CN,,0,0,0,,但是  走了很多路後吃飯格外香
@@ -1525,7 +1527,7 @@ Dialogue: 8,0:13:05.01,0:13:06.35,Text - JP,,0,0,0,,鈴木さん
 Dialogue: 8,0:13:06.35,0:13:07.10,Text - JP,,0,0,0,,へっ？
 Dialogue: 8,0:13:13.36,0:13:14.44,Text - JP,,0,0,0,,おや？
 Dialogue: 8,0:13:14.44,0:13:16.78,Text - JP,,0,0,0,,これは…
-Dialogue: 8,0:13:17.40,0:13:19.40,Text - JP,,0,0,0,,キス確では？
+Dialogue: 8,0:13:17.40,0:13:19.57,Text - JP,,0,0,0,,キス確では？
 Dialogue: 8,0:13:22.74,0:13:24.28,Text - JP,,0,0,0,,ありがとう
 Dialogue: 8,0:13:24.78,0:13:27.16,Text - JP,,0,0,0,,すごくうれしい
 Dialogue: 8,0:13:38.67,0:13:41.30,Text - JP,,0,0,0,,あぁ… へぁい…
