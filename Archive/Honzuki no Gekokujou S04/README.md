@@ -14,6 +14,7 @@
 | 03 | 领主的城堡与意大利餐厅 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Honzuki%20no%20Gekokujou%20S04/%5BSweetSub%5D%20Honzuki%20no%20Gekokujou%20S04%20-%2003.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Honzuki%20no%20Gekokujou%20S04/%5BSweetSub%5D%20Honzuki%20no%20Gekokujou%20S04%20-%2003.cht.ass) |
 | 04 | 募捐的方法 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Honzuki%20no%20Gekokujou%20S04/%5BSweetSub%5D%20Honzuki%20no%20Gekokujou%20S04%20-%2004.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Honzuki%20no%20Gekokujou%20S04/%5BSweetSub%5D%20Honzuki%20no%20Gekokujou%20S04%20-%2004.cht.ass) |
 | 05 | 演奏会的准备 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Honzuki%20no%20Gekokujou%20S04/%5BSweetSub%5D%20Honzuki%20no%20Gekokujou%20S04%20-%2005.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Honzuki%20no%20Gekokujou%20S04/%5BSweetSub%5D%20Honzuki%20no%20Gekokujou%20S04%20-%2005.cht.ass) |
+| 06 | 飞苏平琴演奏会 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Honzuki%20no%20Gekokujou%20S04/%5BSweetSub%5D%20Honzuki%20no%20Gekokujou%20S04%20-%2006.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Honzuki%20no%20Gekokujou%20S04/%5BSweetSub%5D%20Honzuki%20no%20Gekokujou%20S04%20-%2006.cht.ass) |
 
 </auto-generated-table>
 
