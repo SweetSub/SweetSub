@@ -15,6 +15,7 @@
 | 04 | 募捐的方法 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Honzuki%20no%20Gekokujou%20S04/%5BSweetSub%5D%20Honzuki%20no%20Gekokujou%20S04%20-%2004.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Honzuki%20no%20Gekokujou%20S04/%5BSweetSub%5D%20Honzuki%20no%20Gekokujou%20S04%20-%2004.cht.ass) |
 | 05 | 演奏会的准备 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Honzuki%20no%20Gekokujou%20S04/%5BSweetSub%5D%20Honzuki%20no%20Gekokujou%20S04%20-%2005.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Honzuki%20no%20Gekokujou%20S04/%5BSweetSub%5D%20Honzuki%20no%20Gekokujou%20S04%20-%2005.cht.ass) |
 | 06 | 飞苏平琴演奏会 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Honzuki%20no%20Gekokujou%20S04/%5BSweetSub%5D%20Honzuki%20no%20Gekokujou%20S04%20-%2006.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Honzuki%20no%20Gekokujou%20S04/%5BSweetSub%5D%20Honzuki%20no%20Gekokujou%20S04%20-%2006.cht.ass) |
+| 07 | 哈塞的小神殿 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Honzuki%20no%20Gekokujou%20S04/%5BSweetSub%5D%20Honzuki%20no%20Gekokujou%20S04%20-%2007.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Honzuki%20no%20Gekokujou%20S04/%5BSweetSub%5D%20Honzuki%20no%20Gekokujou%20S04%20-%2007.cht.ass) |
 
 </auto-generated-table>
 
