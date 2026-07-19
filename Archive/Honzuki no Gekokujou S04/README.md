@@ -21,6 +21,7 @@
 | 10 | 第一次采集素材 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Honzuki%20no%20Gekokujou%20S04/%5BSweetSub%5D%20Honzuki%20no%20Gekokujou%20S04%20-%2010.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Honzuki%20no%20Gekokujou%20S04/%5BSweetSub%5D%20Honzuki%20no%20Gekokujou%20S04%20-%2010.cht.ass) |
 | 11 | 谷登堡集结 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Honzuki%20no%20Gekokujou%20S04/%5BSweetSub%5D%20Honzuki%20no%20Gekokujou%20S04%20-%2011.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Honzuki%20no%20Gekokujou%20S04/%5BSweetSub%5D%20Honzuki%20no%20Gekokujou%20S04%20-%2011.cht.ass) |
 | 12 | 冬季社交界和初次亮相 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Honzuki%20no%20Gekokujou%20S04/%5BSweetSub%5D%20Honzuki%20no%20Gekokujou%20S04%20-%2012.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Honzuki%20no%20Gekokujou%20S04/%5BSweetSub%5D%20Honzuki%20no%20Gekokujou%20S04%20-%2012.cht.ass) |
+| 13 | 冬季素材采集 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Honzuki%20no%20Gekokujou%20S04/%5BSweetSub%5D%20Honzuki%20no%20Gekokujou%20S04%20-%2013.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Honzuki%20no%20Gekokujou%20S04/%5BSweetSub%5D%20Honzuki%20no%20Gekokujou%20S04%20-%2013.cht.ass) |
 
 </auto-generated-table>
 
