@@ -4,5 +4,8 @@
 | - | - | - | - |
 | 15 | 阴雨天 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Koori%20no%20Jouheki/%5BSweetSub%5D%20Koori%20no%20Jouheki%20-%2015.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Koori%20no%20Jouheki/%5BSweetSub%5D%20Koori%20no%20Jouheki%20-%2015.cht.ass) |
 | 16 | 停止与进行 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Koori%20no%20Jouheki/%5BSweetSub%5D%20Koori%20no%20Jouheki%20-%2016.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Koori%20no%20Jouheki/%5BSweetSub%5D%20Koori%20no%20Jouheki%20-%2016.cht.ass) |
+| 17 | 真实想法 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Koori%20no%20Jouheki/%5BSweetSub%5D%20Koori%20no%20Jouheki%20-%2017.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Koori%20no%20Jouheki/%5BSweetSub%5D%20Koori%20no%20Jouheki%20-%2017.cht.ass) |
+| 18 | 缓和 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Koori%20no%20Jouheki/%5BSweetSub%5D%20Koori%20no%20Jouheki%20-%2018.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Koori%20no%20Jouheki/%5BSweetSub%5D%20Koori%20no%20Jouheki%20-%2018.cht.ass) |
+| 19 | 变迁 | [简体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Koori%20no%20Jouheki/%5BSweetSub%5D%20Koori%20no%20Jouheki%20-%2019.chs.ass) | [繁体](https://raw.githubusercontent.com/SweetSub/SweetSub/master/Archive/Koori%20no%20Jouheki/%5BSweetSub%5D%20Koori%20no%20Jouheki%20-%2019.cht.ass) |
 
 </auto-generated-table>
